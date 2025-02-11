@@ -1,0 +1,738 @@
+{
+    "file": {
+        "CHANGELOG.md": [
+            {
+                "text": "template",
+                "url": "https://github.com/terra-campaigns/template",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://github.com/favicon.ico"
+            },
+            {
+                "text": "template",
+                "url": "https://github.com/terra-campaigns/template",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://github.com/favicon.ico"
+            },
+            {
+                "text": "https://github.com/terra-campaigns/template",
+                "url": "https://github.com/terra-campaigns/template",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://github.com/favicon.ico"
+            },
+            {
+                "text": "https://terra-campaigns.github.io/degenesis/",
+                "url": "https://terra-campaigns.github.io/degenesis/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Cairn",
+                "url": "https://cairnrpg.com/hacks/fork-this/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://cairnrpg.com/favicon.ico"
+            },
+            {
+                "text": "Terra System",
+                "url": "https://terra-campaigns.github.io/terraSystem/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "README.md": [
+            {
+                "text": "Testing your GitHub Pages site locally with Jekyll",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            },
+            {
+                "text": "instructions for macOS",
+                "url": "https://jekyllrb.com/docs/installation/macos/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://jekyllrb.com/favicon.ico"
+            },
+            {
+                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "_includes/srd_modules/hp.md": [
+            {
+                "text": "Healing & Recovery",
+                "url": "_includes/srd_modules/core-rules.md#Healing%20&%20Recovery",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scars",
+                "url": "_includes/srd_modules/core-rules.md#Scars",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_includes/srd_modules/core-rules.md#Healing%20&%20Recovery": [
+            {
+                "text": "Healing & Recovery",
+                "url": "_includes/srd_modules/hp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/core-rules.md#Scars": [
+            {
+                "text": "Scars",
+                "url": "_includes/srd_modules/hp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/conditions.md": [
+            {
+                "text": "Deprivation & Fatigue",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/#deprivation--fatigue",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "_includes/srd_modules/srd_version.md": [
+            {
+                "text": "CHANGELOG",
+                "url": "_includes/CHANGELOG",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cairn 2e",
+                "url": "https://cairnrpg.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://cairnrpg.com/favicon.ico"
+            },
+            {
+                "text": "Yochai Gal",
+                "url": "https://newschoolrevolution.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://newschoolrevolution.com/favicon.ico"
+            },
+            {
+                "text": "Mark of the Odd",
+                "url": "https://www.bastionland.com/2020/11/mark-of-odd-licence-and-srd.html",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.bastionland.com/favicon.ico"
+            },
+            {
+                "text": "Chris McDowall",
+                "url": "https://www.bastionland.com",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.bastionland.com/favicon.ico"
+            },
+            {
+                "text": "https://github.com/terra-campaigns/template",
+                "url": "https://github.com/terra-campaigns/template",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://github.com/favicon.ico"
+            },
+            {
+                "text": "CC-BY-SA 4.0",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0\\",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://creativecommons.org/favicon.ico"
+            }
+        ],
+        "_includes/CHANGELOG": [
+            {
+                "text": "CHANGELOG",
+                "url": "_includes/srd_modules/srd_version.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/npcs.md": [
+            {
+                "text": "Background",
+                "url": "_includes/srd_modules/#backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_includes/srd_modules/#backgrounds": [
+            {
+                "text": "Background",
+                "url": "_includes/srd_modules/npcs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Background",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/procedures.md": [
+            {
+                "text": "DUNGEON EXPLORATION",
+                "url": "_includes/srd_modules/#dungeon-exploration",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "WILDERNESS EXPLORATION",
+                "url": "_includes/srd_modules/#wilderness-exploration",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "DOWNTIME",
+                "url": "_includes/srd_modules/#downtime",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Reactions",
+                "url": "/second-edition/players-guide/core-rules/#reactions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Action**",
+                "url": "_includes/srd_modules/#wilderness-actions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/#wilderness-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "reactions",
+                "url": "/second-edition/players-guide/core-rules.md/#reactions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/#wilderness-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Make Camp**",
+                "url": "_includes/srd_modules/#make-camp",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_includes/srd_modules/#dungeon-exploration": [
+            {
+                "text": "DUNGEON EXPLORATION",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#wilderness-exploration": [
+            {
+                "text": "WILDERNESS EXPLORATION",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#downtime": [
+            {
+                "text": "DOWNTIME",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#dungeon-events": [
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "/second-edition/players-guide/core-rules/#reactions": [
+            {
+                "text": "Reactions",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#wilderness-actions": [
+            {
+                "text": "**Wilderness Action**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#wilderness-events": [
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "/second-edition/players-guide/core-rules.md/#reactions": [
+            {
+                "text": "reactions",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#make-camp": [
+            {
+                "text": "**Make Camp**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/combat.md": [
+            {
+                "text": "Scars",
+                "url": "_includes/srd_modules/#scars-table",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Liminal Horror",
+                "url": "https://liminalhorrorrpg.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://liminalhorrorrpg.com/favicon.ico"
+            },
+            {
+                "text": "CC-BY-SA 4.0",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://creativecommons.org/favicon.ico"
+            }
+        ],
+        "_includes/srd_modules/#scars-table": [
+            {
+                "text": "Scars",
+                "url": "_includes/srd_modules/combat.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/character-creation.md": [
+            {
+                "text": "Character Sheet",
+                "url": "https://raw.githubusercontent.com/terra-campaigns/template/refs/heads/main/systems/template_pc.md",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://raw.githubusercontent.com/favicon.ico"
+            },
+            {
+                "text": "Background",
+                "url": "_includes/srd_modules/#backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bond",
+                "url": "_includes/srd_modules/#bonds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Attribute",
+                "url": "_includes/srd_modules/#attributes",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hit Protection",
+                "url": "_includes/srd_modules/#hit-protection",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "pre-generated characters",
+                "url": "_includes/srd_modules/pregens",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_includes/srd_modules/#bonds": [
+            {
+                "text": "Bond",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#attributes": [
+            {
+                "text": "Attribute",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#hit-protection": [
+            {
+                "text": "Hit Protection",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/pregens": [
+            {
+                "text": "pre-generated characters",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Nikopol.md": [
+            {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "humanoid machines below the city",
+                "url": "directory/#lubos-workshop",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lubos",
+                "url": "people/FoundersBlessed/Lubos.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "2594-05-08",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/ProtectorateClique/Anastasia.md": [
+            {
+                "text": "Anastasia",
+                "url": "directory/Nikopol.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/#lubos-workshop": [
+            {
+                "text": "humanoid machines below the city",
+                "url": "directory/Nikopol.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/FoundersBlessed/Lubos.md": [
+            {
+                "text": "Lubos",
+                "url": "directory/Nikopol.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/InNikopol02.md": [
+            {
+                "text": "2594-05-08",
+                "url": "directory/Nikopol.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol on 2594-05-08",
+                "url": "directory/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/ProtectorateClique/index.md": [
+            {
+                "text": "Nikopol on 2594-05-08",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "directory/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "directory/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Spitalians",
+                "url": "systems/backgrounds/spitalians.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "directory/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anabaptists",
+                "url": "systems/backgrounds/anabaptists.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "directory/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cossacks",
+                "url": "systems/backgrounds/cossacks.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scrapers",
+                "url": "systems/backgrounds/scrapers.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/ProtectorateClique/ComPrimeKlaus.md": [
+            {
+                "text": "Commando Prime Klaus",
+                "url": "directory/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/ProtectorateClique/PurifierHarlem.md": [
+            {
+                "text": "Purifier Harlem",
+                "url": "directory/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/spitalians.md": [
+            {
+                "text": "Spitalians",
+                "url": "directory/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/ProtectorateClique/IsoldePax.md": [
+            {
+                "text": "Isolde Pax",
+                "url": "directory/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/anabaptists.md": [
+            {
+                "text": "Anabaptists",
+                "url": "directory/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/ProtectorateClique/Anastasia.md": [
+            {
+                "text": "Anastasia",
+                "url": "directory/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/cossacks.md": [
+            {
+                "text": "Cossacks",
+                "url": "directory/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/scrapers.md": [
+            {
+                "text": "Scrapers",
+                "url": "directory/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/README.md": [
+            {
+                "text": "Testing your GitHub Pages site locally with Jekyll",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            },
+            {
+                "text": "instructions for macOS",
+                "url": "https://jekyllrb.com/docs/installation/macos/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://jekyllrb.com/favicon.ico"
+            },
+            {
+                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "systems/pregens/index.md": [
+            {
+                "text": "Erasmus Kline",
+                "url": "systems/pregens/ErasmusKline.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Varvara Semyonich",
+                "url": "systems/pregens/VarvaraSemyonich.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/pregens/ErasmusKline.md": [
+            {
+                "text": "Erasmus Kline",
+                "url": "systems/pregens/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/pregens/VarvaraSemyonich.md": [
+            {
+                "text": "Varvara Semyonich",
+                "url": "systems/pregens/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/creatures/Gendos.md": [
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ]
+    }
+}
