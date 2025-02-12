@@ -1,3 +1,5 @@
-$red-deg: #d93933 !default;
+@import "./color_schemes/dark";
 
-$link-color: $red-deg;
+$accent: #82A69C !default;
+
+$link-color: $accent;

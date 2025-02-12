@@ -99,15 +99,6 @@
                 "direction": "inbound"
             }
         ],
-        "_includes/srd_modules/conditions.md": [
-            {
-                "text": "Deprivation & Fatigue",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/#deprivation--fatigue",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
         "_includes/srd_modules/srd_version.md": [
             {
                 "text": "CHANGELOG",
