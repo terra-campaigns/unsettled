@@ -1,8 +1,8 @@
-title: TEMPLATE
-description: A template for an RPG campaign Jeykll site using the Just the Docs theme.
+title: unsettled
+description: Are you unsettled?
 theme: just-the-docs
 
-url: https://terra-campaigns.github.io/template
+url: https://terra-campaigns.github.io/unsettled
 
 permalink: pretty
 plugins:
@@ -10,7 +10,7 @@ plugins:
   - jekyll-redirect-from
 
 aux_links:
-  Repository: https://github.com/terra-campaigns/template
+  Repository: https://github.com/terra-campaigns/unsettled
 
 favicon_ico: "/imgs/favicon.ico"
 
@@ -30,7 +30,7 @@ color_scheme: site
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/terra-campaigns/template" # the github URL for your repo
+gh_edit_repository: "https://github.com/terra-campaigns/unsettled" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
