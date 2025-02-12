@@ -684,34 +684,18 @@
                 "favicon": "https://jekyllrb.com/favicon.ico"
             },
             {
+                "text": "Dark Super Pastels",
+                "url": "https://www.pastelcolorpalettes.com/dark-super-pastels",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.pastelcolorpalettes.com/favicon.ico"
+            },
+            {
                 "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
                 "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.github.com/favicon.ico"
-            }
-        ],
-        "systems/index.md": [
-            {
-                "text": "website version",
-                "url": "https://cairnrpg.com/second-edition/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://cairnrpg.com/favicon.ico"
-            },
-            {
-                "text": "pdf version",
-                "url": "https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://drive.google.com/favicon.ico"
-            },
-            {
-                "text": "acquired at cost as POD",
-                "url": "https://cairnrpg.com/second-edition/print-copies/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://cairnrpg.com/favicon.ico"
             }
         ],
         "systems/pregens/index.md": [

@@ -1,35 +1,14 @@
 ---
 layout: default
 title: Systems
-has_children: true
+has_children: false
 has_toc: false
 nav_order: 99
-nav_exclude: TRUE
 
 ---
 
-{% include srd_modules/srd_version.md %}
+# Cairn 2e
 
-{% include srd_modules/character-creation.md %}
-
-{% include_relative bonds.md %}
-
-{% include srd_modules/attributes.md %}
-
-{% include srd_modules/hp.md %}
-
-{% include srd_modules/saves.md %}
-
-{% include srd_modules/healing.md %}
-
-{% include srd_modules/conditions.md %}
-
-{% include srd_modules/npcs.md %}
-
-{% include srd_modules/dieoffate.md %}
-
-{% include srd_modules/combat.md %}
-
-{% include srd_modules/scars.md %}
-
-{% include_relative ruin.md %}
+- ***unsettled*** uses **Cairn 2e** as the base rules.
+- **Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.
+- Extensions to the base rules, when needed, will be published on this website.
