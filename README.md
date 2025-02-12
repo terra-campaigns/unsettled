@@ -106,6 +106,10 @@ You're free to customize sites that you create with this template, however you l
 
 [Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
+## Colour palette
+
+[Dark Super Pastels](https://www.pastelcolorpalettes.com/dark-super-pastels)
+
 ## Contribute
 
 Feel free to suggest edits on any files on this repo through Pull Requests.
