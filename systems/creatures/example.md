@@ -2,6 +2,7 @@
 layout: default
 title: Example
 parent: Creatures
+type: creature
 
 hp: d6
 armour: 0

@@ -74,6 +74,22 @@
                 "favicon": "https://docs.github.com/favicon.ico"
             }
         ],
+        "index.md": [
+            {
+                "text": "Open Table",
+                "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.thearcanelibrary.com/favicon.ico"
+            },
+            {
+                "text": "Cairn 2e",
+                "url": "https://cairnrpg.com/second-edition/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://cairnrpg.com/favicon.ico"
+            }
+        ],
         "_includes/srd_modules/hp.md": [
             {
                 "text": "Healing & Recovery",

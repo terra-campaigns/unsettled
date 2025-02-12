@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Directory
-has_children: true
+has_children: false
 nav_order: 51
 has_toc: false
-nav_exclude: TRUE
 
 ---
 
 # Directory
 
-![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/5031x3579/fdaa067ccc/wp-36-desktop-5031x3579.jpg)
-
 ## People
+
+<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/people/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" frameBorder="0" allowfullscreen=""></iframe>
+
+
+{% comment %}
 
 <table style="width:100%">
   <tr>
@@ -48,7 +50,14 @@ nav_exclude: TRUE
   </tr>
 </table>
 
+{% endcomment %}
+
 ## Locations
+
+<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/vistas/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" frameBorder="0" allowfullscreen=""></iframe>
+
+
+{% comment %}
 
 <table style="width:100%">
   <tr>
@@ -63,3 +72,28 @@ nav_exclude: TRUE
     </td>
   </tr>
 </table>
+
+{% endcomment %}
+
+## Folklore
+
+<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/folklore/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" frameBorder="0" allowfullscreen=""></iframe>
+
+
+{% comment %}
+
+<table style="width:100%">
+  <tr>
+    <td align="left">
+    <p>
+    {% for my_page in site.pages %}
+        {% if my_page.type == 'creature' %}
+            <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a><br>
+        {% endif %}
+    {% endfor %}
+    </p>
+    </td>
+  </tr>
+</table>
+
+{% endcomment %}

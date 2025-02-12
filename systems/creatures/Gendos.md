@@ -3,6 +3,7 @@ template: npc v0.3.1
 layout: default
 title: Gendos
 parent: Creatures
+type: creature
 
 image: https://i.imgur.com/Bapfk9X.png
 

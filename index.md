@@ -6,7 +6,7 @@ nav_order: 1
 footer_content:
 ---
 
-# unsettled
+# **unsettled**
 
 ![](https://i.imgur.com/jrDqZJV.png)
 
@@ -22,7 +22,7 @@ For the audiophiles, *listen* to the **unsettled** playlist.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2PL9qS68ckXkKLzheF8YsB?utm_source=generator&theme=1" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-# Open Table
+## Open Table
 
 - **GMs:** OddCore (Nick) & efsa (Estêvão)
 - **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
