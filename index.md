@@ -14,7 +14,7 @@ Life follows the familiar rhythms - guild apprentices learn their trades, mercha
 
 ## Inspiration
 
-Scroll through and *see* the **unsettled** art board to have a feel for the world.
+Feel the world, *see* the **unsettled** art board.
 
 <iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="652" frameBorder="0" allowfullscreen=""></iframe>
 
@@ -23,6 +23,21 @@ For the audiophiles, *listen* to the **unsettled** playlist.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2PL9qS68ckXkKLzheF8YsB?utm_source=generator&theme=1" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Open Table
+
+- **GMs:** OddCore (Nick) & efsa (Estêvão)
+- **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
+- **Frequency**: Mostly every 4 days
+- **Time & Duration**: 1945 UTC for 2~3h
+- **Sign-up**: First come, first served - up 
+- **TTRPG system**: [Cairn 2e](https://cairnrpg.com/second-edition/)
+- **Genre**: Weird Fantasy
+- **VTT**: Theatre of the mind + Owlbear Rodeo
+- **Language**: English
+- **Communication**: Discord voice (video is optional)
+- **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression
+- **Notes**:
+  - Proactive engagement and are goal driven characters make the world shine brighter
+  - Downtime and some light conversations with characters may be done through PbP
 
 {% comment %}
 
