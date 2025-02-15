@@ -36,6 +36,7 @@ For the audiophiles, *listen* to the **unsettled** playlist.
 - **Communication**: Discord voice (video is optional)
 - **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression
 - **Notes**:
+  - If you don't have a character, see [Character Generation](systems/#character-generation).
   - Proactive engagement and goal driven characters make the world shine brighter
   - Downtime and some light conversations with characters may be done through PbP
 
