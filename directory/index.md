@@ -11,7 +11,7 @@ has_toc: false
 
 ## People
 
-<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/people/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" frameBorder="0" allowfullscreen=""></iframe>
+<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/people/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" style="color-scheme: site" frameBorder="0" allowfullscreen=""></iframe>
 
 
 {% comment %}
@@ -54,7 +54,7 @@ has_toc: false
 
 ## Locations
 
-<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/vistas/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" frameBorder="0" allowfullscreen=""></iframe>
+<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/vistas/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" style="color-scheme: site" frameBorder="0" allowfullscreen=""></iframe>
 
 
 {% comment %}
@@ -77,7 +77,7 @@ has_toc: false
 
 ## Folklore
 
-<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/folklore/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" frameBorder="0" allowfullscreen=""></iframe>
+<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/folklore/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" frameBorder="0" style="color-scheme: site" allowfullscreen=""></iframe>
 
 
 {% comment %}
