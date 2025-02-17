@@ -91,13 +91,13 @@
             },
             {
                 "text": "Character Generation",
-                "url": "systems/index/#character-generation",
+                "url": "systems/#character-generation",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "systems/index/#character-generation": [
+        "systems/#character-generation": [
             {
                 "text": "Character Generation",
                 "url": "index.md",
@@ -502,210 +502,43 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Nikopol.md": [
+        "_site/README.md": [
             {
-                "text": "Anastasia",
-                "url": "people/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
+                "text": "Testing your GitHub Pages site locally with Jekyll",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
+                "is_internal": false,
                 "direction": "outbound",
-                "favicon": null
+                "favicon": "https://docs.github.com/favicon.ico"
             },
             {
-                "text": "humanoid machines below the city",
-                "url": "directory/#lubos-workshop",
-                "is_internal": true,
+                "text": "instructions for macOS",
+                "url": "https://jekyllrb.com/docs/installation/macos/",
+                "is_internal": false,
                 "direction": "outbound",
-                "favicon": null
+                "favicon": "https://jekyllrb.com/favicon.ico"
             },
             {
-                "text": "Lubos",
-                "url": "people/FoundersBlessed/Lubos.md",
-                "is_internal": true,
+                "text": "Dark Super Pastels",
+                "url": "https://www.pastelcolorpalettes.com/dark-super-pastels",
+                "is_internal": false,
                 "direction": "outbound",
-                "favicon": null
+                "favicon": "https://www.pastelcolorpalettes.com/favicon.ico"
             },
             {
-                "text": "2594-05-08",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
+                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
+                "is_internal": false,
                 "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "people/ProtectorateClique/Anastasia.md": [
-            {
-                "text": "Anastasia",
-                "url": "directory/Nikopol.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/#lubos-workshop": [
-            {
-                "text": "humanoid machines below the city",
-                "url": "directory/Nikopol.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/FoundersBlessed/Lubos.md": [
-            {
-                "text": "Lubos",
-                "url": "directory/Nikopol.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/ConnectNikopol/InNikopol02.md": [
-            {
-                "text": "2594-05-08",
-                "url": "directory/Nikopol.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Nikopol on 2594-05-08",
-                "url": "directory/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/ProtectorateClique/index.md": [
-            {
-                "text": "Nikopol on 2594-05-08",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Commando Prime Klaus",
-                "url": "directory/ProtectorateClique/ComPrimeKlaus.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Purifier Harlem",
-                "url": "directory/ProtectorateClique/PurifierHarlem.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Spitalians",
-                "url": "systems/backgrounds/spitalians.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "directory/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anabaptists",
-                "url": "systems/backgrounds/anabaptists.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia",
-                "url": "directory/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Cossacks",
-                "url": "systems/backgrounds/cossacks.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Scrapers",
-                "url": "systems/backgrounds/scrapers.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "directory/ProtectorateClique/ComPrimeKlaus.md": [
-            {
-                "text": "Commando Prime Klaus",
-                "url": "directory/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/ProtectorateClique/PurifierHarlem.md": [
-            {
-                "text": "Purifier Harlem",
-                "url": "directory/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/spitalians.md": [
-            {
-                "text": "Spitalians",
-                "url": "directory/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/ProtectorateClique/IsoldePax.md": [
-            {
-                "text": "Isolde Pax",
-                "url": "directory/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/anabaptists.md": [
-            {
-                "text": "Anabaptists",
-                "url": "directory/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/ProtectorateClique/Anastasia.md": [
-            {
-                "text": "Anastasia",
-                "url": "directory/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/cossacks.md": [
-            {
-                "text": "Cossacks",
-                "url": "directory/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/scrapers.md": [
-            {
-                "text": "Scrapers",
-                "url": "directory/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
+                "favicon": "https://docs.github.com/favicon.ico"
             }
         ],
         "systems/index.md": [
             {
-                "text": "Kettlewright Tools",
-                "url": "https://kettlewright.com/tools/",
+                "text": "Dramatis Personae",
+                "url": "https://discord.com/channels/1060840338777964565/1340382334674927647",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://kettlewright.com/favicon.ico"
+                "favicon": "https://discord.com/favicon.ico"
             }
         ],
         "systems/pregens/index.md": [
