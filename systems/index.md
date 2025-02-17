@@ -15,6 +15,16 @@ nav_order: 99
 
 ## Character Generation
 
-- Head to <a href="https://kettlewright.com/tools/" target="_blank">Kettlewright Tools</a>. Click on the **Character Generator** tab and then on the **Dice** icon.
-- Click on the **Copy** button and paste it on the [Dramatis Personae](https://discord.com/channels/1060840338777964565/1340382334674927647) channel. Discard the *Omens* section.
+- Copy the character below and paste it on the [Dramatis Personae](https://discord.com/channels/1060840338777964565/1340382334674927647) channel.
+- Discard the *Omens* section.
 - You may adapt your *Description* and *Bonds* sections.
+
+---
+
+<div style="height:80vh; width:100%;">
+  <iframe
+    src="https://kettlewright.com/gen/character?darkmode=true"
+    style="border:none; width:100%; height:100%;"
+    allowfullscreen
+  ></iframe>
+</div>
