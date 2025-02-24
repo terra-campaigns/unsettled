@@ -10,7 +10,12 @@ footer_content:
 
 ![](https://i.imgur.com/jrDqZJV.png)
 
-Life follows the familiar rhythms - guild apprentices learn their trades, merchants track their ledgers, and peasants work their lords' fields. Yet as people venture beyond their home villages or city quarters, they notice the cracks in this ordinary façade. The bailiff collecting taxes might bear strange marks beneath his official seal, while the monastery's carefully maintained records include astronomical charts that seem to track stars that shouldn't exist. The feudal system functions as it always has, but some lords maintain their power through pacts with entities that dwell in the spaces between twilight and dawn, and cults' elaborate hierarchies balances doctrine with rituals inherited from far older faiths. What was once dismissed as grandmother's tales, reveals itself as truth hiding in plain sight. **Are you unsettled?**
+Life follows the familiar rhythms - guild apprentices learn their trades, merchants track their ledgers, and peasants work their lords' fields.
+Yet as people stray beyond their home villages or city quarters, they notice the cracks in this ordinary façade.
+The bailiff collecting taxes might bear strange marks beneath his official seal, while the monastery's carefully maintained records include astronomical charts that seem to track stars that shouldn't exist.
+Some lords maintain their power through pacts with entities that dwell in the spaces between twilight and dawn, and cults' elaborate hierarchies balances doctrine with rituals inherited from far older faiths.
+What was once dismissed as grandmother's tales, reveals itself as truth hiding in plain sight.
+**Are you unsettled?**
 
 ## Inspiration
 

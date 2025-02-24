@@ -2,12 +2,13 @@
 template: pc v0.3.1
 layout: default
 type: people
+nav_exclude: true
 
 title: Rushd Ibn Ubada
 archetype: You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill is a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it.
 role: Prowler, The Seeker
 parent: Sigisfarne
-statblock: true
+statblock: false
 
 image: https://i.imgur.com/QfyeMKK.png
 
