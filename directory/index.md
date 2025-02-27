@@ -34,7 +34,11 @@ has_toc: true
   </tr>
 </table>
 
+{% endcomment %}
+
 ## Factions
+
+<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/factions/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" style="color-scheme: site" frameBorder="0" allowfullscreen=""></iframe>
 
 <table style="width:100%">
   <tr>
@@ -50,14 +54,9 @@ has_toc: true
   </tr>
 </table>
 
-{% endcomment %}
-
 ## Locations
 
 <iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/vistas/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" style="color-scheme: site" frameBorder="0" allowfullscreen=""></iframe>
-
-
-{% comment %}
 
 <table style="width:100%">
   <tr>
@@ -72,8 +71,6 @@ has_toc: true
     </td>
   </tr>
 </table>
-
-{% endcomment %}
 
 ## Folklore
 

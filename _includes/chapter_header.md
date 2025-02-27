@@ -1,3 +1,3 @@
 # {{ page.title }}
 
-> {{ page.region}} - {{ page.timestamp | date: "%B %-d, %Y" }}
+> {{ page.region}} - {{ page.timestamp | date: "%B %-d" }}

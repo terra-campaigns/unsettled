@@ -42,4 +42,4 @@ gear:
 
 {% include statblock_pc.md %}
 
-
+- Old, broken back and a limp.

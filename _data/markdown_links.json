@@ -502,6 +502,35 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Sigisfarne/index.md": [
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/weepingMother.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/weepingMother.md": [
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "_site/README.md": [
             {
                 "text": "Testing your GitHub Pages site locally with Jekyll",
@@ -530,6 +559,22 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "campaigns/Book_01/ep_001.md": [
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "systems/index.md": [
