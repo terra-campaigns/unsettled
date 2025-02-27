@@ -43,3 +43,4 @@ gear:
 {% include statblock_pc.md %}
 
 - Old, broken back and a limp.
+- Believer of the [Church of the Weeping Mother](../weepingMother.md)
