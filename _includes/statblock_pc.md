@@ -49,7 +49,7 @@
 {% if page.details %}
 {% for sec in page.details %}
 | {{ sec }} {% endfor %} |
-{% endif %} | **Gear**: {% for sec in page.gear %} {{ sec }}, {% endfor %}
+{% endif %} {% if page.gear %} | **Gear**: {% for sec in page.gear %} {{ sec }}, {% endfor %} {% endif %}
 
 {% include connected_to.md %}
 {% endif %}
