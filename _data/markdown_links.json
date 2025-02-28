@@ -502,6 +502,41 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Sigisfarne/RushdIbnUbada.md": [
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/weepingMother.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "myselft",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/weepingMother.md": [
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/Sigisfarne/RushdIbnUbada.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Sigisfarne/index.md": [
             {
                 "text": "Church of the Weeping Mother",
@@ -512,20 +547,6 @@
             },
             {
                 "text": "Sigisfarne",
-                "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/weepingMother.md": [
-            {
-                "text": "Church of the Weeping Mother",
-                "url": "directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -639,14 +660,6 @@
         "directory/Sigisfarne/Flint.md": [
             {
                 "text": "Flint",
-                "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Sigisfarne/RushdIbnUbada.md": [
-            {
-                "text": "myselft",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
