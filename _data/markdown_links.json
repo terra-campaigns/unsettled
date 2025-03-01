@@ -76,6 +76,13 @@
         ],
         "index.md": [
             {
+                "text": "The Green Knight (2021 film)",
+                "url": "https://www.imdb.com/title/tt9243804/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.imdb.com/favicon.ico"
+            },
+            {
                 "text": "Open Table",
                 "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
                 "is_internal": false,

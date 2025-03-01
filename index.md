@@ -27,6 +27,10 @@ For the audiophiles, *listen* to the **unsettled** playlist.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2PL9qS68ckXkKLzheF8YsB?utm_source=generator&theme=1" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+### Appendix N
+
+- [The Green Knight (2021 film)](https://www.imdb.com/title/tt9243804/)
+
 ## Open Table
 
 - **GMs:** OddCore (Nick) & efsa (Estêvão)
@@ -45,8 +49,4 @@ For the audiophiles, *listen* to the **unsettled** playlist.
   - Proactive engagement and goal driven characters make the world shine brighter
   - Downtime and some light conversations with characters may be done through PbP
 
-{% comment %}
-
 {% include prefooter_campaign.html %}
-
-{% endcomment %}
