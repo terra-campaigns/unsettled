@@ -20,8 +20,11 @@ hp:
 armour: 
 
 details:
-- "**Appearance**: You have a Athletic Physique, Rosy Skin, and Curly Hair. Your Face is Elongated, your Speech Squeaky. You have Soiled Clothing. You are Humble and Craven. You are 44 years old."
+- "**Appearance**: You have a Athletic Physique, Rosy Skin, and Curly Hair. Your Face is Elongated. You have Soiled Clothing. You are Humble and Craven. You are 44 years old."
 
 ---
 
 {% include statblock_pc.md %}
+
+- Not of courage
+- Scared of the unknown
