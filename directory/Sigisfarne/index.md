@@ -19,6 +19,9 @@ type: location
 - Built on, around and in the ruins of a past civilisation, with ancient architectural modes that are different than what we use in the village now. These structures were put together by talented artifices.
 - There is a crown of the kingdom, to who we pay taxes.
 
+<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/sigisfarne/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" style="color-scheme: site" frameBorder="0" allowfullscreen=""></iframe>
+
+
 ## Ruined Church
 
 - Central freestanding ruin looks like an ancient church. It has never been claimed by the village, and sits mostly abandoned, with its iron gate barred.
