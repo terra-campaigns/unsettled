@@ -605,6 +605,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/Sigisfarne/Razvan.md": [
@@ -617,6 +624,14 @@
             {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/index.md": [
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
