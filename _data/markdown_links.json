@@ -112,6 +112,15 @@
                 "direction": "inbound"
             }
         ],
+        "inklings.md": [
+            {
+                "text": "Queensweald",
+                "url": "https://i.pinimg.com/736x/08/a9/cc/08a9ccc69e42f672b26db02349ccf1a9.jpg",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://i.pinimg.com/favicon.ico"
+            }
+        ],
         "_includes/srd_modules/hp.md": [
             {
                 "text": "Healing & Recovery",
@@ -589,6 +598,29 @@
                 "favicon": "https://docs.github.com/favicon.ico"
             }
         ],
+        "campaigns/Book_01/ep_002.md": [
+            {
+                "text": "Razzie",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Razvan.md": [
+            {
+                "text": "Razzie",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/Book_01/ep_001.md": [
             {
                 "text": "Sigisfarne",
@@ -638,14 +670,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Sigisfarne/Razvan.md": [
-            {
-                "text": "Razzy",
-                "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/Adair.md": [
