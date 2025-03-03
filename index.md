@@ -35,7 +35,7 @@ For the audiophiles, *listen* to the **unsettled** playlist.
 
 - **GMs:** OddCore (Nick) & efsa (Estêvão)
 - **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
-- **Frequency**: Mostly every 4 days
+- **Frequency**: Every 4 days (every 3 days from April onwards) - sessions announced 20 days before
 - **Time & Duration**: 1945 UTC for 2~3h
 - **Sign-up**: First come, first served - up to 5 players
 - **TTRPG system**: [Cairn 2e](https://cairnrpg.com/second-edition/)

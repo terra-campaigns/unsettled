@@ -13,9 +13,6 @@ has_toc: true
 
 <iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/people/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" style="color-scheme: site" frameBorder="0" allowfullscreen=""></iframe>
 
-
-{% comment %}
-
 <table style="width:100%">
   <tr>
     <td align="left">
@@ -33,8 +30,6 @@ has_toc: true
     </td>
   </tr>
 </table>
-
-{% endcomment %}
 
 ## Factions
 
