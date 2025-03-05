@@ -1,13 +1,15 @@
 ---
 layout: default
+template: loc v0.3
 title: Sigisfarne
+role: Grassland Village
 parent: Directory
 has_children: true
 type: location
 
 ---
 
-# {{ page.title }}
+{% include statblock_loc.md %}
 
 {% comment %} 
 - Part of the Kingdom of xxx

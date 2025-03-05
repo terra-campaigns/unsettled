@@ -1,13 +1,15 @@
 ---
 layout: default
+template: loc v0.3
 title: Duskmeadow Fringe
+role: Grasslands to Forest, transitional region
 parent: Directory
 has_children: true
 type: location
 
 ---
 
-# {{ page.title }}
+{% include statblock_loc.md %}
 
 {% comment %} 
 
@@ -25,7 +27,7 @@ type: location
 
 ## Hunter cabin
 
-- Well maintained, clearn.
+- Well maintained, clean.
 - Dried meets
 
 ## The Quarry

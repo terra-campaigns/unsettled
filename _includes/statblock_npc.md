@@ -25,6 +25,7 @@
 
 {% if page.template == "npc v0.3.1" %}
 
+{% include connected_to.md %}
 # {{ page.title }}
 
 {% if page.role %}
@@ -42,7 +43,5 @@
 {% if page.image %}
 ![]({{ page.image }})
 {% endif %}
-
-{% include connected_to.md %}
 
 {% endif %}

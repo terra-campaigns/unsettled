@@ -27,6 +27,7 @@
 
 {% if page.template == "pc v0.3.1" %}
 
+{% include connected_to.md %}
 # {{ page.title }}
 
 {% if page.role %}
@@ -51,5 +52,4 @@
 | {{ sec }} {% endfor %} |
 {% endif %} {% if page.gear %} | **Gear**: {% for sec in page.gear %} {{ sec }}, {% endfor %} {% endif %}
 
-{% include connected_to.md %}
 {% endif %}
