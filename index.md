@@ -13,28 +13,29 @@ footer_content:
 People settle in towns and cities and bring order to their lives and their surroundings.
 Strict hierarchy and rules apply.
 
-This pleases **Law**.
+This pleases ***Law***.
 
 The dark places spread and fold and coil unto themselves like an ever growing virus.
 They enact their will and make the impermanent.
 
-This pleases **Chaos**.
+This pleases ***Chaos***.
 
-**Law** and **Chaos** hate each other destructively.
+***Law*** and ***Chaos*** hate each other destructively.
 They can only act on their hate through their acolytes.
 
 You led a normal life.
 But not anymore.
 
-Now you are **unsettled**.
+You are now ***unsettled***.
 
+---
 ## Inspiration
 
-Feel the world, *see* the **unsettled** art board.
+*Smell* the world, *see* the ***unsettled*** art board.
 
 <iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="652" frameBorder="0" style="color-scheme: site" allowfullscreen=""></iframe>
 
-For the audiophiles, *listen* to the **unsettled** playlist.
+*Feel* the world, *listen* to the ***unsettled*** playlist.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2PL9qS68ckXkKLzheF8YsB?utm_source=generator&theme=1" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -42,6 +43,9 @@ For the audiophiles, *listen* to the **unsettled** playlist.
 
 - [The Green Knight (2021 film)](https://www.imdb.com/title/tt9243804/)
 
+{% include prefooter_campaign.html %}
+
+---
 ## Open Table
 
 - **GMs:** OddCore (Nick) & efsa (Estêvão)
@@ -59,5 +63,3 @@ For the audiophiles, *listen* to the **unsettled** playlist.
   - If you don't have a character, see [Character Generation](systems/#character-generation).
   - Proactive engagement and goal driven characters make the world shine brighter
   - Downtime and some light conversations with characters may be done through PbP
-
-{% include prefooter_campaign.html %}
