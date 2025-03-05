@@ -662,6 +662,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "tall skeletal figure",
+                "url": "directory/DuskmeadowFringe/TheHunger.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/Sigisfarne/Razvan.md": [
@@ -689,6 +696,14 @@
         "directory/DuskmeadowFringe/index.md": [
             {
                 "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/TheHunger.md": [
+            {
+                "text": "tall skeletal figure",
                 "url": "campaigns/Book_01/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
