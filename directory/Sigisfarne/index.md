@@ -37,5 +37,3 @@ type: location
 - Downstairs there are 4 tunnels: bread, crown, teardrop and halo. Smell of decay and moist. 
 - Tunnel of the **Crown**: five stone coffins, four violated, with sculpture of kings, in weird ornaments. One of them holds a regalia that looks from the Church of the Weeping Mother.  
 - Tunnel of the **Halo**: freestanding coffins, open. Figures look religious, from the Church of the Weeping Mother.
-
-{% include connected_to.md %}

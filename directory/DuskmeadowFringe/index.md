@@ -33,5 +33,3 @@ type: location
 ## The Quarry
 
 - Veins of thin red powdered ore.
-
-{% include connected_to.md %}
