@@ -1,7 +1,7 @@
 ---
 template: npc v0.3.1
 layout: default
-type: monster
+type: creature
 nav_exclude: false
 
 title: Giant Skelleton
