@@ -10,22 +10,21 @@ footer_content:
 
 ![](https://i.imgur.com/jrDqZJV.png)
 
-People settle in towns and cities and bring order to their lives and their surroundings.
+People settle in towns and cities.
+They bring order to their lives and surroundings.
 Strict hierarchy and rules apply.
-
 This pleases ***Law***.
 
-The dark places spread and fold and coil unto themselves like an ever growing virus.
-They enact their will and make the impermanent.
-
+Dark places spread and fold and coil unto themselves.
+Like an ever growing virus.
+They make the impermanent.
 This pleases ***Chaos***.
 
 ***Law*** and ***Chaos*** hate each other destructively.
 They can only act on their hate through their acolytes.
 
 You led a normal life.
-But not anymore.
-
+Not anymore.
 You are now ***unsettled***.
 
 ---
@@ -50,16 +49,16 @@ You are now ***unsettled***.
 
 - **GMs:** OddCore (Nick) & efsa (Estêvão)
 - **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
-- **Frequency**: Every 4 days (every 3 days from April onwards) - sessions announced 20 days before
-- **Time & Duration**: 1945 UTC for 2~3h
-- **Sign-up**: First come, first served - up to 5 players
+- **Frequency**: Every 4 days (every 3 days from April onwards), sessions announced 20 days before.
+- **Time & Duration**: 1945 UTC for 2~3h.
+- **Sign-up**: First come, first served - up to 5 players.
 - **TTRPG system**: [Cairn 2e](https://cairnrpg.com/second-edition/)
 - **Genre**: Weird Fantasy
 - **VTT**: Theatre of the mind + Owlbear Rodeo
 - **Language**: English
 - **Communication**: Discord voice (video is optional)
-- **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression
+- **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression.
 - **Notes**:
   - If you don't have a character, see [Character Generation](systems/#character-generation).
-  - Proactive engagement and goal driven characters make the world shine brighter
-  - Downtime and some light conversations with characters may be done through PbP
+  - Proactive engagement and goal driven characters make the world shine brighter.
+  - Downtime and some light conversations with characters may be done through PbP.
