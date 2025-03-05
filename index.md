@@ -10,12 +10,23 @@ footer_content:
 
 ![](https://i.imgur.com/jrDqZJV.png)
 
-Life follows the familiar rhythms - guild apprentices learn their trades, merchants track their ledgers, and peasants work their lords' fields.
-Yet as people stray beyond their home villages or city quarters, they notice the cracks in this ordinary façade.
-The bailiff collecting taxes might bear strange marks beneath his official seal, while the monastery's carefully maintained records include astronomical charts that seem to track stars that shouldn't exist.
-Some lords maintain their power through pacts with entities that dwell in the spaces between twilight and dawn, and cults' elaborate hierarchies balances doctrine with rituals inherited from far older faiths.
-What was once dismissed as grandmother's tales, reveals itself as truth hiding in plain sight.
-**Are you unsettled?**
+People settle in towns and cities and bring order to their lives and their surroundings.
+Strict hierarchy and rules apply.
+
+This pleases **Law**.
+
+The dark places spread and fold and coil unto themselves like an ever growing virus.
+They enact their will and make the impermanent.
+
+This pleases **Chaos**.
+
+**Law** and **Chaos** hate each other destructively.
+They can only act on their hate through their acolytes.
+
+You led a normal life.
+But not anymore.
+
+Now you are **unsettled**.
 
 ## Inspiration
 
