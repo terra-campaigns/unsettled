@@ -10,7 +10,7 @@ footer_content:
 
 ![](https://i.imgur.com/jrDqZJV.png)
 
-People settle in towns and cities.
+People settle in villages and towns.
 They bring order to their lives and surroundings.
 Strict hierarchy and rules apply.
 This pleases ***Law***.
