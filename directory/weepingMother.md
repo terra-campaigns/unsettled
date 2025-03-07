@@ -1,22 +1,20 @@
 ---
-template: 
 layout: default
+template: 0.4
 type: faction
 nav_exclude: false
+has_children: false
 
-title: Church of the Weeping Mother
-archetype: 
-role: 
 parent: Directory
-statblock: false
+title: Church of the Weeping Mother
+role: Imperial Faith
+flavour: 
 
 image: 
 
-details:
-
 ---
 
-# {{ page.title }}
+{% include header_directories.md %}
 
 {% comment %} 
 
@@ -25,5 +23,3 @@ details:
 <iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/weepingmother/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" style="color-scheme: site" frameBorder="0" allowfullscreen=""></iframe>
 
 - Symbols: red teardrop, young mother’s face, with two straight lines as her tears
-
-{% include connected_to.md %}

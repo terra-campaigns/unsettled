@@ -1,24 +1,25 @@
 ---
 layout: default
-template: loc v0.3
+template: 0.4
+type: location
+nav_exclude: false
+has_children: true
+
+parent: Directory
 title: Duskmeadow Fringe
 role: Grasslands to Forest, transitional region
-parent: Directory
-has_children: true
-type: location
+status: 
+flavour: Area between the vast grasslands to the west and the weirdness of the eastern forest. Home to a Skeleton Giant, poisonous Aveva spores & pumas.
 
 ---
 
-{% include statblock_loc.md %}
+{% include header_directories.md %}
 
 {% comment %} 
 
 {% endcomment %} 
 
 <iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/duskmeadowfringe/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" style="color-scheme: site" frameBorder="0" allowfullscreen=""></iframe>
-
-- Area between the vast grasslands to the west and the weirdness of the eastern forest.
-- Watch out of the Skeleton Giant, poisonous spores & pumas.
 
 ## Rabbit's Inn
 

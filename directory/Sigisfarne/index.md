@@ -1,15 +1,21 @@
 ---
 layout: default
-template: loc v0.3
+template: 0.4
+type: location
+nav_exclude: false
+has_children: true
+
+parent: Directory
 title: Sigisfarne
 role: Grassland Village
-parent: Directory
-has_children: true
-type: location
+status: 
+flavour: 
+
+image: 
 
 ---
 
-{% include statblock_loc.md %}
+{% include header_directories.md %}
 
 {% comment %} 
 - Part of the Kingdom of xxx

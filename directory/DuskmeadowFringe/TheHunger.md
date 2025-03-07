@@ -1,29 +1,29 @@
 ---
-template: npc v0.3.1
 layout: default
+template: 0.4
 type: creature
 nav_exclude: false
 
-title: Giant Skelleton
-archetype: A tall and sickly pale figure with long teeth and claws.
-role: Folk Horror
 parent: Duskmeadow Fringe
-statblock: false
+title: Giant Skelleton
+role: Folk Horror
+status:
+flavour: A tall and sickly pale figure with long teeth and claws.
 
 image: https://i.imgur.com/ZBTBM5p.png
 
+statblock: false
 hp: 15
 armour: 0
 str: 16
 dex: 12
 wil: 12
 at: Bites and claws (d12+d12)
-
 details:
 
 ---
 
-{% include statblock_npc.md %}
+{% include header_directories.md %}
 
 {% comment %}
 
