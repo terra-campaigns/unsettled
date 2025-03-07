@@ -4,7 +4,7 @@ layout: default
 type: people
 nav_exclude: false
 
-title: Razvan (Rizzy)
+title: Razvan (Razzy)
 flavour: Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
 role: Half Witch
 parent: Sigisfarne

@@ -34,7 +34,7 @@ image:
 
 - Central freestanding ruin looks like an ancient church. It has never been claimed by the village, and sits mostly abandoned, with its iron gate barred.
 - The place has been closed for many generations, despite being in the middle of the village. Many say it is older than the village, which is already ancient.
-- Broken stone floor, an altar with symbols of our own religion, the [Church of the Weeping Mother](../weepingMother.md).
+- Broken stone floor, an altar with symbols of our own religion, the [Church of the Weeping Mother](../weepingMother/index.md).
 - Decrepit furniture with runic scratching, and a scaffolding in one of the sides of the building.
 - Bell tower, bell lays in the floor, where raptors made a nest. Staircases up are very worn.
 
