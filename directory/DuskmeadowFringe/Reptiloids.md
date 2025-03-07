@@ -8,7 +8,7 @@ parent: Duskmeadow Fringe
 title: Reptiloids
 role: Lizard-like beings
 status:
-flavour: Degenerate mongrels of a once-proud race
+flavour: 
 
 image: https://i.imgur.com/D6jbivt.png
 
@@ -27,6 +27,8 @@ details:
 {% include header_directories.md %}
 
 {% comment %}
+
+Degenerate mongrels of a once-proud race
 
 ![](https://i.imgur.com/4TuXbkG.jpeg)
 
