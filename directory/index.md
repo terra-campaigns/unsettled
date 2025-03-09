@@ -3,7 +3,7 @@ layout: default
 title: Directory
 has_children: true
 nav_order: 51
-has_toc: true
+has_toc: false
 
 ---
 
