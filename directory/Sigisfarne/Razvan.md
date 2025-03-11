@@ -28,3 +28,4 @@ details:
 - **Appearance**: You have a Athletic Physique, Rosy Skin, and Curly Hair. Your Face is Elongated. You have Soiled Clothing. You are Humble and Craven. You are 44 years old.
 - Not of courage
 - Scared of the unknown
+- Forages medicinal herbs and making potions

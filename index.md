@@ -49,9 +49,9 @@ You are now ***unsettled***.
 
 - **GMs:** OddCore (Nick) & efsa (Estêvão)
 - **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
-- **Frequency**: Every 4 days (every 3 days from April onwards), sessions announced 20 days before.
-- **Time & Duration**: 1945 UTC for 2~3h.
-- **Sign-up**: First come, first served - up to 5 players.
+- **Frequency**: Every 4 days (announced 3 weeks ahead).
+- **Time & Duration**: 1945 UTC for 2~3h
+- **Sign-up**: First come first served, 2 to 5 players
 - **TTRPG system**: [Cairn 2e](https://cairnrpg.com/second-edition/)
 - **Genre**: Weird Fantasy
 - **VTT**: Theatre of the mind + Owlbear Rodeo

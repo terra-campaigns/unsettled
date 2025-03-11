@@ -114,11 +114,199 @@
         ],
         "inklings.md": [
             {
-                "text": "Queensweald",
+                "text": " ] [Queensweald",
                 "url": "https://i.pinimg.com/736x/08/a9/cc/08a9ccc69e42f672b26db02349ccf1a9.jpg",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://i.pinimg.com/favicon.ico"
+            }
+        ],
+        "directory/DuskmeadowFringe/index.md": [
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "March 2025",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "March 2025",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/index.md": [
+            {
+                "text": "Sigisfarne",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_002.md": [
+            {
+                "text": "March 2025",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Drake",
+                "url": "directory/Sigisfarne/Drake.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzie",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hilda",
+                "url": "directory/Sigisfarne/Hilda.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Stone",
+                "url": "directory/Sigisfarne/Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "tall skeletal figure",
+                "url": "directory/DuskmeadowFringe/TheHunger.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/Book_01/ep_004.md": [
+            {
+                "text": "March 2025",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hilda",
+                "url": "directory/Sigisfarne/Hilda.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mateus",
+                "url": "directory/Sigisfarne/Mateus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "I",
+                "url": "directory/Sigisfarne/Cai.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "humanoids",
+                "url": "directory/DuskmeadowFringe/PitRodents.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/Sigisfarne/Drake.md": [
@@ -197,29 +385,49 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Sigisfarne/index.md": [
+        "directory/Sigisfarne/Yewtree.md": [
             {
-                "text": "Church of the Weeping Mother",
-                "url": "directory/weepingMother/index.md",
+                "text": "Cai",
+                "url": "directory/Sigisfarne/Cai.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Sigisfarne",
+                "text": "Yewtree",
                 "url": "campaigns/Book_01/ep_003.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Sigisfarne",
-                "url": "campaigns/Book_01/ep_002.md",
+                "text": "Yewtree",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/Cai.md": [
+            {
+                "text": "Cai",
+                "url": "directory/Sigisfarne/Yewtree.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Sigisfarne",
+                "text": "Cai",
+                "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "grieving mother",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "I",
+                "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -312,20 +520,6 @@
                 "favicon": null
             }
         ],
-        "directory/Sigisfarne/Yewtree.md": [
-            {
-                "text": "Yewtree",
-                "url": "campaigns/Book_01/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Yewtree",
-                "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/Sigisfarne/Razvan.md": [
             {
                 "text": "Razzy",
@@ -344,6 +538,12 @@
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/Mateus.md": [
@@ -352,18 +552,10 @@
                 "url": "campaigns/Book_01/ep_003.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "directory/Sigisfarne/Cai.md": [
-            {
-                "text": "Cai",
-                "url": "campaigns/Book_01/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
             },
             {
-                "text": "grieving mother",
-                "url": "campaigns/Book_01/ep_001.md",
+                "text": "Mateus",
+                "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -376,69 +568,16 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/Book_01/ep_002.md": [
-            {
-                "text": "Drake",
-                "url": "directory/Sigisfarne/Drake.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Razzie",
-                "url": "directory/Sigisfarne/Razvan.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Hilda",
-                "url": "directory/Sigisfarne/Hilda.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Stone",
-                "url": "directory/Sigisfarne/Stone.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sigisfarne",
-                "url": "directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Duskmeadow Fringe",
-                "url": "directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "tall skeletal figure",
-                "url": "directory/DuskmeadowFringe/TheHunger.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
         "directory/Sigisfarne/Hilda.md": [
             {
                 "text": "Hilda",
                 "url": "campaigns/Book_01/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "directory/DuskmeadowFringe/index.md": [
+            },
             {
-                "text": "Duskmeadow Fringe",
-                "url": "campaigns/Book_01/ep_002.md",
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -521,6 +660,14 @@
             {
                 "text": "Flint",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/PitRodents.md": [
+            {
+                "text": "humanoids",
+                "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

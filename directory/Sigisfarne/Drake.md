@@ -17,4 +17,6 @@ details:
 
 - **Appearance**: You have a Statuesque Physique, Dirty Skin, and No Hair. Your Face is Bony, your Speech Formal. You have Dirty Clothing. You are Disciplined and Aggressive. You are 29 years old.
 - Might have done something bad in the past.
+- Escorting caravans or tracking fugitives. Takes job on to use his blade and horse.
+- He has respect for the dead.
 - Has worked with [Stone](Stone.md) in the past.
