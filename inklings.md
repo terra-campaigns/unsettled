@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] Huntsman manor rumours on the hunters lodge close to the quary
 - [ ] Scatter inns in crossroads and minsters.
 - [ ] 2 wine boxes worth 30gp each ready on the 6th april
+- [ ] Vendetta from the mole-man: https://terra-campaigns.github.io/unsettled/campaigns/Book_01/ep_004/
 
 
 
