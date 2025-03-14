@@ -10,7 +10,7 @@ role: Humanoid Rodents
 status:
 flavour: 
 
-image: 
+image: https://i.imgur.com/jC7vICE.jpeg
 
 statblock: false
 hp: 

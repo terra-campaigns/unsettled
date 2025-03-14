@@ -303,7 +303,7 @@
             },
             {
                 "text": "humanoids",
-                "url": "directory/DuskmeadowFringe/PitRodents.md",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -664,7 +664,7 @@
                 "direction": "inbound"
             }
         ],
-        "directory/DuskmeadowFringe/PitRodents.md": [
+        "directory/DuskmeadowFringe/PiotChant.md": [
             {
                 "text": "humanoids",
                 "url": "campaigns/Book_01/ep_004.md",
