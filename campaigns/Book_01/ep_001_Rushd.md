@@ -1,17 +1,3 @@
----
-layout: default
-type: session
-title: The Forgotten Sanctuary
-parent: Book I
-nav_order: 21
-timestamp: 2025-02-26
-narration: [Rushd]
-region: Sigisfarne
-
----
-
-{% include header_chapter.md %}
-
 ## The ruined church
 
 A teenager had wandered where children ought not. Young Clive, emboldened by the cruel games youth play, had crossed the threshold of the abandoned church that stands abandoned in [Sigisfarne](../../directory/Sigisfarne/index.md)'s heart. A structure older than memory, they say, its stones laid before our ancestors claimed this land as home.
@@ -24,12 +10,7 @@ We found passage through a jagged hole in the wall. I traced my fingers along th
 
 Within, the church whispered of abandonment. The stone floor, fractured like a frozen lake I saw years ago, led to an altar bearing the familiar symbols of the [Weeping Mother](../../directory/weepingMother/index.md). I found myself wondering why our priests shunned this place, why they built anew rather than reclaim what stood before them. Some questions are best left as questions.
 
-![](https://i.imgur.com/hlie0p4.png)
-
 Decrepit desks bore strange carvings, runic patterns etched by desperate hands. Were they prayers or warnings? In the corner stood a scaffolding, its purpose unclear, as if someone had once attempted restoration only to flee before completion. Razzie found a silvery feather, that now adorns her hair. It looks good on her.
-
-![](https://i.imgur.com/A4IQL0I.png)
-
 
 By the sturdy wooden door Flint discovered a ring with three keys, their metal blackened with age. They turned with reluctant surrender in the locks of the wooden door and iron gate, as if Flint had awakened them from a long slumber.
 
@@ -48,5 +29,3 @@ In the tunnel of the halo, freestanding coffins stood open like hungry mouths. T
 I cannot say what ancient sin caused our village to turn its back on this sanctuary, nor why the Church of the Weeping Mother refuses to reclaim what was clearly once theirs. But as Yewtree carried the boy's body back to his [grieving mother](../../directory/Sigisfarne/Cai.md), I felt the weight of those stone walls watching our departure.
 
 It always ends with Yewtree's work, poor lad.
-
-![](https://i.imgur.com/kvu7CYJ.png)
