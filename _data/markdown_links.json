@@ -130,8 +130,22 @@
                 "favicon": null
             },
             {
+                "text": "some think",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "March 2025",
                 "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "mining rubies",
+                "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -144,8 +158,21 @@
                 "favicon": null
             },
             {
+                "text": "March 2025",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Duskmeadow Fringe",
                 "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -193,6 +220,68 @@
                 "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_005.md": [
+            {
+                "text": "some think",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "mining rubies",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "March 2025",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mateus",
+                "url": "directory/Sigisfarne/Mateus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cai",
+                "url": "directory/Sigisfarne/Cai.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hilda",
+                "url": "directory/Sigisfarne/Hilda.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Oswin",
+                "url": "directory/Sigisfarne/Oswin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yewtree",
+                "url": "directory/Sigisfarne/Yewtree.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "campaigns/Book_01/ep_002.md": [
@@ -401,6 +490,12 @@
             },
             {
                 "text": "Yewtree",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yewtree",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -416,6 +511,12 @@
             {
                 "text": "Cai",
                 "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cai",
+                "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -555,6 +656,12 @@
             },
             {
                 "text": "Mateus",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mateus",
                 "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -576,6 +683,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "I",
                 "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
@@ -586,6 +699,14 @@
             {
                 "text": "tall skeletal figure",
                 "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/Oswin.md": [
+            {
+                "text": "Oswin",
+                "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
