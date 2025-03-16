@@ -211,12 +211,6 @@
             },
             {
                 "text": "Sigisfarne",
-                "url": "campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -448,13 +442,7 @@
                 "favicon": null
             },
             {
-                "text": "myselft",
-                "url": "campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "myselft",
+                "text": "Rushd",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -481,12 +469,6 @@
             },
             {
                 "text": "Weeping Mother",
-                "url": "campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -503,12 +485,6 @@
             {
                 "text": "Yewtree",
                 "url": "campaigns/Book_01/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Yewtree",
-                "url": "campaigns/Book_01/ep_001_Rushd.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -535,12 +511,6 @@
             {
                 "text": "Cai",
                 "url": "campaigns/Book_01/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "grieving mother",
-                "url": "campaigns/Book_01/ep_001_Rushd.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -591,128 +561,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.github.com/favicon.ico"
-            }
-        ],
-        "_site/campaigns/Book_01/ep_001_Rushd.md": [
-            {
-                "text": "Sigisfarne",
-                "url": "_site/directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Razzy",
-                "url": "_site/directory/Sigisfarne/Razvan.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Adair",
-                "url": "_site/directory/Sigisfarne/Adair.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Yewtree",
-                "url": "_site/directory/Sigisfarne/Yewtree.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Flint",
-                "url": "_site/directory/Sigisfarne/Flint.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "myselft",
-                "url": "_site/directory/Sigisfarne/RushdIbnUbada.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Weeping Mother",
-                "url": "_site/directory/weepingMother/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "grieving mother",
-                "url": "_site/directory/Sigisfarne/Cai.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "_site/directory/Sigisfarne/index.md": [
-            {
-                "text": "Sigisfarne",
-                "url": "_site/campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/directory/Sigisfarne/Razvan.md": [
-            {
-                "text": "Razzy",
-                "url": "_site/campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/directory/Sigisfarne/Adair.md": [
-            {
-                "text": "Adair",
-                "url": "_site/campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/directory/Sigisfarne/Yewtree.md": [
-            {
-                "text": "Yewtree",
-                "url": "_site/campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/directory/Sigisfarne/Flint.md": [
-            {
-                "text": "Flint",
-                "url": "_site/campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/directory/Sigisfarne/RushdIbnUbada.md": [
-            {
-                "text": "myselft",
-                "url": "_site/campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/directory/weepingMother/index.md": [
-            {
-                "text": "Weeping Mother",
-                "url": "_site/campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/directory/Sigisfarne/Cai.md": [
-            {
-                "text": "grieving mother",
-                "url": "_site/campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_003.md": [
@@ -788,12 +636,6 @@
             },
             {
                 "text": "Razzy",
-                "url": "campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Razzy",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -861,92 +703,6 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/Book_01/ep_001_Rushd.md": [
-            {
-                "text": "Sigisfarne",
-                "url": "directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Razzy",
-                "url": "directory/Sigisfarne/Razvan.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Adair",
-                "url": "directory/Sigisfarne/Adair.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Yewtree",
-                "url": "directory/Sigisfarne/Yewtree.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Flint",
-                "url": "directory/Sigisfarne/Flint.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "myselft",
-                "url": "directory/Sigisfarne/RushdIbnUbada.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Weeping Mother",
-                "url": "directory/weepingMother/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "grieving mother",
-                "url": "directory/Sigisfarne/Cai.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "directory/Sigisfarne/Adair.md": [
-            {
-                "text": "Adair",
-                "url": "campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Adair",
-                "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Sigisfarne/Flint.md": [
-            {
-                "text": "Flint",
-                "url": "campaigns/Book_01/ep_001_Rushd.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Flint",
-                "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/Sigisfarne/Oswin.md": [
             {
                 "text": "Oswin",
@@ -992,7 +748,7 @@
                 "favicon": null
             },
             {
-                "text": "myselft",
+                "text": "Rushd",
                 "url": "directory/Sigisfarne/RushdIbnUbada.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1011,6 +767,22 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Adair.md": [
+            {
+                "text": "Adair",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/Flint.md": [
+            {
+                "text": "Flint",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/PiotChant.md": [

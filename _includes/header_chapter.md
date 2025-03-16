@@ -22,6 +22,6 @@
 </details>
 {% endfor %}
 
-
-
 {% endif %}
+
+---
