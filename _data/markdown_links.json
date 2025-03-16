@@ -138,20 +138,6 @@
             },
             {
                 "text": "March 2025",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "mining rubies",
-                "url": "campaigns/Book_01/ep_005.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "March 2025",
                 "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -230,12 +216,6 @@
                 "direction": "inbound"
             },
             {
-                "text": "mining rubies",
-                "url": "directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
                 "text": "March 2025",
                 "url": "directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
@@ -282,60 +262,10 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "campaigns/Book_01/ep_002.md": [
-            {
-                "text": "March 2025",
-                "url": "directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             },
             {
-                "text": "Drake",
-                "url": "directory/Sigisfarne/Drake.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Razzie",
-                "url": "directory/Sigisfarne/Razvan.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Hilda",
-                "url": "directory/Sigisfarne/Hilda.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Stone",
-                "url": "directory/Sigisfarne/Stone.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sigisfarne",
-                "url": "directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Duskmeadow Fringe",
-                "url": "directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "tall skeletal figure",
-                "url": "directory/DuskmeadowFringe/TheHunger.md",
+                "text": "Quarry",
+                "url": "directory/DuskmeadowFringe/Quarry.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -675,6 +605,64 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/Book_01/ep_002.md": [
+            {
+                "text": "Drake",
+                "url": "directory/Sigisfarne/Drake.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzie",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hilda",
+                "url": "directory/Sigisfarne/Hilda.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Stone",
+                "url": "directory/Sigisfarne/Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Quarry",
+                "url": "directory/DuskmeadowFringe/Quarry.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "tall skeletal figure",
+                "url": "directory/DuskmeadowFringe/TheHunger.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "directory/Sigisfarne/Hilda.md": [
             {
                 "text": "Hilda",
@@ -691,6 +679,20 @@
             {
                 "text": "Hilda",
                 "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Quarry.md": [
+            {
+                "text": "Quarry",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Quarry",
+                "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

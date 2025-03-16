@@ -35,13 +35,6 @@ flavour: Area between the vast grasslands to the west and the weirdness of the e
 - Well maintained, clean.
 - Dried meet, [some think](../../campaigns/Book_01/ep_005.md) of human origin.
 
-## The Quarry
-
-- 2 days north of Sigisfarne
-- Veins of thin red powdered ore.
-- Visited on [March 2025](../../campaigns/Book_01/ep_002.md)
-- Enslaved stone statues of children, [mining rubies](../../campaigns/Book_01/ep_005.md).
-
 ## Rodent's pit
 
 - SW of Sigisfarne
