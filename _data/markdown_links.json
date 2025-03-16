@@ -462,7 +462,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "Weeping Mother",
+                "text": "weeping mother",
                 "url": "campaigns/Book_01/ep_003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -600,13 +600,6 @@
                 "favicon": null
             },
             {
-                "text": "reptiloids",
-                "url": "directory/DuskmeadowFringe/Reptiloids.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
                 "text": "Sigisfarne",
                 "url": "directory/Sigisfarne/index.md",
                 "is_internal": true,
@@ -614,7 +607,14 @@
                 "favicon": null
             },
             {
-                "text": "Weeping Mother",
+                "text": "reptiloids",
+                "url": "directory/DuskmeadowFringe/Reptiloids.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "weeping mother",
                 "url": "directory/weepingMother/index.md",
                 "is_internal": true,
                 "direction": "outbound",
