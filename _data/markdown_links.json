@@ -468,7 +468,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "Weeping Mother",
+                "text": "Church of the Weeping Mother",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -755,7 +755,7 @@
                 "favicon": null
             },
             {
-                "text": "Weeping Mother",
+                "text": "Church of the Weeping Mother",
                 "url": "directory/weepingMother/index.md",
                 "is_internal": true,
                 "direction": "outbound",
