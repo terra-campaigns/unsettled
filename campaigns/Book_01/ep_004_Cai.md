@@ -36,7 +36,7 @@ More rodents come and Mateus leaves his torch on the ground and says “run you 
 The enemies get entangled in the vines,, they yell out as their home is getting wrecked by vines and there is serious damage in their infrastructure. Now we hear voices of pain, desperation and fear from the ones.  
 
 We take the creature to the council and they are superstitious about them \- think it's a bad omen to keep them around \- we should set it free, away, in the farms somewhere. Some of them think they should tell the King, others are terrified and creeped out and offer no opinion.   
-Matheus has a letter addressed to the Lord of the Winter. He asks them if they know him. They say yes, he is at his castle, North. 
+Matheus has a letter addressed to the Lord of the Winter. He asks them if they know him. They say yes, he is at his castle, ~~North~~ East. 
 
 When the rodent wakes up, he is terrified and feels helpless. We tell him that the crops are dying and that’s why we went there. The creature says that this is because you have taken too much land past what you need and what you justified taking. We are doing what we must to bring balance. We were trying to discourage you from expanding. We are exporters, and we expanded indeed in the forest, so this makes sense to us, it’s justified.
 
