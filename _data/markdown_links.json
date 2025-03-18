@@ -83,6 +83,13 @@
                 "favicon": "https://www.imdb.com/favicon.ico"
             },
             {
+                "text": "Face of a Dead Sun",
+                "url": "https://asmogrimae.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://asmogrimae.com/favicon.ico"
+            },
+            {
                 "text": "Open Table",
                 "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
                 "is_internal": false,
@@ -102,6 +109,41 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Campaign website",
+                "url": "https://terra-campaigns.github.io/unsettled/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Latest events",
+                "url": "https://terra-campaigns.github.io/unsettled/#timeline-of-events",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Create a character",
+                "url": "https://terra-campaigns.github.io/unsettled/systems/#character-generation",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Campaign hexmap",
+                "url": "https://www.owlbear.rodeo/room/yxcSrOn0eZ_r/Unsettled",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.owlbear.rodeo/favicon.ico"
+            },
+            {
+                "text": "Kettlewright",
+                "url": "https://kettlewright.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://kettlewright.com/favicon.ico"
             }
         ],
         "systems/#character-generation": [

@@ -6,7 +6,8 @@ nav_order: 1
 footer_content:
 ---
 
-# **unsettled**
+**unsettled**
+{: .text-alpha }
 
 ![](https://i.imgur.com/jrDqZJV.png)
 
@@ -40,25 +41,40 @@ You are now ***unsettled***.
 
 ### Appendix N
 
-- [The Green Knight (2021 film)](https://www.imdb.com/title/tt9243804/)
-
-{% include prefooter_campaign.html %}
+[The Green Knight](https://www.imdb.com/title/tt9243804/) (2021 film)  
+[Face of a Dead Sun](https://asmogrimae.com/) by Asmo Grimae
 
 ---
 ## Open Table
 
-- **GMs:** OddCore (Nick) & efsa (Estêvão)
-- **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
-- **Frequency**: Every 4 days (announced 3 weeks ahead).
-- **Time & Duration**: 1945 UTC for 2~3h
-- **Sign-up**: First come first served, 2 to 5 players
-- **TTRPG system**: [Cairn 2e](https://cairnrpg.com/second-edition/)
-- **Genre**: Weird Fantasy
-- **VTT**: Theatre of the mind + Owlbear Rodeo
-- **Language**: English
-- **Communication**: Discord voice (video is optional)
-- **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression.
-- **Notes**:
-  - If you don't have a character, see [Character Generation](systems/#character-generation).
-  - Proactive engagement and goal driven characters make the world shine brighter.
-  - Downtime and some light conversations with characters may be done through PbP.
+**GMs:** OddCore (Nick) & efsa (Estêvão)  
+**Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
+**Frequency**: Every 4~6 days  
+**Time & Duration**: 1945 UTC for 2~3h  
+**Sign-up**: First come first served, 2 to 5 players  
+**TTRPG system**: [Cairn 2e](https://cairnrpg.com/second-edition/)  
+**Genre**: Weird Fantasy  
+**VTT**: Theatre of the mind + Owlbear Rodeo  
+**Language**: English  
+**Communication**: Discord voice (video is optional)  
+**Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression  
+**Notes**:  
+Proactive engagement and goal driven characters make the world shine brighter.  
+Downtime and some light conversations with characters may be done through PbP.
+
+{% comment %} Session text
+
+**unsettled** | Cairn 2e [Open Table]
+
+[Campaign website](https://terra-campaigns.github.io/unsettled/)  
+[Latest events](https://terra-campaigns.github.io/unsettled/#timeline-of-events)  
+[Create a character](https://terra-campaigns.github.io/unsettled/systems/#character-generation)  
+[Campaign hexmap](https://www.owlbear.rodeo/room/yxcSrOn0eZ_r/Unsettled)  
+[Kettlewright](https://kettlewright.com/) party code: 3dfe1c7a085bbf35
+
+2 hours and 45 minutes
+
+{% endcomment %}
+
+
+{% include prefooter_campaign.html %}
