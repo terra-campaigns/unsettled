@@ -29,3 +29,6 @@ details:
 - Very active
 - Scratched
 - Likes mushrooms
+
+Family travelled to Hendenburgh to sell mushrooms there but never came back.
+Hilda has been a bit of a recluse since they disappeared & not interacted with many people in the village since.
