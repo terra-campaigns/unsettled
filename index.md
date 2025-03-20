@@ -76,5 +76,4 @@ Downtime and some light conversations with characters may be done through PbP.
 
 {% endcomment %}
 
-
 {% include prefooter_campaign.html %}
