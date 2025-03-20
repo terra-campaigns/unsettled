@@ -4,6 +4,7 @@ template: 0.4
 type: location
 nav_exclude: false
 has_children: true
+has_toc: false
 
 parent: Directory
 title: Sigisfarne
@@ -33,3 +34,32 @@ image:
 #### Truths
 
 - Multiple crop failures in the recent past
+
+---
+
+**People**
+{: .text-delta .fs-5}
+<p>
+{% for my_page in site.pages %}
+	{% if my_page.type == 'people' and my_page.parent == page.title %}
+        {% if my_page.status %}
+	        <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a>, {{ my_page.status }}<br>
+        {% else %}
+            <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a><br>
+        {% endif %}
+      {% endif %}
+{% endfor %}
+</p>
+{: .text-delta .fs-3}
+
+**Locations**
+{: .text-delta .fs-5}
+<p>
+{% for my_page in site.pages %}
+     {% if my_page.type == 'location' and my_page.parent == page.title %}
+        <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a><br>
+    {% endif %}
+{% endfor %}
+</p>
+{: .text-delta .fs-3}
+
