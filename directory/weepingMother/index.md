@@ -11,6 +11,7 @@ role: Imperial Faith
 flavour: 
 
 image: 
+footer_content: Some of the art by <a href="https://www.micahulrichart.com/">Micah Ulrich</a>.
 
 ---
 
