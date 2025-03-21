@@ -2,12 +2,19 @@
 
 {% if page.template >= 0.4 %}
 
-{% include connected_to.md %}
 # {{ page.title }}
+{: .text-right}
 
 {% if page.role %}
 #### **{{ page.role }}** {% if page.status %} ({{ page.status }}) {% endif %}
+{: .text-right}
 {% endif %}
+
+{% endif %}
+
+{% include connected_to.md %}
+
+---
 
 <br>{{ page.flavour }}
 
@@ -22,5 +29,3 @@
 ![]({{ page.image }})
 {% endif %}
 
-
-{% endif %}

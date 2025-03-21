@@ -4,6 +4,7 @@ template: 0.4
 type: location
 nav_exclude: false
 has_children: true
+has_toc: false
 
 parent: Directory
 title: Duskmeadow Fringe
@@ -27,13 +28,15 @@ flavour: Area between the vast grasslands to the west and the weirdness of the e
 
 - 1 day north of Sigisfarne
 - Good ale, excellent rabbit stew.
-- Run by Martha and her family: Earnest, the husband and cook, and their two daughters.
+- It is run by Martha and her family: Earnest, the husband and cook, and their two daughters.
 
 ## Hunter cabin
 
 - 2 days north of Sigisfarne
 - Well maintained, clean.
 - Dried meet, [some think](../../campaigns/Book_01/ep_005.md) of human origin.
+
+## [Quarry](Quarry.md)
 
 ## Rodent's pit
 

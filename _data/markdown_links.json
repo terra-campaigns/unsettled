@@ -164,6 +164,13 @@
                 "favicon": null
             },
             {
+                "text": "Quarry",
+                "url": "directory/DuskmeadowFringe/Quarry.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "March 2025",
                 "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
@@ -295,6 +302,26 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "directory/DuskmeadowFringe/Quarry.md": [
+            {
+                "text": "Quarry",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Quarry",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Quarry",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_004.md": [
@@ -807,20 +834,6 @@
             {
                 "text": "Hilda",
                 "url": "campaigns/Book_01/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/DuskmeadowFringe/Quarry.md": [
-            {
-                "text": "Quarry",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Quarry",
-                "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

@@ -6,7 +6,7 @@ nav_exclude: false
 has_children: true
 
 parent: Sigisfarne
-title: Ruined Church
+title: Ruined Church in Sigisfarne
 role: Ruind of an older religion
 status: 
 flavour: 
@@ -19,7 +19,7 @@ image:
 
 
 Central freestanding ruin looks like an ancient church.
-It has never been claimed by the village and sits mostly abandoned, with its iron gate barred.
+The village has never claimed it and sits mostly abandoned, with its iron gate barred.
 A structure older than memory, they say, its stones laid before our ancestors claimed this land as home.
 
 The place has been closed for many generations, despite being in the middle of the village.
