@@ -17,6 +17,3 @@ nav_exclude: true
     allowfullscreen
   ></iframe>
 </div>
-
-
-<iframe src="https://null.perchance.org/cairnchargenerator"></iframe>
