@@ -185,6 +185,12 @@
                 "favicon": null
             },
             {
+                "text": "fringe",
+                "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Duskmeadow Fringe",
                 "url": "campaigns/Book_01/ep_002.md",
                 "is_internal": true,
@@ -624,6 +630,13 @@
             {
                 "text": "Sigisfarne",
                 "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
