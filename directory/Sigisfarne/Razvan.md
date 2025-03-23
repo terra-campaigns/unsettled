@@ -29,3 +29,8 @@ details:
 - Not of courage
 - Scared of the unknown
 - Forages medicinal herbs and making potions
+
+Received a cravat from a faerie. It is brown, the most beautiful brown. It catches attention. 
+Wearing it makes parlaying with the Fae easier. They will look at you with different eyes.
+
+[Drake](Drake.md) is as beautiful as Fae: his features become your ideal of beauty.

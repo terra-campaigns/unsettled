@@ -191,6 +191,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "fringe",
+                "url": "campaigns/Book_01/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Duskmeadow Fringe",
                 "url": "campaigns/Book_01/ep_002.md",
                 "is_internal": true,
@@ -338,6 +344,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "vendetta from the molemen",
+                "url": "campaigns/Book_01/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Sigisfarne",
                 "url": "directory/Sigisfarne/index.md",
                 "is_internal": true,
@@ -440,7 +452,58 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Sigisfarne/Razvan.md": [
+            {
+                "text": "Drake",
+                "url": "directory/Sigisfarne/Drake.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzie",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Sigisfarne/Drake.md": [
+            {
+                "text": "Drake",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "Stone",
                 "url": "directory/Sigisfarne/Stone.md",
@@ -451,6 +514,12 @@
             {
                 "text": "Drake",
                 "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Drake",
+                "url": "campaigns/Book_01/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -533,6 +602,12 @@
             {
                 "text": "Cai",
                 "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cai",
+                "url": "campaigns/Book_01/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -656,42 +731,16 @@
                 "favicon": null
             }
         ],
-        "directory/Sigisfarne/Razvan.md": [
-            {
-                "text": "Razzy",
-                "url": "campaigns/Book_01/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Razzy",
-                "url": "campaigns/Book_01/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Razzie",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Razzy",
-                "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Razzy",
-                "url": "campaigns/Book_01/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/Sigisfarne/Mateus.md": [
             {
                 "text": "Mateus",
                 "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mateus",
+                "url": "campaigns/Book_01/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -720,6 +769,50 @@
                 "url": "campaigns/Book_01/ep_003.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_007.md": [
+            {
+                "text": "Drake",
+                "url": "directory/Sigisfarne/Drake.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cai",
+                "url": "directory/Sigisfarne/Cai.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mateus",
+                "url": "directory/Sigisfarne/Mateus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "vendetta from the molemen",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "campaigns/Book_01/ep_006.md": [

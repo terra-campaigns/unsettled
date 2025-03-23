@@ -18,4 +18,8 @@ image: https://i.imgur.com/fa1BiLG.png
 
 You have a Statuesque Physique, Birthmarked Skin, and Luxurious Hair. Your Face is Square, your Speech Whispery. You have Rancid Clothing. **You are Tolerant and Vengeful.** You are 37 years old.
 
-Woke up with Amnesia in February 2025. Holds a collar with the name "Mateus" in it.
+Woke up with Amnesia in February 2025. Holds a collar with the name "Mateus" on it.
+
+Wolf mind: Your companions are mere prey compared to you. Never let them forget that.
+
+Iron allergies: Still to be decided the actual impact of it

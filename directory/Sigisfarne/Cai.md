@@ -19,3 +19,5 @@ image: https://i.imgur.com/EPpgTll.png
 You have an Athletic Physique, Tanned Skin, and Curly Hair. Your Face is Perfect, your Speech Cryptic. You have Livery Clothing. You are Gregarious (sociable) and Rude. You are 43 years old.
 
 Mother of Clive, who was found dead in the ruined church in Sigisfarne.
+
+Flowers: Flowers appear in your hair and cannot be removed—if you cut them out, you bleed and they regrow.

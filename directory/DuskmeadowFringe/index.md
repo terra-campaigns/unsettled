@@ -26,15 +26,15 @@ flavour: Area between the vast grasslands to the west and the weirdness of the e
 
 ## Rabbit's Inn
 
-- 1 day north of Sigisfarne
+- 1 day north of Sigisfarne.
 - Good ale, excellent rabbit stew.
 - It is run by Martha and her family: Earnest, the husband and cook, and their two daughters.
 
-## Hunter cabin
+## Hunter Cabin
 
 - 2 days north of Sigisfarne
-- Well maintained, clean.
-- Dried meet, [some think](../../campaigns/Book_01/ep_005.md) of human origin.
+- Well maintained, and clean.
+- Dried meat, [some think](../../campaigns/Book_01/ep_005.md) of human origin.
 
 ## [Quarry](Quarry.md)
 
@@ -46,3 +46,7 @@ flavour: Area between the vast grasslands to the west and the weirdness of the e
 ## Sky Spire
 
 - Seen from a distance in [March 2025](../../campaigns/Book_01/ep_005.md)
+
+## Queensweald
+
+- Court of the Forest Queen.
