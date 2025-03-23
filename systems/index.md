@@ -31,6 +31,7 @@ nav_order: 99
     <b>Kettlewright</b><br> 
   </summary>
 {: .text-delta}
+---
 <div style="height:80vh; width:100%;">
   <iframe
     src="https://kettlewright.com/gen/character?darkmode=true"
@@ -46,6 +47,7 @@ nav_order: 99
     <b>Perchance (work-in-progress)</b><br> 
   </summary>
 {: .text-delta}
+---
 <div style="height:80vh; width:100%;">
   <iframe
     src="https://null.perchance.org/unsettled-chargen"
@@ -53,5 +55,4 @@ nav_order: 99
     allowfullscreen
   ></iframe>
 </div>
-**Note**: Discard the *Omens* section above.
 </details>
