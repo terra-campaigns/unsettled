@@ -23,3 +23,5 @@ Woke up with Amnesia in February 2025. Holds a collar with the name "Mateus" on 
 Wolf mind: Your companions are mere prey compared to you. Never let them forget that.
 
 Iron allergies: Still to be decided the actual impact of it
+
+Under a [vendetta](../../campaigns/Book_01/ep_004.md) of the [Molemen](../DuskmeadowFringe/PiotChant.md)
