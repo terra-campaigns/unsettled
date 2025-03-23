@@ -21,12 +21,16 @@ nav_order: 99
 
 # Character Generation
 
-- Copy the character below and paste it on the [Dramatis Personae](https://discord.com/channels/1060840338777964565/1340382334674927647) channel.
-- Discard the *Omens* section.
-- You may adapt your *Description* and *Bonds* sections.
+- You can roll your character manually using the Cairn book or website.
+- Alternatively, use Kettlewright or Perchance below.
+- You may adapt your *Description* and *Bonds* sections as you see fit.
+- Paste a copy of your character and introduce them on the [Dramatis Personae](https://discord.com/channels/1060840338777964565/1340382334674927647) channel.
 
----
-
+<details close markdown="block">
+  <summary id="index">
+    <b>Kettlewright</b><br> 
+  </summary>
+{: .text-delta}
 <div style="height:80vh; width:100%;">
   <iframe
     src="https://kettlewright.com/gen/character?darkmode=true"
@@ -34,3 +38,20 @@ nav_order: 99
     allowfullscreen
   ></iframe>
 </div>
+**Note**: Discard the *Omens* section above.
+</details>
+
+<details close markdown="block">
+  <summary id="index">
+    <b>Perchance (work-in-progress)</b><br> 
+  </summary>
+{: .text-delta}
+<div style="height:80vh; width:100%;">
+  <iframe
+    src="https://null.perchance.org/unsettled-chargen"
+    style="border:none; width:100%; height:100%;"
+    allowfullscreen
+  ></iframe>
+</div>
+**Note**: Discard the *Omens* section above.
+</details>
