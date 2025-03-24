@@ -43,10 +43,10 @@ Drake” what happens if you catch us?”
 The guy says “I’ll give you a warm embrace” \- while he’s digling his ding.  
 Drake suggests a duel between him and the man only.   
 He agrees\! We found his soft spot.   
-The goblins get excited and the horn night as well.   
+The goblins get excited and the Horned Knight as well.   
 Drake gives Razzy his horse to carry until the end of the race.   
 Drake runs very skillfully, for many moment he feels the creature’s breath behind him. But he is faster. He arrives at the margin of the lake, half a second before him. The creature doesn’t look tired, he kneels in front of him and lowers his head with his antlers (bows). The queen of the forest is here, welcome.   
-Drake is exhausted\! He needs time to catch his breath. And once he does, thanks the creature. As the horn night leaves, we hear the hornets of the queen receiving us. 
+Drake is exhausted\! He needs time to catch his breath. And once he does, thanks the creature. As the horned knight leaves, we hear the hornets of the queen receiving us. 
 
 There’s a big oak tree, that makes a throne, with many fairies around. There’s a green woman there, weating beautiful jewlery and nods us to come closer. “Welcome to my domain, I just felt great stories around you people” says with criticism and astonishment.  
 Everyone sort of looks towards Razzy, who introduces herself and asks for help.   
