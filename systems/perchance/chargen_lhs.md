@@ -3,7 +3,7 @@ dfour = {1-4}
 dtwenty = {1-20}
 
 bondtxt
-  [if (b=="Fieldwarden"||(b=="Outrider"&&addbnd==1)) {bnd=2,""} else {bnd=1,""}]<b>Bond</b><br>[bond][if (bnd==2) {"<br><br>Your background grants you a second bond: " + [bond]} else {""}]
+  [if (b=="Fieldwarden"||(b=="Outrider"&&addbnd==1)) {bnd=2,""} else {bnd=1,""}]<b>Bond: </b>[bond][if (bnd==2) {"<br><br>Your background grants you a second bond: " + [bond]} else {""}]
 
 background
   1_Aurifex
@@ -35,7 +35,16 @@ background
   3_Beast Handler 
     bgname = Beast Handler 
     blurb = You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of… so long as you don’t become their snack.
-    name = {Amara|Wulf|Mireille|Soren|Freki|Aster|Gerrik|Boreas|Veda|Matheus}
+    name
+      Amara
+      Wulf
+      Mireille
+      Soren
+      Freki
+      Aster
+      Gerrik
+      Boreas
+      Veda
     event1 = <b>What creature is your specialty?</b><br>{Arachnids - Take a <b>Quick-Flame Rod</b> and an <b>Oil Can</b> (6 uses). It can destroy a large spider nest in seconds.|<b>Felines</b> - Take a sack of <b>Whiskerwort</b>. Its odor can calm and control even the largest of cats.|<b>Canines</b> - Take a wreath of <b>Wolfsbane</b> and a <b>Large Net</b>. Effective against werewolves as well.|<b>Birds</b> - Take a <b>Warble-Whistle</b> (3 charges). It can imitate any bird call and can even be used to send simple messages. Recharge: Feed a baby bird as its mother would, then blow.|<b>Rodents</b> - Take a <b>Pan Flute</b> that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow, even to their deaths.|<b>Serpents</b> - Take a <b>Warming Stone</b> that generates an irresistible heat and a vial of <b>Antitoxin</b> (2 uses).}
     event2 = <b>What have you learned from the creatures of the wild?</b><br>{That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your <b>specialty</b>.|That the behavior of beasts is a language in itself. When observing beasts of your <b>specialty</b> you gain insight into weather patterns and impending disasters.|That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those <b>not of your specialty</b> are near.|That the land is a language unto itself. Your chance of becoming lost in a terrain dominated by the beasts of your <b>specialty</b> is reduced by one step (e.g. 4-in-6 becomes 3-in-6).|That nature’s symphony can be heard if you attune to its rhythm. When surrounded by creatures of your <b>specialty</b>, they can alert you to approaching danger before it arrives.|That survival is all about adaptability. Once per day, you may take on a simple feature from a creature of your <b>specialty</b> (webbed fingers, night vision, etc.). Add a <b>Fatigue</b> each time.}
     equip = Torch (3 uses)<br>Leather Whip (d6)<br>Soporific Darts (STR save or fall asleep, 6 uses)<br>Lure<br>Rope (25ft)
@@ -67,7 +76,15 @@ background
   7_Fletchwind 
     bgname = Fletchwind
     blurb = You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death.
-    name = {Flint|Feather|Crier|Thunder|Falcon|Pluck|Needle|Warsong|Hawk|Cai}
+    name
+      Feather
+      Crier
+      Thunder
+      Falcon
+      Pluck
+      Needle
+      Warsong
+      Hawk
     event1 = <b>How did you earn your bow?</b><br>{<b>War</b> - If you are first to attack, your bow gains the <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#attack-modifiers" target="_blank"><i>blast</i></a> property for the first round.|<b>Falconry</b> - You keep a falcon (3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)). It only eats live game.|<b>Hunting</b> - When taking the <b>Supply</b> action, your ability to secure <b>Rations</b> increases by one step (e.g. 1d4 becomes 1d6).|<b>Tournaments</b> - Attacks with your bow are <a href = "https://cairnrpg.com/second-edition/players-guide/core-rules/#attack-modifiers" target="_blank"><i>enhanced</i></a> if the target is immobile.|<b>Training</b> - If you are the first to attack, melee attacks against you are <a href = "https://cairnrpg.com/second-edition/players-guide/core-rules/#attack-modifiers" target="_blank"><i>impaired</i></a> until you take STR damage.|<b>Scouting</b> - When taking the <b>Travel</b> action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6).}
     event2 = <b>What kind of wood is your bow made from?</b><br>{<b>Western Yew</b> (d6, <i>bulky</i>). Can be wielded as a blunt weapon (d6). Noisy.|<b>Sessile Oak</b> (d8, <i>bulky</i>). Slams into targets. On <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#critical-damage" target="_blank"><b>Critical Damage</b></a> something is torn off.|<b>Stone Pine</b> (d6, <i>bulky</i>). Produces one use of <b>Sticky Sap</b> per day. The sap is highly explosive.|<b>White Ash</b> (d6, <i>bulky</i>). Can be used in place of a shield in melee combat (+1 <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#armor" target="_blank">Armor</a>).|<b>Striped Bamboo</b> (d6). Collapsible, it only requires one slot (but still requires both hands).|<b>Wych Elm</b> (d6, <i>bulky</i>). Protects the bearer from poisons and toxins, so long as they are holding it.}
     equip = Torch (3 uses)<br>Bow (see above)<br>Serrated Knife (d6)<br>Boiled Leather (1 <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#armor" target="_blank">Armor</a>)<br>Heartroot Salve (restores 1d4 STR, 1 use)
@@ -91,7 +108,16 @@ background
   10_Greenwise
     bgname = Greenwise
     blurb = You delve deep into the Wood, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are no mere scholar but its confidant as well.
-    name = {Gunther|Moss|Fern|Lichen|Root|Willow|Sage|Yarrow|Rowan|Ash}
+    name
+      Gunther
+      Moss
+      Fern
+      Lichen
+      Root
+      Willow
+      Sage
+      Rowan
+      Ash
     event1 = <b>How has the Wood failed you?</b><br>{An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind. Take a <b>Bezoar Stone</b>. Ingesting it cures any poison (1 use, unless retrieved).|A close friend disappeared into the forest. Now you see their face in any tea you brew. Take a <b>Soporific Concoction</b> (3 uses).|You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes and always carry <b>Antitoxin</b> (2 uses).|Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don’t need <b>Rations</b>, but a day without sufficient sunlight and water leaves you <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#deprivation--fatigue" target="_blank"><i>deprived</i></a>.|Your impressive corpseflower won a local contest then promptly killed a judge. You fled, but not without the <b>Prize Money</b> (100gp) and a warrant for your arrest.|You created a restorative tincture that also causes accidental infertility. Take a <b>Healing Potion</b> that completely restores STR. Only you know of its unintended side-effects.}
     event2 = <b>What keeps you safe while in the Wood?</b><br>{<b>Amadou</b> - A vermilion fungus that catches fire quite easily. 3 uses.|<b>Delphinium</b> - Breathe water for up to one hour. 1 use, but can be divided into fractional doses.|<b>Tacky Stalk</b> - A woody reed that hardens into a permanent adhesive when chewed. 2 uses.|<b>Wisp Lantern</b> - Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear.|<b>Seed Bomb</b> - A canvas sack filled with seeds that explode on impact. d6 damage (<a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#attack-modifiers" target="_blank"><i>blast</i></a>, 3 uses).|<b>Briarvine</b> - Entangles any creature up to horse size (STR to break free). Reusable.}
     equip = Torch (3 uses)<br>Iron Pot<br>Root Knife (d6)<br>Healing Salve (restore 1d4 STR, 1 use)<br>Twine Bauble (<i>petty</i>, Ward once per day) <i>Ward</i>: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
@@ -107,7 +133,16 @@ background
   12_Hexenbane
     bgname = Hexenbane
     blurb = You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
-    name = {Percival|Felix|Isolde|Wolfram|Aldric|Eira|Oswin|Ivor|Brunhilda|Beatrix}
+    name
+      Percival
+      Felix
+      Isolde
+      Wolfram
+      Aldric
+      Eira
+      Ivor
+      Brunhilda
+      Beatrix
     event1 = <b>To which order do you belong?</b><br>{<b>Order of the Crossroads</b> - Take a <b>Pocket Leyfinder</b>. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death.|<b>Order of the Bleeding Star</b> - Take a <b>Star-Iron Mace</b> (d8). It shines faintly in darkness and becomes very hot in the presence of witchcraft.|<b>Order of the Glass Sigil</b>. Take a <b>short sword</b> (d8) and <b>chainmail</b> (2 <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#armor" target="_blank">Armor</a>, <i>bulky</i>). You have contacts in most towns (the more rural, the better) willing to provide aid, food, or even weapons.|<b>Order of the Blank Eye</b>. Take a <b>Voidglass Shard</b>. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#deprivation--fatigue" target="_blank"><i>deprived</i></a>).|<b>Order of Canaas</b> - Once per day, you can change into a wolf. Take a <b>Quicksilver Chain</b>. Without it, you are unable to shift back.|<b>Order of the Silent Veil</b> - Take a <b>Quell Stone</b> (2 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.}
     event2 = <b>What was your vow?</b><br>{<b>Honesty</b> - Choose a weapon type (blunt, blade, etc). Attacks against you of this type are <a href = "https://cairnrpg.com/second-edition/players-guide/core-rules/#attack-modifiers" target="_blank"><i>impaired</i></a>. If your vow is broken, you lose d4 WIL.|<b>Poverty</b> - You carry the <i>Disassemble</i> <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#spellbooks" target="_blank"><b>Spellbook</b></a>. Only you can use it. If your vow is broken, it explodes (d12 STR damage). Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. <i>Regenerates any torn or defaced pages.</i>|<b>Selflessness</b> - You are immune to mind-altering magical effects, such as charm, hatred, frenzy, and so on. If you break this vow, you lose d6 WIL.|<b>Mercy</b>. Choose a weapon type (blunt, blade, etc). Attacks with this weapon are <a href = "https://cairnrpg.com/second-edition/players-guide/core-rules/#attack-modifiers" target="_blank"><i>enhanced</i></a>. If your vow is broken, you can never use that weapon type again.|<b>Charity</b>. Once per day you can shrug off a <b>Fatigue</b>. If your vow is ever broken, you permanently lose one inventory slot.|<b>Valor</b>. The first time you inflict <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#critical-damage" target="_blank"><b>Critical Damage</b></a>, you receive +d4 HP, returning to the previous limit at the end of combat. If your vow is broken, you die.}
     equip = Torch (3 uses)<br>Vestments of the Order (<i>petty</i>)<br>Blessed Tinctures<br>Silver Knife (d6)<br>Crossbow (d8, <i>bulky</i>)
@@ -147,7 +182,16 @@ background
   17_Outrider
     bgname = Outrider
     blurb = Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You’ve been a savior, an executioner, a hero, and even a villain. Yours is not a solitary path, however: you’ll always have your horse.
-    name = {Drake|Cyra|Keir|Darius|Valen|Rorik|Yara|Rui|Talon|Jory}
+    name
+      Cyra
+      Keir
+      Darius
+      Valen
+      Rorik
+      Yara
+      Rui
+      Talon
+      Jory
     event1 = <b>What personal code or principle do you uphold?</b><br>{<b>No innocent blood:</b> [addbnd=0,""]No bystander will come to harm on your watch. Take a <b>Steadymade Buckler</b> (+1 <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#armor" target="_blank">Armor</a>). While holding this shield, you cannot be moved so long as both feet are planted on firm ground.|<b>Revere the tools of death:</b> [addbnd=0,""]Weapons are to be respected and maintained. Take a <b>Wyrmbone Whetstone</b>. Following a half-hour ritual sharpening, attacks with the weapon are <a href = "https://cairnrpg.com/second-edition/players-guide/core-rules/#attack-modifiers" target="_blank"><i>enhanced</i></a> until STR damage is dealt.|<b>To the death, always:</b> [addbnd=0,""]You never back down from a fight, no matter the odds. Take a <b>Death-Whistle</b>, 1 charge. Its scream frightens away all who hear it (save WIL or flee). <b>Recharge:</b> Capture the final breath of a dying warrior.|<b>Revere the dead:</b> [addbnd=0,""]Death is a journey we all take, and it deserves respect. Take an extra 30gp. You always place two gold pieces on the eyelids of a slain foe. Somehow, you always find the coin.|<b>Loyalty to the work:</b> [addbnd=0,""]Your word is your bond. Once you’ve accepted a job, you see it through to the end. Take a weathered <b>Tally Stick</b>. Once a vow is marked onto its face, the stick hardens (d8) until it is complete. The stick will snap in half if the vow is ever broken.|<b>Always pay your debts:</b> [addbnd=1,""]You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a <b>Blacked-Out Ledger</b>. Roll a second time on the Bonds table.}
     event2 = <b>What breed is your horse?</b><br>{<b>Heavy Destrier</b> - A beast built for war, an imposing creature. 8 HP, 1 <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#armor" target="_blank">Armor</a>, hooves (d10+d10), +2 slots.|<b>Blacklegged Dandy</b> - Hardy and adaptable. <b>Tough</b> or <b>Perilous</b> terrain are one step easier. 6 HP. +4 slots.|<b>Rivertooth</b> - Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (only +2 slots if carrying two people).|<b>Piebald Cob</b> - Intelligent, it can understand simple commands and even has an instinct for danger. 6 HP. +4 slots.|<b>Linden White</b> - Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). 4 HP. +3 slots.|<b>Stray Fogger</b> - Wild but very fast (even in <b>Tough</b> terrain). Rides light. 4 HP. +2 slots.}
     equip = Torch (3 uses)<br>Long Sword (d10, <i>bulky</i>)<br>Leather Jerkin (1 <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#armor" target="_blank">Armor</a>)<br>Crossbow (d8, <i>bulky</i>)<br>Spyglass
@@ -163,7 +207,16 @@ background
   19_Rill Runner
     bgname = Rill Runner
     blurb = You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You’ve seen more than most, but somehow it never seems to be enough.
-    name = {Gale|Piper|Brook|Adair|Stone|Dale|Wren|Cliff|Rain|Robin}
+    name
+      Gale
+      Piper
+      Brook
+      Adair
+      Dale
+      Wren
+      Cliff
+      Rain
+      Robin
     event1 = <b>What songs are you best known for?</b><br>{<i>The Tinker’s Two-Step</i>. A humorous fairy tale about a gift-giving traveler. Start with a <b>Reed Whistle</b>. Anyone in earshot must pass a WIL save to perform an act of violence.|<i>The Sylph and Her Lover</i>. A bawdy tale of lost love. Start with a <b>Breeze Knot</b> (3 charges). Creates a strong breeze. <b>Recharge</b>: Tie it to a mast during a storm.|<i>Harper’s Devotion</i>. A sad, short tale about a musician that falls in love with a star. Start with a <b>Celestial Lute</b>. Reveals the constellations above, no matter the weather.|<i>The Reed Fisher</i>. A celebrated song about a massive carp that always seems to get away. Begin with a spool of <b>River Twine</b> (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant.|<i>Song of the Silver Stream</i>. A wordless lullaby that mimics flowing water. Take a <b>Stone Flute</b> that can calm almost any river.|<i>The Thrush and the Meadow</i>. A moody tale told in alternating chorus. Start with a <b>Feather Quill</b> (1 use, <i>petty</i>). A map drawn with this quill reveals the most expedient course between any two points.}
     event2 = <b>What pays your way across the land?</b><br>{<b>Performance</b> - Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra 10gp.|<b>Bodyguard</b> - You are a protector for those afraid to travel alone. Start with a <b>Rapier</b> (d8).|<b>Wares</b> - You buy low and sell high, always making just enough to get by. Take a single item worth 20gp (or less) from the <a href="https://cairnrpg.com/second-edition/players-guide/marketplace/#gear" target="_blank">gear table</a>.|<b>Transport</b> - You deliver “delicate” packages throughout the lands. You have at least one contact in any major town.|<b>Sailor’s Friend</b> - Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.|<b>Guide</b> - You shepherd caravans and travelers across water-soaked lands. Start a <b>map</b> (<i>petty</i>) relevant to your next journey.}
     equip = Torch (3 uses)<br>Water Shoes<br>Brigandine (1 <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#armor" target="_blank">Armor</a>, <i>bulky</i>)<br>Compass<br>Dagger (d6)
@@ -171,7 +224,16 @@ background
   20_Scrivener
     bgname = Scrivener
     blurb = You copy ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.
-    name = {Lazlo|Stilo|Akshara|Pisa|Ji-Yun|Kalamos|Hugo|Shui|Kalam|Julius}
+    name
+      Lazlo
+      Stilo
+      Akshara
+      Pisa
+      Ji-Yun
+      Hugo
+      Shui
+      Kalam
+      Julius
     event1 = <b>What work did you keep for yourself?</b><br>{<b>The Wild Tongue</b> A bundle of leather-bound scrolls. A seminal work, cataloging the hidden languages of beasts and how to understand them.|<b>The Silent Symphony</b> - Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by those employing invisibility magic.|<b>A Treatise on the Abyss</b> - A nondescript black book. An in-depth, largely theoretical text describing the <b>Roots</b>, as well as information about the location of a nearby <b>Gate</b>.|<b>The Star Waltz</b> - A comet-shaped clasp bound in a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers.|<b>The Cathedral and the Canopy</b> - Large-leaf binding over vellum. Nominally a children’s storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.|<b>Garden of Glass</b> - Bound in the cover of another book. A heretical work, it describes the materials, procedures, and optimal locations required to open a <b>Gate</b>.}
     event2 = <b>How do you transcribe sensitive information?</b><br>{<b>Fib Ink</b> - Glows when used to write true statements but fades if used to write false ones.|<b>Cipher Stone</b> - A pair of sharp black stones. Each one decrypts any message written by the other.|<b>Everquill</b> - A quill that writes on any surface. You still need ink. <i>Petty</i>.|<b>Whisper Vial</b> - Whisper a message into the vial, and it will play it back to whoever opens it next.|<b>Sanguine Lens</b> - Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day.|<b>Echo Leaf</b> - A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. <i>Petty</i>.}
     equip = Torch (3 uses)<br>Quill & Ink<br>Blank Book<br>Awl (d6)<br>Badge (<i>petty</i>)
@@ -273,7 +335,7 @@ vice
   vengeful
 
 bond
-  You inherited a <b>Single Gem</b> (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten will be called in.
+  You inherited a <b>Single Gem</b> (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches and a debt long thought forgotten will be called in.
   A distant cousin left you a small inheritance. Take 20Gp and a <b>Strange Compass</b> (<i>petty</i>) that always points towards something deep in the Wood.
   You carry a <b>Portrait</b> in a locket (<i>petty</i>) of a past love who disappeared into the Wood long ago. Somehow you know that they are still alive.
   You found a <b>Tiny Crystal Prism</b> (<i>petty</i>) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you.
