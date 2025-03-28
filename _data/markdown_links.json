@@ -272,6 +272,12 @@
             },
             {
                 "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -527,6 +533,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Razvan",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
@@ -696,6 +708,12 @@
             {
                 "text": "Hilda",
                 "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_008.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1038,6 +1056,74 @@
             {
                 "text": "tall skeletal figure",
                 "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_008.md": [
+            {
+                "text": "Hilda",
+                "url": "directory/Sigisfarne/Hilda.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razvan",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yarrow",
+                "url": "directory/Sigisfarne/Yarrow.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kalamos",
+                "url": "directory/Sigisfarne/Kalamos.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Hendenburgh/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Yarrow.md": [
+            {
+                "text": "Yarrow",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/Kalamos.md": [
+            {
+                "text": "Kalamos",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Hendenburgh/index.md": [
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_008.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

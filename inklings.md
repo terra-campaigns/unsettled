@@ -12,6 +12,9 @@ kanban-plugin: board
 - [ ] Scatter inns in crossroads and minsters.
 - [ ] 2 wine boxes worth 30gp each ready on the 6th april
 - [ ] Vendetta from the mole-man: https://terra-campaigns.github.io/unsettled/campaigns/Book_01/ep_004/
+- [ ] write a hook for each PC's bonds
+- [ ] Add drives from trophy
+- [ ] Microscope for world building?
 
 
 ***
