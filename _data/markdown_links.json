@@ -148,6 +148,29 @@
                 "favicon": "https://i.pinimg.com/favicon.ico"
             }
         ],
+        "directory/DuskmeadowFringe/Queensweald.md": [
+            {
+                "text": "Horned Knight",
+                "url": "directory/DuskmeadowFringe/HornedKnight.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Queensweald",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/HornedKnight.md": [
+            {
+                "text": "Horned Knight",
+                "url": "directory/DuskmeadowFringe/Queensweald.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/DuskmeadowFringe/index.md": [
             {
                 "text": "Sigisfarne",
@@ -180,6 +203,13 @@
             {
                 "text": "March 2025",
                 "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Queensweald",
+                "url": "directory/DuskmeadowFringe/Queensweald.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null

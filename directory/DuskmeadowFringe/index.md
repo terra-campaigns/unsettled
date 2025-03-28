@@ -46,7 +46,6 @@ flavour: Area between the vast grasslands to the west and the weirdness of the e
 ## Sky Spire
 
 - Seen from a distance in [March 2025](../../campaigns/Book_01/ep_005.md)
+- Add as a hook
 
-## Queensweald
-
-- Court of the Forest Queen.
+## [Queensweald](Queensweald.md)
