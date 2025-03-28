@@ -15,8 +15,9 @@
 {% include connected_to.md %}
 
 ---
-
+{% if page.flavour %} 
 <br>{{ page.flavour }}
+{% endif %}
 
 {% if page.statblock %} 
 {{ page.hp }} HP {{ page.armour }} A {{ page.str }} STR {{ page.dex }} DEX {{ page.wil }} WIL {{ page.at }}
