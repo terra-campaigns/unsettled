@@ -1,18 +1,18 @@
 <button onclick="update()">randomize</button>
 
 <p align="left" >
-  <b>Description:</b>
+  <b>[b = background.selectOne, b.name]</b>
+  <br><br>
+  
+  <b>[b.bgname]:</b> [b.blurb]
+  <br><br>
+  
   You are [physique] with [skin] skin and [hair] hair.
   You have a [face] face and your speech is [speech].
   You are dressed in [clothing]. You are [virtue] but also [vice].
   You are [age=dtwenty.selectOne+dtwenty.selectOne+dtwenty.selectOne+10] years old.
   <br><br>
   
-  <b>Background:</b> [b = background.selectOne, b.bgname] - [b.blurb]
-  <br><br>
-  
-  Your name is [b.name].
-  <br><br>
   
   <b>Attributes:
     STR [att1=[dsix.selectOne+dsix.selectOne+dsix.selectOne]]
@@ -40,4 +40,4 @@
 </p>
 
 <!-- The line below makes it so if your device is in dark mode, then the default text color is switched to white, and the default background color is switch to black. -->
-<style> html { color-scheme: light dark; font-family:Alegreya; font-size:112%; color:#e6e1e8; } </style>
+<style> html { color-scheme: dark; font-family:Monospace; font-size:100%; color:#e6e1e8; } </style>
