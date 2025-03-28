@@ -8,7 +8,6 @@ parent: Duskmeadow Fringe
 title: Reptiloids
 role: Lizard-like beings
 status:
-flavour: 
 
 image: https://i.imgur.com/D6jbivt.png
 

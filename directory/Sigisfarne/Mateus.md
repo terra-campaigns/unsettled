@@ -8,7 +8,6 @@ parent: Sigisfarne
 title: Mateus
 role: Beast Handler
 status: 
-flavour: You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
 
 image: https://i.imgur.com/fa1BiLG.png
 
@@ -16,7 +15,11 @@ image: https://i.imgur.com/fa1BiLG.png
 
 {% include header_directories.md %}
 
+You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
+
 You have a Statuesque Physique, Birthmarked Skin, and Luxurious Hair. Your Face is Square, your Speech Whispery. You have Rancid Clothing. **You are Tolerant and Vengeful.** You are 37 years old.
+
+**Bond:** During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a Letter (petty) sealed with tree sap. It is addressed only to the Lord Of Winter.
 
 Woke up with Amnesia in February 2025. Holds a collar with the name "Mateus" on it.
 

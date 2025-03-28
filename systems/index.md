@@ -13,13 +13,7 @@ nav_order: 99
 - **Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.
 - Extensions to the base rules, when needed, will be published on this website.
 
-# Downtime
-
-- Cost of living when in a city the PCs have a house and a job is waived.
-- Crossroad inns and non-hostile settlements PCs have visited before can be used for starting an adventure, but if PCs do not have a house and a job there, they will have to pay the daily rates for boarding (10 gp).
-- Travelling between these locations during downtime incurs no risk, but costs 5 gp in supplies per day.
-
-# Character Generation
+## Character Generation
 
 - You can roll your character manually using the Cairn book or website.
 - Alternatively, use Kettlewright or Perchance below.
@@ -44,15 +38,31 @@ nav_order: 99
 
 <details close markdown="block">
   <summary id="index">
-    <b>Perchance (work-in-progress)</b><br> 
+    <b>Perchance (New)</b><br> 
   </summary>
 {: .text-delta}
 ---
-<div style="height:80vh; width:100%;">
+<div style="height:65vh; width:100%;">
   <iframe
     src="https://null.perchance.org/unsettled-chargen"
-    style="border:none; width:100%; height:100%;"
+    style="border:none; width:90%; height:100%;"
     allowfullscreen
   ></iframe>
 </div>
 </details>
+
+# House Rules
+## Abstracted living and travel
+
+### Base Locations
+
+- The home village or town a PC is from is their first **Base Location**
+- PCs can establish other **Base Locations** based on the narrative.
+- The cost of living in a **Base Location** is waived, as the PCs take up small jobs.
+- PCs can start incursions from **Base Locations** but travel between them costs 5gp in supplies per journey day. Returning from the incursion to a **Base Location** is abstracted and waived.
+
+### Safe Locations
+
+- Crossroad inns and non-hostile settlements PCs have visited before are **Safe Locations**.
+- PCs can start incursion from **Safe Locations**, but travel costs 5gp in supplies per journey day.
+- Boarding in a **Safe Location** (so PCs start adventuring the next morning after travel) is possible and costs 10gp.

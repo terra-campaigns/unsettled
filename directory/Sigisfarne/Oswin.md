@@ -25,4 +25,8 @@ details:
 
 {% include header_directories.md %}
 
-- **Appearance**: You have a Stout Physique, Scarred Skin, and Bald Hair. Your Face is Broken, your Speech Droning. You have Livery Clothing. You are Gregarious and Vengeful. You are 25 years old.
+You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
+
+You have a Stout Physique, Scarred Skin, and Bald Hair. Your Face is Broken, your Speech Droning. You have Livery Clothing. You are Gregarious and Vengeful. You are 25 years old.
+
+**Bond:** An entertainer once visited your home, filling it with story and song. He left without a word one day, leaving only A Miniature Lute behind. Something rattles inside.

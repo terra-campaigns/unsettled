@@ -8,17 +8,10 @@ nav_exclude: false
 
 ---
 
-# The World
+# The Kingdom
 
 ![](https://i.imgur.com/JtHqB4t.png)
 
 {% comment %}
-
-## Kingdom of xxx
-
-- The Wall
-- The Forest of xxx
-- Ancient farmland
-- Village of Sigisfarne
 
 {% endcomment %}

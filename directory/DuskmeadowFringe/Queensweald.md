@@ -10,7 +10,6 @@ parent: Duskmeadow Fringe
 title: Queensweald
 role: Forest Queen's Court
 status: 
-flavour: 
 
 ---
 

@@ -5,7 +5,7 @@ type: people
 nav_exclude: false
 
 title: Razvan (Razzy)
-flavour: Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
+flavour: 
 role: Half Witch
 parent: Sigisfarne
 statblock: false
@@ -25,10 +25,13 @@ details:
 
 {% include header_directories.md %}
 
-- **Appearance**: You have a Athletic Physique, Rosy Skin, and Curly Hair. Your Face is Elongated. You have Soiled Clothing. You are Humble and Craven. You are 44 years old.
-- Not of courage
-- Scared of the unknown
-- Forages medicinal herbs and making potions
+Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide. Forages medicinal herbs and making potions.
+
+You have an Athletic Physique, Rosy Skin, and Curly Hair. Your Face is Elongated. You have Soiled Clothing. You are Humble and Craven. You are 44 years old.
+
+**Bond:** You inherited a Single Gem (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called.
+
+Not of courage. Scared of the unknown.
 
 Received a cravat from a faerie. It is brown, the most beautiful brown. It catches attention. 
 Wearing it makes parlaying with the Fae easier. They will look at you with different eyes.

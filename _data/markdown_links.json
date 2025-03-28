@@ -169,6 +169,12 @@
                 "url": "directory/DuskmeadowFringe/Queensweald.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Horned Knight",
+                "url": "campaigns/Book_01/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/index.md": [
@@ -251,6 +257,27 @@
                 "url": "directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Book I",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "March",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             },
             {
                 "text": "Sigisfarne",
@@ -380,6 +407,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "March",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "vendetta",
                 "url": "directory/Sigisfarne/Hilda.md",
                 "is_internal": true,
@@ -478,6 +511,12 @@
             {
                 "text": "Church of the Weeping Mother",
                 "url": "directory/Sigisfarne/RushdIbnUbada.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/Sigisfarne/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -615,6 +654,14 @@
             {
                 "text": "Rushd",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/index.md": [
+            {
+                "text": "Book I",
+                "url": "directory/Sigisfarne/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -931,6 +978,13 @@
             {
                 "text": "fringe",
                 "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Horned Knight",
+                "url": "directory/DuskmeadowFringe/HornedKnight.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
