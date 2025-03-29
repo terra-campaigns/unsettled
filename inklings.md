@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] write a hook for each PC's bonds
 - [ ] Add drives from trophy
 - [ ] Microscope for world building?
+- [ ] https://blog.jakelee.co.uk/jekyll-calendar-custom-events/
 
 
 ***

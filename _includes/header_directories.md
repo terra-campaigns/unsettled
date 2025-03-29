@@ -14,19 +14,27 @@
 
 {% include connected_to.md %}
 
+{% if page.image %}
+![]({{ page.image }})
+
+{% else %}
+
 ---
-{% if page.flavour %} 
-<br>{{ page.flavour }}
+
 {% endif %}
 
 {% if page.statblock %} 
-{{ page.hp }} HP {{ page.armour }} A {{ page.str }} STR {{ page.dex }} DEX {{ page.wil }} WIL {{ page.at }}
+
+<details close markdown="block">
+  <summary id="index">
+    <b>Statblock</b><br> 
+  </summary>
+{: .text-delta}
+{{ page.hp }} HP, {{ page.armour }} Armour, {{ page.str }} STR, {{ page.dex }} DEX, {{ page.wil }} WIL, {{ page.at }}
+{: .fs-3 }
 {% for sec in page.details %}
 {{ sec }} <br> {% endfor %}
-{: .fs-4 }
-{% endif %}
+{: .fs-3 }
+</details>
 
-{% if page.image %}
-![]({{ page.image }})
 {% endif %}
-
