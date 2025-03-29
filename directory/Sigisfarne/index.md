@@ -12,7 +12,7 @@ role: Grassland Village
 status: 
 flavour: 
 
-image: 
+image: https://i.imgur.com/HqZWSYm.png
 
 ---
 

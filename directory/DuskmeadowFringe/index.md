@@ -32,9 +32,17 @@ flavour: Area between the vast grasslands to the west and the weirdness of the e
 
 ## Hunter Cabin
 
+![](https://i.imgur.com/hJlU6ga.png)
+
+
 - 2 days north of Sigisfarne
 - Well maintained, and clean.
+- Located within a dead forest
 - Dried meat, [some think](../../campaigns/Book_01/ep_005.md) of human origin.
+
+## Underground Temple
+
+![](https://i.imgur.com/RgNZJ0J.png)
 
 ## [Quarry](Quarry.md)
 
@@ -46,6 +54,6 @@ flavour: Area between the vast grasslands to the west and the weirdness of the e
 ## Sky Spire
 
 - Seen from a distance in [March 2025](../../campaigns/Book_01/ep_005.md)
-- Add as a hook
 
 ## [Queensweald](Queensweald.md)
+ 

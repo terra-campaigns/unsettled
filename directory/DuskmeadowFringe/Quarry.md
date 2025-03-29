@@ -11,6 +11,8 @@ role: Cave system below a quarry. Enslaved stone children.
 status: 
 flavour: 
 
+image: https://i.imgur.com/enAynKV.png
+
 ---
 
 {% include header_directories.md %}
