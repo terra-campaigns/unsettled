@@ -7,6 +7,7 @@ nav_exclude: false
 title: Hilda
 flavour: You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.
 role: Fungal Forager
+status: Deceased
 parent: Sigisfarne
 statblock: false
 

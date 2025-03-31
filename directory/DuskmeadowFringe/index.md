@@ -40,9 +40,7 @@ flavour: Area between the vast grasslands to the west and the weirdness of the e
 - Located within a dead forest
 - Dried meat, [some think](../../campaigns/Book_01/ep_005.md) of human origin.
 
-## Underground Temple
-
-![](https://i.imgur.com/RgNZJ0J.png)
+## [Underground Temple](UndergroundTemple.md)
 
 ## [Quarry](Quarry.md)
 
