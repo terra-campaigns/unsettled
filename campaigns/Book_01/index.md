@@ -13,5 +13,3 @@ footer_content:
 # {{ page.title }}
 
 {% include prefooter_campaign.html %}
-
-{% include calendar.html %}
