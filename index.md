@@ -29,7 +29,7 @@ Not anymore.
 You are now ***unsettled***.
 
 ---
-## Inspiration
+## Appendix N
 
 *Smell* the world, *see* the ***unsettled*** art board.
 
@@ -39,7 +39,7 @@ You are now ***unsettled***.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2PL9qS68ckXkKLzheF8YsB?utm_source=generator&theme=1" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### Appendix N
+### Films & Books
 
 [The Green Knight](https://www.imdb.com/title/tt9243804/) (2021 film)  
 [Face of a Dead Sun](https://asmogrimae.com/) by Asmo Grimae
