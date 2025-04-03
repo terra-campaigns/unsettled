@@ -16,6 +16,10 @@ kanban-plugin: board
 - [ ] Add drives from trophy
 - [ ] Microscope for world building?
 - [ ] https://blog.jakelee.co.uk/jekyll-calendar-custom-events/
+- [ ] https://osraigepress.com/2025/01/13/worldbuilding-by-implication-2/
+- [ ] Cities on the east use red bricks.
+- [ ] Fairy Queen's bargains
+- [ ] Indigo: You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself.
 
 
 ***

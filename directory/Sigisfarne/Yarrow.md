@@ -29,3 +29,5 @@ You have a towering physique, rosy skin and filthy hair. Your face is Rakish, yo
 
 **Bond:** A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with The Twig (petty) in your hand. You believe it brings you luck. It smells faintly of sulphur.
 
+Has an arrest warrant on her.
+

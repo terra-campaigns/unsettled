@@ -9,7 +9,7 @@ title: Reptiloids
 role: Lizard-like beings
 status:
 
-image: https://i.imgur.com/D6jbivt.png
+image: https://i.imgur.com/xoIAZL3.png
 
 statblock: false
 hp: 5

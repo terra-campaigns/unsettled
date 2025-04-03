@@ -19,7 +19,7 @@ dex:
 wil: 
 at: 
 details:
-footer_content: Inspired by Johnstone Metzger's text on <a href="https://www.drivethrurpg.com/en/product/226083/dungeon-full-of-monsters">Dungeon Full of Monsters</a>. Art by Nathan Jones. 
+footer_content: Inspired by Johnstone Metzger's text on <a href="https://www.drivethrurpg.com/en/product/226083/dungeon-full-of-monsters">Dungeon Full of Monsters</a>, page 162. Art by Nathan Jones. 
 
 ---
 
