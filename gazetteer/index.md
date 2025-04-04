@@ -4,7 +4,7 @@ title: Gazeteer
 has_children: true
 nav_order: 2
 has_toc: true
-nav_exclude: false
+nav_exclude: true
 
 ---
 
@@ -15,3 +15,5 @@ nav_exclude: false
 {% comment %}
 
 {% endcomment %}
+
+{% include image-gallery.html folder="/imgs" %}
