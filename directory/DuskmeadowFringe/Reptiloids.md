@@ -9,7 +9,8 @@ title: Reptiloids
 role: Lizard-like beings
 status:
 
-images: unsettled/imgs/gallery/Pasted%20image%2020250405091743.png
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250405091743.png
 
 statblock: false
 hp: 5

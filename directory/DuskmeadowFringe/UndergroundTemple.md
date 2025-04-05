@@ -10,7 +10,8 @@ title: Underground Temple
 role: Abandoned Underground Temple with mixed references.
 status: 
 
-images: unsettled/imgs/gallery/Pasted%20image%2020250405154220.png
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250405154220.png
 
 ---
 

@@ -9,7 +9,8 @@ title: Insect-Centaurs
 role: Ἱππαρείωνες
 status:
 
-images: unsettled/imgs/gallery/Pasted%20image%2020250405154159.png
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250405154159.png
 
 statblock: false
 hp: 
