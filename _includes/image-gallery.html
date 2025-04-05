@@ -13,8 +13,12 @@
       {% if my_page.images %}
       <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
         <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        <span>{{ my_page.title }}</span>
       </a>
+      {% else %}
+      <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a>
       {% endif %}
     {% endfor %}
 
   </div>
+  {: .text-delta}
