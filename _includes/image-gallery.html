@@ -11,8 +11,8 @@
     {% for my_page in all_references %}
 
       {% if my_page.images %}
-      <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
-        <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, "" }}&w=300&h=300&output=jpg&q=50&t=square" />
+      <a href="{{ site.url }}{{ my_page.url }}" >
+        <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" />
         <span>{{ my_page.title }}</span>
       </a>
       {% endif %}
