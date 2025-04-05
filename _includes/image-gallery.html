@@ -1,24 +1,12 @@
 <style>
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
-    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery a img {width: 100%; display: block;}
-  </style>
-  
-  <div class="image-gallery">
-    
+  .image-gallery {overflow: auto; margin-left: -1%!important;}
+  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+  .image-gallery a img {width: 100%; display: block;}
+</style>
 
-    {% for my_page in all_references %}
-
-      {% if my_page.images %}
-      <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
-        <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
-        <span>{{ my_page.title }}</span>
-      </a>
-      {% else %}
-      <a href="{{ site.url }}{{ my_page.url }}"><b>{{ my_page.title }}</b></a>
-      {% endif %}
-    {% endfor %}
-
-  </div>
-  {: .text-delta}
+<div class="image-gallery">
+  {% for image in page.images %}
+    <img src="//wsrv.nl/?url={{ site.url }}{{ image | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ page.title }}"/>
+  {% endfor %}
+</div>

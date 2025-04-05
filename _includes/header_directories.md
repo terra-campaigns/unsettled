@@ -18,7 +18,9 @@
 ![]({{ page.image }})
 
 {% elsif page.images %}
-![]({{ site.url }}{{ page.images | replace: site.title, "" }})
+![]({{ site.url }}{{ page.images[0] | replace: site.title, "" }})
+
+{% include image-gallery.html %}
 
 {% else %}
 
