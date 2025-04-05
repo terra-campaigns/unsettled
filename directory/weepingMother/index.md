@@ -10,7 +10,10 @@ title: Church of the Weeping Mother
 role: Imperial Faith
 flavour: 
 
-image: 
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250405185621.png 
+- unsettled/imgs/gallery/Pasted%20image%2020250405185644.png
+
 footer_content: Some of the art by <a href="https://www.micahulrichart.com/">Micah Ulrich</a>.
 
 ---
