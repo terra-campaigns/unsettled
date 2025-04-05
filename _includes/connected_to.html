@@ -17,9 +17,9 @@
 
 ---
 
-<p>
 {% assign count = all_references | where: 'type', 'people' | size %}
 {% if count > 0 %}
+<p>
 <b>People</b> <br>
 </p>
 {: .text-delta }
@@ -42,9 +42,9 @@
 <br>
 {% endif %}
 
-<p>
 {% assign count = all_references | where: 'type', 'faction' | size %}
 {% if count > 0 %}
+<p>
 <b>Factions</b> <br>
 </p>
 {: .text-delta }
@@ -66,9 +66,9 @@
 {: .text-delta }
 {% endif %}
 
-<p>
 {% assign count = all_references | where: 'type', 'location' | size %}
 {% if count > 0 %}
+<p>
 <b>Locations</b> <br>
 </p>
 {: .text-delta }
@@ -91,9 +91,9 @@
 <br>
 {% endif %}
 
-<p>
 {% assign count = all_references | where: 'type', 'creature' | size %}
 {% if count > 0 %}
+<p>
 <b>Folklore</b> <br>
 </p>
 {: .text-delta }
@@ -116,9 +116,9 @@
 <br>
 {% endif %}
 
-<p>
 {% assign count = all_references | where: 'type', 'session' | size %}
 {% if count > 0 %}
+<p>
 <b>Chapters</b> <br>
 </p>
 {: .text-delta }

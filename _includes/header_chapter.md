@@ -4,7 +4,7 @@
 #### {{ page.region}} - {{ page.timestamp | date: "%B %-d" }} 
 {: .text-right}
 
-{% include connected_to.md %}
+{% include connected_to.html %}
 
 {% if page.narration %}
 
