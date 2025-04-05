@@ -20,7 +20,7 @@
 {% assign count = all_references | where: 'type', 'people' | size %}
 {% if count > 0 %}
 <p>
-<b>People</b> <br>
+<b>People</b>
 </p>
 {: .text-delta }
 
@@ -39,13 +39,12 @@
   {% endfor %}
 </div>
 {: .text-delta }
-<br>
 {% endif %}
 
 {% assign count = all_references | where: 'type', 'faction' | size %}
 {% if count > 0 %}
 <p>
-<b>Factions</b> <br>
+<b>Factions</b>
 </p>
 {: .text-delta }
 
@@ -69,7 +68,7 @@
 {% assign count = all_references | where: 'type', 'location' | size %}
 {% if count > 0 %}
 <p>
-<b>Locations</b> <br>
+<b>Locations</b>
 </p>
 {: .text-delta }
 
@@ -88,13 +87,12 @@
   {% endfor %}
 </div>
 {: .text-delta }
-<br>
 {% endif %}
 
 {% assign count = all_references | where: 'type', 'creature' | size %}
 {% if count > 0 %}
 <p>
-<b>Folklore</b> <br>
+<b>Folklore</b>
 </p>
 {: .text-delta }
 
@@ -113,13 +111,12 @@
   {% endfor %}
 </div>
 {: .text-delta }
-<br>
 {% endif %}
 
 {% assign count = all_references | where: 'type', 'session' | size %}
 {% if count > 0 %}
 <p>
-<b>Chapters</b> <br>
+<b>Chapters</b>
 </p>
 {: .text-delta }
 
@@ -138,7 +135,6 @@
   {% endfor %}
 </div>
 {: .text-delta }
-<br>
 {% endif %}
 
 {% comment %}
