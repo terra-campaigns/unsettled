@@ -6,6 +6,7 @@
 
 {% include connected_to.html %}
 
+<br>
 {% if page.narration %}
 
 {% assign filename = page.path | split: '/' | last | replace: '.md', ''%}
@@ -22,5 +23,6 @@
 
 {% endif %}
 
-
 ---
+
+{% include image-gallery.html %}

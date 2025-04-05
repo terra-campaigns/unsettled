@@ -11,7 +11,8 @@ status: Deceased
 parent: Sigisfarne
 statblock: false
 
-image: https://i.imgur.com/yOXQumF.png
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250405203510.png
 
 str: 
 dex: 
