@@ -27,7 +27,7 @@ background
       You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you’ve heard, either.
       You were adept at creating <i>fake</i> gold, which is almost as good. Eventually, your ruse was discovered, and you had to make a hasty retreat. Take a heavy <b>Metal Ingot</b> and <b>Gold Powder</b> (3 uses).
       Your alchemical recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype <b>Blunderbuss</b> (d12, <i><a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#attack-modifiers" target="_blank">blast</a>, bulky</i>) that takes one round to reload, and a taste for revenge.
-      Ridiculed for discovering how to turn gold into <i>lead</i>, you were a laughing stock. Take a bottle of <b>Universal Solvent</b> (2 uses) that dissolves anything it touches into its constituent parts.}
+      Ridiculed for discovering how to turn gold into <i>lead</i>, you were a laughing stock. Take a bottle of <b>Universal Solvent</b> (2 uses) that dissolves anything it touches into its constituent parts.
     event2 = <b>What alchemical marvel is the product of your latest ingenuity?</b><br> [b.event2tbl]
     event2tbl
       <b>Pyrophoric Gel</b> - A sticky green fluid that catches fire when exposed to air. It lasts for 8 hours and cannot be extinguished.
@@ -35,7 +35,7 @@ background
       <b>Aqua Vita</b> - Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR. 1 use.
       <b>Mimic Stone</b> - Records a short phrase that can later be played back.
       <b>Spark Dust</b> - Ignites easily and quickly. Useful for starting a fire or as an incendiary device. 3 uses.
-      <b>Homunculus</b> - A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL}
+      <b>Homunculus</b> - A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL
     equip = Lantern<br>Oil Can (6 uses)<br>Needle-knife (d6)<br>Protective Gloves (petty)
   
   2_Barber-Surgeon 
