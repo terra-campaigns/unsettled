@@ -12,6 +12,7 @@ status:
 
 images:
 - unsettled/imgs/gallery/Pasted%20image%2020250405154220.png
+- unsettled/imgs/gallery/Pasted%20image%2020250405203045.png
 
 ---
 
@@ -19,8 +20,6 @@ images:
 
 After being interrogated about what they have done in the past, the same teenagers that sent Clive into the ruined church two weeks ago explained they had found a strange cave a few hours down the river.
 In this cave, if you walk deep, you find an old structure with black and white tiled floors and walls and defaced statues of men and women larger than life.
-
-![](https://i.imgur.com/IG4Rwi7.png)
 
 The doors are heavy.
 Inside are larger-than-life statues of people in noble but strange clothes.
