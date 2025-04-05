@@ -20,15 +20,13 @@ kanban-plugin: board
 - [ ] Cities on the east use red bricks.
 - [ ] Fairy Queen's bargains
 - [ ] Indigo: You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself.
+- [ ] https://talk.jekyllrb.com/t/jekyll-photo-gallery/1499
 
 
 ***
 
 ## Archive
 
-- [ ] [Queensweald](https://i.pinimg.com/736x/08/a9/cc/08a9ccc69e42f672b26db02349ccf1a9.jpg):
-	Rumoured home to salvation, inspiration, cures to fantastical diseases, and wonders conjured only in dreams. Only the stout of heart enters the realm of the Forest Queen - fewer still return.
-	Why then, if her favour is so hard to claim, do so many mortals seek it? Quite simply, it has value beyond gold. For so long as people desire the impossible, they will venture beyond the wall in search of her.
 
 %% kanban:settings
 ```
