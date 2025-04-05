@@ -1,0 +1,147 @@
+{% assign children_pages = site.pages | where: 'parent', page.title %}
+
+{% assign links_pages = "" | split: "," %}
+{% for entry in site.data.markdown_links.file[page.path] %}
+	{% assign captured_page = site.pages | where: 'path', entry.url %}
+	{% assign links_pages = links_pages | push: captured_page[0] | uniq %}
+{% endfor %}
+
+{% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' %}
+
+<style>
+  .image-gallery {overflow: auto; margin-left: -1%!important;}
+  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+  .image-gallery a img {width: 100%; display: block;}
+</style>
+
+---
+
+<p>
+{% assign count = all_references | where: 'type', 'people' | size %}
+{% if count > 0 %}
+<b>People</b> <br>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for my_page in all_references %}
+    {% if my_page.type == 'people' %}
+      {% if my_page.images %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}{{ my_page.url }}"><b>{{ my_page.title }}</b></a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+{: .text-delta }
+<br>
+{% endif %}
+
+<p>
+{% assign count = all_references | where: 'type', 'faction' | size %}
+{% if count > 0 %}
+<b>Factions</b> <br>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for my_page in all_references %}
+    {% if my_page.type == 'faction' %}
+      {% if my_page.images %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}{{ my_page.url }}"><b>{{ my_page.title }}</b></a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+{: .text-delta }
+<br>
+{% endif %}
+
+<p>
+{% assign count = all_references | where: 'type', 'location' | size %}
+{% if count > 0 %}
+<b>Locations</b> <br>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for my_page in all_references %}
+    {% if my_page.type == 'location' %}
+      {% if my_page.images %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}{{ my_page.url }}"><b>{{ my_page.title }}</b></a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+{: .text-delta }
+<br>
+{% endif %}
+
+<p>
+{% assign count = all_references | where: 'type', 'creature' | size %}
+{% if count > 0 %}
+<b>Folklore</b> <br>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for my_page in all_references %}
+    {% if my_page.type == 'creature' %}
+      {% if my_page.images %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}{{ my_page.url }}"><b>{{ my_page.title }}</b></a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+{: .text-delta }
+<br>
+{% endif %}
+
+<p>
+{% assign count = all_references | where: 'type', 'session' | size %}
+{% if count > 0 %}
+<b>Chapters</b> <br>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for my_page in all_references %}
+    {% if my_page.type == 'session' %}
+      {% if my_page.images %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}{{ my_page.url }}"><b>{{ my_page.title }}</b></a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+{: .text-delta }
+<br>
+{% endif %}
+
+{% comment %}
+connected_to v0.5.0
+{% endcomment %}
