@@ -17,6 +17,9 @@
 {% if page.image %}
 ![]({{ page.image }})
 
+{% elsif page.images %}
+![]({{ site.url }}{{ page.images | replace: site.title, "" }})
+
 {% else %}
 
 ---

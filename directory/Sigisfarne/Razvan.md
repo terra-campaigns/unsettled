@@ -10,7 +10,7 @@ role: Half Witch
 parent: Sigisfarne
 statblock: false
 
-image: https://i.imgur.com/A4IQL0I.png
+images: unsettled/imgs/gallery/Pasted%20image%2020250405094144.png
 
 str: 
 dex: 
