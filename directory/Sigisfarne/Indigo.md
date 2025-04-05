@@ -9,7 +9,7 @@ title: Indigo
 role: Mountebank
 status: 
 
-image: https://i.imgur.com/nM8MrCh.png
+images: unsettled/imgs/gallery/Pasted%20image%2020250405154312.png
 
 statblock: false
 hp: 

@@ -9,7 +9,7 @@ title: Yarrow
 role: Greenwise
 status: 
 
-image: https://i.imgur.com/HaNHWcY.png
+images: unsettled/imgs/gallery/Pasted%20image%2020250405154240.png
 
 statblock: false
 hp: 
