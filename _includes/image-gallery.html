@@ -7,26 +7,15 @@
   
   <div class="image-gallery">
     
-    {% assign children_pages = site.pages | where: 'parent', page.title %}
-
-    {% assign links_pages = "" | split: "," %}
-    {% for entry in site.data.markdown_links.file[page.path] %}
-        {% assign captured_page = site.pages | where: 'path', entry.url %}
-        {% assign links_pages = links_pages | push: captured_page[0] | uniq %}
-    {% endfor %}
-    
-    {% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' %}
 
     {% for my_page in all_references %}
 
-      {% assign filenameparts = file.path | split: "/" %}
-      {% assign filename = filenameparts | last | replace: file.extname,"" %}
-
+      {% if my_page.images %}
       <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
-        <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, "" }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}" />
+        <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images | replace: site.title, "" }}&w=300&h=300&output=jpg&q=50&t=square" />
         <span>{{ my_page.title }}</span>
       </a>
-    
+      {% endif %}
     {% endfor %}
 
   </div>
