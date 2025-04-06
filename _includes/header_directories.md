@@ -12,19 +12,7 @@
 
 {% endif %}
 
-{% include connected_to.md %}
-
-{% if page.image %}
-![]({{ page.image }})
-
-{% elsif page.images %}
-{% include image-gallery.html %}
-
-{% else %}
-
----
-
-{% endif %}
+{% include connected_to.html %}
 
 {% if page.statblock %} 
 
