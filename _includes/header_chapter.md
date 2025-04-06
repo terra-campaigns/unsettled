@@ -17,7 +17,6 @@
 {% include_relative {{ to_include }} %}
 </details>
 {% endfor %}
-<br>
 {% endif %}
 
 {% include connected_to.html %}
