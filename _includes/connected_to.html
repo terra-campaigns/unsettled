@@ -15,6 +15,19 @@
   .image-gallery a img {width: 100%; display: block;}
 </style>
 
+{% assign count = page.images | size %}
+{% if count > 0 %}
+
+<div class="image-gallery">
+  {% for image in page.images %}
+    <a href="{{ site.url }}{{ image | replace: site.title, '' }}" title="{{ page.title }}">
+      <img src="//wsrv.nl/?url={{ site.url }}{{ image | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ page.title }}"/>
+    </a>
+  {% endfor %}
+</div>
+{: .text-delta }
+{% endif %}
+
 ---
 
 {% assign count = all_references | where: 'type', 'people' | size %}
@@ -136,20 +149,6 @@
 </div>
 {: .text-delta }
 {% endif %}
-
-<p>
-<b><i>Other Images</i></b>
-</p>
-{: .text-delta }
-
-<div class="image-gallery">
-  {% for image in page.images %}
-    <a href="{{ site.url }}{{ image | replace: site.title, '' }}" title="{{ page.title }}">
-      <img src="//wsrv.nl/?url={{ site.url }}{{ image | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ page.title }}"/>
-    </a>
-  {% endfor %}
-</div>
-{: .text-delta }
 
 {% comment %}
 connected_to v0.6.0
