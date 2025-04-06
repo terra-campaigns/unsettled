@@ -9,7 +9,8 @@ title: Mateus
 role: Beast Handler
 status: 
 
-image: https://i.imgur.com/fa1BiLG.png
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250406092539.png
 
 ---
 

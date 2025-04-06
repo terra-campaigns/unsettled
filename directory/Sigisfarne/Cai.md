@@ -9,7 +9,8 @@ title: Cai
 role: Fletchwind
 status: 
 
-image: https://i.imgur.com/EPpgTll.png
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250406091013.png
 
 ---
 

@@ -11,11 +11,13 @@ title: Queensweald
 role: Forest Queen's Court
 status: 
 
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250406092402.png
+
 ---
 
 {% include header_directories.md %}
 
-![](https://i.imgur.com/jNg40ln.png)
 
 - Court of the Forest Queen
 - Served and guarded by the [Horned Knight](HornedKnight.md) and his Goblin Squires

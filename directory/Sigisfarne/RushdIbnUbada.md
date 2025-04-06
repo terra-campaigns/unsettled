@@ -10,7 +10,8 @@ role: Prowler, The Seeker
 status: 
 flavour: You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill is a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it.
 
-image: https://i.imgur.com/QfyeMKK.png
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250406091042.png
 
 statblock: false
 hp: 5

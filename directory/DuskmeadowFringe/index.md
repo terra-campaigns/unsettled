@@ -12,6 +12,9 @@ role: Grasslands to Forest, transitional region
 status: 
 flavour: Area between the vast grasslands to the west and the weirdness of the eastern forest. Home to a Skeleton Giant, poisonous Aveva spores & pumas.
 
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250406092214.png
+
 ---
 
 {% include header_directories.md %}
@@ -31,8 +34,6 @@ flavour: Area between the vast grasslands to the west and the weirdness of the e
 - It is run by Martha and her family: Earnest, the husband and cook, and their two daughters.
 
 ## Hunter Cabin
-
-![](https://i.imgur.com/hJlU6ga.png)
 
 
 - 2 days north of Sigisfarne

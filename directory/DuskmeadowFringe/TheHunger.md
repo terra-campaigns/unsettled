@@ -10,7 +10,8 @@ role: Folk Horror
 status:
 flavour: A tall and sickly pale figure with long teeth and claws.
 
-image: https://i.imgur.com/ZBTBM5p.png
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250406092459.png
 
 statblock: false
 hp: 15

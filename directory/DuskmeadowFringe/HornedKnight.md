@@ -10,7 +10,8 @@ role: Knight of the Queensweald
 status:
 flavour: 
 
-image: https://i.imgur.com/5b9ImK1.png
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250406092141.png
 
 statblock: true
 hp: 8

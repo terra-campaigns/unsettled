@@ -10,7 +10,8 @@ role: Bonekeeper
 parent: Sigisfarne
 statblock: false
 
-image: https://i.imgur.com/kvu7CYJ.png
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250406091205.png
 
 str: 
 dex: 

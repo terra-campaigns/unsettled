@@ -10,7 +10,8 @@ role: Humanoid Rodents
 status:
 flavour: 
 
-image: https://i.imgur.com/jC7vICE.jpeg
+images:
+- unsettled/imgs/gallery/Pasted%20image%2020250406092237.png
 
 statblock: true
 hp: 3 (4 on vendetta)
