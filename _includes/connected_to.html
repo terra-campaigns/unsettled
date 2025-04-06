@@ -137,6 +137,20 @@
 {: .text-delta }
 {% endif %}
 
+<p>
+<b><i>Other Images</i></b>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for image in page.images %}
+    <a href="{{ site.url }}{{ image | replace: site.title, '' }}" title="{{ page.title }}">
+      <img src="//wsrv.nl/?url={{ site.url }}{{ image | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ page.title }}"/>
+    </a>
+  {% endfor %}
+</div>
+{: .text-delta }
+
 {% comment %}
-connected_to v0.5.0
+connected_to v0.6.0
 {% endcomment %}

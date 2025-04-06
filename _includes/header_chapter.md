@@ -4,9 +4,6 @@
 #### {{ page.region}} - {{ page.timestamp | date: "%B %-d" }} 
 {: .text-right}
 
-{% include connected_to.html %}
-
-<br>
 {% if page.narration %}
 
 {% assign filename = page.path | split: '/' | last | replace: '.md', ''%}
@@ -23,6 +20,4 @@
 
 {% endif %}
 
----
-
-{% include image-gallery.html %}
+{% include connected_to.html %}
