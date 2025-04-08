@@ -8,6 +8,10 @@
 
 {% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' %}
 
+{% comment %}
+Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
+{% endcomment %}
+
 <style>
   .image-gallery {overflow: auto; margin-left: -1%!important;}
   .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
@@ -17,6 +21,11 @@
 
 {% assign count = page.images | size %}
 {% if count > 0 %}
+
+<p>
+  <br>
+</p>
+{: .text-delta }
 
 <div class="image-gallery">
   {% for image in page.images %}

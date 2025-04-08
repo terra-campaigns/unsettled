@@ -25,10 +25,9 @@ footer_content: Some of the art by <a href="https://www.micahulrichart.com/">Mic
 ---
 
 {% include header_directories.md %}
-
-{% comment %} 
-
-{% endcomment %} 
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
 
 **Symbols**: red teardrop, young mother’s face, with two straight lines as her tears
 
