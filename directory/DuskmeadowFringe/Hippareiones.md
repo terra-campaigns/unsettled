@@ -25,8 +25,8 @@ footer_content: Inspired by Johnstone Metzger's text on <a href="https://www.dri
 ---
 
 {% include header_directories.md %}
-
 {% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
 
 Dungeon Full Of Monsters 
 

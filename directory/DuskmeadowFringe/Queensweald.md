@@ -18,6 +18,9 @@ images:
 ---
 
 {% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
 
 
 - Court of the Forest Queen

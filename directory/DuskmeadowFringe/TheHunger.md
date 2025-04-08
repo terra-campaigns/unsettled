@@ -8,7 +8,7 @@ parent: Duskmeadow Fringe
 title: Giant Skelleton
 role: Folk Horror
 status:
-flavour: A tall and sickly pale figure with long teeth and claws.
+flavour: 
 
 images:
 - unsettled/imgs/gallery/Pasted%20image%2020250406092459.png
@@ -25,9 +25,11 @@ details:
 ---
 
 {% include header_directories.md %}
-
 {% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
 
 Feasts on human flesh endlessly. Legend says it hunts the selfish and the greedy.
 
 {% endcomment %}
+
+A tall and sickly pale figure with long teeth and claws.

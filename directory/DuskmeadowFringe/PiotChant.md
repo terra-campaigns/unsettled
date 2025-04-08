@@ -29,7 +29,6 @@ footer_content: Inspired by Nobboc's text on The Merry Mushmen's <a href="https:
 ---
 
 {% include header_directories.md %}
-
 {% comment %}
-
+`=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
