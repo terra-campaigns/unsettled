@@ -21,6 +21,7 @@ images:
 Looks like a miniature Sigisfarne.
 Built on old ruins but well-maintained monuments.
 Two churches, one on each side of the housing area.
+Two bridges.
 
 Precise illumination of holy tomes.
 Vassals of the [MountainCourt](unsettled/directory/DuskmeadowFringe/MountainCourt.md).
