@@ -23,6 +23,9 @@ details:
 ---
 
 {% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
 
 You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
 

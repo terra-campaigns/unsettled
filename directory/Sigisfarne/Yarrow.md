@@ -23,6 +23,9 @@ at:
 ---
 
 {% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
 
 You delve deep into the Wood, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are not a mere scholar but its confidant.  
 

@@ -15,6 +15,10 @@ images:
 ---
 
 {% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
+
 
 You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death.
 

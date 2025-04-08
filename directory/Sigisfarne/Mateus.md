@@ -15,6 +15,9 @@ images:
 ---
 
 {% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
 
 You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
 

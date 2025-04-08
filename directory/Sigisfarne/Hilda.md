@@ -26,6 +26,9 @@ details:
 ---
 
 {% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
 
 - **Appearance**: You have a Scrawny Physique, Marked Skin, and Braided Hair. Your Face is Sunken, your Speech Whispery. You have Bloody Clothing. You are Honorable and Aggressive. You are 18 years old.
 - Very active

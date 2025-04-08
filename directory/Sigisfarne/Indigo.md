@@ -23,6 +23,9 @@ at:
 ---
 
 {% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
 
 Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention.
 

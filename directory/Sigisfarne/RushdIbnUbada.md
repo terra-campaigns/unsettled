@@ -25,6 +25,9 @@ details:
 ---
 
 {% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
 
 - **Appearance**: Brawny Physique, Scarred Skin, and Braided Hair. Your Face is Rakish, your Speech Gravelly. You have Soiled Clothing. You are Disciplined and Craven. You are 50 years old. Broken back and a limp.
 - **The Seeker** is consumed by questions of existence, driven to unravel the mysteries of the past and present before time slips away. They delve into forgotten ruins, dissecting enigmas to uncover truths no one else dares to seek.
