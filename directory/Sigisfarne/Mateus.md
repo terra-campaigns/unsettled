@@ -31,4 +31,4 @@ Wolf mind: Your companions are mere prey compared to you. Never let them forget 
 
 Iron allergies: Still to be decided the actual impact of it
 
-Under a [vendetta](../../campaigns/Book_01/ep_004.md) of the [Molemen](../DuskmeadowFringe/PiotChant.md)
+Under a [vendetta](unsettled/campaigns/Book_01/ep_004.md) of the [Molemen](unsettled/directory/DuskmeadowFringe/PiotChant.md)
