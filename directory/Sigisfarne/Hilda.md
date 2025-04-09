@@ -12,7 +12,7 @@ parent: Sigisfarne
 statblock: false
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250405203510.png
+- ../../imgs/gallery/Pasted%20image%2020250405203510.png
 
 str: 
 dex: 

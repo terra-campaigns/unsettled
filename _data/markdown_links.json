@@ -139,15 +139,6 @@
                 "favicon": "https://kettlewright.com/favicon.ico"
             }
         ],
-        "inklings.md": [
-            {
-                "text": " ] [Queensweald",
-                "url": "https://i.pinimg.com/736x/08/a9/cc/08a9ccc69e42f672b26db02349ccf1a9.jpg",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://i.pinimg.com/favicon.ico"
-            }
-        ],
         "directory/DuskmeadowFringe/Queensweald.md": [
             {
                 "text": "Horned Knight",
@@ -580,6 +571,23 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "directory/DuskmeadowFringe/MiddleWatersMinster.md": [
+            {
+                "text": "MountainCourt",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/DuskmeadowFringe/MountainCourt.md": [
+            {
+                "text": "MountainCourt",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/RuinedChurch.md": [
