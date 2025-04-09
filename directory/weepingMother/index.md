@@ -11,14 +11,14 @@ role: Imperial Faith
 flavour: 
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250405185621.png 
-- unsettled/imgs/gallery/Pasted%20image%2020250405185644.png
-- unsettled/imgs/gallery/Pasted%20image%2020250405202300.png
-- unsettled/imgs/gallery/Pasted%20image%2020250405202313.png
-- unsettled/imgs/gallery/Pasted%20image%2020250405202326.png
-- unsettled/imgs/gallery/Pasted%20image%2020250405202337.png
-- unsettled/imgs/gallery/Pasted%20image%2020250405203806.png
-- unsettled/imgs/gallery/Pasted%20image%2020250406091138.png
+- ../../imgs/gallery/Pasted%20image%2020250405185621.png 
+- ../../imgs/gallery/Pasted%20image%2020250405185644.png
+- ../../imgs/gallery/Pasted%20image%2020250405202300.png
+- ../../imgs/gallery/Pasted%20image%2020250405202313.png
+- ../../imgs/gallery/Pasted%20image%2020250405202326.png
+- ../../imgs/gallery/Pasted%20image%2020250405202337.png
+- ../../imgs/gallery/Pasted%20image%2020250405203806.png
+- ../../imgs/gallery/Pasted%20image%2020250406091138.png
 
 footer_content: Some of the art by <a href="https://www.micahulrichart.com/">Micah Ulrich</a>.
 

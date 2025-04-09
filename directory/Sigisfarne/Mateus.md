@@ -10,7 +10,7 @@ role: Beast Handler
 status: 
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250406092539.png
+- ../../imgs/gallery/Pasted%20image%2020250406092539.png
 
 ---
 

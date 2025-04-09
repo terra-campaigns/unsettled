@@ -11,7 +11,7 @@ status:
 flavour: 
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250408202017.png
+- ../../imgs/gallery/Pasted%20image%2020250408202017.png
 ---
 
 {% include header_directories.md %}

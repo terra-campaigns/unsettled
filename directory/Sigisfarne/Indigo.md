@@ -10,7 +10,7 @@ role: Mountebank
 status: 
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250405154312.png
+- ../../imgs/gallery/Pasted%20image%2020250405154312.png
 
 statblock: false
 hp: 

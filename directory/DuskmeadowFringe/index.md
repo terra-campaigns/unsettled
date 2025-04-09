@@ -13,7 +13,7 @@ status:
 flavour: Area between the vast grasslands to the west and the weirdness of the eastern forest. Home to a Skeleton Giant, poisonous Aveva spores & pumas.
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250406092214.png
+- ../../imgs/gallery/Pasted%20image%2020250406092214.png
 
 ---
 

@@ -13,7 +13,7 @@ status:
 flavour: 
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250406091305.png
+- ../../imgs/gallery/Pasted%20image%2020250406091305.png
 
 ---
 

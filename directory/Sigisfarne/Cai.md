@@ -10,7 +10,7 @@ role: Fletchwind
 status: 
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250406091013.png
+- ../../imgs/gallery/Pasted%20image%2020250406091013.png
 
 ---
 

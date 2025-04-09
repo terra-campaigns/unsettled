@@ -7,7 +7,7 @@ has_toc: true
 nav_exclude: true
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250406092630.png
+- ../../imgs/gallery/Pasted%20image%2020250406092630.png
 
 ---
 
