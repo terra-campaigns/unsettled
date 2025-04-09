@@ -139,6 +139,15 @@
                 "favicon": "https://kettlewright.com/favicon.ico"
             }
         ],
+        "inklings.md": [
+            {
+                "text": " ] [Queensweald",
+                "url": "https://i.pinimg.com/736x/08/a9/cc/08a9ccc69e42f672b26db02349ccf1a9.jpg",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://i.pinimg.com/favicon.ico"
+            }
+        ],
         "directory/DuskmeadowFringe/Queensweald.md": [
             {
                 "text": "Horned Knight",
@@ -168,7 +177,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "HornedKnight",
+                "text": "Horned Knight",
                 "url": "campaigns/Book_01/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -195,13 +204,13 @@
                 "direction": "inbound"
             },
             {
-                "text": "UndergroundTemple",
+                "text": "underground temple",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "UndergroundTemple",
+                "text": "underground temple",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -239,7 +248,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "index",
+                "text": "Weeping Mother",
                 "url": "campaigns/Book_01/ep_006.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -251,7 +260,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "index",
+                "text": "Weeping Mother",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -314,7 +323,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "index",
+                "text": "fringe",
                 "url": "campaigns/Book_01/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -326,7 +335,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "index",
+                "text": "Fringe",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -379,7 +388,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "index",
+                "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_006.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -518,7 +527,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "ep_004",
+                "text": "vendetta from the molemen",
                 "url": "campaigns/Book_01/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -573,23 +582,6 @@
                 "favicon": null
             }
         ],
-        "directory/DuskmeadowFringe/MiddleWatersMinster.md": [
-            {
-                "text": "MountainCourt",
-                "url": "directory/DuskmeadowFringe/MountainCourt.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "directory/DuskmeadowFringe/MountainCourt.md": [
-            {
-                "text": "MountainCourt",
-                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/Sigisfarne/RuinedChurch.md": [
             {
                 "text": "Church of the Weeping Mother",
@@ -599,7 +591,7 @@
                 "favicon": null
             },
             {
-                "text": "RuinedChurch",
+                "text": "Ruined Church",
                 "url": "campaigns/Book_01/ep_006.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -632,7 +624,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "Razvan",
+                "text": "Razzy",
                 "url": "campaigns/Book_01/ep_006.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -644,7 +636,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "Razvan",
+                "text": "Razzy",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -662,7 +654,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "Razvan",
+                "text": "Razzy",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -748,7 +740,7 @@
                 "favicon": null
             },
             {
-                "text": "RushdIbnUbada",
+                "text": "Rushd",
                 "url": "campaigns/Book_01/ep_006.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -899,7 +891,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "PiotChant",
+                "text": "Piot Chants",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1067,13 +1059,13 @@
                 "direction": "inbound"
             },
             {
-                "text": "Reptiloids",
+                "text": "three-eyed",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Reptiloids",
+                "text": "reptiloid",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1109,7 +1101,7 @@
                 "favicon": null
             },
             {
-                "text": "index",
+                "text": "fringe",
                 "url": "directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1123,14 +1115,14 @@
                 "favicon": null
             },
             {
-                "text": "HornedKnight",
+                "text": "Horned Knight",
                 "url": "directory/DuskmeadowFringe/HornedKnight.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "ep_004",
+                "text": "vendetta from the molemen",
                 "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1139,28 +1131,28 @@
         ],
         "campaigns/Book_01/ep_006.md": [
             {
-                "text": "RushdIbnUbada",
+                "text": "Rushd",
                 "url": "directory/Sigisfarne/RushdIbnUbada.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Razvan",
+                "text": "Razzy",
                 "url": "directory/Sigisfarne/Razvan.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "RuinedChurch",
+                "text": "Ruined Church",
                 "url": "directory/Sigisfarne/RuinedChurch.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "index",
+                "text": "Sigisfarne",
                 "url": "directory/Sigisfarne/index.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1181,7 +1173,7 @@
                 "favicon": null
             },
             {
-                "text": "index",
+                "text": "Weeping Mother",
                 "url": "directory/weepingMother/index.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1284,28 +1276,28 @@
                 "favicon": null
             },
             {
-                "text": "Razvan",
+                "text": "Razzy",
                 "url": "directory/Sigisfarne/Razvan.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "UndergroundTemple",
+                "text": "underground temple",
                 "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "index",
+                "text": "Fringe",
                 "url": "directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "PiotChant",
+                "text": "Piot Chants",
                 "url": "directory/DuskmeadowFringe/PiotChant.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1319,14 +1311,14 @@
                 "favicon": null
             },
             {
-                "text": "Hippareiones",
+                "text": "insect-centaurs",
                 "url": "directory/DuskmeadowFringe/Hippareiones.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Reptiloids",
+                "text": "three-eyed",
                 "url": "directory/DuskmeadowFringe/Reptiloids.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1369,13 +1361,13 @@
         ],
         "directory/DuskmeadowFringe/Hippareiones.md": [
             {
-                "text": "Hippareiones",
+                "text": "insect-centaurs",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Hippareiones",
+                "text": "insect centaurs",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1532,14 +1524,14 @@
         ],
         "campaigns/Book_01/ep_010.md": [
             {
-                "text": "Hippareiones",
+                "text": "insect centaurs",
                 "url": "directory/DuskmeadowFringe/Hippareiones.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "UndergroundTemple",
+                "text": "underground temple",
                 "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1553,7 +1545,7 @@
                 "favicon": null
             },
             {
-                "text": "Razvan",
+                "text": "Razzy",
                 "url": "directory/Sigisfarne/Razvan.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1567,7 +1559,7 @@
                 "favicon": null
             },
             {
-                "text": "index",
+                "text": "Weeping Mother",
                 "url": "directory/weepingMother/index.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1581,7 +1573,7 @@
                 "favicon": null
             },
             {
-                "text": "Reptiloids",
+                "text": "reptiloid",
                 "url": "directory/DuskmeadowFringe/Reptiloids.md",
                 "is_internal": true,
                 "direction": "outbound",

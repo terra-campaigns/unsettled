@@ -42,9 +42,9 @@ The kingdom Sigisfarne is a part of lies to the south of the village, along the 
 A tax collector from the crown comes after every harvest.
 
 Sigisfarne sends a portion of the produce from the farms to the town to the south every harvest via riverboat. 
-Multiple crop failures in the years leading to [Book I](unsettled/campaigns/Book_01/index.md).
-This was impacted in [March](unsettled/campaigns/Book_01/ep_004.md).
+Multiple crop failures in the years leading to [Book I](../../campaigns/Book_01/index.md).
+This was impacted in [March](../../campaigns/Book_01/ep_004.md).
 
 ## Religion
 
-As with the rest of the Kingdom, all people from Sigisfarne are devoted to the [Church of the Weeping Mother](unsettled/directory/weepingMother/index.md). The local priest is young and not confident 
+As with the rest of the Kingdom, all people from Sigisfarne are devoted to the [Church of the Weeping Mother](../weepingMother/index.md). The local priest is young and not confident 
