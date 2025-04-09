@@ -11,8 +11,8 @@ role: Abandoned Underground Temple with mixed references.
 status: 
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250405154220.png
-- unsettled/imgs/gallery/Pasted%20image%2020250405203045.png
+- ../../imgs/gallery/Pasted%20image%2020250405154220.png
+- ../../imgs/gallery/Pasted%20image%2020250405203045.png
 
 ---
 
@@ -47,4 +47,4 @@ Red tiles behind mosaics.
 
 The walls are covered in bioluminescent fungi.
 In the middle lies a marble statue of a saint.
-The group recognise her as one of the [Weeping](unsettled/directory/weepingMother/index.md) Sisters.
+The group recognise her as one of the [Weeping](../weepingMother/index.md) Sisters.

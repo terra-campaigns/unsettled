@@ -21,7 +21,7 @@ images:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 
-- Extends North and Southwest of [Sigisfarne](unsettled/directory/Sigisfarne/index.md)
+- Extends North and Southwest of [Sigisfarne](../Sigisfarne/index.md)
 
 {% endcomment %} 
 
@@ -39,20 +39,20 @@ images:
 - 2 days north of Sigisfarne
 - Well maintained, and clean.
 - Located within a dead forest
-- Dried meat, [some think](unsettled/campaigns/Book_01/ep_005.md) of human origin.
+- Dried meat, [some think](../../campaigns/Book_01/ep_005.md) of human origin.
 
-## [Underground Temple](unsettled/directory/DuskmeadowFringe/UndergroundTemple.md)
+## [Underground Temple](UndergroundTemple.md)
 
-## [Quarry](unsettled/directory/DuskmeadowFringe/Quarry.md)
+## [Quarry](Quarry.md)
 
 ## Rodent's pit
 
 - SW of Sigisfarne
-- Visited on [March 2025](unsettled/campaigns/Book_01/ep_004.md)
+- Visited on [March 2025](../../campaigns/Book_01/ep_004.md)
 
 ## Sky Spire
 
-- Seen from a distance in [March 2025](unsettled/campaigns/Book_01/ep_005.md)
+- Seen from a distance in [March 2025](../../campaigns/Book_01/ep_005.md)
 
-## [Queensweald](unsettled/directory/DuskmeadowFringe/Queensweald.md)
+## [Queensweald](Queensweald.md)
 

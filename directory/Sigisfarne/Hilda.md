@@ -12,7 +12,7 @@ parent: Sigisfarne
 statblock: false
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250405203510.png
+- ../../imgs/gallery/Pasted%20image%2020250405203510.png
 
 str: 
 dex: 
@@ -38,4 +38,4 @@ details:
 The family travelled to Hendenburgh to sell mushrooms there but never came back.
 Hilda has been a bit of a recluse since they disappeared & not interacted with many people in the village since.
 
-Under a [vendetta](unsettled/campaigns/Book_01/ep_004.md) of the [Molemen](unsettled/directory/DuskmeadowFringe/PiotChant.md)
+Under a [vendetta](../../campaigns/Book_01/ep_004.md) of the [Molemen](../DuskmeadowFringe/PiotChant.md)

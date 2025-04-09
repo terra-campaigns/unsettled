@@ -11,7 +11,7 @@ status:
 flavour: 
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250408201024.png
+- ../../imgs/gallery/Pasted%20image%2020250408201024.png
 ---
 
 {% include header_directories.md %}
@@ -24,7 +24,7 @@ Two churches, one on each side of the housing area.
 Two bridges.
 
 Precise illumination of holy tomes.
-Vassals of the [MountainCourt](unsettled/directory/DuskmeadowFringe/MountainCourt.md).
+Vassals of the [MountainCourt](MountainCourt.md).
 
 Monks are all thin.
 Lack of produce.

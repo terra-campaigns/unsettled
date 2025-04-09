@@ -11,7 +11,7 @@ parent: Sigisfarne
 statblock: false
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250405094144.png
+- ../../imgs/gallery/Pasted%20image%2020250405094144.png
 
 str: 
 dex: 
@@ -40,4 +40,4 @@ Not of courage. Scared of the unknown.
 Received a cravat from a faerie. It is brown, the most beautiful brown. It catches attention. 
 Wearing it makes parlaying with the Fae easier. They will look at you with different eyes.
 
-[Drake](unsettled/directory/Sigisfarne/Drake.md) is as beautiful as Fae: his features become your ideal of beauty.
+[Drake](Drake.md) is as beautiful as Fae: his features become your ideal of beauty.

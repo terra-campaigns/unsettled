@@ -11,7 +11,7 @@ status:
 flavour: 
 
 images:
-- unsettled/imgs/gallery/Pasted%20image%2020250406092141.png
+- ../../imgs/gallery/Pasted%20image%2020250406092141.png
 
 statblock: true
 hp: 8

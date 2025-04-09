@@ -29,8 +29,8 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
 
 <div class="image-gallery">
   {% for image in page.images %}
-    <a href="{{ site.url }}{{ image | replace: site.title, '' }}" title="{{ page.title }}">
-      <img src="//wsrv.nl/?url={{ site.url }}{{ image | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ page.title }}"/>
+    <a href="{{ site.url }}{{ image | relative_url }}" title="{{ page.title }}">
+      <img src="//wsrv.nl/?url={{ site.url }}{{ image | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ page.title }}"/>
     </a>
   {% endfor %}
 </div>
@@ -52,7 +52,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
       {% if my_page.images %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
           <span>{{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
         </a>
       {% else %}
         <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a>
@@ -76,7 +76,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
       {% if my_page.images %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
           <span>{{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
         </a>
       {% else %}
         <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a>
@@ -100,7 +100,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
       {% if my_page.images %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
           <span>{{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
         </a>
       {% else %}
         <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a>
@@ -124,7 +124,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
       {% if my_page.images %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
           <span>{{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
         </a>
       {% else %}
         <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a>
@@ -148,7 +148,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
       {% if my_page.images %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
           <span>{{ my_page.timestamp | date: "%B %-d" }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | replace: site.title, '' }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
         </a>
       {% else %}
         <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.timestamp | date: "%B %-d" }}</a>
