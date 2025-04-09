@@ -24,4 +24,4 @@ images:
 
 
 - Court of the Forest Queen
-- Served and guarded by the [Horned Knight](HornedKnight.md) and his Goblin Squires
+- Served and guarded by the [Horned Knight](unsettled/directory/DuskmeadowFringe/HornedKnight.md) and his Goblin Squires

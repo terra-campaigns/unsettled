@@ -26,6 +26,6 @@ Escorting caravans or tracking fugitives. Takes job on to use his blade and hors
 
 He has respect for the dead.
 
-Has worked with [Stone](Stone.md) in the past.
+Has worked with [Stone](unsettled/directory/Sigisfarne/Stone.md) in the past.
 
 Horned Knight: Gained the respect of the horned knight in a race. You might be recognised by other fae.

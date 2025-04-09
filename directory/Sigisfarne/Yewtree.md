@@ -28,5 +28,5 @@ details:
 
 - **Appearance**: You have a Short Physique, Tanned Skin, and Wavy Hair. Your Face is Sharp, your Speech Blunt. You have Filthy Clothing. You are Courageous and Bitter. You are 12 years old.
 - Town bonekeeper.
-- He’s buried a lot of people, including Clive, son of [Cai](Cai.md).
+- He’s buried a lot of people, including Clive, son of [Cai](unsettled/directory/Sigisfarne/Cai.md).
 - Corageous.

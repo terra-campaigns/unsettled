@@ -37,9 +37,8 @@ def find_markdown_links(directory):
                         
                         # For internal links, resolve the full path correctly
                         if is_internal:
-                            # Normalize the path relative to the current file's directory
-                            resolved_path = os.path.normpath(os.path.join(os.path.dirname(cleaned_file_path), url))
-                            full_url = resolved_path.replace("\\", "/")  # Use forward slashes for consistency
+                            parts = url.split("/", 1)  # Split the URL into two parts at the first "/"
+                            full_url = parts[1] if len(parts) > 1 else url  # Keep everything after the first "/"
                         else:
                             # For external links, use the original URL and add a favicon URL
                             full_url = url

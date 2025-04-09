@@ -47,4 +47,4 @@ Red tiles behind mosaics.
 
 The walls are covered in bioluminescent fungi.
 In the middle lies a marble statue of a saint.
-The group recognise her as one of the [Weeping](../weepingMother/index.md) Sisters.
+The group recognise her as one of the [Weeping](unsettled/directory/weepingMother/index.md) Sisters.

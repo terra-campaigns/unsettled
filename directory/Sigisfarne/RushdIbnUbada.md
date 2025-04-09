@@ -33,4 +33,4 @@ details:
 - **The Seeker** is consumed by questions of existence, driven to unravel the mysteries of the past and present before time slips away. They delve into forgotten ruins, dissecting enigmas to uncover truths no one else dares to seek.
 - **Silver Moss**. You once freed a Naiad from a choked stream. In return, it gave you some Silver Moss (petty). 
 - **What did you last hunt?** An ice nettle, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. 
-- Believer of the [Church of the Weeping Mother](../weepingMother/index.md)
+- Believer of the [Church of the Weeping Mother](unsettled/directory/weepingMother/index.md)
