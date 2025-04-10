@@ -6,7 +6,7 @@ nav_exclude: false
 has_children: true
 
 parent: Sigisfarne
-title: Ruined Church in Sigisfarne
+title: Ruined Church
 role: Ruind of an older religion
 status: 
 flavour: 

@@ -252,6 +252,12 @@
             },
             {
                 "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -399,6 +405,12 @@
             {
                 "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_011.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -609,6 +621,12 @@
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "RuinedChurch",
+                "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/Razvan.md": [
@@ -658,6 +676,12 @@
             {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razvan",
+                "url": "campaigns/Book_01/ep_011.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -758,6 +782,12 @@
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "RushdIbnUbada",
+                "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/index.md": [
@@ -778,6 +808,12 @@
             },
             {
                 "text": "Yewtree",
+                "url": "directory/Sigisfarne/Hackett.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yewtree",
                 "url": "campaigns/Book_01/ep_003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -793,12 +829,24 @@
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Yewtree",
+                "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/Cai.md": [
             {
                 "text": "Cai",
                 "url": "directory/Sigisfarne/Yewtree.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cai",
+                "url": "directory/Sigisfarne/Mateus.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -829,6 +877,12 @@
             {
                 "text": "grieving mother",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cai",
+                "url": "campaigns/Book_01/ep_011.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -927,6 +981,20 @@
                 "favicon": null
             },
             {
+                "text": "spectral animals",
+                "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cai",
+                "url": "directory/Sigisfarne/Cai.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Mateus",
                 "url": "campaigns/Book_01/ep_003.md",
                 "is_internal": true,
@@ -952,7 +1020,119 @@
             },
             {
                 "text": "Mateus",
+                "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mateus",
                 "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_011.md": [
+            {
+                "text": "spectral animals",
+                "url": "directory/Sigisfarne/Mateus.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hackett",
+                "url": "directory/Sigisfarne/Hackett.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "RushdIbnUbada",
+                "url": "directory/Sigisfarne/RushdIbnUbada.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cai",
+                "url": "directory/Sigisfarne/Cai.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razvan",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mateus",
+                "url": "directory/Sigisfarne/Mateus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yewtree",
+                "url": "directory/Sigisfarne/Yewtree.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "RuinedChurch",
+                "url": "directory/Sigisfarne/RuinedChurch.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hackett",
+                "url": "directory/Sigisfarne/Hackett.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Arlo",
+                "url": "directory/Sigisfarne/Arlo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Hackett.md": [
+            {
+                "text": "Yewtree",
+                "url": "directory/Sigisfarne/Yewtree.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hackett",
+                "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hackett",
+                "url": "campaigns/Book_01/ep_011.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1526,6 +1706,14 @@
             {
                 "text": "Flint",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/Arlo.md": [
+            {
+                "text": "Arlo",
+                "url": "campaigns/Book_01/ep_011.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

@@ -34,3 +34,6 @@ details:
 - **Silver Moss**. You once freed a Naiad from a choked stream. In return, it gave you some Silver Moss (petty). 
 - **What did you last hunt?** An ice nettle, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. 
 - Believer of the [Church of the Weeping Mother](../weepingMother/index.md)
+
+Scarred and broken body.
+Someone that has suffered.

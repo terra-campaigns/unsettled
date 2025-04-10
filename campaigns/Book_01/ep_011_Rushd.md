@@ -1,0 +1,1 @@
+![]({{ site.url }}{{ "../../imgs/gallery/Pasted%20image%2020250409234946.png" | relative_url }})
