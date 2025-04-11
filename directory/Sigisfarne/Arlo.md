@@ -31,3 +31,4 @@ Bond: You inherited an old Journal, bound in bark. Each evening, its pages are f
 
 
 - Deadly afraid of heights.
+- Afraid of ghosts

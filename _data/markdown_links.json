@@ -195,6 +195,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Underground Temple",
+                "url": "campaigns/Book_01/ep_012.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "underground temple",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
@@ -332,6 +338,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/ep_012.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Fringe",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
@@ -393,6 +405,12 @@
             {
                 "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_012.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -663,6 +681,12 @@
             },
             {
                 "text": "Razzy",
+                "url": "campaigns/Book_01/ep_012.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -727,6 +751,12 @@
             {
                 "text": "Drake",
                 "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Drake",
+                "url": "campaigns/Book_01/ep_012.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -865,6 +895,12 @@
             {
                 "text": "Cai",
                 "url": "campaigns/Book_01/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cai",
+                "url": "campaigns/Book_01/ep_012.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1434,7 +1470,71 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/Book_01/ep_012.md": [
+            {
+                "text": "Drake",
+                "url": "directory/Sigisfarne/Drake.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Underground Temple",
+                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "week and a half ago",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Arlo",
+                "url": "directory/Sigisfarne/Arlo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cai",
+                "url": "directory/Sigisfarne/Cai.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "campaigns/Book_01/ep_009.md": [
+            {
+                "text": "week and a half ago",
+                "url": "campaigns/Book_01/ep_012.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "Hilda",
                 "url": "directory/Sigisfarne/Hilda.md",
@@ -1511,6 +1611,20 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Arlo.md": [
+            {
+                "text": "Arlo",
+                "url": "campaigns/Book_01/ep_012.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Arlo",
+                "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/Yarrow.md": [
@@ -1706,14 +1820,6 @@
             {
                 "text": "Flint",
                 "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Sigisfarne/Arlo.md": [
-            {
-                "text": "Arlo",
-                "url": "campaigns/Book_01/ep_011.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
