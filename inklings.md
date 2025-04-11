@@ -24,10 +24,13 @@ kanban-plugin: board
 
 ## Snoozed
 
+
+
+***
+
+## Archive
+
 - [ ] 2 wine boxes worth 30gp each ready on the 6th april
-
-
-
 
 %% kanban:settings
 ```
