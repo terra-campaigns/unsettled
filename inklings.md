@@ -20,6 +20,8 @@ kanban-plugin: board
 - [ ] Fairy Queen's bargains
 - [ ] Indigo: You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself.
 - [ ] https://talk.jekyllrb.com/t/jekyll-photo-gallery/1499
+- [ ] Ruina montium
+- [ ] Legião estacionada em algum lugar
 
 
 ## Snoozed
