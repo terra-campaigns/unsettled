@@ -1,7 +1,7 @@
 ---
 layout: default
 template: 0.4
-type: creature
+type: location
 nav_exclude: true
 
 parent: Duskmeadow Fringe
