@@ -20,9 +20,24 @@ nav_order: 99
 - You may adapt your *Description* and *Bonds* sections as you see fit.
 - Paste a copy of your character and introduce them on the [Dramatis Personae](https://discord.com/channels/1060840338777964565/1340382334674927647) channel.
 
+<details open markdown="block">
+  <summary id="index">
+    <b>Perchance (New)</b><br> 
+  </summary>
+{: .text-delta}
+---
+<div style="height:50vh; width:110%;">
+  <iframe
+    src="https://null.perchance.org/unsettled-chargen"
+    style="border:none; width:90%; height:100%;"
+    allowfullscreen
+  ></iframe>
+</div>
+</details>
+
 <details close markdown="block">
   <summary id="index">
-    <b>Kettlewright</b><br> 
+    <b>Kettlewright (Original Generator)</b><br> 
   </summary>
 {: .text-delta}
 ---
@@ -34,21 +49,6 @@ nav_order: 99
   ></iframe>
 </div>
 **Note**: Discard the *Omens* section above.
-</details>
-
-<details close markdown="block">
-  <summary id="index">
-    <b>Perchance (New)</b><br> 
-  </summary>
-{: .text-delta}
----
-<div style="height:65vh; width:100%;">
-  <iframe
-    src="https://null.perchance.org/unsettled-chargen"
-    style="border:none; width:90%; height:100%;"
-    allowfullscreen
-  ></iframe>
-</div>
 </details>
 
 # House Rules
