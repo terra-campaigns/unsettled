@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Directory
+template: 0.4
 has_children: true
 nav_order: 51
 has_toc: false
 
 ---
+
+{% comment %}
 
 # Directory
 
@@ -84,3 +87,7 @@ has_toc: false
 </details>
 
 <iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/folklore/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="352" frameBorder="0" style="color-scheme: site" allowfullscreen=""></iframe>
+
+{% endcomment %}
+
+{% include header_directories.md %}

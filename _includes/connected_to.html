@@ -1,3 +1,5 @@
+{% if page.title != 'Directory' %}
+
 {% assign children_pages = site.pages | where: 'parent', page.title %}
 
 {% assign links_pages = "" | split: "," %}
@@ -7,6 +9,12 @@
 {% endfor %}
 
 {% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' | where_exp:"item", "item.nav_exclude != true"%}
+
+{% else %}
+
+{% assign all_references =  site.pages | where_exp:"item", "item.path contains 'directory/'" %}
+
+{% endif %}
 
 {% comment %}
 Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#

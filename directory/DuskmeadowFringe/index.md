@@ -25,14 +25,6 @@ images:
 
 {% endcomment %} 
 
-## [Rabbit's Inn](RabbitInn.md)
-
-## [Hunter's Cabin](HuntersCabin.md)
-
-## [Underground Temple](UndergroundTemple.md)
-
-## [Quarry](Quarry.md)
-
 ## Rodent's pit
 
 - SW of Sigisfarne
@@ -41,6 +33,3 @@ images:
 ## Sky Spire
 
 - Seen from a distance in [March 2025](../../campaigns/Book_01/ep_005.md)
-
-## [Queensweald](Queensweald.md)
-
