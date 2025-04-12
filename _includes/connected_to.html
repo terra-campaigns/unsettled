@@ -8,11 +8,11 @@
 	{% assign links_pages = links_pages | push: captured_page[0] | uniq %}
 {% endfor %}
 
-{% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' | where_exp:"item", "item.nav_exclude != true"%}
+{% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' | where_exp:"item", "item.nav_exclude != true" %}
 
 {% else %}
 
-{% assign all_references =  site.pages | where_exp:"item", "item.path contains 'directory/'" %}
+{% assign all_references =  site.pages | where_exp:"item", "item.path contains 'directory/'" | where_exp:"item", "item.nav_exclude != true" %}
 
 {% endif %}
 
