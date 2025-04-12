@@ -149,12 +149,6 @@
             },
             {
                 "text": "Queensweald",
-                "url": "directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Queensweald",
                 "url": "campaigns/Book_01/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -181,12 +175,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            },
-            {
-                "text": "Hunter's Cabin",
-                "url": "directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             },
             {
                 "text": "cabin filled",
@@ -272,12 +260,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            },
-            {
-                "text": "Rabbit's Inn",
-                "url": "directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             },
             {
                 "text": "Rabbit Inn",
@@ -384,12 +366,6 @@
                 "favicon": null
             },
             {
-                "text": "Underground Temple",
-                "url": "directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
                 "text": "underground temple",
                 "url": "campaigns/Book_01/ep_003.md",
                 "is_internal": true,
@@ -479,34 +455,6 @@
                 "favicon": null
             },
             {
-                "text": "Rabbit's Inn",
-                "url": "directory/DuskmeadowFringe/RabbitInn.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Hunter's Cabin",
-                "url": "directory/DuskmeadowFringe/HuntersCabin.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Underground Temple",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Quarry",
-                "url": "directory/DuskmeadowFringe/Quarry.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
                 "text": "March 2025",
                 "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
@@ -516,13 +464,6 @@
             {
                 "text": "March 2025",
                 "url": "campaigns/Book_01/ep_005.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Queensweald",
-                "url": "directory/DuskmeadowFringe/Queensweald.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -566,32 +507,6 @@
             {
                 "text": "Fringe",
                 "url": "campaigns/Book_01/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/DuskmeadowFringe/Quarry.md": [
-            {
-                "text": "Quarry",
-                "url": "directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Quarry",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "quarry",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Quarry",
-                "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1555,6 +1470,26 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "directory/DuskmeadowFringe/Quarry.md": [
+            {
+                "text": "Quarry",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "quarry",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Quarry",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/TheHunger.md": [
