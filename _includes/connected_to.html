@@ -63,7 +63,10 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
           <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
         </a>
       {% else %}
-        <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a>
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}https://terra-campaigns.github.io/unsettled/imgs/humanoid61.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a> 
       {% endif %}
     {% endif %}
   {% endfor %}
