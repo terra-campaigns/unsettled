@@ -11,7 +11,7 @@ role:
 status: 
 
 images:
-- unsettled/imgs/gallery/3_underground_heating.jpg
+- ../../imgs/gallery/3_underground_heating.jpg
 
 ---
 
