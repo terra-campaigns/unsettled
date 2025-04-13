@@ -340,6 +340,12 @@
             },
             {
                 "text": "Sigisfarne",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -495,6 +501,12 @@
             {
                 "text": "Fringe",
                 "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -815,6 +827,27 @@
                 "url": "directory/Sigisfarne/index.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kryptwood",
+                "url": "directory/Kryptwood/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/Sigisfarne/Yewtree.md": [
@@ -1743,7 +1776,14 @@
             },
             {
                 "text": "Hendenburgh",
-                "url": "directory/Hendenburgh/index.md",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kryptwood",
+                "url": "directory/Kryptwood/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1757,10 +1797,24 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Hendenburgh/index.md": [
+        "directory/Kryptwood/Hendenburgh.md": [
             {
                 "text": "Hendenburgh",
                 "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/index.md": [
+            {
+                "text": "Kryptwood",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kryptwood",
+                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

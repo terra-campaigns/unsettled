@@ -10,14 +10,12 @@ parent: Directory
 title: Hendenburgh
 role: Forest Village
 status: 
-flavour: 
 
-image: 
+images: 
 
 ---
 
 {% include header_directories.md %}
-
-{% comment %} 
-
-{% endcomment %} 
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
