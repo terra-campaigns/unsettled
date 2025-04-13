@@ -37,6 +37,8 @@ You have an Athletic Physique, Rosy Skin, and Curly Hair. Your Face is Elongated
 
 Not of courage. Scared of the unknown.
 
+Under a vendetta of the [Piot Chant](unsettled/directory/DuskmeadowFringe/PiotChant.md), which was lifted by the Forest Queen at the [Queensweald](unsettled/directory/DuskmeadowFringe/Queensweald.md).
+
 Received a cravat from a faerie. It is brown, the most beautiful brown. It catches attention. 
 Wearing it makes parlaying with the Fae easier. They will look at you with different eyes.
 

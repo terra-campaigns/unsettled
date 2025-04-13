@@ -10,6 +10,7 @@ role: Cutpurse
 status: 
 
 images:
+- ../../imgs/gallery/Arlo.png
 
 ---
 
