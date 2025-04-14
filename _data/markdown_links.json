@@ -625,6 +625,12 @@
                 "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Anthology/ep_101.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/RuinedChurch.md": [
@@ -1990,6 +1996,45 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "campaigns/Anthology/ep_101.md": [
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "crows",
+                "url": "directory/DuskmeadowFringe/TheChoir.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ruined bathhouse",
+                "url": "directory/DuskmeadowFringe/BanditsBath.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/DuskmeadowFringe/TheChoir.md": [
+            {
+                "text": "crows",
+                "url": "campaigns/Anthology/ep_101.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/BanditsBath.md": [
+            {
+                "text": "ruined bathhouse",
+                "url": "campaigns/Anthology/ep_101.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "systems/index.md": [

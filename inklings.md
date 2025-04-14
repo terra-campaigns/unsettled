@@ -21,6 +21,7 @@ kanban-plugin: board
 - [ ] https://talk.jekyllrb.com/t/jekyll-photo-gallery/1499
 - [ ] Ruina montium
 - [ ] Legião estacionada em algum lugar
+- [ ] Are they recovering the statue of the sister?
 
 
 ## Snoozed
