@@ -76,14 +76,14 @@ Below are guidelines for hexcrawls. GMs may combine hex types to define pace and
 - Visibility is the range of hexes that can be seen.
 - Wilderness rolls happen once every day (instead of every watch).
 
-| Hex type                                                     | Pace | Visibility |
-| ------------------------------------------------------------ | ---- | ---------- |
-| **Elevation**: Flatlands                                     | 4    | 1          |
-| **Elevation**: Hills                                         | 3    | 2          |
-| **Elevation**: Mountains (requires a pass to travel through) | 2    | 3          |
-| **Biome**: Scrub and grass                                   |      |            |
-| **Biome**: Forest                                            | -1   | -1         |
-| **Biome**: Swamp                                             | -2   | -1         |
-| **Biome**: Jungle                                            | -2   | -2         |
-| **Feature**: Roads                                           | +1   |            |
-
+|                                                              |          |                |
+| ------------------------------------------------------------ | -------- | -------------- |
+| **Hex type**                                                 | **Pace** | **Visibility** |
+| **Elevation**: Flatlands                                     | 4        | 1              |
+| **Elevation**: Hills                                         | 3        | 2              |
+| **Elevation**: Mountains (requires a pass to travel through) | 2        | 3              |
+| **Biome**: Scrub and grass                                   |          |                |
+| **Biome**: Forest                                            | -1       | -1             |
+| **Biome**: Swamp                                             | -2       | -1             |
+| **Biome**: Jungle                                            | -2       | -2             |
+| **Feature**: Roads                                           | +1       |                |
