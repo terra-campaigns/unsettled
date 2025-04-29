@@ -66,3 +66,24 @@ nav_order: 99
 - Crossroad inns and non-hostile settlements PCs have visited before are **Safe Locations**.
 - PCs can start incursion from **Safe Locations**, but travel costs 5gp in supplies per journey day.
 - Boarding in a **Safe Location** (so PCs start adventuring the next morning after travel) is possible and costs 10gp.
+
+## Hexcrawl 
+
+Below are guidelines for hexcrawls. GMs may combine hex types to define pace and visibility for hexes.
+
+- Hex are 3 miles (centre-to-centre) and watches are 8 hours long.
+- Pace is measured in hexes per watch.
+- Visibility is the range of hexes that can be seen.
+- Wilderness rolls happen once every day (instead of every watch).
+
+| Hex type                                                     | Pace | Visibility |
+| ------------------------------------------------------------ | ---- | ---------- |
+| **Elevation**: Flatlands                                     | 4    | 1          |
+| **Elevation**: Hills                                         | 3    | 2          |
+| **Elevation**: Mountains (requires a pass to travel through) | 2    | 3          |
+| **Biome**: Scrub and grass                                   |      |            |
+| **Biome**: Forest                                            | -1   | -1         |
+| **Biome**: Swamp                                             | -2   | -1         |
+| **Biome**: Jungle                                            | -2   | -2         |
+| **Feature**: Roads                                           | +1   |            |
+
