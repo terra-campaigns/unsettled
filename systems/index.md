@@ -83,7 +83,7 @@ Below are guidelines for hexcrawls. GMs may combine hex types to define pace and
 | **Elevation**: Hills                                         | 3        | 2              |
 | **Elevation**: Mountains (requires a pass to travel through) | 2        | 3              |
 | **Biome**: Scrub and grass                                   |          |                |
-| **Biome**: Forest                                            | -1       | -1             |
+| **Biome**: Forest, Desert or Badlands                        | -1       | -1             |
 | **Biome**: Swamp                                             | -2       | -1             |
 | **Biome**: Jungle                                            | -2       | -2             |
 | **Feature**: Roads                                           | +1       |                |
