@@ -9,14 +9,13 @@ nav_order: 99
 
 # Cairn 2e
 
-- ***unsettled*** uses **Cairn 2e** as the base rules.
+- ***unsettled*** is a **Cairn 2e** game.
 - **Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.
-- Extensions to the base rules, when needed, will be published on this website.
+- Extensions to the base rules, when needed, will be published here.
 
 ## Character Generation
 
-- You can roll your character manually using the Cairn book or website.
-- Alternatively, use Kettlewright or Perchance below.
+- Roll your character manually or use the generator below.
 - You may adapt your *Description* and *Bonds* sections as you see fit.
 - Paste a copy of your character and introduce them on the [Dramatis Personae](https://discord.com/channels/1060840338777964565/1340382334674927647) channel.
 
@@ -26,7 +25,7 @@ nav_order: 99
   </summary>
 {: .text-delta}
 ---
-<div style="height:50vh; width:110%;">
+<div style="height:60vh; width:110%;">
   <iframe
     src="https://null.perchance.org/unsettled-chargen"
     style="border:none; width:90%; height:100%;"
@@ -52,6 +51,7 @@ nav_order: 99
 </details>
 
 # House Rules
+
 ## Abstracted living and travel
 
 ### Base Locations
