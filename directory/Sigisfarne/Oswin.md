@@ -10,7 +10,8 @@ role: Hexenbane
 parent: Sigisfarne
 statblock: false
 
-image: 
+images:
+- ../../imgs/gallery/portrait18.webp
 
 str: 
 dex: 
@@ -24,6 +25,9 @@ details:
 ---
 
 {% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
 
 You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
 
