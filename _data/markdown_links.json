@@ -322,6 +322,12 @@
             },
             {
                 "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_006.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -365,6 +371,12 @@
             {
                 "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_014.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -690,6 +702,12 @@
             },
             {
                 "text": "Razzy",
+                "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
                 "url": "campaigns/Book_01/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -745,6 +763,12 @@
             {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_014.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -841,6 +865,12 @@
             },
             {
                 "text": "Stone",
+                "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
                 "url": "campaigns/Book_01/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -848,6 +878,12 @@
             {
                 "text": "Stone",
                 "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_014.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1349,6 +1385,65 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/Book_01/ep_013.md": [
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Stone",
+                "url": "directory/Sigisfarne/Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vihero",
+                "url": "directory/Sigisfarne/Vihero.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Moun Cacalou",
+                "url": "directory/Sigisfarne/MounCacalou.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Vihero.md": [
+            {
+                "text": "Vihero",
+                "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vihero",
+                "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/MounCacalou.md": [
+            {
+                "text": "Moun Cacalou",
+                "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/Book_01/ep_007.md": [
             {
                 "text": "Drake",
@@ -1754,6 +1849,12 @@
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/Hippareiones.md": [
@@ -1996,6 +2097,58 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "campaigns/Book_01/ep_014.md": [
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Indigo",
+                "url": "directory/Sigisfarne/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Stone",
+                "url": "directory/Sigisfarne/Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vihero",
+                "url": "directory/Sigisfarne/Vihero.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gerrik",
+                "url": "directory/Sigisfarne/Gerrik.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Gerrik.md": [
+            {
+                "text": "Gerrik",
+                "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Anthology/ep_101.md": [
