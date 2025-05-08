@@ -278,6 +278,12 @@
                 "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Rabbit's Inn",
+                "url": "campaigns/Book_01/ep_015.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/index.md": [
@@ -353,6 +359,12 @@
             {
                 "text": "Sigisfarne",
                 "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_015.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -744,6 +756,12 @@
             },
             {
                 "text": "Razzy",
+                "url": "campaigns/Book_01/ep_015.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -846,6 +864,12 @@
             {
                 "text": "Drake",
                 "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Drake",
+                "url": "campaigns/Book_01/ep_015.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1081,6 +1105,12 @@
             {
                 "text": "Hilda",
                 "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_015.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1832,6 +1862,12 @@
             },
             {
                 "text": "Yarrow",
+                "url": "campaigns/Book_01/ep_015.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yarrow",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1958,6 +1994,63 @@
                 "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Oswin",
+                "url": "campaigns/Book_01/ep_015.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_015.md": [
+            {
+                "text": "Drake",
+                "url": "directory/Sigisfarne/Drake.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yarrow",
+                "url": "directory/Sigisfarne/Yarrow.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rabbit's Inn",
+                "url": "directory/DuskmeadowFringe/RabbitInn.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Oswin",
+                "url": "directory/Sigisfarne/Oswin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hilda",
+                "url": "directory/Sigisfarne/Hilda.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "campaigns/Book_01/ep_001.md": [
