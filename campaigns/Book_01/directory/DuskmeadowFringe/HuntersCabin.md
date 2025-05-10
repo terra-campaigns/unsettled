@@ -23,4 +23,4 @@ images:
 - 2 days north of Sigisfarne
 - It is well maintained and clean.
 - Located within a dead forest
-- Dried meat, [some think](../../Book_01/ep_005.md) of human origin.
+- Dried meat, [some think](../../ep_005.md) of human origin.
