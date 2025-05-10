@@ -15,6 +15,8 @@ footer_content:
 
 The events of this campaign explore [Sigisfarne](../../directory/Sigisfarne/index.md) and its surroundings, such as the [Duskmeadow Fringe](../../directory/DuskmeadowFringe/index.md) and the [Kryptwood](../../directory/Kryptwood/index.md).
 
+---
+
 # System
 
 - ***Book I*** is a **Cairn 2e** campaign.
