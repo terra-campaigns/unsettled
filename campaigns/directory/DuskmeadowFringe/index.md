@@ -28,8 +28,8 @@ images:
 ## Rodent's pit
 
 - SW of Sigisfarne
-- Visited on [March 2025](../../campaigns/Book_01/ep_004.md)
+- Visited on [March 2025](../../Book_01/ep_004.md)
 
 ## Sky Spire
 
-- Seen from a distance in [March 2025](../../campaigns/Book_01/ep_005.md)
+- Seen from a distance in [March 2025](../../Book_01/ep_005.md)
