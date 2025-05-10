@@ -8,13 +8,13 @@ prefooter_campaign v0.2
 {%
     assign pagesFromHere = site.pages
     | where_exp: "item", "item.dir contains page.dir"
-    | where_exp: "item", "item.timestamp" 
-    | sort: 'timestamp'
+    | where_exp: "item", "item.type == 'session'" 
+    | sort: 'nav_order'
 %}
 <p>
 {% for entry in pagesFromHere %}
     {% if entry.path != page.path %}
-        {{ entry.region}}, {{ entry.timestamp }}: <a href="{{ site.url }}{{ entry.url }}">{{ entry.title }}</a>
+        {{ entry.region}}, {{ entry.nav_order | date: "%B %-d"}}: <a href="{{ site.url }}{{ entry.url }}">{{ entry.title }}</a>
         {% if page.url == '/' %}
             ({{ entry.parent }})
         {% endif %}
