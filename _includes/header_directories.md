@@ -1,3 +1,14 @@
+{% assign parts = page.path | split: "/" %}
+{% assign campaign = parts[1] %}
+
+<script>
+{% if campaign == "Book_01" %}
+jtd.setTheme("unsettled")
+{% elsif campaign == "Book_02"%}
+jtd.setTheme("charged")
+{% endif %}
+</script>
+
 {% comment %} template: 0.4 {% endcomment %}
 
 {% if page.template >= 0.4 %}
