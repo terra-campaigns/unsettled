@@ -45,32 +45,27 @@ You are now ***unsettled***.
 [Face of a Dead Sun](https://asmogrimae.com/) by Asmo Grimae
 
 ---
-## Open Table
-
-**GMs:** OddCore (Nick) & efsa (Estêvão)  
-**Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: Every 4~6 days  
-**Time & Duration**: 1945 UTC for 2~3h  
-**Sign-up**: First come first served, 2 to 5 players  
-**TTRPG system**: [Cairn 2e](https://cairnrpg.com/second-edition/)  
-**Genre**: Weird Fantasy  
-**VTT**: Theatre of the mind + Owlbear Rodeo  
-**Language**: English  
-**Communication**: Discord voice (video is optional)  
-**Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression  
-**Notes**:  
-Proactive engagement and goal driven characters make the world shine brighter.  
-Downtime and some light conversations with characters may be done through PbP.
 
 {% comment %} Session text
 
 **unsettled** | Cairn 2e [Open Table]
 
-[Campaign website](https://terra-campaigns.github.io/unsettled/)  
-[Latest events](https://terra-campaigns.github.io/unsettled/#timeline-of-events)  
-[Create a character](https://terra-campaigns.github.io/unsettled/systems/#character-generation)  
-[Campaign hexmap](https://www.owlbear.rodeo/room/yxcSrOn0eZ_r/Unsettled)  
-[Kettlewright](https://kettlewright.com/) party code: 3dfe1c7a085bbf35
+**GMs:** Efsa (Estêvão) & guests  
+**Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
+**Frequency**: Every 8 days  
+**Time & Duration**: 1945 UTC for 2~3h  
+**Sign-up**: First come first served, 2 to 5 players  
+**Genre**: Weird Fantasy  
+**Language**: English  
+**Communication**: Discord voice (video is optional)  
+**Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression  
+**Useful links**:  
+[Campaign website](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/)    
+[TTRPG system & chargen](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#system)  
+[Owlbear Rodeo](https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled)
+[Inventory Management](https://docs.google.com/spreadsheets/d/1NtuCQ-6oy5MD8iUA65_5N1TAezPsuV546jgH2-wI-BM/edit?gid=0#gid=0)
+**Notes**:  
+Downtime and some light conversations with characters may be done through PbP.
 
 2 hours and 45 minutes
 
