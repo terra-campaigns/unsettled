@@ -4,7 +4,7 @@
 <script>
 {% if campaign == "Book_01" %}
 jtd.setTheme("unsettled")
-{% elsif campaign == "Book_02"%}
+{% elsif campaign == "FailedExports"%}
 jtd.setTheme("charged")
 {% endif %}
 </script>
