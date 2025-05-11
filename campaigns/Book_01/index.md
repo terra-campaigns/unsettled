@@ -13,7 +13,41 @@ footer_content:
 
 {% include header_directories.md %}
 
-The events of this campaign explore [Sigisfarne](directory/Sigisfarne/index.md) and its surroundings, such as the [Duskmeadow Fringe](directory/DuskmeadowFringe/index.md) and the [Kryptwood](directory/Kryptwood/index.md).
+![](https://i.imgur.com/jrDqZJV.png)
+
+People settle in villages and towns.  
+They bring order to their lives and surroundings.  
+Strict hierarchy and rules apply.  
+This pleases ***Law***.
+
+Dark places spread and fold and coil unto themselves.  
+Like an ever-growing virus.  
+They make the impermanent.  
+This pleases ***Chaos***.
+
+***Law*** and ***Chaos*** hate each other destructively.  
+They can only act on their hate through their acolytes.
+
+You led a normal life.  
+Not anymore.  
+You are now ***unsettled***.
+
+---
+## Appendix N
+
+*Smell* the world, *see* the ***unsettled*** art board.
+
+<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="652" frameBorder="0" style="color-scheme: site" allowfullscreen=""></iframe>
+
+*Feel* the world, *listen* to the ***unsettled*** playlist.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2PL9qS68ckXkKLzheF8YsB?utm_source=generator&theme=1" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### Films & Books
+
+[The Green Knight](https://www.imdb.com/title/tt9243804/) (2021 film)  
+[Face of a Dead Sun](https://asmogrimae.com/) by Asmo Grimae
+
 
 ---
 
