@@ -6,6 +6,16 @@ nav_order: 1
 footer_content:
 ---
 
+{% assign colourhour = "now" | date: "%H" | minus: 8 %}
+
+<script>
+    {% if colourhour > 12 %}
+    jtd.setTheme("unsettled")
+    {% else %}
+    jtd.setTheme("charged")
+    {% endif %}
+</script>
+
 **unsettled**
 {: .text-alpha }
 
