@@ -76,20 +76,6 @@
         ],
         "index.md": [
             {
-                "text": "The Green Knight",
-                "url": "https://www.imdb.com/title/tt9243804/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://www.imdb.com/favicon.ico"
-            },
-            {
-                "text": "Face of a Dead Sun",
-                "url": "https://asmogrimae.com/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://asmogrimae.com/favicon.ico"
-            },
-            {
                 "text": "Open Table",
                 "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
                 "is_internal": false,
@@ -591,12 +577,6 @@
             },
             {
                 "text": "Sigisfarne",
-                "url": "campaigns/Book_01/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_015.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -636,13 +616,6 @@
                 "url": "campaigns/Book_01/directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Book I",
-                "url": "campaigns/Book_01/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
             },
             {
                 "text": "March",
@@ -687,12 +660,6 @@
             {
                 "text": "Fringe",
                 "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Duskmeadow Fringe",
-                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1724,41 +1691,6 @@
             {
                 "text": "Kryptwood",
                 "url": "campaigns/Book_01/ep_008.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Kryptwood",
-                "url": "campaigns/Book_01/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/Book_01/index.md": [
-            {
-                "text": "Sigisfarne",
-                "url": "campaigns/Book_01/directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Duskmeadow Fringe",
-                "url": "campaigns/Book_01/directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Kryptwood",
-                "url": "campaigns/Book_01/directory/Kryptwood/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Book I",
-                "url": "campaigns/Book_01/directory/Sigisfarne/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

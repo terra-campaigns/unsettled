@@ -13,6 +13,8 @@ footer_content:
 
 {% include header_directories.md %}
 
+---
+
 ![](https://i.imgur.com/jrDqZJV.png)
 
 People settle in villages and towns.  
@@ -43,15 +45,9 @@ You are now ***unsettled***.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2PL9qS68ckXkKLzheF8YsB?utm_source=generator&theme=1" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### Films & Books
-
-[The Green Knight](https://www.imdb.com/title/tt9243804/) (2021 film)  
-[Face of a Dead Sun](https://asmogrimae.com/) by Asmo Grimae
-
-
 ---
 
-# System
+## System
 
 - ***Book I*** is a **Cairn 2e** campaign.
 - **Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.

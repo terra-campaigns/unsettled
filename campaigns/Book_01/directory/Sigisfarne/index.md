@@ -14,7 +14,7 @@ status:
 flavour: 
 
 images:
-- ../../imgs/gallery/Pasted%20image%2020250406091305.png
+- ../../../../imgs/gallery/Pasted%20image%2020250406091305.png
 
 ---
 
@@ -43,7 +43,7 @@ The kingdom Sigisfarne is a part of lies to the south of the village, along the 
 A tax collector from the crown comes after every harvest.
 
 Sigisfarne sends a portion of the produce from the farms to the town to the south every harvest via riverboat. 
-Multiple crop failures in the years leading to [Book I](../../index.md).
+Multiple crop failures in the years leading the year of 1025.
 This was impacted in [March](../../ep_004.md).
 
 ## Religion
