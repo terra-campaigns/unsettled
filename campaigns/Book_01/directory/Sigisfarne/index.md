@@ -7,6 +7,7 @@ has_children: true
 has_toc: false
 
 parent: Directory
+grand_parent: Book I
 title: Sigisfarne
 role: Grassland Village
 status: 
