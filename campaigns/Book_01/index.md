@@ -49,8 +49,8 @@ You are now ***unsettled***.
 
 ## System
 
-- ***Book I*** is a **Cairn 2e** campaign.
-- **Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.
+***Book I*** is a **Cairn 2e** campaign.  
+**Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.  
 
 <details close markdown="block">
   <summary id="index">
