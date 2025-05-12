@@ -33,7 +33,7 @@ footer_content:
 #### Click on the image to view campaign page
 {: .text-right}
 
-[![](../../imgs/gallery/e67928ac699fa366c598382ee730c936.jpg)](campaigns/FailedExports/)
+[![](imgs/gallery/e67928ac699fa366c598382ee730c936.jpg)](campaigns/FailedExports/)
 
 {% comment %} Open table text
 
