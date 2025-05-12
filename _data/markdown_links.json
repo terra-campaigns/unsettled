@@ -2207,6 +2207,98 @@
                 "direction": "outbound",
                 "favicon": null
             }
+        ],
+        "campaigns/FailedExports/ep_001.md": [
+            {
+                "text": "Leonti Vites",
+                "url": "campaigns/FailedExports/directory/VioletCity/LeontiVites.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ferno",
+                "url": "campaigns/FailedExports/directory/Caravan1/Ferno.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Juao",
+                "url": "campaigns/FailedExports/directory/Caravan1/Juao.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Piero",
+                "url": "campaigns/FailedExports/directory/Caravan1/Piero.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Violet City",
+                "url": "campaigns/FailedExports/directory/VioletCity/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Last Chair Saloon",
+                "url": "campaigns/FailedExports/directory/VioletCity/LastChairSaloon.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/FailedExports/directory/VioletCity/LeontiVites.md": [
+            {
+                "text": "Leonti Vites",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/directory/Caravan1/Ferno.md": [
+            {
+                "text": "Ferno",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/directory/Caravan1/Juao.md": [
+            {
+                "text": "Juao",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/directory/Caravan1/Piero.md": [
+            {
+                "text": "Piero",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/directory/VioletCity/index.md": [
+            {
+                "text": "Violet City",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/directory/VioletCity/LastChairSaloon.md": [
+            {
+                "text": "Last Chair Saloon",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
         ]
     }
 }
