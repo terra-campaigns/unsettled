@@ -76,6 +76,20 @@
         ],
         "index.md": [
             {
+                "text": "![",
+                "url": "https://i.imgur.com/jrDqZJV.png",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://i.imgur.com/favicon.ico"
+            },
+            {
+                "text": "![",
+                "url": "../../imgs/gallery/e67928ac699fa366c598382ee730c936.jpg",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Open Table",
                 "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
                 "is_internal": false,
@@ -109,6 +123,14 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.google.com/favicon.ico"
+            }
+        ],
+        "../../imgs/gallery/e67928ac699fa366c598382ee730c936.jpg": [
+            {
+                "text": "![",
+                "url": "index.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "_site/README.md": [
