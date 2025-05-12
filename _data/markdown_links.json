@@ -84,7 +84,7 @@
             },
             {
                 "text": "![",
-                "url": "../../imgs/gallery/e67928ac699fa366c598382ee730c936.jpg",
+                "url": "imgs/gallery/e67928ac699fa366c598382ee730c936.jpg",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -125,7 +125,7 @@
                 "favicon": "https://docs.google.com/favicon.ico"
             }
         ],
-        "../../imgs/gallery/e67928ac699fa366c598382ee730c936.jpg": [
+        "imgs/gallery/e67928ac699fa366c598382ee730c936.jpg": [
             {
                 "text": "![",
                 "url": "index.md",
