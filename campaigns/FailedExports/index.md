@@ -21,7 +21,7 @@ You have failed as citizens of your castes in the Hegemony's capital.
 Since then, you have accumulated enormous debts with one of the capital's factions.
 
 But your debts were collected by a Financier from the North.
-This pioneer issued a permit to export to the Violet City in the northern steppes.
+This pioneer issued a permit to export you to the Violet City in the northern steppes.
 Upon arriving in the Violet City, you can still acquire an import permit to return to the Hegemony.
 But this will cost £3,500.
 
@@ -30,7 +30,7 @@ But this will cost £3,500.
 
 Vocês falharam como cidadãos das suas castas, na capital da Hegemonia. Desde então, vocês acumularam débitos altíssimos com uma das facções da capital. 
 
-Mas seus débitos foram coletados por um Financier do Norte. Esse pioneiro emitiu uma permissão para exportar para a Cidade Violeta nas estepes do norte. Ao chegarem na Cidade Violeta, vocês ainda podem adquirir uma permissão de importação, para voltarem para a Hegemonia. Mas isso vai custar £ 3.500.
+Mas seus débitos foram coletados por um Financier do Norte. Esse pioneiro emitiu uma permissão para exportar você para a Cidade Violeta nas estepes do norte. Ao chegarem na Cidade Violeta, vocês ainda podem adquirir uma permissão de importação, para voltarem para a Hegemonia. Mas isso vai custar £ 3.500.
 
 ---
 ## Appendix N
@@ -64,3 +64,5 @@ Mas seus débitos foram coletados por um Financier do Norte. Esse pioneiro emiti
   ></iframe>
 </div>
 </details>
+
+![](../../imgs/Screenshot%202025-05-12%20at%2017.53.24.png)
