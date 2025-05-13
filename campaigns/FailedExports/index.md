@@ -46,7 +46,7 @@ Mas seus débitos foram coletados por um Financier do Norte. Esse pioneiro emiti
 
 
 ---
-# System
+## System
 
 ***Failed Exports*** is a **Cairn 2e** campaign, using alternative backgrounds.  
 **Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.
@@ -64,5 +64,10 @@ Mas seus débitos foram coletados por um Financier do Norte. Esse pioneiro emiti
   ></iframe>
 </div>
 </details>
+
+### Travel procedures
+
+Cairn travel procedures are replaced with UVG's.  
+For tables that go to 20+, PCs may roll an additional d6 if they have a relevant background.
 
 ![](../../imgs/Screenshot%202025-05-12%20at%2017.53.24.png)
