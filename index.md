@@ -23,17 +23,31 @@ footer_content:
 
 ## Book I
 
-#### Click on the image to view campaign page
+#### Click on the image to view the campaign page
 {: .text-right}
 
 [![](https://i.imgur.com/jrDqZJV.png)](campaigns/Book_01/)
 
+{% comment %} Inspiration modules
+
+- Trophy (Loom, Gold, Dark) for the forests
+- Wolves of God for the relationship with a central faith
+
+{% endcomment %}
+
 ## Failed Exports
 
-#### Click on the image to view campaign page
+#### Click on the image to view the campaign page
 {: .text-right}
 
 [![](imgs/gallery/e67928ac699fa366c598382ee730c936.jpg)](campaigns/FailedExports/)
+
+{% comment %} Inspiration modules
+
+- Ultraviolet Grasslands
+- Electric Bastionland for some of the initial backgrounds
+
+{% endcomment %}
 
 {% comment %} Open table text
 

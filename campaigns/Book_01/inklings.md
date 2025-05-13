@@ -22,6 +22,7 @@ kanban-plugin: board
 - [ ] Ruina montium
 - [ ] Legião estacionada em algum lugar
 - [ ] Are they recovering the statue of the sister?
+- [ ] Different language in the south
 
 
 ## Snoozed
