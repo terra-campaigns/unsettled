@@ -68,3 +68,8 @@ You are now ***unsettled***.
   ></iframe>
 </div>
 </details>
+
+### Travel procedures
+
+Wilderness dice will be based on the chance of an event: d6 < d8 < d10 < d12 < d20.  
+A result of 7+ indicates **no events**.
