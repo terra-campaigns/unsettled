@@ -2,8 +2,8 @@
 layout: default
 template: 0.4
 type: location
-nav_exclude: true
-has_children: true
+nav_exclude: false
+has_children: false
 
 parent: Duskmeadow Fringe
 title: Bandit's Bath
@@ -25,7 +25,7 @@ Entrance to the Blue Mountain realm through Iron Doors.
 It cannot be opened from the outside.
 A silver skull keeps it open.
 
-Hideout of petty bandits that steal rural villages.
+Hideout of petty bandits that steal from rural villages.
 Their treasures are kept safe by Chaos Cultists
 
 Two villagers went in a few days ago.

@@ -2,7 +2,7 @@
 layout: default
 template: 0.4
 type: creature
-nav_exclude: true
+nav_exclude: false
 
 parent: Duskmeadow Fringe
 title: Flock of Crows
@@ -10,7 +10,7 @@ role: Folk Horror
 status:
 
 images:
-- ../../imgs/gallery/Pasted%20image%2020250408213653.png
+- ../../../../imgs/gallery/Pasted%20image%2020250408213653.png
 
 statblock: false
 hp: 18
