@@ -1,3 +1,4 @@
+```
 dsix = {1-6}
 dfour = {1-4}
 dtwenty = {1-20}
@@ -35,13 +36,23 @@ background
       <b>Aqua Vita</b> - Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR. 1 use.
       <b>Mimic Stone</b> - Records a short phrase that can later be played back.
       <b>Spark Dust</b> - Ignites easily and quickly. Useful for starting a fire or as an incendiary device. 3 uses.
-      <b>Homunculus</b> - A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL
+      <b>Homunculus</b> - A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL}
     equip = Lantern<br>Oil Can (6 uses)<br>Needle-knife (d6)<br>Protective Gloves (petty)
   
   2_Barber-Surgeon 
     bgname = Barber-Surgeon 
     blurb = You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lie within. With the right tools, life and death are merely words.
-    name = {Wilmot|Patch|Lancet|Sawbones|Theo|Cutwell|Humor|Landsford|Goodeye|Johanna}
+    name 
+      Wilmot
+      Patch
+      Lancet
+      Sawbones
+      Theo
+      Cutwell
+      Humor
+      Landsford
+      Goodeye
+      Johanna
     event1 = <b>How have you “improved” yourself?</b><br> [b.event1tbl]
     event1tbl
       You have a replacement <b>eye</b> that can magnify objects, act as a telescope, and provide minimal night vision. You cannot wear anything metal on your head, and the presence of strong magnets make you <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#deprivation--fatigue" target="_blank"><i>deprived</i></a>.
@@ -202,16 +213,7 @@ background
   16_Mountebank
     bgname = Mountebank
     blurb = Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly.
-    name 
-      Ambrose
-      Lucius
-      Beauregard
-      Cornelius
-      Aria
-      Toph
-      Delphine
-      Solene
-      Noa
+    name = {Ambrose|Lucius|Beauregard|Cornelius|Aria|Toph|Indigo|Delphine|Solene|Noa}
     event1 = <b>How was your fraud exposed?</b><br>{Your “patients” kept reporting miraculous recoveries, despite your lack of training. Start with <b>Bandages</b> (3 uses) and a knack for healing.[addomn=0,""]|After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with <b>Beauty Cream</b>, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours.[addomn=0,""]|You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the Omens table, but keep the result to yourself. Start with a concealable Knife (d6, <i>petty</i>).[addomn=1,""]|Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a <b>Captain’s Uniform</b> (<i>petty</i>), a <b>Ceremonial Sword</b> (harmless, 60gp), and a <b>Bouquet of Flowers</b>.[addomn=0,""]|You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (WIL save to avoid disaster). If you are the target of magic, the same applies to its wielder.[addomn=0,""]|Your “seances” with the dead were in actuality a ruse involving a cleverly hidden <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#spellbooks" target="_blank">spellbook</a> of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#spellbooks" target="_blank"><b>Spellbook</b></a> and a bundle of scarves. Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice.[addomn=0,""]}
     event2 = <b>What keepsake could always identify you?</b><br>{<b>Royal Crest</b> - Born into royalty, you chose a different life. The crest grants you access but also alerts your family of your whereabouts. <i>Petty</i>.|<b>Miracle Oil</b> - A smelly, slippery concoction. 2 uses.|<b>Surgeon’s Soap</b> - A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.|<b>Goat Powder</b> - Derived from the placenta of a baby goat. Temporarily cures any affliction, but symptoms return within hours.|<b>Cursed Sapphire</b> - Worth 200gp, it noticeably returns to your pocket shortly after you spend it. You can’t seem to get rid of it.|<b>Alchemical Tattoo</b> - A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities and can pass its injuries (as STR loss) back onto you. <i>Petty</i>.}
     equip = Torch (3 uses)<br>Cart (+4 slots, <i>bulky</i> when pulled)<br>Trick Playing Cards<br>Fancy Hat (<i>petty</i>)<br>Cane Sword (d6)
@@ -392,3 +394,4 @@ bond
   An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only <b>A Miniature Lute</b>. Something rattles inside.
   A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with the <b>Twig</b> (<i>petty</i>) in your hand. You believe it brings you luck. It smells faintly of sulfur.
   One of your ancestors wronged a <b>Moss Witch</b>, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
+```
