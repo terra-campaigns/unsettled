@@ -20,6 +20,7 @@ images:
     jtd.setTheme("charged")
     {% endif %}
 </script>
+
 # The World
 
 ![](../imgs/gallery/Pasted%20image%2020250513160040.png)
@@ -29,13 +30,20 @@ images:
 **No global-scale empires**: There are no global-scale empires. Most of the land is wild. Colonisation and commerce between far-away nations can only exist on a small scale.  
 **Low interconnectivity**: Many transit regions are inhospitable wilderness or hostile settlements. The oceans are a treacherous environment, home to alien influences.  
 
+# Kalduhr
+
+![](../imgs/gallery/Pasted%20image%2020250514204833.png)
+
+# Ultraviolet Grasslands
+
+![](../imgs/gallery/Pasted%20image%2020250514205037.png)
+
+# The Ascendency
+
+
 
 {% comment %}
 
-# Kalduhr
-
-
-# Ultraviolet Grasslands
 
 
 {% endcomment %}
