@@ -73,3 +73,14 @@ You are now ***unsettled***.
 
 Wilderness dice will be based on the chance of an event: d6 < d8 < d10 < d12 < d20.  
 A result of 7+ indicates **no events**.
+
+### Trade
+
+Not all items are available in every settlement, at the GM's discretion.
+Used gear is worth half of its regular price.
+Selling treasure may trigger inflation in a settlement, which halves selling prices.
+When inflation is triggered, it lasts 2d6 weeks.
+
+- **Village**: Inflation is triggered at 1d6 x 100 gp. The absolute trade limit is 600 gp.
+- **Town**: Inflation is triggered at 1d20 x 100 gp. The absolute trade limit is 2000 gp.
+- **City**: Inflation is triggered at 1d6 x 1000 gp. The absolute trade limit is 6000 gp.
