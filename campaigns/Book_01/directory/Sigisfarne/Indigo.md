@@ -4,7 +4,7 @@ template: 0.4
 type: people
 nav_exclude: false
 
-parent: Sigisfarne
+parent: Deverain
 title: Indigo
 role: Mountebank
 status: 

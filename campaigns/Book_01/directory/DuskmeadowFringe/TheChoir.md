@@ -27,12 +27,11 @@ details:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 
-A traveling flock of crowns that answers questions.
-When it speaks, it sounds like countless human
-voices in unison, and as a price, it takes something
-meaningful from the questioner. Having no true
-physical form, it is unable to interact with the
-world physically. In case of injury to STR or DEX, it
+In case of injury to STR or DEX, it
 vanishes or detaches.
 
 {% endcomment %}
+
+A travelling flock of crowns that answers questions.
+When it speaks, it sounds like countless human voices in unison, and in return, it takes something meaningful from the questioner.
+Having no proper physical form, it is unable to interact with the world physically. 

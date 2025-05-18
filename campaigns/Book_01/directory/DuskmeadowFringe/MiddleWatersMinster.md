@@ -2,7 +2,8 @@
 layout: default
 template: 0.4
 type: location
-nav_exclude: true
+nav_exclude: false
+has_children: true
 
 parent: Duskmeadow Fringe
 title: Middle Waters
@@ -11,24 +12,25 @@ status:
 flavour: 
 
 images:
-- ../../imgs/gallery/Pasted%20image%2020250408201024.png
+- ../../../../imgs/gallery/Pasted%20image%2020250408201024.png
 ---
 
 {% include header_directories.md %}
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
 
 Looks like a miniature Sigisfarne.
-Built on old ruins but well-maintained monuments.
+Built on old ruins but with well-maintained monuments.
 Two churches, one on each side of the housing area.
-Two bridges.
+Two bridges to cross the flooded river.
 
 Precise illumination of holy tomes.
 Vassals of the [MountainCourt](MountainCourt.md).
+Some believe the Court is cursed.
 
 Monks are all thin.
 Lack of produce.
-Waiting for help from Sigisfarne.
+Waiting for help from Sigisfarne for food.
 
-{% endcomment %}
-
+The Abbot has a letter from the Crown that allows him to buy out their vassalage for 10 thousand coins.

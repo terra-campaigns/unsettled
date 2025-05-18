@@ -11,7 +11,7 @@ status:
 flavour: 
 
 images:
-- ../../imgs/gallery/Pasted%20image%2020250406092459.png
+- ../../../../imgs/gallery/Pasted%20image%2020250406092459.png
 
 statblock: false
 hp: 15
@@ -27,9 +27,8 @@ details:
 {% include header_directories.md %}
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
-
-Feasts on human flesh endlessly. Legend says it hunts the selfish and the greedy.
-
 {% endcomment %}
 
 A tall and sickly pale figure with long teeth and claws.
+Feasts on human flesh endlessly.
+Legend says it hunts the selfish and the greedy.

@@ -351,6 +351,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Razzie",
                 "url": "campaigns/Book_01/ep_002.md",
                 "is_internal": true,
@@ -581,6 +587,12 @@
             },
             {
                 "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -754,6 +766,12 @@
             },
             {
                 "text": "Church of the Weeping Mother",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -859,6 +877,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "MountainCourt",
                 "url": "campaigns/Book_01/directory/DuskmeadowFringe/MiddleWatersMinster.md",
                 "is_internal": true,
@@ -869,6 +893,12 @@
             {
                 "text": "crows",
                 "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "flock of crows",
+                "url": "campaigns/Book_01/ep_016.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1160,6 +1190,274 @@
                 "favicon": null
             }
         ],
+        "campaigns/Book_01/ep_016.md": [
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/directory/Sigisfarne/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Irgith",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/Irgith.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "monastery on the south",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/directory/Sigisfarne/Harald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Deverain",
+                "url": "campaigns/Book_01/directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/directory/Sigisfarne/Hilda.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "flock of crows",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/TheChoir.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hunger",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/TheHunger.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/directory/Sigisfarne/Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "campaigns/Book_01/directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/Book_01/directory/Sigisfarne/Indigo.md": [
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/directory/DuskmeadowFringe/Irgith.md": [
+            {
+                "text": "Irgith",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/directory/DuskmeadowFringe/MiddleWatersMinster.md": [
+            {
+                "text": "monastery on the south",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "MountainCourt",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/Book_01/directory/Sigisfarne/Harald.md": [
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/directory/Deverain/index.md": [
+            {
+                "text": "Deverain",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/directory/Sigisfarne/Hilda.md": [
+            {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_015.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hilda",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "vendetta",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Molemen",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/Book_01/directory/DuskmeadowFringe/TheHunger.md": [
+            {
+                "text": "Hunger",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "tall skeletal figure",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/directory/Sigisfarne/Stone.md": [
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/directory/Sigisfarne/Drake.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/Book_01/ep_002.md": [
             {
                 "text": "Drake",
@@ -1239,90 +1537,6 @@
                 "favicon": null
             }
         ],
-        "campaigns/Book_01/directory/Sigisfarne/Hilda.md": [
-            {
-                "text": "Hilda",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hilda",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hilda",
-                "url": "campaigns/Book_01/ep_008.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hilda",
-                "url": "campaigns/Book_01/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hilda",
-                "url": "campaigns/Book_01/ep_015.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hilda",
-                "url": "campaigns/Book_01/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "vendetta",
-                "url": "campaigns/Book_01/ep_004.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Molemen",
-                "url": "campaigns/Book_01/directory/DuskmeadowFringe/PiotChant.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "campaigns/Book_01/directory/Sigisfarne/Stone.md": [
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/ep_014.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/ep_014.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/directory/Sigisfarne/Drake.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/Book_01/directory/DuskmeadowFringe/Quarry.md": [
             {
                 "text": "Quarry",
@@ -1368,14 +1582,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "campaigns/Book_01/directory/DuskmeadowFringe/TheHunger.md": [
-            {
-                "text": "tall skeletal figure",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/directory/DuskmeadowFringe/HuntersCabin.md": [
@@ -1604,26 +1810,6 @@
             {
                 "text": "Molemen",
                 "url": "campaigns/Book_01/directory/Sigisfarne/Mateus.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/Book_01/directory/Sigisfarne/Indigo.md": [
-            {
-                "text": "Indigo",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Indigo",
-                "url": "campaigns/Book_01/ep_010.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Indigo",
-                "url": "campaigns/Book_01/ep_014.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2197,15 +2383,6 @@
                 "url": "campaigns/Book_01/ep_014.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "campaigns/Book_01/directory/DuskmeadowFringe/MiddleWatersMinster.md": [
-            {
-                "text": "MountainCourt",
-                "url": "campaigns/Book_01/directory/DuskmeadowFringe/MountainCourt.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
             }
         ],
         "campaigns/FailedExports/ep_001.md": [

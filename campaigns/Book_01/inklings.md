@@ -23,6 +23,11 @@ kanban-plugin: board
 - [ ] Legião estacionada em algum lugar
 - [ ] Are they recovering the statue of the sister?
 - [ ] Different language in the south
+- [ ] How to add moral decisions like degenesis
+- [ ] Tarot cards once a month
+- [ ] Inflation rules
+- [ ] Tax papers from the monastery were destroyed, but there were copies.
+- [ ] Documents make Griffin look as stealing money.
 
 
 ## Snoozed
