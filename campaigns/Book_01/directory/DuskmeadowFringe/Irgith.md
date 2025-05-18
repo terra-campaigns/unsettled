@@ -32,3 +32,5 @@ The monks of a secluded forest monastery. When their rules became too strict, an
 
 **What keeps bad tidings at bay?**
 Stink Jar: Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use. 
+
+Blessed by all Crows.
