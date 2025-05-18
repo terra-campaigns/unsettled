@@ -4,6 +4,7 @@ template: 0.4
 type: location
 nav_exclude: false
 has_toc: false
+has_children: true
 
 parent: Kryptwood
 title: Hendenburgh
