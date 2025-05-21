@@ -12,7 +12,7 @@ role: Forest Village
 status: 
 
 images: 
-- ../../imgs/gallery/Pasted%20image%2020250413142519.png
+- ../../../../imgs/gallery/Pasted%20image%2020250413142519.png
 ---
 
 {% include header_directories.md %}

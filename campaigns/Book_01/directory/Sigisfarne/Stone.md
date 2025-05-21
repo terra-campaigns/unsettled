@@ -34,3 +34,5 @@ You have a Statuesque Physique, Scarred Skin, and Wavy Hair. Your Face is Sunken
 **Bond:** One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
 
 Not content to sit still. Driven man. 
+
+Learnt the Vendetta flute tune of the Piot Chants - which can be used as a reference of friendship with certain Fae.
