@@ -53,10 +53,11 @@ footer_content:
 
 **unsettled** | Cairn 2e [Open Table]
 
-**GMs:** Efsa (Estêvão) & guests  
+**GMs:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: Every 5 days, except Mon & Tue.  
+**Frequency**: Every 5 days, except Mon
 **Time & Duration**: 1945 UTC for 2~3h  
+**Sign-up**: First come, first served;  2-5 players  
 **Genre**: Weird Fantasy  
 **Language**: English  
 **Communication**: Discord voice (video is optional)  
