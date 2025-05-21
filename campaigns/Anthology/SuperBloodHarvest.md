@@ -5,7 +5,7 @@ nav_exclude: false
 nav_order: 1025-05-15
 title: Bloodship
 parent: Anthology
-region: Nova Luz
+region: Abducted from Nova Luz
 narration: 
 footer_content: 
 
@@ -25,11 +25,8 @@ images:
 *The bloodship comes once per generation,*
 *to swell its GUTS on our vitae.*
 *...*
-*You’ve been abducted by*
-*a vampire space fortress.*
-*You wake in a shallow sea*
-*of blood, a fuel reservoir for*
-*your immortal captors.*
+A vampire space fortress has abducted you.*
+*You wake in a shallow sea of blood, a fuel reservoir for your immortal captors.*
 "
 
 ![](https://i.kickstarter.com/assets/026/998/528/351b29a0854a491ee5e3d7ffe683310d_original.jpg?fit=scale-down&origin=ugc&q=92&v=1572247297&width=680&sig=mALZk4yQE3GD48KlMLUgJwxvIrvO%2BMN8Nuet4cN3h6I%3D)
