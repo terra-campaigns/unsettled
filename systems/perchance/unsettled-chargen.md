@@ -374,24 +374,60 @@ vice
   vengeful
 
 bond
-  You inherited a <b>Single Gem</b> (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches and a debt long thought forgotten will be called in.
+  You inherited a <b>Single Gem</b> (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten will be called in.
   A distant cousin left you a small inheritance. Take 20Gp and a <b>Strange Compass</b> (<i>petty</i>) that always points towards something deep in the Wood.
-  You carry a <b>Portrait</b> in a locket (<i>petty</i>) of a past love who disappeared into the Wood long ago. Somehow you know that they are still alive.
+  You carry a <b>Portrait</b> in a locket (<i>petty</i>) of a past love who disappeared into the Wood long ago. Somehow, you know that they are still alive.
   You found a <b>Tiny Crystal Prism</b> (<i>petty</i>) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you.
   You once freed a Naiad from a choked stream. In return, it gave you some <b>Silver Moss</b> (<i>petty</i>). Swallow it near water, and the creature will come, once, to repay its debt.
   You inherited an old <b>Journal</b>, bound in bark. Each evening, its pages are filled with the events of the day, crassly written from the journal’s perspective. The writing is crude but accurate.
   You protect a long-dormant family secret. Take one half of an <b>Ancient Key</b> (<i>petty</i>). They say that if joined with its twin, it opens a <b>Gate</b> through any door.
-  You received a <b>Letter</b> (<i>petty</i>) detailing incontrovertible proof that your true parentage is that of Fae nobility. The note also indicates a date and location where you are to meet the letter’s author, deep in the the Wood.
-  You owe a great debt to a member of the nobility and carry their <b>Signet Ring</b> (<i>petty</i>), which serves as proof of their protection as well as your obligation.
-  You consumed a <b>Mischievous Spirit</b> that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. It occupies one slot but absorbs one <b>Fatigue</b> each day. It wants you alive (for now).
-  A roaming storyteller once spun you tales of great treasure hidden deep in the Wood. You thought it naught but fancy, till they gave you <b>A Rolled-Up Map</b> (<i>petty</i>) marked with an X.
-  During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a <b>Letter</b> (<i>petty</i>), sealed with tree sap. It is addressed only to the <b>Lord Of Winter</b>.
+  You received a <b>Letter</b> (<i>petty</i>) detailing incontrovertible proof that your true parentage is that of Fae nobility. The note also indicates a date and location where you are to meet the letter’s author, deep in the Wood.
+  You owe an outstanding debt to a member of the nobility and carry their <b>Signet Ring</b> (<i>petty</i>), which serves as proof of their protection as well as your obligation.
+  You consumed a <b>Mischievous Spirit</b> that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. It occupies one slot but absorbs one <b>Fatigue</b> each day. It wants you alive, for now.
+  A roaming storyteller once spun you tales of great treasure hidden deep in the Wood. You thought it nothing but fancy, until they gave you a <b>Rolled-Up Map</b> (<i>petty</i>) marked with an X.
+  During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a <b>Letter</b> (<i>petty</i>), sealed with tree sap. It is addressed only to the <b>Lord of Winter</b>.
   You found a wounded beast in the forest but chose to ignore it. You see it everywhere now, but only when you’re alone. It looks sad but not angry. You cannot become panicked when acting alone.
   You promised a childhood friend that you’d bring them back a rare gift, something unique in all the world. Take a <b>Bracelet</b> (<i>petty</i>) woven from twine and wildflowers.
   You crossed a creature of the Wood, and it cursed you with a <b>Stone Heart</b>. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
-  You carved a <b>Whistle</b> (<i>petty</i>) from an <b>Oak Lord's</b> branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.
-  The <b>Dawn Brigade</b> did your family a service, giving you a dried <b>Blood-Red Flower</b> (<i>petty</i>) as proof. When the flower turns white, it means the favor is owed.
+  You carved a <b>Whistle</b> (<i>petty</i>) from an <b>Oak Lord's</b> branch. Your act did not go unnoticed. You cannot rid yourself of the whistle either.
+  The <b>Dawn Brigade</b> did your family a service, giving you a dried <b>Blood-Red Flower</b> (<i>petty</i>) as proof. When the flower turns white, it signifies that the favour is owed.
   An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only <b>A Miniature Lute</b>. Something rattles inside.
   A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with the <b>Twig</b> (<i>petty</i>) in your hand. You believe it brings you luck. It smells faintly of sulfur.
   One of your ancestors wronged a <b>Moss Witch</b>, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
+  You found an old <b>Iron Key</b> (<i>petty</i>) wrapped in black velvet. It hums when brought near a stone. A note scratched reads: “For the Cache, before the stars go dim.”
+  Arm the resistance against Lord Haffir’s tyranny. An old comrade gave you a <b>Crate of Rusted Weapons</b> (bulky).
+  Attend Countess Shima’s Forbidden Festival. You possess a <b>Festival Mask</b> (<i>petty</i>) that changes its expression slightly each day. An invitation was scrawled inside the lining—signed by someone long thought dead.
+  Become part of the Swirling Court. You carry a <b>Perfumed Feather</b> (<i>petty</i>) from a courtier’s headdress. When crushed underfoot, the wind shifts.
+  Become the only patron of Ansem the Wistful. You own one of Ansem’s <b>Broken Quills</b> (<i>petty</i>), tipped in silver. When you write with it, your words always rhyme, though not always truthfully.
+  Break the geas placed by the Witch of Nevask. The witch left behind a <b>Frostbitten Coin</b> (<i>petty</i>) that cannot be melted or spent. You feel it tug your thoughts northward whenever you sleep.
+  Break the siege on your sibling’s fortress. You received a <b>Signal Arrow</b> (<i>petty</i>) fletched with dyed eagle feathers. You’ve been told: “When fired skyward, help will come. But only once.”
+  Bribe the justiciars so they erase your crimes. You stole a <b>Bag of False Gold Dust</b> (1 slot). It glitters like the real thing, but a sharp eye — or touch—will reveal its deceit.
+  Bring freedom to Tirollis. You hold a <b>Steel Clover Badge</b> (<i>petty</i>) passed down among rebels. It marks you as one of them, though the guards don’t yet know what it means.
+  Buy the orphanage where you were mistreated. You keep a <b>Wooden Rattle</b> (<i>petty</i>) under your bedroll. You don’t know how it ended up with you, but it rattles on its own when you lie.
+  Buy your brother’s freedom from Barsul Prison. You carry a <b>Seal-Stained Parchment</b> (<i>petty</i>) listing the official bribe amount and prisoner number. The ink seems to smudge whenever you try to read it.
+  Commission a glorious statue of your deity. You own a <b>Marble Chip</b> (<i>petty</i>) from a temple long ruined. When held in prayer, your voice echoes faintly—even when you're alone.
+  Destroy the work of Ajino the Debauched Painter. You found a <b>Palette Knife</b> (<i>petty</i>) in the trash behind his studio. It oozes a slow rainbow oil and whispers blasphemies when you're asleep.
+  Earn the respect of the Governor of Fort Duhrin. You bear a <b>Pin of Tin and Bone</b> (<i>petty</i>)—a local token of bravery, awarded posthumously. Somehow, yours was given before the deed.
+  Earn the right to your family’s name. You inherited a <b>Fragmented Signet</b> (<i>petty</i>). It lacks the central gem. Stories say the gem lies buried beneath your ancestor’s shame.
+  Establish an estate in the Levasti countryside. You were gifted a <b>Deed Scroll</b> (<i>petty</i>) sealed with gold wax. The coordinates lead to a field of thorns and stones. Still, the name at the bottom is yours.
+  Finance an expedition into the Blossoming Sea. You hold a <b>Glass Vial of Coral Dust</b> (<i>petty</i>). When poured into water, it briefly glows and points seaward.
+  Find the artefact that proves the king’s true nature. You keep a <b>Sketch of a Crown</b> (<i>petty</i>) hidden in your boot. The figure in the sketch is not the current king and bears an eerie resemblance to your uncle.
+  Find the resting ground of the Morning Knight. You uncovered a <b>Sun-Engraved Gauntlet</b> (1 slot, unwieldy). It can no longer grip a weapon, but once each day, it glows gently at sunrise.
+  Free the kindly followers of the Piper. You possess a <b>Flute of Black Ash</b> (<i>petty</i>), strung with colourful ribbons. It cannot play music—only silence.
+  Give your betrothed the present they crave. You carry a <b>Crystalline Ring Box</b> (<i>petty</i>) with no ring inside. Every time you open it, you see a different ring within.
+  Inscribe your mother’s name in the Azure Archives. You hold a <b>Quill of Azure Feather</b> (<i>petty</i>) that only writes one name—hers—and only in a language you cannot speak aloud.
+  Locate the jewel that haunts Eriol’s dreams. You stole Eriol’s <b>Dream Diary</b> (<i>petty</i>), bound in eel-skin. It opens only when you sleep near flowing water.
+  Pay the toll of the Emerald Bridge. You carry a <b>Bridge-Token</b> (<i>petty</i>), made of green stone. You were told to “pay only once.” However, each tollkeeper requests something different.
+  Pay your father’s debt to Bright-Teeth Assyrio. You bear a <b>Tooth Necklace</b> (<i>petty</i>), each tooth inscribed with a date. The last one is blank—and growing warm.
+  Publish your discoveries from ancient Kalduhr. You keep a <b>Scroll Case</b> (<i>petty</i>) locked with spiderweb filaments. You don’t remember writing what’s inside.
+  Rebuild Hisham’s Fountain. You have a <b>Stone Spout</b> (<i>petty</i>), carved like a lion’s mouth. When placed in sand, it leaks a single drop of clean water each day.
+  Repay your losses to the Southern Pass Company. You were issued a <b>Debt Ledger</b> (<i>petty</i>) that always lists you last. Each week, the number beside your name increases by 1 gp, regardless of what you do.
+  Restore the lost glory of the Caliginous Grove. You tend a <b>Seed Pod</b> (<i>petty</i>) pulsing with dark sap. You’re not sure if it’s a plant or an insect. It whispers of a forest long dead.
+  Restore the Temple of Tanahlot. You bear a <b>Temple Bell Shard</b> (<i>petty</i>). If struck, it emits a sound only you can hear. Each time, it’s a different voice.
+  Resurrect the Cult of Derawan. You found a <b>Bone Sigil</b> (<i>petty</i>) under your pillow after dreaming of fire. If buried in the earth, mushrooms proliferate around it.
+  Retire in comfort in the Rose District of Ambaret. You keep a <b>Perfumed Silk Glove</b> (<i>petty</i>) from the District. Locals call it “the calling card of the comfortably damned.”
+  Retrieve the lost banner of the Nameless Legion. You uncovered a <b>Torn Banner Fragment</b> (1 slot). When waved, shadows gather unnaturally. No one recognises the symbol.
+  Seize absolute control of Kormoran’s Wheel. You hold a <b>Clockwork Gear</b> (<i>petty</i>) etched with strange runes. It ticks slowly, once every hour. You don’t know why.
+  Take Cyrus’s place at the Earthen Council. You wear a <b>Gravel Ring</b> (<i>petty</i>) forged from pebbles and soil. When placed against stone, faint voices argue in chorus.
+  Win the heart of the heir apparent of Naganeh. You carry a <b>Royal Hairpin</b> (<i>petty</i>) once worn by the heir. It is warm to the touch and shudders when they are near.
 ```
