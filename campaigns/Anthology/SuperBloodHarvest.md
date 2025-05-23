@@ -1,7 +1,7 @@
 ---
 layout: default
 type: session
-nav_exclude: false
+nav_exclude: true
 nav_order: 1025-05-15
 title: Bloodship
 parent: Anthology

@@ -73,5 +73,3 @@ Downtime and some light conversations with characters can be conducted through P
 2 hours and 45 minutes
 
 {% endcomment %}
-
-You can ignore this number: {{ colourhour }}
