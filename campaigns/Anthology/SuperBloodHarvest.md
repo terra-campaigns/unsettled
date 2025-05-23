@@ -1,6 +1,6 @@
 ---
 layout: default
-type: session
+type: 
 nav_exclude: true
 nav_order: 1025-05-15
 title: Bloodship
