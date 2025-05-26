@@ -24,7 +24,7 @@ kanban-plugin: board
 - [ ] Varg & Gunther: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
 - [ ] Fairy Queen's bargains
 - [ ] Indigo: You owe a great debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection as well as your obligation.
-- [ ] Tax papers from the monastery were destroyed, but there were copies.
+- [ ] Tax papers from the monastery were destroyed, but there were copies in the capital.
 - [ ] Documents make Griffin look as stealing money.
 
 

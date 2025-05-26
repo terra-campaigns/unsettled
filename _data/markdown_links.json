@@ -346,6 +346,12 @@
             },
             {
                 "text": "Razzy",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
                 "url": "campaigns/Book_01/ep_006.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -878,6 +884,12 @@
             },
             {
                 "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
                 "url": "campaigns/Book_01/ep_016.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1083,6 +1095,146 @@
                 "url": "campaigns/Book_01/directory/Sigisfarne/Mateus.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_017.md": [
+            {
+                "text": "Varg",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/Varg.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gunther",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/Gunther.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/Lorenz.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/directory/Sigisfarne/Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Middle Waters",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/Book_01/directory/DuskmeadowFringe/Varg.md": [
+            {
+                "text": "Varg",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/directory/DuskmeadowFringe/Gunther.md": [
+            {
+                "text": "Gunther",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/directory/DuskmeadowFringe/Lorenz.md": [
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/directory/Sigisfarne/Stone.md": [
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/directory/Sigisfarne/Drake.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/directory/DuskmeadowFringe/MiddleWatersMinster.md": [
+            {
+                "text": "Middle Waters",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "monastery on the south",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "MountainCourt",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "campaigns/Book_01/ep_006.md": [
@@ -1317,21 +1469,6 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/Book_01/directory/DuskmeadowFringe/MiddleWatersMinster.md": [
-            {
-                "text": "monastery on the south",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "MountainCourt",
-                "url": "campaigns/Book_01/directory/DuskmeadowFringe/MountainCourt.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
         "campaigns/Book_01/directory/Sigisfarne/Harald.md": [
             {
                 "text": "Harald",
@@ -1416,44 +1553,6 @@
             {
                 "text": "tall skeletal figure",
                 "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/Book_01/directory/Sigisfarne/Stone.md": [
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/ep_014.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/ep_014.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Stone",
-                "url": "campaigns/Book_01/directory/Sigisfarne/Drake.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
