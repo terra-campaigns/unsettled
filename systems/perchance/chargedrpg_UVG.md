@@ -159,7 +159,7 @@ why
   Bone-deep ennui at an uncharging order
   Dying grandparent's oath to a lacquer queen
   Promise to take a friend's ashes to the last sea
-  Drem quest order to destroy an invisible ring
+  Dream quest order to destroy an invisible ring
 
 thing
   One black metal vertebra
@@ -200,7 +200,148 @@ thing
   Rainbow unicorn horn
   Grey cube that weighs five times more than lead
   Lime green onion-and-skull cup
-  Clear crystal heart of a vile (see glossary, p. 192)
+  Clear crystal heart of a V.I.L.E.
   Red staff made of fused ancient pistols
+  Sentient donkey and greenish plastic hat
+  Liquid metal shapeshifting executioner’s blade
+  Preserved and revived heart of a beloved
+  Vantablack propaganda reduction sunglasses
+  Tempting intelligent gun-wand of porcelain and jade
+  Faceless terracotta helmet with no name
+  Self-playing zither with seventy tunes
+  Ivory set of Zu Complex ignition tables
+  Undying replacement organ
+  Source-bonded replacement clone seed
+
+name
+  Vruit d’Ajai
+  Elsedéz Diës
+  Ouestin Haus
+  Jai Ping-Noun
+  Yuin a’Romeö
+  Ennui a’Sheval
+  Paloma Blanka
+  Solo Carburetto
+  Nutra Griza
+  Alba Nigra
+  Vils Plomba
+  Qalen Vegeta
+  Kalis Elfbayi
+  Yasa Furfurea
+  Yilis Olorka
+  Stebra Osta
+  Arha Skivayi
+  Hoc Uindea
+  Qarno Azur
+  Gorto per Cultur
+  Imssi bra Cupa
+  Qephi per Linter
+  Muria bra Salsur
+  Aleia Unomor
+  Lun Diralup
+  Axil i’Eliseis
+  Eralda Fiusc
+  Issandir di Metropol
+  Fiet i’Muru
+  Iacum di Vila
+  Horto ‘n Caravan
+  Dona de Cuiyot
+  Saldo an’Nanc
+  Cortez an’Opera
+  Pansa de Rancho
+  Ylva ‘n Vusta
+  Tifixa Boscaneve
+  Ranalo Fianviye
+  Xulio Ueronesi
+  Safauzi Vruje
+  Sofixa Vulja
+  Uale Xerive
+  Cozarin s’Berberin
+  Dolon duc Marbec
+  Perin duc Piñor
+  Namur Rinfosc
+  Amfo s’Teran
+  Torron Valpin
+  Pilk Bagato
+  Anater En-Ein
+  Sembet Kuat-Lun
+  Ski Senk-Karti
+  Hors To-Burk
+  Munti Trul
+  Ru ‘C
+  Pem ‘Cleaningspecialist
+  Yon ‘Engine
+  Tam ‘HR
+  Kur ‘Notcurrentlyineducationortraining
+  Vek ‘Driver
+  Forth Bone
+  Rise Ghost
+  Newt Incorporeal
+  Wayfarer Sanctum
+  Acid Spirit
+  Starfall Perimeter
+  Cryocasket 523-Amber
+  Sidhe Reäl
+  Ohn Smit
+  Settler Unitschild
+  Oï Yu
+  Winterbird
+
+quirk
+  <b>What is your biomantic omen?</b> Chromophoric map on their skin. <br><i>(Use d8 when relevant)</i>
+  <b>What is your biomantic omen?</b> Oldtech access key in their cells. <br><i>(Use d8 when relevant)</i>
+  <b>What is your biomantic omen?</b> Prone to hair growth in moonlight. <br><i>(Use d8 when relevant)</i>
+  <b>What is your biomantic omen?</b> Ages unusually slowly. <br><i>(Use d8 when relevant)</i>
+  <b>What is your biomantic omen?</b> Synthetic anti-viral factories in extra-organ. <br><i>(Use d8 when relevant)</i>
+  <b>What is your biomantic omen?</b> Recessive bio-optics display HUD information. <br><i>(Use d8 when relevant)</i>
+  <b>What is your affinity-bonded pet?</b> Unusually intelligent dog. <br><i>(It follows you)</i>
+  <b>What is your affinity-bonded pet?</b> Giant striped flying squirrel. <br><i>(It follows you)</i>
+  <b>What is your affinity-bonded pet?</b> Void-adapted golden feathered serpent. <br><i>(It follows you)</i>
+  <b>What is your affinity-bonded pet?</b> Aggressively upgraded dodo. <br><i>(It follows you)</i>
+  <b>What is your affinity-bonded pet?</b> Telepathic goldfish in a closed-ecosystem bowl. <br><i>(It follows you)</i>
+  <b>What is your affinity-bonded pet?</b> Telekinetic semi-aware intestinal bacterial colony. <br><i>(It follows you)</i>
+  <b>You have an odd family connexion:</b> Relative executed for treason. Was it just?
+  <b>You have an odd family connexion:</b> Famous explorer, lost now for several years
+  <b>You have an odd family connexion:</b> Ominous local tyrant, left far behind?
+  <b>You have an odd family connexion:</b> Wizard disappeared through a silent gate
+  <b>You have an odd family connexion:</b> Meddling ancestor brain in a golem body
+  <b>You have an odd family connexion:</b> Giant desert worm dreaming of a golden path
+  <b>You have a sign of the Fast Stars:</b> Captain. A seal ring of an unknown material. <br><i>(Use d8 when relevant)</i>
+  <b>You have a sign of the Fast Stars:</b> Manual. Recites controls in a lost tongue. <br><i>(Use d8 when relevant)</i>
+  <b>You have a sign of the Fast Stars:</b> Joker. Lost comedies from the void. <br><i>(Use d8 when relevant)</i>
+  <b>You have a sign of the Fast Stars:</b> Voidskiff. A silver ship in the heart. <br><i>(Use d8 when relevant)</i>
+  <b>You have a sign of the Fast Stars:</b> Shield. Glows when exposed to radiation. <br><i>(Use d8 when relevant)</i>
+  <b>You have a sign of the Fast Stars:</b> Chosen. An override jewel in their head. <br><i>(Use d8 when relevant)</i>
+  <b>Who is your loyal old friend?</b> Magic butler. Knows many domestic magics. 
+  <b>Who is your loyal old friend?</b> Cowardly layabout. Uncovers unexpected clues.
+  <b>Who is your loyal old friend?</b> Taciturn mechanic. Fixes nearly anything. 
+  <b>Who is your loyal old friend?</b> Odd stoner. Seems immune to side effects. 
+  <b>Who is your loyal old friend?</b> Absent-minded professor. A humanoid library. 
+  <b>Who is your loyal old friend?</b> Lucky warrior. Not skilled, but has never died yet. 
+  <b>Who is your nemesis since childhood?</b> Now a successful banker. Never forgets a slight. <br><i>(Choose a skill they taught you, and increase it to d8 when relevant)</i>
+  <b>Who is your nemesis since childhood?</b> A very talented musician. An absolute ass. <br><i>(Choose a skill they taught you, and increase it to d8 when relevant)</i>
+  <b>Who is your nemesis since childhood?</b> Upwardly mobile military commander. Incompetent? <br><i>(Choose a skill they taught you, and increase it to d8 when relevant)</i>
+  <b>Who is your nemesis since childhood?</b> Mad genius or just a misunderstood nerd? <br><i>(Choose a skill they taught you, and increase it to d8 when relevant)</i>
+  <b>Who is your nemesis since childhood?</b> Charismatic public speaker. Seems ... cultish? <br><i>(Choose a skill they taught you, and increase it to d8 when relevant)</i>
+  <b>Who is your nemesis since childhood?</b> Elegant, suave, accomplished person of leisure. <br><i>(Choose a skill they taught you, and increase it to d8 when relevant)</i>
+  <b>You have an additional experience:</b> Outcast. An illegal on society’s edge. <br><i>(Choose a skill and increase it to d8 when relevant)</i>
+  <b>You have an additional experience:</b> Hereditary serf. Bought, sold, told ... fled. <br><i>(Choose a skill and increase it to d8 when relevant)</i>
+  <b>You have an additional experience:</b> Rural freeperson. The old ways. <br><i>(Choose a skill and increase it to d8 when relevant)</i>
+  <b>You have an additional experience:</b> Urban prole. Cog in the social machine. <br><i>(Choose a skill and increase it to d8 when relevant)</i>
+  <b>You have an additional experience:</b> Professional citizen. High expectations. <br><i>(Choose a skill and increase it to d8 when relevant)</i>
+  <b>You have an additional experience:</b> Aristo. Engineered at source for their role. <br><i>(Choose a skill and increase it to d8 when relevant)</i>
+  <b>You have a machine interface:</b> Sheltered by a luddite cult. <br><i>(Use d8 when relevant)</i>
+  <b>You have a machine interface:</b> Infected with microplastic synthetic animalcules. <br><i>(Use d8 when relevant)</i>
+  <b>You have a machine interface:</b> Autofac’s human familiar mechanic. <br><i>(Use d8 when relevant)</i>
+  <b>You have a machine interface:</b> Hacker subverting the surviving golem routines. <br><i>(Use d8 when relevant)</i>
+  <b>You have a machine interface:</b> Wizard decoding the Long Ago machine magic. <br><i>(Use d8 when relevant)</i>
+  <b>You have a machine interface:</b> Actually, a synthetic human themselves. <br><i>(Use d8 when relevant)</i>
+  <b>What disaster have you survived?</b> Earthquake caused by giant subterrene autominer. <br><i>(Choose a skill it taught you, and increase it to d8 when relevant)</i>
+  <b>What disaster have you survived?</b> Voidspawned electromagical kaiju.<br><i>(Choose a skill it taught you, and increase it to d8 when relevant)</i>
+  <b>What disaster have you survived?</b> Flooding after golem dam collapse.<br><i>(Choose a skill it taught you, and increase it to d8 when relevant)</i>
+  <b>What disaster have you survived?</b> Vome assimilation plague.<br><i>(Choose a skill it taught you, and increase it to d8 when relevant)</i>
+  <b>What disaster have you survived?</b> Decade-long military pacification campaign. <br><i>(Choose a skill it taught you, and increase it to d8 when relevant)</i>
+  <b>What disaster have you survived?</b> Spatial distortion horizon caused by gate eruption. <br><i>(Choose a skill it taught you, and increase it to d8 when relevant)</i>
+
 
 ```
