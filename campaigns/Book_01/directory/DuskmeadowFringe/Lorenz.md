@@ -10,7 +10,6 @@ role: Kettlewright
 status: 
 
 images: 
-- ../../../../imgs/gallery/Pasted%20image%2020250526084933.png
 
 ---
 
