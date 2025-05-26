@@ -30,7 +30,7 @@ This pleases ***Chaos***.
 ***Law*** and ***Chaos*** hate each other destructively.  
 They can only act on their hate through their acolytes.
 
-You led a normal life.  
+You led an everyday life.  
 Not anymore.  
 You are now ***unsettled***.
 
