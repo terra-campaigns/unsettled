@@ -76,20 +76,6 @@
         ],
         "index.md": [
             {
-                "text": "![",
-                "url": "https://i.imgur.com/jrDqZJV.png",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://i.imgur.com/favicon.ico"
-            },
-            {
-                "text": "![",
-                "url": "imgs/gallery/e67928ac699fa366c598382ee730c936.jpg",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
                 "text": "Open Table",
                 "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
                 "is_internal": false,
@@ -123,14 +109,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.google.com/favicon.ico"
-            }
-        ],
-        "imgs/gallery/e67928ac699fa366c598382ee730c936.jpg": [
-            {
-                "text": "![",
-                "url": "index.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "_site/README.md": [
@@ -895,6 +873,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "MountainCourt",
                 "url": "campaigns/Book_01/directory/DuskmeadowFringe/MiddleWatersMinster.md",
                 "is_internal": true,
@@ -1152,6 +1136,12 @@
             {
                 "text": "Varg",
                 "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Varg",
+                "url": "campaigns/Book_01/ep_018.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1475,12 +1465,24 @@
                 "url": "campaigns/Book_01/ep_016.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/directory/Deverain/index.md": [
             {
                 "text": "Deverain",
                 "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Deverain",
+                "url": "campaigns/Book_01/ep_018.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1992,6 +1994,12 @@
                 "url": "campaigns/Book_01/ep_008.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/directory/Kryptwood/index.md": [
@@ -2000,6 +2008,43 @@
                 "url": "campaigns/Book_01/ep_008.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_018.md": [
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/directory/Sigisfarne/Harald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Varg",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/Varg.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Deverain",
+                "url": "campaigns/Book_01/directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "campaigns/Book_01/ep_005.md": [

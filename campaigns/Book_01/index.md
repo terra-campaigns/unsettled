@@ -13,40 +13,13 @@ footer_content:
 
 {% include header_directories.md %}
 
-{% comment %} Inspiration modules
-
-- Trophy (Loom, Gold, Dark) for the forests
-- Wolves of God for the relationship with a central faith
-
-**unsettled** | Cairn 2e [Open Table]
-
-**GMs:** Efsa (Estêvão)  
-**Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: Every 5 days, except Mon
-**Time & Duration**: 1945 UTC for 2~3h  
-**Sign-up**: First come, first served;  2-5 players  
-**Genre**: Weird Fantasy  
-**Language**: English  
-**Communication**: Discord voice (video is optional)  
-**Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression  
-**Useful links**:  
-[Campaign website](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/)    
-[TTRPG system & chargen](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#system)  
-[Owlbear Rodeo](https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled)
-[Inventory Management](https://docs.google.com/spreadsheets/d/1NtuCQ-6oy5MD8iUA65_5N1TAezPsuV546jgH2-wI-BM/edit?gid=0#gid=0)
-**Notes**:  
-Downtime and some light conversations with characters can be conducted through PBP.
-
-2 hours and 45 minutes
-
-{% endcomment %}
 
 ---
 
 People settle in villages and towns.  
 They bring order to their lives and surroundings.  
 Strict hierarchy and rules apply.  
-This pleases ***Law***.
+This pleases the ***Law***.
 
 Dark places spread and fold and coil unto themselves.  
 Like an ever-growing virus.  
@@ -93,7 +66,7 @@ A result of 7+ indicates **no events**.
 
 ### Trade
 
-Not all items are available in every settlement, at the GM's discretion.
+Not all items are available at the GM's discretion in every settlement.
 Used gear is worth half of its regular price.
 Selling treasure may trigger inflation in a settlement, which halves selling prices.
 When inflation is triggered, it lasts 2d6 weeks.
@@ -101,3 +74,58 @@ When inflation is triggered, it lasts 2d6 weeks.
 - **Village**: Inflation is triggered at 1d6 x 100 gp. The absolute trade limit is 600 gp.
 - **Town**: Inflation is triggered at 1d20 x 100 gp. The absolute trade limit is 2000 gp.
 - **City**: Inflation is triggered at 1d6 x 1000 gp. The absolute trade limit is 6000 gp.
+
+{% comment %}
+# Encounter rule
+
+Roll 2d6. Lowest defines what is met (list below). The highest die establishes the level of the threat. When pairs are rolled, roll a d4 and make an interaction between the two encounters.
+
+1. Reinforce: Creature or NPC that has been introduced before.
+2. Introduce a new Creature: 3-weak.. 6-terror
+3. Introduce a new NPC: 4- peasant, 5- trophy treasure hunter or cultist, 6- knight
+4. A normal animal of the biome is doing something weird.
+5. Omen: 5&5 from the current Myth; 5&6 roll a new myth.
+6. Seer or local God.
+
+Roll 2d6 for beasts and d10+d20 for intelligent beings to see what they are doing.
+
+1. -
+2. Lost
+3. Hurt    
+4. Trapped
+5. Sleeping
+6. Eating
+7. Sick
+8. Tracking Prey
+9. Lying in Ambush
+10. Mating Behaviour
+11. Starving
+12. Returning Home
+13. Fleeing
+14. Plotting
+15. Holding Captives
+16. Scavenging
+17. Building a Camp
+18. Demolishing
+19. Doing drugs or drinking
+20. Artistic pursuits
+21. Spying
+22. Committing a crime
+23. Searching
+24. Religious ritual
+25. Setting, putting out, or fleeing a fire
+26. Weeping
+27. Excreting
+28. Bathing
+29. Socialising
+30. Gloating
+
+# Layers of history
+
+- The humans (MB expansion north) conquered the empty region and were pushed south by? Rome?
+- The outsiders were wiped out by those who moved to the depths. 
+- The fey, wiped by the outsiders, are hidden in the forests
+- Dragon creation?
+
+
+{% endcomment %}
