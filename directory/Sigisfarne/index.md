@@ -43,7 +43,7 @@ A tax collector from the crown comes after every harvest.
 
 Sigisfarne sends a portion of the produce from the farms to the town to the south every harvest via riverboat. 
 Multiple crop failures in the years leading the year of 1025.
-This was impacted in [March](../../ep_004.md).
+This was impacted in [March](../../campaigns/Book_01/ep_004.md).
 
 ## Religion
 

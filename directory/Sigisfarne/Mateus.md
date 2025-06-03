@@ -31,8 +31,8 @@ Wolf mind: Your companions are mere prey compared to you. Never let them forget 
 
 Iron allergies: Still to be decided the actual impact of it
 
-Under a [vendetta](../../ep_004.md) of the [Molemen](../DuskmeadowFringe/PiotChant.md).
+Under a [vendetta](../../campaigns/Book_01/ep_004.md) of the [Molemen](../DuskmeadowFringe/PiotChant.md).
 
-Dies from an attack of [spectral animals](../../ep_011.md).
+Dies from an attack of [spectral animals](../../campaigns/Book_01/ep_011.md).
 
 “Take your blessings all”, Matheus' last words while he gives away his letter to [Cai](Cai.md). 
