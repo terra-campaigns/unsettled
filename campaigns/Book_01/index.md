@@ -11,10 +11,9 @@ footer_content:
 
 ---
 
-{% include header_directories.md %}
+# {{ page.title }}
 
-
----
+![](https://i.imgur.com/jrDqZJV.png)
 
 People settle in villages and towns.  
 They bring order to their lives and surroundings.  
@@ -33,14 +32,14 @@ You led an everyday life.
 Not anymore.  
 You are now ***unsettled***.
 
-![](https://i.imgur.com/jrDqZJV.png)
+{% include connected_to.html %}
 
 ---
 
-## System
+# System
 
 ***Book I*** is a **Cairn 2e** campaign.  
-**Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.  
+**Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF</a> versions are available for free.  
 
 <details close markdown="block">
   <summary id="index">
@@ -59,12 +58,12 @@ You are now ***unsettled***.
 </div>
 </details>
 
-### Travel procedures
+## Travel procedures
 
 Wilderness dice will be based on the chance of an event: d6 < d8 < d10 < d12 < d20.  
 A result of 7+ indicates **no events**.
 
-### Trade
+## Trade
 
 Not all items are available at the GM's discretion in every settlement.
 Used gear is worth half of its regular price.
@@ -76,7 +75,7 @@ When inflation is triggered, it lasts 2d6 weeks.
 - **City**: Inflation is triggered at 1d6 x 1000 gp. The absolute trade limit is 6000 gp.
 
 {% comment %}
-# Encounter rule
+## Encounter rule
 
 Roll 2d6. Lowest defines what is met (list below). The highest die establishes the level of the threat. When pairs are rolled, roll a d4 and make an interaction between the two encounters.
 
@@ -120,7 +119,7 @@ Roll 2d6 for beasts and d10+d20 for intelligent beings to see what they are doin
 29. Socialising
 30. Gloating
 
-# Layers of history
+## Layers of history
 
 - The humans (MB expansion north) conquered the empty region and were pushed south by? Rome?
 - The outsiders were wiped out by those who moved to the depths. 
