@@ -7,7 +7,6 @@ has_children: true
 has_toc: false
 
 parent: Directory
-grand_parent: Book I
 title: Duskmeadow Fringe
 role: Grasslands to Forest, transitional region
 status: 

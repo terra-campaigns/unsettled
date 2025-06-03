@@ -6,7 +6,6 @@ nav_exclude: false
 has_children: false
 
 parent: Directory
-grand_parent: Book I
 title: Church of the Weeping Mother
 role: Imperial Faith
 flavour: 

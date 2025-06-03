@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Directory
-parent: Book I
 template: 0.4
 has_children: true
-nav_order: 0
+nav_order: 51
 has_toc: false
 
 ---
