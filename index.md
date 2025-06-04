@@ -48,7 +48,7 @@ footer_content:
 **Communication**: Discord voice (video is optional)  
 **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression  
 **Useful links**:  
-[***unsettled*** website](https://terra-campaigns.github.io/unsettled/)  
+[***unsettled*** art, music, inspiration](https://terra-campaigns.github.io/unsettled/)  
 [Book I campaign](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/)    
 [TTRPG system & chargen](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#system)  
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled)
