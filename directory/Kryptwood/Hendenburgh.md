@@ -12,7 +12,7 @@ role: Forest Village
 status: 
 
 images: 
-- ../../../../imgs/gallery/Pasted%20image%2020250413142519.png
+- ../../imgs/gallery/Pasted%20image%2020250413142519.png
 ---
 
 {% include header_directories.md %}
@@ -36,4 +36,4 @@ images:
 
 - Makeshift morgue, established by Elizabeth.
 
-## Aelfwin (Harald's uncle) estate
+## Aelfwin ([Harald](Harald.md)'s uncle) estate

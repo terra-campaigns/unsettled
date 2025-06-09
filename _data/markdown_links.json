@@ -1351,6 +1351,65 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Kryptwood/Hendenburgh.md": [
+            {
+                "text": "Harald",
+                "url": "directory/Kryptwood/Harald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/Harald.md": [
+            {
+                "text": "Harald",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "_site/README.md": [
             {
                 "text": "Testing your GitHub Pages site locally with Jekyll",
@@ -1745,7 +1804,7 @@
             },
             {
                 "text": "Harald",
-                "url": "directory/Sigisfarne/Harald.md",
+                "url": "directory/Kryptwood/Harald.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1837,26 +1896,6 @@
             {
                 "text": "Irgith",
                 "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Sigisfarne/Harald.md": [
-            {
-                "text": "Harald",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Harald",
-                "url": "campaigns/Book_01/ep_019.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Harald",
-                "url": "campaigns/Book_01/ep_018.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2195,7 +2234,7 @@
             },
             {
                 "text": "Harald",
-                "url": "directory/Sigisfarne/Harald.md",
+                "url": "directory/Kryptwood/Harald.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2241,32 +2280,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Kryptwood/Hendenburgh.md": [
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_019.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_019.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_008.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_018.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_015.md": [
@@ -2396,7 +2409,7 @@
         "campaigns/Book_01/ep_018.md": [
             {
                 "text": "Harald",
-                "url": "directory/Sigisfarne/Harald.md",
+                "url": "directory/Kryptwood/Harald.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
