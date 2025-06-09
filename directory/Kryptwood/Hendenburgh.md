@@ -19,3 +19,21 @@ images:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
+
+## Manor or the Lord of Hendenburgh
+
+## Small barracks for guards
+
+## Church of the Weeping Mother
+
+## Mill
+
+## Blacksmith
+
+## Inn (Galloping Goat)
+
+## Boathouse
+
+- Makeshift morgue, established by Elizabeth.
+
+## Aelfwin (Harald's uncle) estate

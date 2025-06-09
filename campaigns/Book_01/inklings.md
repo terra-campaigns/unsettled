@@ -11,6 +11,9 @@ kanban-plugin: board
 - [ ] Different language in the south
 - [ ] How to add moral decisions like degenesis
 - [ ] Inflation rules
+- [ ] Razzy wants to find tree sap.
+- [ ] Harald is conflicted to go back, and hopes he does not meet people that dislike him in Hendenburgh.
+- [ ] They find traces of a camp south of the village, just outside.
 
 
 ## Snoozed

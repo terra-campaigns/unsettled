@@ -14,6 +14,7 @@ flavour:
 
 images:
 - ../../../../imgs/gallery/Pasted%20image%2020250531091755.png
+- ../../imgs/gallery/Pasted%20image%2020250609101319.png
 
 ---
 

@@ -40,19 +40,19 @@ footer_content:
 
 **GMs:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: Every 5 days, except Mondays
-**Time & Duration**: <t:1748976300:t> for 2~3h  
+**Frequency**: Every 8 days, except Mondays
+**Time & Duration**: <t:1748976300:t> to <t:1749504600:t>  
 **Sign-up**: First come, first served;  2-5 players  
 **Genre**: Weird Fantasy  
 **Language**: English  
 **Communication**: Discord voice (video is optional)  
 **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression  
 **Useful links**:  
-[***unsettled*** art, music, inspiration](https://terra-campaigns.github.io/unsettled/)  
-[Book I campaign](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/)    
-[TTRPG system & chargen](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#system)  
-[Owlbear Rodeo](https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled)
-[Inventory Management](https://docs.google.com/spreadsheets/d/1NtuCQ-6oy5MD8iUA65_5N1TAezPsuV546jgH2-wI-BM/edit?gid=0#gid=0)
+- [***unsettled*** art, music, inspiration](https://terra-campaigns.github.io/unsettled/)  
+- [Book I campaign](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/)    
+- [TTRPG system & chargen](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#system)  
+- [Owlbear Rodeo](https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled)
+- [Inventory Management](https://docs.google.com/spreadsheets/d/1NtuCQ-6oy5MD8iUA65_5N1TAezPsuV546jgH2-wI-BM/edit?gid=0#gid=0)
 **Notes**:  
 Downtime and some light conversations with characters can be conducted through PBP.
 
