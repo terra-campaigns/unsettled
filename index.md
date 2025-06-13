@@ -8,6 +8,10 @@ footer_content:
 
 # Unsettled
 
+A collection of **weird** fantasy stories.  
+**Loomed** over each other.  
+**Inexplicably**.  
+
 ## *Smell* the world, *see* the ***unsettled*** art board.
 
 <iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/unsettled/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="652" frameBorder="0" style="color-scheme: site" allowfullscreen=""></iframe>
@@ -16,7 +20,7 @@ footer_content:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2PL9qS68ckXkKLzheF8YsB?utm_source=generator&theme=1" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## Story so far
+## Stories
 
 {% include prefooter_campaign.html %}
 
@@ -40,7 +44,7 @@ footer_content:
 
 **GMs:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: Every 8 days, except Mondays
+**Frequency**: Every 8 days, except Mon/Tue
 **Time & Duration**: <t:1748976300:t> to <t:1749504600:t>  
 **Sign-up**: First come, first served;  2-5 players  
 **Genre**: Weird Fantasy  
