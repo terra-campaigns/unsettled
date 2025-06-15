@@ -467,6 +467,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Weeping Mother",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "weeping mother",
                 "url": "campaigns/Book_01/ep_003.md",
                 "is_internal": true,
@@ -852,6 +858,12 @@
                 "url": "campaigns/Book_01/ep_014.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/PiotChant.md": [
@@ -1055,6 +1067,12 @@
             {
                 "text": "Yewtree",
                 "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yewtree",
+                "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1351,10 +1369,57 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Kryptwood/Hendenburgh.md": [
+        "directory/Kryptwood/AelfwinEstate.md": [
             {
                 "text": "Harald",
                 "url": "directory/Kryptwood/Harald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aelfwin's estate",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/Harald.md": [
+            {
+                "text": "Harald",
+                "url": "directory/Kryptwood/AelfwinEstate.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Harald",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/Hendenburgh.md": [
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1382,30 +1447,10 @@
                 "url": "campaigns/Book_01/ep_018.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "directory/Kryptwood/Harald.md": [
-            {
-                "text": "Harald",
-                "url": "directory/Kryptwood/Hendenburgh.md",
-                "is_internal": true,
-                "direction": "inbound"
             },
             {
-                "text": "Harald",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Harald",
-                "url": "campaigns/Book_01/ep_019.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Harald",
-                "url": "campaigns/Book_01/ep_018.md",
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1698,12 +1743,24 @@
                 "url": "campaigns/Book_01/ep_018.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Varg",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/Gunther.md": [
             {
                 "text": "Gunther",
                 "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gunther",
+                "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1718,6 +1775,12 @@
             {
                 "text": "Lorenz",
                 "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2694,6 +2757,79 @@
             {
                 "text": "Gerrik",
                 "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_020.md": [
+            {
+                "text": "Yewtree",
+                "url": "directory/Sigisfarne/Yewtree.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gunther",
+                "url": "directory/DuskmeadowFringe/Gunther.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lorenz",
+                "url": "directory/DuskmeadowFringe/Lorenz.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Varg",
+                "url": "directory/DuskmeadowFringe/Varg.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Harald",
+                "url": "directory/Kryptwood/Harald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aelfwin's estate",
+                "url": "directory/Kryptwood/AelfwinEstate.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Crones' cottage",
+                "url": "directory/Kryptwood/TheCrones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Kryptwood/TheCrones.md": [
+            {
+                "text": "Crones' cottage",
+                "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
