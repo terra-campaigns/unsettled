@@ -10,7 +10,9 @@ parent: Directory
 title: Deverain
 role: Coastal Town
 status: 
-flavour: 
+hooks:
+- The piper. That joyful song in the woods? That’s the Piper! They play their flute to call us to join the revolution! We will throw off our chains as we dance! Let us set Deverain ablaze and birth a better world from its ashes!
+- Forth Kingdom. The Duke’s outward obsession with banquets and winemaking are merely a cover for his true ambition - a kingdom of his own. If he can secure the loyalties of the monarchs in Naganeh and Tirollis, he’ll have the backing he needs to declare himself king and remove himself from under the thumb of Ambaret. He may even grant significant land rights to those willing to declare their allegiance now.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250531091755.png

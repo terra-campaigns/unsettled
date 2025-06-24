@@ -9,7 +9,9 @@ parent: Duskmeadow Fringe
 title: Mountain Court
 role: Sinister Court
 status:
-flavour: 
+hooks:
+- Lord Derron has asked the Monks for help with his daughter's curse. The curse seems to have gotten worse after being bitten by bees at the lake west of the Mountain Court.
+- Two brave villagers left the Mountain Court village to steal back from bandits who live in a known hideout south. They never came back.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250408202017.png

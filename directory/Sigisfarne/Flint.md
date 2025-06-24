@@ -8,6 +8,7 @@ title: Flint
 role: Beast Handler
 parent: Sigisfarne
 statblock: false
+hooks: 
 
 image: 
 
@@ -29,3 +30,5 @@ You alone can walk among the creatures of the wild, fearless and in control. You
 You have a Rugged Physique, Rosy Skin, and Luxurious Hair. Your Face is Sunken, your Speech Whispery. You have Soiled Clothing. You are Humble and Vengeful. You are 37 years old.
 
 **Bond:** A distant cousin left you a small inheritance. Take 20gp, and a strange Compass that always points towards something deep in the Wood.
+
+Has a compass that points north, but slightly off. He's been told it doesn't actually point north, but to somewhere in a [forest](../Kaldhur/index.md) far to the north

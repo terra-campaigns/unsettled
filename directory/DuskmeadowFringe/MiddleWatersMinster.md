@@ -10,7 +10,7 @@ parent: Duskmeadow Fringe
 title: Middle Waters
 role: Minster of the Mother
 status:
-flavour: 
+hooks: The Monastery needs help as the Mountain Court's rule on their land is squeezing them too much.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250408201024.png

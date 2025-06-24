@@ -30,3 +30,4 @@ details:
 - Town bonekeeper.
 - He’s buried a lot of people, including Clive, son of [Cai](Cai.md).
 - Corageous.
+- Has a map of a supposed great treasure hidden somewhere in a [wood](../Kaldhur/index.md) north of the Wall

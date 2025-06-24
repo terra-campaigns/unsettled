@@ -9,6 +9,9 @@ parent: Duskmeadow Fringe
 title: Underground Temple
 role: Abandoned Underground Temple with mixed references.
 status: 
+hooks:
+- Adventurers have found two iron gates from corridors on the underground cathedral they found by the river floods, southeast of Sigisfarne. One does not open and the other one is blocked by a collapsed corridor.
+- Note found on a dead adventurer "..."Big Market”... “Wall"...  “Village”..."
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250405154220.png

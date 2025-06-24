@@ -34,6 +34,22 @@ You are now ***unsettled***.
 
 {% include connected_to.html %}
 
+<p id="hooks"><b>Open Hooks</b></p>
+{: .text-delta }
+
+{% for item in site.pages %}
+{% if item.hooks %}
+<p>
+<a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a>
+</p>
+{: .text-delta }
+{% for hook in item.hooks %}
+> {{ hook }}
+{: .fs-4 }
+{% endfor %}
+{% endif %}
+{% endfor %}
+
 ---
 
 # System

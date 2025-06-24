@@ -10,6 +10,7 @@ role: Barber-Surgeon
 status: 
 
 images: 
+- ../../imgs/gallery/Pasted%20image%2020250616144113.png
 
 ---
 

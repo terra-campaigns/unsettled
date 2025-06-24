@@ -11,6 +11,9 @@ title: Duskmeadow Fringe
 role: Grasslands to Forest, transitional region
 status: 
 flavour: Area between the vast grasslands to the west and the weirdness of the eastern forest. Home to a Skeleton Giant, poisonous Aveva spores & pumas.
+hooks:
+- Adventurers from Sigisfarne have found this Sky Spire northwest of Sigisfarne. No one came near it.
+- A vengeful Nymph was upset in the woods a watch east of the Mountain Court. The river can be crossed in drier seasons. Varg and Gunther are on the list of this Nymph.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250411123929.png

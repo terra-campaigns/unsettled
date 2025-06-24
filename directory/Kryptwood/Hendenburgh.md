@@ -10,6 +10,12 @@ parent: Kryptwood
 title: Hendenburgh
 role: Forest Village
 status: 
+hooks:
+- The village of Hendenburgh needs help.
+- The Crones (witches northwest of the village) supposedly can help the village.
+- Loathe potion. Gregory has given, inadvertently, a loathe potion to Mrs Winstaple. To correct that they would need the help of the Crones. Mrs Winstaple would like to see Gregory leave the village.
+- Cancelled wedding. Sly George, from the Highwaymen, decides not to marry beautiful Winnifried. The Crones want that fixed. They would write a banishment letter for the hounds if someone convinces Sly George otherwise.
+- Organs in the boathouse. Elisabeth seems to be removing the organs of the dead people in the village. Some think she should not be doing that.
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250613195652.png

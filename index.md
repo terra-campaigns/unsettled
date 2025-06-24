@@ -42,10 +42,9 @@ A collection of **weird** fantasy stories.
 
 **unsettled** | Cairn 2e [Open Table]
 
-**GMs:** Efsa (Estêvão)  
+**GM:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: Every 8 days, except Mon/Tue
-**Time & Duration**: <t:1748976300:t> to <t:1749504600:t>  
+**Frequency**: Every 8 days, except Mondays and Tuesdays, from <t:1750531500:t> to <t:1750541400:t>
 **Sign-up**: First come, first served;  2-5 players  
 **Genre**: Weird Fantasy  
 **Language**: English  
@@ -61,5 +60,12 @@ A collection of **weird** fantasy stories.
 Downtime and some light conversations with characters can be conducted through PBP.
 
 2 hours and 45 minutes
+
+
+
+MB campaign: mythago
+
+https://youtu.be/Ux13iB1z8mw?si=S0reTGegioUtb9CD
+https://youtu.be/M4ySPC42y28?si=jcZ2W1r_R6T5el2R
 
 {% endcomment %}
