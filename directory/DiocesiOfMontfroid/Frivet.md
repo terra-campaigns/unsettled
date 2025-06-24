@@ -12,7 +12,7 @@ role: Lumber-town and village of crafters
 status: 
 
 images: 
-- ../../../../imgs/gallery/Pasted%20image%2020250414165751.png
+- ../../imgs/gallery/Pasted%20image%2020250414165751.png
 
 ---
 

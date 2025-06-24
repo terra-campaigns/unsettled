@@ -10,7 +10,7 @@ role: Greenwise
 status: 
 
 images: 
-- ../../../../imgs/gallery/Pasted%20image%2020250504195408.png
+- ../../imgs/gallery/Pasted%20image%2020250504195408.png
 
 ---
 

@@ -13,7 +13,7 @@ status:
 flavour: 
 
 images:
-- ../../../../imgs/gallery/Pasted%20image%2020250408201024.png
+- ../../imgs/gallery/Pasted%20image%2020250408201024.png
 ---
 
 {% include header_directories.md %}

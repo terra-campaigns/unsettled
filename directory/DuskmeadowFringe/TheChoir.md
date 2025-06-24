@@ -10,7 +10,7 @@ role: Folk Horror
 status:
 
 images:
-- ../../../../imgs/gallery/Pasted%20image%2020250408213653.png
+- ../../imgs/gallery/Pasted%20image%2020250408213653.png
 
 statblock: false
 hp: 18

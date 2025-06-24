@@ -11,7 +11,7 @@ status:
 flavour: 
 
 images:
-- ../../../../imgs/gallery/Pasted%20image%2020250406092459.png
+- ../../imgs/gallery/Pasted%20image%2020250406092459.png
 
 statblock: false
 hp: 15
