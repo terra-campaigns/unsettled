@@ -11,6 +11,8 @@ title: Aelfwin's estate
 role: Hunting grounds
 status: 
 
+hooks: Letter, from a noble hunter, Mateo Jonas Niral, addressed to Lord Aelfwim, explaining he has finally found his great-great-great-grandfather's hunting manor inside the forest.
+
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250615103651.png
 ---

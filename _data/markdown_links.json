@@ -832,6 +832,12 @@
             },
             {
                 "text": "Razzy",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1454,6 +1460,12 @@
             },
             {
                 "text": "Harald",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Harald",
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1488,6 +1500,12 @@
             {
                 "text": "Hendenburgh",
                 "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_021.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1803,6 +1821,12 @@
             },
             {
                 "text": "Gunther",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gunther",
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1818,6 +1842,12 @@
             {
                 "text": "Lorenz",
                 "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_021.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1982,6 +2012,12 @@
             {
                 "text": "Indigo",
                 "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_021.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2563,6 +2599,71 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/Book_01/ep_021.md": [
+            {
+                "text": "Indigo",
+                "url": "directory/Sigisfarne/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lorenz",
+                "url": "directory/DuskmeadowFringe/Lorenz.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gunther",
+                "url": "directory/DuskmeadowFringe/Gunther.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Harald",
+                "url": "directory/Kryptwood/Harald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "a Crone",
+                "url": "directory/Kryptwood/TheCrones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Kryptwood/TheCrones.md": [
+            {
+                "text": "a Crone",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Crones' cottage",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/Book_01/ep_001.md": [
             {
                 "text": "abandoned church",
@@ -2859,14 +2960,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Kryptwood/TheCrones.md": [
-            {
-                "text": "Crones' cottage",
-                "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ]
     }

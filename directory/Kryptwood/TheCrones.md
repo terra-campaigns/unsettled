@@ -11,6 +11,8 @@ title: The Crones
 role: Cozy cottage and grounds
 status: 
 
+hooks: The Matriarch tells them she would write a banishment letter to the hounds if the group convinces Sly George, from the Highwaymen, to marry Winnifried, as agreed in the past.
+
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250615104252.png
 ---
