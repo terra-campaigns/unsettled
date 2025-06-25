@@ -6,7 +6,8 @@ nav_order: 1
 footer_content:
 ---
 
-# Unsettled
+unsettled
+{: .fs-7 }
 
 A collection of **weird** fantasy stories.  
 **Loomed** over each other.  
@@ -53,6 +54,7 @@ A collection of **weird** fantasy stories.
 **Useful links**:  
 - [***unsettled*** art, music, inspiration](https://terra-campaigns.github.io/unsettled/)  
 - [Book I campaign](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/)    
+- [Open Hooks](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#hooks)
 - [TTRPG system & chargen](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#system)  
 - [Owlbear Rodeo](https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled)
 - [Inventory Management](https://docs.google.com/spreadsheets/d/1NtuCQ-6oy5MD8iUA65_5N1TAezPsuV546jgH2-wI-BM/edit?gid=0#gid=0)

@@ -132,6 +132,13 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
+                "text": "Open Hooks",
+                "url": "https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#hooks",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
                 "text": "TTRPG system & chargen",
                 "url": "https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#system",
                 "is_internal": false,
