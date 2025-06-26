@@ -1427,6 +1427,12 @@
                 "favicon": null
             },
             {
+                "text": "Aelfwin's Estate",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Aelfwin's estate",
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
@@ -2546,6 +2552,12 @@
                 "url": "campaigns/Book_01/ep_008.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Kryptwood",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_018.md": [
@@ -2645,6 +2657,13 @@
             {
                 "text": "a Crone",
                 "url": "directory/Kryptwood/TheCrones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aelfwin's Estate",
+                "url": "directory/Kryptwood/AelfwinEstate.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2950,6 +2969,13 @@
             {
                 "text": "Aelfwin's estate",
                 "url": "directory/Kryptwood/AelfwinEstate.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kryptwood",
+                "url": "directory/Kryptwood/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
