@@ -9,7 +9,7 @@ footer_content:
 unsettled
 {: .fs-7 }
 
-A collection of **weird** fantasy stories.  
+A collection of **weird** medieval folklore.  
 **Loomed** over each other.  
 **Inexplicably**.  
 
@@ -69,5 +69,6 @@ MB campaign: mythago
 
 https://youtu.be/Ux13iB1z8mw?si=S0reTGegioUtb9CD
 https://youtu.be/M4ySPC42y28?si=jcZ2W1r_R6T5el2R
+https://youtu.be/Ux13iB1z8mw?si=jNffTvL6GMhLh9pC
 
 {% endcomment %}
