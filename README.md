@@ -96,6 +96,7 @@ Using the `Connected_to` feature requires running a script to map pages interlin
 To do so as a command line to run the script while building locally, making sure you update the links often.
 
 ```
+python3 extract_repo.py .
 python3 extract_links.py .
 bundle exec jekyll serve
 ```

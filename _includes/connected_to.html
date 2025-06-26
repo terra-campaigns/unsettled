@@ -12,10 +12,7 @@
 
 {% else %}
 
-{% assign parts = page.path | split: "/" %}
-{% assign campaign_path = parts[1] | append: "/directory/" %}
-
-{% assign all_references =  site.pages | where_exp:"item", "item.path contains campaign_path" | where_exp:"item", "item.nav_exclude != true" %}
+{% assign all_references =  site.pages | where_exp:"item", "item.path contains 'directory/'" | where_exp:"item", "item.nav_exclude != true" %}
 
 {% endif %}
 
