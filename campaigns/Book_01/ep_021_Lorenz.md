@@ -1,0 +1,1 @@
+we walked from and back to the lodge 3 times and finally had elizabeth arrested for stealing organs to do magic. after we pushed her into a dangerous river, to steal the organs to do magic. we also killed a cat and pickeled a penis.
