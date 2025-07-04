@@ -12,8 +12,7 @@ kanban-plugin: board
 - [ ] How to add moral decisions like degenesis
 - [ ] Inflation rules
 - [ ] Razzy wants to find tree sap.
-- [ ] Harald is conflicted to go back, and hopes he does not meet people that dislike him in Hendenburgh.
-- [ ] They find traces of a camp south of the village, just outside.
+- [ ] Promoter some npc from Hendenburgh to it's own page
 
 
 ## Snoozed
@@ -52,6 +51,9 @@ kanban-plugin: board
 - [ ] add all bonds if current players
 - [ ] https://blog.jakelee.co.uk/jekyll-calendar-custom-events/
 - [ ] https://talk.jekyllrb.com/t/jekyll-photo-gallery/1499
+- [ ] Harald is conflicted to go back, and hopes he does not meet people that dislike him in Hendenburgh.
+- [ ] They find traces of a camp south of the village, just outside.
+- [ ] Black Cat comes back to life. It is a Crone spy
 
 %% kanban:settings
 ```
