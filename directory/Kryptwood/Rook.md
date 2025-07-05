@@ -9,9 +9,9 @@ title: Rook
 role: Bonekeeper
 status: 
 hooks: You found a Tiny Crystal Prism (petty) buried in the dirt. Holding up to the light shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you.
+nav_order: 1025-06-06
 
 images: 
-- 
 
 ---
 

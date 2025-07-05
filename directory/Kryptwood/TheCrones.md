@@ -6,7 +6,7 @@ nav_exclude: false
 has_toc: false
 has_children: true
 
-parent: Hendenburgh
+parent: Kryptwood
 title: Kryptwood Crones
 role: Cozy cottage and grounds
 status: 

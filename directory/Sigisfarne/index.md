@@ -11,6 +11,7 @@ title: Sigisfarne
 role: Grassland Village
 status: 
 hooks: Sigisfarne has vowed to abandon their western farms in a deal between the villagers and a community of underground mole-like creatures, and surrender that land back to the forest. Due to this, Sigisfarne will not have enough output next harvest to send the excess to the capital, which means it risks the crown's decision of dispersing the village and sending the people to become useful in other settlements unless Sigisfarne finds another way to be helpful to the kingdom.
+nav_order: 1025-03-10
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250406091305.png

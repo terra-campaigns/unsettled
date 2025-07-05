@@ -10,6 +10,7 @@ title: Quarry
 role: Cave system below a quarry. Enslaved stone children.
 status: 
 hooks: On 14th March, a group of villagers from Sigisfarne found a cave system below the quarry. On these caverns, enslaved stone children mined for rubies.
+nav_order: 1025-03-14
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250406100738.png

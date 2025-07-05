@@ -11,6 +11,7 @@ title: Middle Waters
 role: Minster of the Mother
 status:
 hooks: The Monastery needs help as the Mountain Court's rule on their land is squeezing them too much.
+nav_order: 1025-05-17
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250408201024.png

@@ -10,8 +10,9 @@ title: Underground Temple
 role: Abandoned Underground Temple with mixed references.
 status: 
 hooks:
-- Adventurers have found two iron gates from corridors on the underground cathedral they found by the river floods, southeast of Sigisfarne. One does not open and the other one is blocked by a collapsed corridor.
+- Adventurers have found two iron gates in corridors in the underground cathedral, which they found by the river floods, southeast of Sigisfarne. One does not open, and a collapsed corridor blocks the other one.
 - Note found on a dead adventurer "..."Big Market”... “Wall"...  “Village”..."
+nav_order: 1025-03-31
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250405154220.png
@@ -21,19 +22,19 @@ images:
 
 {% include header_directories.md %}
 
-After being interrogated about what they have done in the past, the same teenagers that sent Clive into the ruined church two weeks ago explained they had found a strange cave a few hours down the river.
+After being interrogated about what they had done in the past, the same teenagers who sent Clive into the ruined church two weeks ago explained they had found a strange cave a few hours down the river.
 In this cave, if you walk deep, you find an old structure with black and white tiled floors and walls and defaced statues of men and women larger than life.
 
 The doors are heavy.
 Inside are larger-than-life statues of people in noble but strange clothes.
 Their faces have been scrapped.
-The doric columns smell like dust, and the ceiling is very high and fan-vaulted.
+The Doric columns smell like dust, and the ceiling is very high and fan-vaulted.
 
 Down the stairs, there is a large floor trap.
 The trap leads to a cathedral below.
 Above, a massive statue of a very fat person, repugnant and weird.
 
-East and west doors from the cathedral.
+The east and west doors of the cathedral.
 They have images of the fat woman from the statue above in different positions.
 The doors have some enchantment, but the party cannot open them from the outside.
 

@@ -16,6 +16,7 @@ hooks:
 - Loathe potion. Gregory has given, inadvertently, a loathe potion to Mrs Winstaple. To correct that, they would need the help of the Crones. Mrs Winstaple would like to see Gregory leave the village.
 - Cancelled wedding. Sly George, from the Highwaymen, decides not to marry beautiful Winnifried. The Crones want that fixed. They would write a banishment letter for the hounds if someone convinces Sly George otherwise.
 - The Miller's wife went missing, north of the village, five days ago. He wants help to recover her body for a burial.
+nav_order: 1025-06-06
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250613195652.png

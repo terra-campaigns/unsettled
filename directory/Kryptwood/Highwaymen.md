@@ -12,6 +12,7 @@ role: Treasure bandits
 status: 
 
 hooks: Want something of value from the Tomb.
+nav_order: 1025-06-06
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250704160313.png
