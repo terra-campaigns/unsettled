@@ -17,15 +17,8 @@ kanban-plugin: board
 
 ## Snoozed
 
-- [ ] **Tarot cards first session of a month, or when returning to a location previously visited.**
-- [ ] Razzie: Single Gem: You inherited a Single Gem (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called.
-- [ ] Indigo: You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself.
-- [ ] Varg & Gunther: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
-- [ ] Fairy Queen's bargains
-- [ ] Indigo: You owe a great debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection as well as your obligation.
 - [ ] Tax papers from the monastery were destroyed, but there were copies in the capital.
 - [ ] Documents make Griffin look as stealing money.
-- [ ] Middle waters demise
 
 
 ## Exploration
@@ -54,6 +47,13 @@ kanban-plugin: board
 - [ ] Harald is conflicted to go back, and hopes he does not meet people that dislike him in Hendenburgh.
 - [ ] They find traces of a camp south of the village, just outside.
 - [ ] Black Cat comes back to life. It is a Crone spy
+- [ ] Razzie: Single Gem: You inherited a Single Gem (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called.
+- [ ] Indigo: You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself.
+- [ ] Varg & Gunther: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
+- [ ] Indigo: You owe a great debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection as well as your obligation.
+- [ ] Fairy Queen's bargains
+- [ ] **Tarot cards first session of a month, or when returning to a location previously visited.**
+- [ ] Middle waters demise
 
 %% kanban:settings
 ```

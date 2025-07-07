@@ -12,6 +12,8 @@ status:
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250526084933.png
 
+hooks: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
+
 ---
 
 {% include header_directories.md %}

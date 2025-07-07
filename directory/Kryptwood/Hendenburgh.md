@@ -10,6 +10,7 @@ parent: Kryptwood
 title: Hendenburgh
 role: Forest Village
 status: 
+
 hooks:
 - The village of Hendenburgh needs help.
 - The Crones (witches northwest of the village) supposedly can help the village.

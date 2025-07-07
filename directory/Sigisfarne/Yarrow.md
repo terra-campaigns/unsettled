@@ -20,6 +20,10 @@ dex:
 wil: 
 at: 
 
+hooks:
+- A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with The Twig (petty) in your hand. You believe it brings you luck. It smells faintly of sulphur.
+- Arrest warrant - In the town in the south she won a competition of corpse flowers. But because he learned special methods from wood creatures, her flowers were different. And they ate a lord.
+
 ---
 
 {% include header_directories.md %}

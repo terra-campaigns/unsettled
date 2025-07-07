@@ -22,6 +22,8 @@ at:
 details:
 footer_content: Inspired by Johnstone Metzger's text on <a href="https://www.drivethrurpg.com/en/product/226083/dungeon-full-of-monsters">Dungeon Full of Monsters</a>, page 162. Art by Nathan Jones. 
 
+hooks: Three of them were set loose in the Duskmeadow Fringe
+
 ---
 
 {% include header_directories.md %}

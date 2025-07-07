@@ -8,6 +8,7 @@ parent: Hendenburgh
 title: Harald
 role: Barber-Surgeon
 status: 
+hooks: You consumed a Mischievous Spirit that wreaks havoc on your insides, demanding to be taken home, deep in the Wood.
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250616144113.png

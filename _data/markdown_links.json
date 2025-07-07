@@ -545,8 +545,20 @@
                 "direction": "inbound"
             },
             {
+                "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "fringe",
                 "url": "campaigns/Book_01/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/ep_016.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -571,6 +583,12 @@
             {
                 "text": "Duskmeadow Fringe",
                 "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/ep_015.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1665,6 +1683,13 @@
                 "favicon": null
             },
             {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "crows",
                 "url": "directory/DuskmeadowFringe/TheChoir.md",
                 "is_internal": true,
@@ -1978,6 +2003,13 @@
             {
                 "text": "Sigisfarne",
                 "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2600,6 +2632,13 @@
             {
                 "text": "Sigisfarne",
                 "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null

@@ -9,16 +9,12 @@ title: Indigo
 role: Mountebank
 status: 
 
+hooks:
+- You owe an outstanding debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection and your obligation.
+- You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself.
+
 images:
 - ../../imgs/gallery/Pasted%20image%2020250405154312.png
-
-statblock: false
-hp: 
-armour: 
-str: 
-dex: 
-wil: 
-at: 
 
 ---
 
@@ -31,7 +27,7 @@ Wits are your sharpest weapon, a facade your strongest shield. But when you do l
 
 Flabby, tanned skin, long hair, short. Cryptic, bloody, serene, nervous.
 
-**Bond:** You owe a great debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection as well as your obligation.
+**Bond:** You owe a great debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection and your obligation.
 
 Has visions of the Weeping Mother's sister.
 
