@@ -30,5 +30,3 @@ footer_content: Some of the art by <a href="https://www.micahulrichart.com/">Mic
 {% endcomment %}
 
 **Symbols**: red teardrop, young mother’s face, with two straight lines as her tears
-
-## Sisters

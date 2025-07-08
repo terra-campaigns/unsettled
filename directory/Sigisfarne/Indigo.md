@@ -29,5 +29,5 @@ Flabby, tanned skin, long hair, short. Cryptic, bloody, serene, nervous.
 
 **Bond:** You owe a great debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection and your obligation.
 
-Has visions of the Weeping Mother's sister.
+Has visions of the Weeping Mother's [Sisters](../weepingMother/theSisters.md).
 

@@ -187,6 +187,12 @@
                 "url": "campaigns/Book_01/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Queensweald",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/HornedKnight.md": [
@@ -417,8 +423,8 @@
         ],
         "directory/DuskmeadowFringe/UndergroundTemple.md": [
             {
-                "text": "Weeping",
-                "url": "directory/weepingMother/index.md",
+                "text": "the Sisters",
+                "url": "directory/weepingMother/theSisters.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -448,69 +454,39 @@
                 "direction": "inbound"
             }
         ],
-        "directory/weepingMother/index.md": [
+        "directory/weepingMother/theSisters.md": [
             {
-                "text": "Weeping",
+                "text": "the Sisters",
                 "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Church of the Weeping Mother",
-                "url": "directory/Sigisfarne/RuinedChurch.md",
+                "text": "Sisters",
+                "url": "directory/Sigisfarne/Indigo.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Church of the Weeping Mother",
-                "url": "directory/Sigisfarne/RushdIbnUbada.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Church of the Weeping Mother",
-                "url": "directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
+                "text": "the Sisters",
                 "url": "directory/Kryptwood/Hendenburgh.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "weeping mother",
-                "url": "campaigns/Book_01/ep_003.md",
+                "text": "Sisters",
+                "url": "campaigns/Book_01/ep_023.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Weeping Mother",
-                "url": "campaigns/Book_01/ep_006.md",
+                "text": "Sisters",
+                "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Church of the Weeping Mother",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Church of the Weeping Mother",
-                "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
-                "url": "campaigns/Book_01/ep_011.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
+                "text": "the Sisters",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -695,6 +671,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Middle Waters Minster",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "monastery on the south",
                 "url": "campaigns/Book_01/ep_016.md",
                 "is_internal": true,
@@ -760,6 +742,74 @@
                 "direction": "inbound"
             }
         ],
+        "directory/weepingMother/index.md": [
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/Sigisfarne/RuinedChurch.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/Sigisfarne/RushdIbnUbada.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "weeping mother",
+                "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Sigisfarne/Razvan.md": [
             {
                 "text": "PiotChant",
@@ -797,6 +847,12 @@
             {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_023.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1031,6 +1087,57 @@
             },
             {
                 "text": "Stone",
+                "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/Indigo.md": [
+            {
+                "text": "Sisters",
+                "url": "directory/weepingMother/theSisters.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
                 "url": "campaigns/Book_01/ep_014.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1445,6 +1552,12 @@
                 "favicon": null
             },
             {
+                "text": "Aelfwin Estate",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Aelfwin's Estate",
                 "url": "campaigns/Book_01/ep_022.md",
                 "is_internal": true,
@@ -1516,6 +1629,26 @@
                 "favicon": null
             },
             {
+                "text": "the Sisters",
+                "url": "directory/weepingMother/theSisters.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "early June 1025",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Hendenburgh",
                 "url": "campaigns/Book_01/ep_019.md",
                 "is_internal": true,
@@ -1550,6 +1683,105 @@
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_023.md": [
+            {
+                "text": "early June 1025",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tyrant's Tomb",
+                "url": "directory/Kryptwood/TyrantsTomb.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lazlo",
+                "url": "directory/DuskmeadowFringe/Lazlo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lorenz",
+                "url": "directory/DuskmeadowFringe/Lorenz.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Indigo",
+                "url": "directory/Sigisfarne/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rook",
+                "url": "directory/Kryptwood/Rook.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Middle Waters Minster",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sisters",
+                "url": "directory/weepingMother/theSisters.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aelfwin Estate",
+                "url": "directory/Kryptwood/AelfwinEstate.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Queensweald",
+                "url": "directory/DuskmeadowFringe/Queensweald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hippareiones",
+                "url": "directory/DuskmeadowFringe/Hippareiones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "_site/README.md": [
@@ -1890,6 +2122,12 @@
             },
             {
                 "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
                 "url": "campaigns/Book_01/ep_022.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1909,6 +2147,62 @@
             {
                 "text": "Lorenz",
                 "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/TyrantsTomb.md": [
+            {
+                "text": "Tyrant's Tomb",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tyrant's Tomb",
+                "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Lazlo.md": [
+            {
+                "text": "Lazlo",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/Rook.md": [
+            {
+                "text": "Rook",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rook",
+                "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Hippareiones.md": [
+            {
+                "text": "Hippareiones",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "insect-centaurs",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "insect centaurs",
+                "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2064,44 +2358,6 @@
                 "favicon": null
             }
         ],
-        "directory/Sigisfarne/Indigo.md": [
-            {
-                "text": "Indigo",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Indigo",
-                "url": "campaigns/Book_01/ep_022.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Indigo",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Indigo",
-                "url": "campaigns/Book_01/ep_021.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Indigo",
-                "url": "campaigns/Book_01/ep_010.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Indigo",
-                "url": "campaigns/Book_01/ep_014.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/DuskmeadowFringe/Irgith.md": [
             {
                 "text": "Irgith",
@@ -2203,14 +2459,6 @@
                 "favicon": null
             }
         ],
-        "directory/Kryptwood/Rook.md": [
-            {
-                "text": "Rook",
-                "url": "campaigns/Book_01/ep_022.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/Kryptwood/Highwaymen.md": [
             {
                 "text": "Highwaymen",
@@ -2235,14 +2483,6 @@
             {
                 "text": "Crones' cottage",
                 "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Kryptwood/TyrantsTomb.md": [
-            {
-                "text": "Tyrant's Tomb",
-                "url": "campaigns/Book_01/ep_022.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2524,20 +2764,6 @@
             },
             {
                 "text": "Yarrow",
-                "url": "campaigns/Book_01/ep_010.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/DuskmeadowFringe/Hippareiones.md": [
-            {
-                "text": "insect-centaurs",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "insect centaurs",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2964,8 +3190,22 @@
                 "favicon": null
             },
             {
+                "text": "Sisters",
+                "url": "directory/weepingMother/theSisters.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Indigo",
                 "url": "directory/Sigisfarne/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "the Sisters",
+                "url": "directory/weepingMother/theSisters.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null

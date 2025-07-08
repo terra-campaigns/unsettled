@@ -14,7 +14,6 @@ status:
 hooks:
 - The village of Hendenburgh needs help.
 - The Crones (witches northwest of the village) supposedly can help the village.
-- Loathe potion. Gregory has given, inadvertently, a loathe potion to Mrs Winstaple. To correct that, they would need the help of the Crones. Mrs Winstaple would like to see Gregory leave the village.
 - Cancelled wedding. Sly George, from the Highwaymen, decides not to marry beautiful Winnifried. The Crones want that fixed. They would write a banishment letter for the hounds if someone convinces Sly George otherwise.
 - The Miller's wife went missing, north of the village, five days ago. He wants help to recover her body for a burial.
 nav_order: 1025-06-06
@@ -44,13 +43,16 @@ Oliver is convinced that the pack cannot be eliminated by ordinary means.
 ## Pastor Noonan
 #### Lives at the church of the [Weeping Mother](../weepingMother/index.md)
 
-A bitter ex-priest who has turned to alcohol
+A bitter ex-priest who has turned to alcohol.
+Now a follower of [the Sisters](../weepingMother/theSisters.md).
 
 ## Gregory, the blacksmith
 
 An affable and warm-hearted giant.
 Gregory spends much of his time staring longingly across the street at the Galloping Goat Inn.
 Recently, Gregory has become the object of the seemingly unjustified ire of the Widow Winstaple and is banned from the inn.
+
+He leaves the village in [early June 1025](../../campaigns/Book_01/ep_023.md).
 
 ## Widow Winstaple, the Innkeeper
 #### Owner of the Galloping Goat Inn
