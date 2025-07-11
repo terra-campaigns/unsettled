@@ -65,7 +65,7 @@ You are now ***unsettled***.
 
 ***Book I*** is a **Cairn 2e** campaign.  
 **Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF</a> versions are available for free.  
-o
+
 ## Character generation
 
 You can use the character generator provided below.  
@@ -83,8 +83,28 @@ You may choose to roll your character manually instead.
 
 ## Travel procedures
 
-Wilderness dice will be based on the chance of an event: d6 < d8 < d10 < d12 < d20.  
-A result of 7+ indicates **no events**.
+A **Hex** takes a **Watch** to cross.  
+A **Barrier** cannot be crossed normally, unless with specific knowledge of a pass.
+Through a pass, crossing a **Barrier** takes a **Watch**.  
+Travelling through well maintained roads, or downriver, doubles the speed.
+
+**Barriers** and **Landmarks** are not normally presented on the map.
+If someone attempts to travel out of a **Hex** through a **Barrier**, they are not able to, but still spend the time.
+Exploring a **Hex** takes a **Watch** and presents all its **Landmarks** and **Barriers**, if any.
+
+For each **Watch** roll a die.
+Normally ***d6***.
+You may also roll for **Dire Weather** and **Low Visibility**.
+
+|           |                                                                               |                                                                             |                               |
+| --------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------- |
+|           | **Each Watch**                                                                | **Dire Weather**                                                            | **Low Visibility**            |
+| ***1***   | Encounter.                                                                    | You can't leave the Hex.<br>You can't rest.<br>Food and lights might spoil. | Circle back to where started. |
+| ***2-3*** | Signs of an encounter.                                                        | Looming threat.                                                             | Drift Left(2) or Right (3).   |
+| ***4+***  | Find the Hex's Landmark<br>(not when camping);<br>otherwise, it is all clear. | Fine weather.                                                               | Normal progress.              |
+
+If ***2-3*** is rolled twice in a row, treat it as a ***1***.  
+If a **Landmark** is a source of hostility, an encounter always happens when entering the **Hex**.
 
 ## Trade
 
