@@ -104,7 +104,6 @@ You may also roll for **Dire Weather** and **Low Visibility**.
 | ***4+***  | Find the Hex's Landmark<br>(not when camping);<br>otherwise, it is all clear. | Fine weather.                                                               | Normal progress.              |
 
 If ***2-3*** is rolled twice in a row, treat it as a ***1***.  
-If a **Landmark** is a source of hostility, an encounter always happens when entering the **Hex**.
 
 ## Trade
 
