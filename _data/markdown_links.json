@@ -3391,6 +3391,70 @@
                 "direction": "outbound",
                 "favicon": null
             }
+        ],
+        "campaigns/CoastWolves/001.md": [
+            {
+                "text": "Albann",
+                "url": "gazetteer/Albann.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "pale beach",
+                "url": "gazetteer/Hwicce/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "gazetteer/Albann.md": [
+            {
+                "text": "Albann",
+                "url": "campaigns/CoastWolves/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "gazetteer/Hwicce/index.md": [
+            {
+                "text": "pale beach",
+                "url": "campaigns/CoastWolves/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "coast",
+                "url": "campaigns/CoastWolves/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/CoastWolves/003.md": [
+            {
+                "text": "York",
+                "url": "gazetteer/Hwicce/York.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "gazetteer/Hwicce/York.md": [
+            {
+                "text": "York",
+                "url": "campaigns/CoastWolves/003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/CoastWolves/002.md": [
+            {
+                "text": "coast",
+                "url": "gazetteer/Hwicce/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
         ]
     }
 }

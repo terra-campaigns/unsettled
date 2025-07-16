@@ -11,6 +11,8 @@ footer_content:
 
 ---
 
+![](https://www.sqyre.app/images/blog/norsemen-landing-in-iceland.webp)
+
 {% include header_directories.md %}
 
 {% comment %}

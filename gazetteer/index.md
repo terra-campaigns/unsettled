@@ -3,7 +3,7 @@ layout: default
 title: Gazetteer
 has_children: true
 nav_order: 2
-has_toc: false
+has_toc: true
 nav_exclude: true 
 
 images:
@@ -11,10 +11,6 @@ images:
 
 ---
 
-# The World
-
-
-# Kalduhr
-
-![](../imgs/gallery/Pasted%20image%2020250514204833.png)
-
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
