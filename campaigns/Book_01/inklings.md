@@ -11,14 +11,11 @@ kanban-plugin: board
 - [ ] Different language in the south
 - [ ] How to add moral decisions like degenesis
 - [ ] Inflation rules
-- [ ] Razzy wants to find tree sap.
 - [ ] Promoter some npc from Hendenburgh to it's own page
 
 
 ## Snoozed
 
-- [ ] Tax papers from the monastery were destroyed, but there were copies in the capital.
-- [ ] Documents make Griffin look as stealing money.
 
 
 ## Exploration
@@ -54,6 +51,9 @@ kanban-plugin: board
 - [ ] Fairy Queen's bargains
 - [ ] **Tarot cards first session of a month, or when returning to a location previously visited.**
 - [ ] Middle waters demise
+- [ ] Razzy wants to find tree sap.
+- [ ] Tax papers from the monastery were destroyed, but there were copies in the capital.
+- [ ] Documents make Griffin look as stealing money.
 
 %% kanban:settings
 ```
