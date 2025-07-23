@@ -20,7 +20,8 @@ armour:
 
 details:
 
-hooks: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
+oldhooks: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
+nav_order: 1025-06-10
 
 ---
 

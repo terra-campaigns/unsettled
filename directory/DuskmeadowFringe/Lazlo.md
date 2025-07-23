@@ -9,7 +9,9 @@ title: Lazlo
 role: Scrivener (Monk)
 status: 
 
-hooks: Inscribe your mother’s name in the Azure Archives. You hold a Quill of Azure Feather (petty) that only writes one name—hers—and only in a language you cannot speak aloud. 
+hooks:
+- Inscribe your mother’s name in the Azure Archives. You hold a Quill of Azure Feather (petty) that only writes one name—hers—and only in a language you cannot speak aloud. 
+- A Treatise on the Abyss - A nondescript black book about a gate southwest of the Monastery.
 nav_order: 1025-06-08
 
 

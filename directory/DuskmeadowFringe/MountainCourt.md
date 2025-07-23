@@ -12,6 +12,8 @@ status:
 hooks:
 - Lord Derron has asked the Monks for help with his daughter's curse. The curse seems to have gotten worse after being bitten by bees at the lake west of the Mountain Court.
 - Two brave villagers left the Mountain Court village to steal back from bandits who live in a known hideout south. They never came back.
+- Tax papers from the monastery were destroyed, but there might be copies in the capital.
+- Forged documents make Griffin look as stealing money.
 nav_order: 1025-05-21
 
 images:
