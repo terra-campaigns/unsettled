@@ -27,6 +27,8 @@ Built on old ruins but with well-maintained monuments.
 Two churches, one on each side of the housing area.
 Two bridges to cross the flooded river.
 
+Monks are followers of the [Weeping Mother](../weepingMother/index.md).
+
 Precise illumination of holy tomes.
 Vassals of the [MountainCourt](MountainCourt.md).
 Some believe the Court is cursed.

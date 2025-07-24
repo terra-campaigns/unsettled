@@ -11,7 +11,8 @@ status:
 hooks:
 - One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
 - Took a blue steel sword, with a pearl-incrusted hilt, from the hands of a skeleton in the Tyrant's Tomb.
-nav_order: 1025-06-08
+- Establishes a blacksmith workshop in Hendenburgh
+nav_order: 1025-06-10
 
 images: 
 

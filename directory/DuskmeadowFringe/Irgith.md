@@ -34,3 +34,5 @@ The monks of a secluded forest monastery. When their rules became too strict, an
 Stink Jar: Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use. 
 
 Blessed by all Crows.
+Follower of the [Weeping Mother](../weepingMother/index.md).
+Was a monk at the [Middle Waters Minster](../DuskmeadowFringe/MiddleWatersMinster.md).

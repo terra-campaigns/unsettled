@@ -12,11 +12,12 @@ role: Forest Village
 status: 
 
 hooks:
-- The village of Hendenburgh needs help.
+- Elizabeth is locked in the village by Oliver.
 - The Crones (witches northwest of the village) supposedly can help the village.
 - Cancelled wedding. Sly George, from the Highwaymen, decides not to marry beautiful Winnifried. The Crones want that fixed. They would write a banishment letter for the hounds if someone convinces Sly George otherwise.
 - The Miller's wife went missing, north of the village, five days ago. He wants help to recover her body for a burial.
-nav_order: 1025-06-06
+- Gregory left the village and moved south.
+nav_order: 1025-06-10
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250613195652.png
@@ -39,12 +40,6 @@ Oliver recently led a large group of townsmen into the forest to put an end to t
 Despite heavy losses, they managed to kill three of the dogs.
 However, the bodies disappeared after only a few hours.
 Oliver is convinced that the pack cannot be eliminated by ordinary means.
-
-## Pastor Noonan
-#### Lives at the church of the [Weeping Mother](../weepingMother/index.md)
-
-A bitter ex-priest who has turned to alcohol.
-Now a follower of [the Sisters](../weepingMother/theSisters.md).
 
 ## Gregory, the blacksmith
 

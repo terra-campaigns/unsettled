@@ -33,3 +33,7 @@ A Treatise on the Abyss - A nondescript black book. An in-depth, largely theoret
 
 **How do you transcribe sensitive information?**
 Sanguine Lens - Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day.
+
+Follower of the [Weeping Mother](../weepingMother/index.md).
+Is a monk at the [Middle Waters Minster](../DuskmeadowFringe/MiddleWatersMinster.md).
+Friends of [Pastor Noonan](../Kryptwood/PastorNoonan.md)

@@ -168,6 +168,214 @@
                 "direction": "inbound"
             }
         ],
+        "directory/DuskmeadowFringe/Lazlo.md": [
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Middle Waters Minster",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pastor Noonan",
+                "url": "directory/Kryptwood/PastorNoonan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lazlo",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/weepingMother/index.md": [
+            {
+                "text": "Weeping Mother",
+                "url": "directory/DuskmeadowFringe/Lazlo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/DuskmeadowFringe/Irgith.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/Sigisfarne/RuinedChurch.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/Sigisfarne/RushdIbnUbada.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/Kryptwood/PastorNoonan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "weeping mother",
+                "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/MiddleWatersMinster.md": [
+            {
+                "text": "Middle Waters Minster",
+                "url": "directory/DuskmeadowFringe/Lazlo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "MountainCourt",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Middle Waters Minster",
+                "url": "directory/DuskmeadowFringe/Irgith.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Middle Waters Minster",
+                "url": "directory/Kryptwood/PastorNoonan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Middle Waters",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Middle Waters Minster",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "monastery on the south",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/PastorNoonan.md": [
+            {
+                "text": "Pastor Noonan",
+                "url": "directory/DuskmeadowFringe/Lazlo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sisters",
+                "url": "directory/weepingMother/theSisters.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Middle Waters Minster",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pastor Noonan",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pastor Noonan",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/DuskmeadowFringe/Queensweald.md": [
             {
                 "text": "Horned Knight",
@@ -468,8 +676,8 @@
                 "direction": "inbound"
             },
             {
-                "text": "the Sisters",
-                "url": "directory/Kryptwood/Hendenburgh.md",
+                "text": "Sisters",
+                "url": "directory/Kryptwood/PastorNoonan.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -656,33 +864,6 @@
                 "favicon": null
             }
         ],
-        "directory/DuskmeadowFringe/MiddleWatersMinster.md": [
-            {
-                "text": "MountainCourt",
-                "url": "directory/DuskmeadowFringe/MountainCourt.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Middle Waters",
-                "url": "campaigns/Book_01/ep_017.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Middle Waters Minster",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "monastery on the south",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/DuskmeadowFringe/MountainCourt.md": [
             {
                 "text": "MountainCourt",
@@ -713,6 +894,34 @@
                 "url": "campaigns/Book_01/ep_018.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Irgith.md": [
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Middle Waters Minster",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Irgith",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/RuinedChurch.md": [
@@ -738,74 +947,6 @@
             {
                 "text": "RuinedChurch",
                 "url": "campaigns/Book_01/ep_011.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/weepingMother/index.md": [
-            {
-                "text": "Church of the Weeping Mother",
-                "url": "directory/Sigisfarne/RuinedChurch.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Church of the Weeping Mother",
-                "url": "directory/Sigisfarne/RushdIbnUbada.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Church of the Weeping Mother",
-                "url": "directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
-                "url": "directory/Kryptwood/Hendenburgh.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "weeping mother",
-                "url": "campaigns/Book_01/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
-                "url": "campaigns/Book_01/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Church of the Weeping Mother",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Church of the Weeping Mother",
-                "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
-                "url": "campaigns/Book_01/ep_011.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
-                "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1570,6 +1711,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Aelfwin's Estate",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Aelfwin's estate",
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
@@ -1615,26 +1762,18 @@
             },
             {
                 "text": "Harald",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Harald",
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
         "directory/Kryptwood/Hendenburgh.md": [
-            {
-                "text": "Weeping Mother",
-                "url": "directory/weepingMother/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "the Sisters",
-                "url": "directory/weepingMother/theSisters.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
             {
                 "text": "early June 1025",
                 "url": "campaigns/Book_01/ep_023.md",
@@ -1675,6 +1814,12 @@
             {
                 "text": "Hendenburgh",
                 "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_024.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1737,6 +1882,13 @@
             {
                 "text": "Rook",
                 "url": "directory/Kryptwood/Rook.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pastor Noonan",
+                "url": "directory/Kryptwood/PastorNoonan.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2088,6 +2240,12 @@
             },
             {
                 "text": "Varg",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Varg",
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2103,6 +2261,12 @@
             {
                 "text": "Gunther",
                 "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gunther",
+                "url": "campaigns/Book_01/ep_024.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2146,6 +2310,12 @@
             },
             {
                 "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2163,12 +2333,10 @@
                 "url": "campaigns/Book_01/ep_022.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "directory/DuskmeadowFringe/Lazlo.md": [
+            },
             {
-                "text": "Lazlo",
-                "url": "campaigns/Book_01/ep_023.md",
+                "text": "Tyrant's Tomb",
+                "url": "campaigns/Book_01/ep_024.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2356,14 +2524,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/DuskmeadowFringe/Irgith.md": [
-            {
-                "text": "Irgith",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Deverain/index.md": [
@@ -3142,6 +3302,86 @@
             {
                 "text": "Adair",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_024.md": [
+            {
+                "text": "Tyrant's Tomb",
+                "url": "directory/Kryptwood/TyrantsTomb.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Farkas",
+                "url": "directory/DuskmeadowFringe/Farkas.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Harald",
+                "url": "directory/Kryptwood/Harald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gunther",
+                "url": "directory/DuskmeadowFringe/Gunther.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Varg",
+                "url": "directory/DuskmeadowFringe/Varg.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aelfwin's Estate",
+                "url": "directory/Kryptwood/AelfwinEstate.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pastor Noonan",
+                "url": "directory/Kryptwood/PastorNoonan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lorenz",
+                "url": "directory/DuskmeadowFringe/Lorenz.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/DuskmeadowFringe/Farkas.md": [
+            {
+                "text": "Farkas",
+                "url": "campaigns/Book_01/ep_024.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
