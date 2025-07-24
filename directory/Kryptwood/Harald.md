@@ -8,7 +8,8 @@ parent: Hendenburgh
 title: Harald
 role: Barber-Surgeon
 status: 
-hooks: You consumed a Mischievous Spirit that wreaks havoc on your insides, demanding to be taken home, deep in the Wood.
+hooks: You consumed a Mischievous Spirit that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. You have to go beyond the Wall, north, before the winter.
+nav_order: 1025-06-10
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250616144113.png
