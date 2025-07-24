@@ -13,9 +13,7 @@ status:
 
 hooks:
 - Elizabeth is locked in the village by Oliver.
-- The Crones (witches northwest of the village) supposedly can help the village.
-- Cancelled wedding. Sly George, from the Highwaymen, decides not to marry beautiful Winnifried. The Crones want that fixed. They would write a banishment letter for the hounds if someone convinces Sly George otherwise.
-- The Miller's wife went missing, north of the village, five days ago. He wants help to recover her body for a burial.
+- The Miller's wife went missing, north of the village, five days ago. She is now living with Sly George.
 - Gregory left the village and moved south.
 nav_order: 1025-06-10
 

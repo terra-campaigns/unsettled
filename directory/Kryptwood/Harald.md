@@ -35,3 +35,5 @@ One arm is fully metal and comes off at the shoulder. It can be used as a weapon
 Regrowth Salve - Regrows a body part over the course of a day. 1 use.
 
 **Harold's origin**: He might have been on the run from Hendenburgh (or a nearby village) after a botched job.
+
+Multiple bitemarks on his face, after a serious attack of the Hounds of [Hendenburgh](Hendenburgh.md).

@@ -11,7 +11,7 @@ title: Kryptwood Crones
 role: Cozy cottage and grounds
 status: 
 
-hooks: The Matriarch tells them she would write a banishment letter to the hounds if the group convinces Sly George, from the Highwaymen, to marry Winnifried, as agreed in the past.
+hooks: Cancelled wedding. Sly George, from the Highwaymen, decides not to marry beautiful Winnifried. The Crones want that fixed.
 nav_order: 1025-06-06
 
 images: 
