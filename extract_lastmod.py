@@ -25,7 +25,7 @@ def save_to_json(data, output_file):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Get last modified dates of markdown files.")
     parser.add_argument("directory", help="Path to the markdown files root directory.")
-    parser.add_argument("--output", default="_data/hooks.json", help="Path to output JSON file.")
+    parser.add_argument("--output", default="_data/lastmod.json", help="Path to output JSON file.")
 
     args = parser.parse_args()
     data = get_last_modified_dates(args.directory)
