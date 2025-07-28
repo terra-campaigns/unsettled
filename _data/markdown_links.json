@@ -1684,46 +1684,14 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Kryptwood/AelfwinEstate.md": [
+        "directory/Kryptwood/Harald.md": [
             {
-                "text": "Harald",
-                "url": "directory/Kryptwood/Harald.md",
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
-            {
-                "text": "Aelfwin Estate",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Aelfwin's Estate",
-                "url": "campaigns/Book_01/ep_022.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Aelfwin's Estate",
-                "url": "campaigns/Book_01/ep_021.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Aelfwin's Estate",
-                "url": "campaigns/Book_01/ep_024.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Aelfwin's estate",
-                "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Kryptwood/Harald.md": [
             {
                 "text": "Harald",
                 "url": "directory/Kryptwood/AelfwinEstate.md",
@@ -1775,6 +1743,12 @@
         ],
         "directory/Kryptwood/Hendenburgh.md": [
             {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Harald.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "early June 1025",
                 "url": "campaigns/Book_01/ep_023.md",
                 "is_internal": true,
@@ -1825,6 +1799,45 @@
             },
             {
                 "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/AelfwinEstate.md": [
+            {
+                "text": "Harald",
+                "url": "directory/Kryptwood/Harald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aelfwin Estate",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aelfwin's Estate",
+                "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aelfwin's Estate",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aelfwin's Estate",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aelfwin's estate",
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"

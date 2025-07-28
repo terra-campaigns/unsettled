@@ -13,7 +13,7 @@ status:
 
 hooks: 
 - The Tyrant's ghost tells the party that the Khaldur forest used to hide rich ruins and game a thousand years ago. People started building a wall to protect the southern lands at that time. The ghost never saw it finished.
-- nav_order: 1025-06-10
+nav_order: 1025-06-10
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250704160501.png

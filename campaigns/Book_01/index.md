@@ -34,32 +34,12 @@ You are now ***unsettled***.
 
 {% include connected_to.html %}
 
-<p id="hooks"><b>Open Hooks</b></p>
-{: .text-delta }
 
+{% include hooks.md %}
 
-
-{% assign navhooks = ''|split:'' %}
-{% for item in site.pages %}
-{% if item.hooks %}
-{% assign navhooks = navhooks | push:item %}
-{% endif %}
-{% endfor %}
-
-{% assign navhooks = navhooks | sort: "nav_order" | reverse %}
-
-{% for item in navhooks %}
-<p>
-<a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a>
-</p>
-{: .text-delta }
-{% for hook in item.hooks %}
-> {{ hook }}
-{: .fs-4 }
-{% endfor %}
-{% endfor %}
 
 ---
+
 
 # System
 
