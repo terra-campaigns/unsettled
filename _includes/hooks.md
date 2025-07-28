@@ -1,7 +1,7 @@
 <p id="hooks"><b>Open Hooks</b></p>
 {: .text-delta }
 
-{% for entry in site.data.hooks %}
+{% for entry in site.data.lastmod %}
 {% assign captured_page = site.pages | where: 'path', entry[0] %}
 {% if captured_page[0].hooks and captured_page[0].status != 'Faded' %}
 <p>
