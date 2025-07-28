@@ -1,10 +1,52 @@
 {
+    "directory/Kryptwood/Harald.md": {
+        "hooks": [
+            "You consumed a Mischievous Spirit that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. You have to go beyond the Wall, north, before the winter."
+        ],
+        "last_modified": "2025-07-28T08:42:55.695289"
+    },
+    "directory/Kryptwood/TyrantsTomb.md": {
+        "hooks": [
+            "The Tyrant's ghost tells the party that the Khaldur forest used to hide rich ruins and game a thousand years ago. People started building a wall to protect the southern lands at that time. The ghost never saw it finished."
+        ],
+        "last_modified": "2025-07-25T23:13:44.109999"
+    },
+    "directory/Sigisfarne/Indigo.md": {
+        "hooks": [
+            "You owe an outstanding debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection and your obligation.",
+            "You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the\u00a0**Omens**\u00a0table, but keep the result to yourself.",
+            "Infinite thirst that no water or spirit satisfies."
+        ],
+        "last_modified": "2025-07-25T16:03:00.459995"
+    },
+    "directory/Kryptwood/Hendenburgh.md": {
+        "hooks": [
+            "Elizabeth is locked in the village by Oliver.",
+            "The Miller's wife went missing, north of the village, five days ago. She is now living with Sly George.",
+            "Gregory left the village and moved south."
+        ],
+        "last_modified": "2025-07-24T11:25:55.944013"
+    },
+    "directory/DuskmeadowFringe/Lorenz.md": {
+        "hooks": [
+            "One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You\u2019ve noticed that the shards can sometimes reveal illusions.",
+            "Took a blue steel sword, with a pearl-incrusted hilt, from the hands of a skeleton in the Tyrant's Tomb.",
+            "Establishes a blacksmith workshop in Hendenburgh"
+        ],
+        "last_modified": "2025-07-24T09:25:30.597217"
+    },
     "directory/DuskmeadowFringe/Lazlo.md": {
         "hooks": [
             "Inscribe your mother\u2019s name in the Azure Archives. You hold a Quill of Azure Feather (petty) that only writes one name\u2014hers\u2014and only in a language you cannot speak aloud.",
             "A Treatise on the Abyss - A nondescript black book about a gate southwest of the Monastery."
         ],
         "last_modified": "2025-07-24T09:08:36.143958"
+    },
+    "directory/DuskmeadowFringe/Farkas.md": {
+        "hooks": [
+            "You found a Tiny Crystal Prism (petty) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes, you feel a presence looking back at you."
+        ],
+        "last_modified": "2025-07-24T08:35:36.340338"
     },
     "directory/DuskmeadowFringe/MountainCourt.md": {
         "hooks": [
@@ -15,49 +57,6 @@
         ],
         "last_modified": "2025-07-23T15:32:16.735814"
     },
-    "directory/DuskmeadowFringe/Farkas.md": {
-        "hooks": [
-            "You found a Tiny Crystal Prism (petty) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes, you feel a presence looking back at you."
-        ],
-        "last_modified": "2025-07-24T08:35:36.340338"
-    },
-    "directory/DuskmeadowFringe/UndergroundTemple.md": {
-        "hooks": [
-            "Adventurers have found two iron gates in corridors in the underground cathedral, which they found by the river floods, southeast of Sigisfarne. One does not open, and a collapsed corridor blocks the other one.",
-            "Note found on a dead adventurer \"...\"Big Market\u201d... \u201cWall\"...  \u201cVillage\u201d...\""
-        ],
-        "last_modified": "2025-07-08T08:54:43.496545"
-    },
-    "directory/DuskmeadowFringe/index.md": {
-        "hooks": [
-            "Adventurers from Sigisfarne have found this Sky Spire northwest of Sigisfarne. No one came near it.",
-            "A vengeful Nymph was upset in the woods, a watch east of the Mountain Court. The river can be crossed in drier seasons. Varg and Gunther are on the list of this Nymph."
-        ],
-        "last_modified": "2025-07-04T18:51:01.480243"
-    },
-    "directory/DuskmeadowFringe/Lorenz.md": {
-        "hooks": [
-            "One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You\u2019ve noticed that the shards can sometimes reveal illusions.",
-            "Took a blue steel sword, with a pearl-incrusted hilt, from the hands of a skeleton in the Tyrant's Tomb.",
-            "Establishes a blacksmith workshop in Hendenburgh"
-        ],
-        "last_modified": "2025-07-24T09:25:30.597217"
-    },
-    "directory/Deverain/index.md": {
-        "hooks": [
-            "The piper. That joyful song in the woods? That\u2019s the Piper! They play their flute to call us to join the revolution! We will throw off our chains as we dance! Let us set Deverain ablaze and birth a better world from its ashes!",
-            "Forth Kingdom. The Duke\u2019s outward obsession with banquets and winemaking are merely a cover for his true ambition - a kingdom of his own. If he can secure the loyalties of the monarchs in Naganeh and Tirollis, he\u2019ll have the backing he needs to declare himself king and remove himself from under the thumb of Ambaret. He may even grant significant land rights to those willing to declare their allegiance now."
-        ],
-        "last_modified": "2025-07-04T18:53:50.455846"
-    },
-    "directory/Kaldhur/index.md": {
-        "hooks": [
-            "The Wall. Cutting through the land, some say the storms cannot cross its heights. It guards against invasion from the forest and escape.",
-            "Yewtree has a map of a supposed great treasure hidden somewhere in a wood north of the Wall.",
-            "Flint the snake charmer of Sigisfarne has a compass that points north, but slightly off. He's been told it doesn't actually point north, but to somewhere in a forest far to the north."
-        ],
-        "last_modified": "2025-06-24T19:01:59.719469"
-    },
     "directory/Sigisfarne/Razvan.md": {
         "hooks": [
             "You inherited a Single Gem from a long-dead relative. It arrived with a warning - squander your newfound riches, and a debt long thought forgotten would be called.",
@@ -66,13 +65,12 @@
         ],
         "last_modified": "2025-07-23T15:31:11.005501"
     },
-    "directory/Sigisfarne/Indigo.md": {
+    "directory/DuskmeadowFringe/UndergroundTemple.md": {
         "hooks": [
-            "You owe an outstanding debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection and your obligation.",
-            "You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the\u00a0**Omens**\u00a0table, but keep the result to yourself.",
-            "Infinite thirst that no water or spirit satisfies."
+            "Adventurers have found two iron gates in corridors in the underground cathedral, which they found by the river floods, southeast of Sigisfarne. One does not open, and a collapsed corridor blocks the other one.",
+            "Note found on a dead adventurer \"...\"Big Market\u201d... \u201cWall\"...  \u201cVillage\u201d...\""
         ],
-        "last_modified": "2025-07-25T16:03:00.459995"
+        "last_modified": "2025-07-08T08:54:43.496545"
     },
     "directory/Sigisfarne/Yarrow.md": {
         "hooks": [
@@ -81,24 +79,26 @@
         ],
         "last_modified": "2025-07-07T10:50:54.579029"
     },
-    "directory/Kryptwood/Harald.md": {
+    "directory/Deverain/index.md": {
         "hooks": [
-            "You consumed a Mischievous Spirit that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. You have to go beyond the Wall, north, before the winter."
+            "The piper. That joyful song in the woods? That\u2019s the Piper! They play their flute to call us to join the revolution! We will throw off our chains as we dance! Let us set Deverain ablaze and birth a better world from its ashes!",
+            "Forth Kingdom. The Duke\u2019s outward obsession with banquets and winemaking are merely a cover for his true ambition - a kingdom of his own. If he can secure the loyalties of the monarchs in Naganeh and Tirollis, he\u2019ll have the backing he needs to declare himself king and remove himself from under the thumb of Ambaret. He may even grant significant land rights to those willing to declare their allegiance now."
         ],
-        "last_modified": "2025-07-28T08:42:55.695289"
+        "last_modified": "2025-07-04T18:53:50.455846"
     },
-    "directory/Kryptwood/Hendenburgh.md": {
+    "directory/DuskmeadowFringe/index.md": {
         "hooks": [
-            "Elizabeth is locked in the village by Oliver.",
-            "The Miller's wife went missing, north of the village, five days ago. She is now living with Sly George.",
-            "Gregory left the village and moved south."
+            "Adventurers from Sigisfarne have found this Sky Spire northwest of Sigisfarne. No one came near it.",
+            "A vengeful Nymph was upset in the woods, a watch east of the Mountain Court. The river can be crossed in drier seasons. Varg and Gunther are on the list of this Nymph."
         ],
-        "last_modified": "2025-07-24T11:25:55.944013"
+        "last_modified": "2025-07-04T18:51:01.480243"
     },
-    "directory/Kryptwood/TyrantsTomb.md": {
+    "directory/Kaldhur/index.md": {
         "hooks": [
-            "The Tyrant's ghost tells the party that the Khaldur forest used to hide rich ruins and game a thousand years ago. People started building a wall to protect the southern lands at that time. The ghost never saw it finished."
+            "The Wall. Cutting through the land, some say the storms cannot cross its heights. It guards against invasion from the forest and escape.",
+            "Yewtree has a map of a supposed great treasure hidden somewhere in a wood north of the Wall.",
+            "Flint the snake charmer of Sigisfarne has a compass that points north, but slightly off. He's been told it doesn't actually point north, but to somewhere in a forest far to the north."
         ],
-        "last_modified": "2025-07-25T23:13:44.109999"
+        "last_modified": "2025-06-24T19:01:59.719469"
     }
 }

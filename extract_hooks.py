@@ -38,7 +38,9 @@ def extract_hooks(directory):
                             "last_modified": last_modified
                         }
 
-    return hooks_data
+    # Sort by last_modified descending
+    sorted_data = dict(sorted(hooks_data.items(), key=lambda x: x[1]["last_modified"], reverse=True))
+    return sorted_data
 
 def save_to_json(data, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
