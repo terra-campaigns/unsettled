@@ -7,7 +7,7 @@ nav_exclude: false
 title: Stone
 role: Rill Runner
 parent: Sigisfarne
-statblock: false
+status: Faded
 
 image: 
 
@@ -20,8 +20,7 @@ armour:
 
 details:
 
-oldhooks: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
-nav_order: 1025-06-10
+hooks: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
 
 ---
 
