@@ -2,7 +2,7 @@
 layout: default
 template: 0.4
 type: location
-nav_exclude: false
+nav_exclude: true
 has_children: true
 has_toc: true
 

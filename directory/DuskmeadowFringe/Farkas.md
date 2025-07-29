@@ -10,7 +10,6 @@ role: Fieldwarden
 status: 
 hooks:
 - You found a Tiny Crystal Prism (petty) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes, you feel a presence looking back at you.
-nav_order: 1025-06-10
 
 images: 
 

@@ -1,0 +1,1 @@
+So, today's incursion can be summarized as follows: we went to see a wall up north but on the way we ran into a giant who smacked rook into a tree with his tree. then we ran into the tax collectors, who collected the behind of a deer. we than ran into a canyon, almost ran _into_ a canyon and finally arrived back at the shack where we found a single brick of the wall up north.

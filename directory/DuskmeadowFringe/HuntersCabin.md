@@ -21,6 +21,6 @@ images:
 {% endcomment %}
 
 - 2 days north of Sigisfarne
-- It is well maintained and clean.
 - Located within a dead forest
 - Dried meat, [some think](../../campaigns/Book_01/ep_005.md) of human origin.
+- It was well-maintained, but found in disrepair during an [incursion north](../../campaigns/Book_01/ep_025.md).

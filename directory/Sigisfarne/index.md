@@ -34,7 +34,7 @@ Founding forgotten by living memory and ancient farmland clinging to the edge of
 A hundred crooked buildings lean against each other, their timbers groaning with age.
 The paths between them sink deep.
 
-Built on, around and in the ruins of a past civilisation, with ancient architectural modes different from what we use in the village now.
+Built on, around and in the [ruins of a past civilisation](../../gazetteer/Warden-Stone.md), with ancient architectural modes different from what we use in the village now.
 Talented artifices put together these structures.
 
 ## Relations

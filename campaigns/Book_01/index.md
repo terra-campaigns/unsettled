@@ -76,12 +76,12 @@ For each **Watch** roll a die.
 Normally ***d6***.
 You may also roll for **Dire Weather** and **Low Visibility**.
 
-|           |                                                                               |                                                                             |                               |
-| --------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------- |
-|           | **Each Watch**                                                                | **Dire Weather**                                                            | **Low Visibility**            |
-| ***1***   | Encounter.                                                                    | You can't leave the Hex.<br>You can't rest.<br>Food and lights might spoil. | Circle back to where started. |
-| ***2-3*** | Signs of an encounter.                                                        | Looming threat.                                                             | Drift Left(2) or Right (3).   |
-| ***4+***  | Find the Hex's Landmark<br>(not when camping);<br>otherwise, it is all clear. | Fine weather.                                                               | Normal progress.              |
+|           |                        |                                                                             |                               |
+| --------- | ---------------------- | --------------------------------------------------------------------------- | ----------------------------- |
+|           | **Each Watch**         | **Dire Weather**                                                            | **Low Visibility**            |
+| ***1***   | Encounter.             | You can't leave the Hex.<br>You can't rest.<br>Food and lights might spoil. | Circle back to where started. |
+| ***2-3*** | Signs of an encounter. | Looming threat.                                                             | Drift Left(2) or Right (3).   |
+| ***4+***  | All clear.             | Fine weather.                                                               | Normal progress.              |
 
 If ***2-3*** is rolled twice in a row, treat it as a ***1***.  
 

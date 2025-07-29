@@ -7,7 +7,7 @@ nav_exclude: false
 title: Stone
 role: Rill Runner
 parent: Sigisfarne
-status: Faded
+status: 
 
 image: 
 
