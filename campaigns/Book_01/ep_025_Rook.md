@@ -1,1 +1,1 @@
-![](../../imgs/gallery/Pasted%20image%2020250729142341.png)
+![](imgs/gallery/Pasted%20image%2020250729142341.png)
