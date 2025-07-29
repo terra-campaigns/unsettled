@@ -11,9 +11,9 @@ title: Kalduhr
 role: Forest
 status: 
 hooks:
-- The Wall. Cutting through the land, some say the storms cannot cross its heights. It guards against invasion from the forest and escape.
+- The Wall. Cutting through the land, a wonder two storms tall. Guarding from invasion, or built to cage us all.
 - Yewtree has a map of a supposed great treasure hidden somewhere in a wood north of the Wall.
-- Flint the snake charmer of Sigisfarne has a compass that points north, but slightly off. He's been told it doesn't actually point north, but to somewhere in a forest far to the north.
+- Flint, the snake charmer of Sigisfarne, has a compass that points north, but slightly off. He's been told it doesn't point north, but to somewhere in a forest far to the north.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250624161646.png

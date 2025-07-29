@@ -620,7 +620,7 @@
                 "favicon": null
             },
             {
-                "text": "Quarry",
+                "text": "quarry",
                 "url": "directory/DuskmeadowFringe/Quarry.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -3018,7 +3018,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "Quarry",
+                "text": "quarry",
                 "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
