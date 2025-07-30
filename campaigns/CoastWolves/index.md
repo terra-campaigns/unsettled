@@ -19,7 +19,8 @@ footer_content:
 Herleif
 Fighter / Hunter
 
-Violent man. Have never raided before. But I always wanted it.
+- Violent man. Have never raided before. But I always wanted it.
+- I have good respect for wolves.
 
 17 gp
 
@@ -57,13 +58,13 @@ Languages
 
 Equipment
 
-1. Handaxe L  Throwable. If 4+ damage is dealt when thrown, the Hand-axe bounces, ‘attacking’ again
+1. Handaxe L Throwable. If 4+ damage is dealt when thrown, the Hand-axe bounces, ‘attacking’ again
 2. Javelin M Throwable. Can be recovered.
 3. Longbow M  +1 to hit per round spent aiming.
 4. //
-5. Medium armour 4AC
+5. Medium armour 4 AC
 6. //
-7. Shield +1AC
+7. Shield +1 AC
 8. Rations
 
 Petty items
@@ -71,7 +72,11 @@ Petty items
 1. Tube with paper (from Asfrid)
 2. Asfrid's necklace
 
-12 rowers
-food and water for all of us for 4 days
+Rations: 0
+
+- Faraldr: 
+- Gaetir: The one attacked by the spirit.
+- Ake: Close relationship. Used to be a pick pocket, has trouble sleeping. Easily angered, humble.
+- Leikr: Close relationship. Blackmailed back home. Disciplined, experience raider. Motivated by wealth.
 
 {% endcomment %}
