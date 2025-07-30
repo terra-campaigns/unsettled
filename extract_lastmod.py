@@ -11,10 +11,9 @@ def get_last_modified_dates(directory):
             if file.endswith('.md'):
                 file_path = os.path.join(root, file)
                 rel_path = os.path.relpath(file_path, directory).replace("\\", "/")
-                last_modified = datetime.fromtimestamp(os.path.getmtime(file_path)).isoformat()
+                last_modified = datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-W%U')
                 file_mod_times[rel_path] = last_modified
-
-    # Sort by last_modified descending
+    # Sort by last_modified (YYYY-weeknumber) descending
     sorted_data = dict(sorted(file_mod_times.items(), key=lambda x: x[1], reverse=True))
     return sorted_data
 
