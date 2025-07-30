@@ -376,6 +376,71 @@
                 "direction": "inbound"
             }
         ],
+        "directory/DuskmeadowFringe/Jock.md": [
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jock",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/MountainCourt.md": [
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/Jock.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "MountainCourt",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/DuskmeadowFringe/Queensweald.md": [
             {
                 "text": "Horned Knight",
@@ -601,6 +666,13 @@
             {
                 "text": "Mountain Court",
                 "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jock",
+                "url": "directory/DuskmeadowFringe/Jock.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1049,50 +1121,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/DuskmeadowFringe/MountainCourt.md": [
-            {
-                "text": "MountainCourt",
-                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mountain Court",
-                "url": "campaigns/Book_01/ep_013.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mountain Court",
-                "url": "campaigns/Book_01/ep_017.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mountain Court",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mountain Court",
-                "url": "campaigns/Book_01/ep_018.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mountain Court",
-                "url": "campaigns/Book_01/ep_025.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mountain Court",
-                "url": "campaigns/Book_01/ep_024.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/Irgith.md": [
@@ -3954,6 +3982,12 @@
                 "url": "campaigns/CoastWolves/001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Albann",
+                "url": "campaigns/CoastWolves/004.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "gazetteer/Hwicce/index.md": [
@@ -3968,6 +4002,15 @@
                 "url": "campaigns/CoastWolves/002.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/CoastWolves/004.md": [
+            {
+                "text": "Albann",
+                "url": "gazetteer/Albann.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "campaigns/CoastWolves/003.md": [
