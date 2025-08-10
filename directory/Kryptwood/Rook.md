@@ -9,7 +9,7 @@ title: Rook
 role: Bonekeeper
 status: 
 
-hooks: You found a Tiny Crystal Prism (petty) buried in the dirt. Holding up to the light shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you. You don't recognise the location or know how to get there. But in your vision, you see an unbelievably tall wall, and the sun setting on its far right. You are surrounded by woods that almost glitter with the last sun rays.
+old_hooks: You found a Tiny Crystal Prism (petty) buried in the dirt. Holding up to the light shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you. You don't recognise the location or know how to get there. But in your vision, you see an unbelievably tall wall, and the sun setting on its far right. You are surrounded by woods that almost glitter with the last sun rays.
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250729142412.png
@@ -30,3 +30,5 @@ What did you take from the dead?
 
 What tool was invaluable in your work?
 Manacles - Though old, it’s still effective even against the very strong. You don’t have the key.
+
+Since Jun 1025, he has lived in [Aelfwin's Estate](AelfwinEstate.md), doing work burying the dead in the region.

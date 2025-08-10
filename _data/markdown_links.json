@@ -833,6 +833,108 @@
                 "direction": "inbound"
             }
         ],
+        "directory/DuskmeadowFringe/Gunther.md": [
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gunther",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gunther",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gunther",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gunther",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/Hendenburgh.md": [
+            {
+                "text": "Hendenburgh",
+                "url": "directory/DuskmeadowFringe/Gunther.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Harald.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "early June 1025",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/DuskmeadowFringe/UndergroundTemple.md": [
             {
                 "text": "the Sisters",
@@ -1989,69 +2091,6 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Kryptwood/Hendenburgh.md": [
-            {
-                "text": "Hendenburgh",
-                "url": "directory/Kryptwood/Harald.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "early June 1025",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_019.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_019.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_008.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_018.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_021.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_024.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hendenburgh",
-                "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/Kryptwood/AelfwinEstate.md": [
             {
                 "text": "Harald",
@@ -2059,6 +2098,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Aelfwin's Estate",
+                "url": "directory/Kryptwood/Rook.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Aelfwin Estate",
@@ -2201,6 +2246,33 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "directory/Kryptwood/Rook.md": [
+            {
+                "text": "Aelfwin's Estate",
+                "url": "directory/Kryptwood/AelfwinEstate.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rook",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rook",
+                "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rook",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Wyrmbark/Artea.md": [
@@ -2533,32 +2605,6 @@
                 "direction": "inbound"
             }
         ],
-        "directory/DuskmeadowFringe/Gunther.md": [
-            {
-                "text": "Gunther",
-                "url": "campaigns/Book_01/ep_017.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Gunther",
-                "url": "campaigns/Book_01/ep_021.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Gunther",
-                "url": "campaigns/Book_01/ep_024.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Gunther",
-                "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/DuskmeadowFringe/Lorenz.md": [
             {
                 "text": "Lorenz",
@@ -2631,26 +2677,6 @@
             {
                 "text": "Tyrant's Tomb",
                 "url": "campaigns/Book_01/ep_024.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Kryptwood/Rook.md": [
-            {
-                "text": "Rook",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Rook",
-                "url": "campaigns/Book_01/ep_022.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Rook",
-                "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

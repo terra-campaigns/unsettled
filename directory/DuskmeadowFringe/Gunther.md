@@ -12,7 +12,7 @@ status:
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250526084933.png
 
-hooks: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
+old_hooks: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
 
 ---
 
@@ -32,3 +32,5 @@ What keeps you safe while in the Wood?
 Delphinium - Breathe water for up to one hour. 1 use, but can be divided into fractional doses.
 
 Bond: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
+
+Retired in [Hendenburgh](../Kryptwood/Hendenburgh.md) in June 1025, with an eye on the innkeeper.

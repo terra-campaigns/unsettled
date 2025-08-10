@@ -1,4 +1,6 @@
 {
+    "directory/DuskmeadowFringe/Gunther.md": "2025-W32",
+    "directory/Kryptwood/Rook.md": "2025-W32",
     "_includes/hooks.md": "2025-W30",
     "directory/DuskmeadowFringe/Jock.md": "2025-W30",
     "directory/DuskmeadowFringe/HuntersCabin.md": "2025-W30",
@@ -12,7 +14,6 @@
     "directory/Sigisfarne/index.md": "2025-W30",
     "directory/Kryptwood/Harald.md": "2025-W30",
     "directory/Kryptwood/TyrantsTomb.md": "2025-W30",
-    "directory/Kryptwood/Rook.md": "2025-W30",
     "directory/Wyrmbark/Artea.md": "2025-W30",
     "directory/Wyrmbark/index.md": "2025-W30",
     "directory/Wyrmbark/Basajaun.md": "2025-W30",
@@ -49,7 +50,6 @@
     "campaigns/Book_01/ep_010.md": "2025-W27",
     "directory/DuskmeadowFringe/Varg.md": "2025-W26",
     "directory/DuskmeadowFringe/Hippareiones.md": "2025-W26",
-    "directory/DuskmeadowFringe/Gunther.md": "2025-W26",
     "directory/DuskmeadowFringe/index.md": "2025-W26",
     "directory/Deverain/index.md": "2025-W26",
     "directory/Kryptwood/AelfwinEstate.md": "2025-W26",
