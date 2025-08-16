@@ -14,7 +14,6 @@ status:
 hooks:
 - Elizabeth is locked in the village by Oliver.
 - The Miller's wife went missing, north of the village, five days ago. She is now living with Sly George.
-- Gregory left the village and moved south.
 nav_order: 1025-06-10
 
 images: 
@@ -45,7 +44,7 @@ An affable and warm-hearted giant.
 Gregory spends much of his time staring longingly across the street at the Galloping Goat Inn.
 Recently, Gregory has become the object of the seemingly unjustified ire of the Widow Winstaple and is banned from the inn.
 
-He leaves the village in [early June 1025](../../campaigns/Book_01/ep_023.md).
+He leaves the village in [early June 1025](../../campaigns/Book_01/ep_023.md) and moved to the [Mountain Court](../DuskmeadowFringe/MountainCourt.md)
 
 ## Widow Winstaple, the Innkeeper
 #### Owner of the Galloping Goat Inn

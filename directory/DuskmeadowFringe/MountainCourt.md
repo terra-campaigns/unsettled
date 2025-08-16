@@ -73,3 +73,7 @@ The 30 families receive most of the farm produce you need, and can work the land
 
 Two brave villagers, Galen and Theron, left a month ago in a desperate act to pillage a bandit hideout across the river.
 They never came back.
+
+## Gregory the blacksmith
+
+Moved here from [Hendenburgh](../Kryptwood/Hendenburgh.md).
