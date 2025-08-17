@@ -20,7 +20,9 @@ armour:
 
 details:
 
-hooks: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
+hooks: 
+- One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
+- Mind was visited by Snake Eyes
 
 ---
 

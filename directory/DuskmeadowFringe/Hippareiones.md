@@ -6,7 +6,7 @@ nav_exclude: false
 
 parent: Duskmeadow Fringe
 title: Insect-Centaurs
-role: Ἱππαρείωνες
+role: Hippareiones (Ἱππαρείωνες)
 status:
 
 images:

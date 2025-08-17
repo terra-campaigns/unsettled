@@ -31,3 +31,10 @@ details:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
+Big horns.
+The body of a young adult man is 2m tall.
+Hooves for feet.
+
+Normally, always excited.
+
+He was friends with the fae creature that was [turning travellers into rabbits](../../campaigns/Book_01/ep_015.md).

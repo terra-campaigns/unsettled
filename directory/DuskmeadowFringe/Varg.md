@@ -8,7 +8,9 @@ parent: Mountain Court
 title: Varg
 role: Barber-Surgeon
 status: 
-hooks: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
+hooks:
+- You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
+- Will get to speak with the Forest Queen when he helps solve the issue with the Hippareiones (with Razzie).
 
 images: 
 - ../../imgs/gallery/1ab6ca74a17d437c9690961c07b15301.webp
@@ -31,3 +33,5 @@ What rare tool is essential to your work?
 Regrowth Salve - Regrows a body part over the course of a day. 1 use.
 
 Bond: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
+
+In the end of June, their heart becomes heavier.

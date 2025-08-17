@@ -10,7 +10,7 @@ role: Mountebank
 status: 
 
 hooks:
-- You owe an outstanding debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection and your obligation.
+- You owe an outstanding debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection and your obligation. This ring was stolen.
 - You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself.
 - Infinite thirst that no water or spirit satisfies.
 - Has visions of the Sisters.

@@ -10,8 +10,8 @@ parent: Duskmeadow Fringe
 title: Middle Waters
 role: Minster of the Mother
 status:
-hooks: The Monastery needs help as the Mountain Court's rule on their land squeezes them too much.
-nav_order: 1025-05-17
+hooks:
+- The monks are living in famine, struggling under the Mountain Court.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250408201024.png
@@ -23,14 +23,14 @@ images:
 {% endcomment %}
 
 Looks like a miniature Sigisfarne.
-Built on old ruins but with well-maintained monuments.
+Built on [old ruins but with well-maintained monuments](../../gazetteer/Warden-Stone.md).
 Two churches, one on each side of the housing area.
 Two bridges to cross the flooded river.
 
 Monks are followers of the [Weeping Mother](../weepingMother/index.md).
 
 Precise illumination of holy tomes.
-Vassals of the [MountainCourt](MountainCourt.md).
+Vassals of the [Mountain Court](MountainCourt.md).
 Some believe the Court is cursed.
 
 Monks are all thin.
