@@ -2616,6 +2616,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "hairy animal",
+                "url": "directory/DuskmeadowFringe/Bugbears.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/DuskmeadowFringe/TheChoir.md": [
@@ -2636,6 +2643,20 @@
             {
                 "text": "ruined bathhouse",
                 "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Bugbears.md": [
+            {
+                "text": "hairy animal",
+                "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Fuzzkin",
+                "url": "campaigns/Book_01/ep_026.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3367,6 +3388,13 @@
             {
                 "text": "Underground Temple",
                 "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fuzzkin",
+                "url": "directory/DuskmeadowFringe/Bugbears.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
