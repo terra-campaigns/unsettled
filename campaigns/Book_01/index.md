@@ -48,12 +48,12 @@ You are now ***unsettled***.
 
 ## Character generation
 
-You can use the character generator provided below.  
+You may use the character generator provided below.  
 You may adapt your *Description* and *Bonds* sections as you see fit.  
 Paste a copy of your character and introduce them on the <a href="https://discord.com/channels/1060840338777964565/1340382334674927647" target="_blank">Dramatis Personae</a> channel.  
 You may choose to roll your character manually instead.  
 
-<div style="height:60vh; width:110%;">
+<div style="height:45vh; width:110%;">
   <iframe
     src="https://null.perchance.org/unsettled-chargen"
     style="border:none; width:90%; height:100%;"
@@ -61,7 +61,7 @@ You may choose to roll your character manually instead.
   ></iframe>
 </div>
 
-## Travel procedures
+## Travel
 
 A **Hex** takes a **Watch** to cross.  
 A **Barrier** cannot be crossed normally, unless with specific knowledge of a pass.
@@ -72,29 +72,34 @@ Travelling through well maintained roads, or downriver, doubles the speed.
 If someone attempts to travel out of a **Hex** through a **Barrier**, they are not able to, but still spend the time.
 Exploring a **Hex** takes a **Watch** and presents all its **Landmarks** and **Barriers**, if any.
 
-For each **Watch** roll a die.
-Normally ***d6***.
-You may also roll for **Dire Weather** and **Low Visibility**.
+Roll dice when necessary.
+Normally ***d6*** (bigger dice for safer regions).
+**Weather** affects posterior die sizes.
+If travelling at **Night**, or under looming weather, roll for **Getting Lost**.
 
-|           |                        |                                                                             |                               |
-| --------- | ---------------------- | --------------------------------------------------------------------------- | ----------------------------- |
-|           | **Each Watch**         | **Dire Weather**                                                            | **Low Visibility**            |
-| ***1***   | Encounter.             | You can't leave the Hex.<br>You can't rest.<br>Food and lights might spoil. | Circle back to where started. |
-| ***2-3*** | Signs of an encounter. | Looming threat.                                                             | Drift Left(2) or Right (3).   |
-| ***4+***  | All clear.             | Fine weather.                                                               | Normal progress.              |
+|           |                            |                                                                                                  |                                            |
+| --------- | -------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------ |
+|           | **Each Watch**             | **Each day**                                                                                     | **Getting lost**                           |
+| ***1***   | **Encounter.**             | **Dire weather.**<br>You can't leave the Hex.<br>You can't rest.<br>Food and lights might spoil. | **Lost.**<br>Circle back to where started. |
+| ***2-3*** | **Signs** of an encounter. | **Looming** threat.<br>You risk being lost.                                                      | **Drift** Left(2) or Right (3).            |
+| ***4+***  | All clear.                 | Fine weather.                                                                                    | Normal progress.                           |
 
 If ***2-3*** is rolled twice in a row, treat it as a ***1***.  
 
-## Trade
+## Downtime
 
-Not all items are available at the GM's discretion in every settlement.
-Used gear is worth half of its regular price.
-Selling treasure may trigger inflation in a settlement, which halves selling prices.
-When inflation is triggered, it lasts 2d6 weeks.
+Between sessions, you may take ***one*** Downtime Action.
+Some actions might required a cost to be paid, or milestones to be reached.
+Roll a ***d6*** (***d8*** if your background can help you).
 
-- **Village**: Inflation is triggered at 1d6 x 100 gp. The absolute trade limit is 600 gp.
-- **Town**: Inflation is triggered at 1d20 x 100 gp. The absolute trade limit is 2000 gp.
-- **City**: Inflation is triggered at 1d6 x 1000 gp. The absolute trade limit is 6000 gp.
+|           |                                                                                                              |
+| --------- | ------------------------------------------------------------------------------------------------------------ |
+| ***1***   | **Disaster.** You are unsuccessful. Lose ***d6*** of an attribute.                                           |
+| ***2-3*** | **Setback.** You are partially successful and suffer a setback (e.g.: fatigue, reputation, loss, inflation). |
+| ***4+***  | **Success**. You are successful. You get excellent results with ***6+***.                                    |
+
+Research, treasure trade, training, carousing, care/recovery, forage/hunt, build, and strengthening community ties are examples of actions.
+The list is not comprehensive; you may propose other actions.
 
 {% comment %}
 ## Encounter rule
