@@ -5,7 +5,7 @@ type: creature
 nav_exclude: false
 
 parent: Duskmeadow Fringe
-title: Fuzzkin
+title: Furrykin
 role: Bug humanoids with metallic fur
 status:
 
