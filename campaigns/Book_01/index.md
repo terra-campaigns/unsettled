@@ -89,7 +89,7 @@ If ***2-3*** is rolled twice, treat it as a ***1***.
 ## Downtime
 
 Between sessions, you may take ***one*** Downtime Action.
-Some actions might required a cost to be paid, or milestones to be reached.
+Some actions and projects require costs to be paid and milestones to be reached, respectively.
 Roll a ***d6*** (***d8*** if your background can help you).
 
 |           |                                                                                                              |

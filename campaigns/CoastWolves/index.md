@@ -22,7 +22,7 @@ Fighter / Hunter
 - Violent man. Have never raided before. But I always wanted it.
 - I have good respect for wolves.
 
-17 gp
+67 gp
 
 Cha 11
 Con 10
@@ -58,21 +58,23 @@ Languages
 
 Equipment
 
-1. Handaxe L Throwable. If 4+ damage is dealt when thrown, the Hand-axe bounces, ‘attacking’ again
-2. Javelin M Throwable. Can be recovered.
-3. Longbow M  +1 to hit per round spent aiming.
+1. Handaxe Light Throwable. If 4+ damage is dealt when thrown, the Hand-axe bounces, ‘attacking’ again
+2. Javelin Med Throwable. Can be recovered.
+3. Longbow Med  +1 to hit per round spent aiming.
 4. //
 5. Medium armour 4 AC
 6. //
 7. Shield +1 AC
-8. Rations
+8. Rations (3 uses)
+9. 
+10. 
 
 Petty items
 
 1. Tube with paper (from Asfrid)
 2. Asfrid's necklace
 
-Rations: 0
+Rations: 7 fish
 
 - Faraldr: 
 - Gaetir: The one attacked by the spirit.
