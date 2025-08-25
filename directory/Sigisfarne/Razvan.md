@@ -13,8 +13,7 @@ statblock: false
 hooks:
 - You inherited a Single Gem from a long-dead relative. It arrived with a warning - squander your newfound riches, and a debt long thought forgotten would be called.
 - You owe a favour to the Forest Queen. You dream with sprites.
-- Wants to find tree sap.
-nav_order: 1025-06-08
+- Wants to find red tree sap from Kormoran's Wheel.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250405094144.png

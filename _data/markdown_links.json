@@ -206,6 +206,12 @@
             },
             {
                 "text": "Weeping Mother",
+                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
                 "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -938,6 +944,12 @@
             },
             {
                 "text": "Sigisfarne",
+                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
                 "url": "directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -966,6 +978,12 @@
             {
                 "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_027.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1084,8 +1102,35 @@
                 "favicon": null
             },
             {
+                "text": "structure's architecture",
+                "url": "gazetteer/Warden-Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "underground temple",
                 "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Underground Temple",
+                "url": "campaigns/Book_01/ep_027.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1148,6 +1193,38 @@
             {
                 "text": "the Sisters",
                 "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "gazetteer/Warden-Stone.md": [
+            {
+                "text": "structure's architecture",
+                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "old ruins but with well-maintained monuments",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ruins of a past civilisation",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "centuries-old ruins",
+                "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "stone",
+                "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1371,32 +1448,6 @@
                 "favicon": null
             }
         ],
-        "gazetteer/Warden-Stone.md": [
-            {
-                "text": "old ruins but with well-maintained monuments",
-                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "ruins of a past civilisation",
-                "url": "directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "centuries-old ruins",
-                "url": "campaigns/Book_01/ep_026.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "stone",
-                "url": "campaigns/Book_01/ep_025.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/DuskmeadowFringe/Irgith.md": [
             {
                 "text": "Weeping Mother",
@@ -1611,6 +1662,18 @@
             {
                 "text": "Molemen",
                 "url": "directory/Sigisfarne/Mateus.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "moleman",
+                "url": "directory/Kryptwood/Soren.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "molemen",
+                "url": "campaigns/Book_01/ep_027.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2318,6 +2381,43 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Kryptwood/Soren.md": [
+            {
+                "text": "issue",
+                "url": "campaigns/CoastWolves/004.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "moleman",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Soren",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/CoastWolves/004.md": [
+            {
+                "text": "issue",
+                "url": "directory/Kryptwood/Soren.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Albann",
+                "url": "gazetteer/Albann.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "campaigns/Book_01/ep_023.md": [
             {
                 "text": "early June 1025",
@@ -2451,6 +2551,47 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Kryptwood/Highwaymen.md": [
+            {
+                "text": "The Crones",
+                "url": "directory/Kryptwood/TheCrones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Highwaymen",
+                "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/TheCrones.md": [
+            {
+                "text": "The Crones",
+                "url": "directory/Kryptwood/Highwaymen.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Crones",
+                "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "a Crone",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Crones' cottage",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Wyrmbark/Artea.md": [
             {
                 "text": "Wyrmbark",
@@ -2458,6 +2599,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Artea",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Artea",
@@ -2588,6 +2735,133 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/Book_01/ep_027.md": [
+            {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ayrrin",
+                "url": "directory/Sigisfarne/Ayrrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lorenz",
+                "url": "directory/DuskmeadowFringe/Lorenz.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Soren",
+                "url": "directory/Kryptwood/Soren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "molemen",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Underground Temple",
+                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Ayrrin.md": [
+            {
+                "text": "Ayrrin",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ayrrin",
+                "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ayrrin",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Lorenz.md": [
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/Book_01/ep_013.md": [
             {
                 "text": "Mountain Court",
@@ -2655,7 +2929,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "Fuzzkin",
+                "text": "Furrykin",
                 "url": "campaigns/Book_01/ep_026.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2809,56 +3083,6 @@
             },
             {
                 "text": "Varg",
-                "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/DuskmeadowFringe/Lorenz.md": [
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_017.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_022.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_019.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_021.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_025.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_024.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3160,34 +3384,6 @@
                 "favicon": null
             }
         ],
-        "directory/Kryptwood/Highwaymen.md": [
-            {
-                "text": "Highwaymen",
-                "url": "campaigns/Book_01/ep_022.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Kryptwood/TheCrones.md": [
-            {
-                "text": "Crones",
-                "url": "campaigns/Book_01/ep_022.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "a Crone",
-                "url": "campaigns/Book_01/ep_021.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Crones' cottage",
-                "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/Book_01/ep_002.md": [
             {
                 "text": "Drake",
@@ -3393,25 +3589,11 @@
                 "favicon": null
             },
             {
-                "text": "Fuzzkin",
+                "text": "Furrykin",
                 "url": "directory/DuskmeadowFringe/Bugbears.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Sigisfarne/Ayrrin.md": [
-            {
-                "text": "Ayrrin",
-                "url": "campaigns/Book_01/ep_026.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Ayrrin",
-                "url": "campaigns/Book_01/ep_025.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_012.md": [
@@ -4292,15 +4474,6 @@
                 "url": "campaigns/CoastWolves/002.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "campaigns/CoastWolves/004.md": [
-            {
-                "text": "Albann",
-                "url": "gazetteer/Albann.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
             }
         ],
         "campaigns/CoastWolves/003.md": [

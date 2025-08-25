@@ -52,3 +52,6 @@ Red tiles behind mosaics.
 The walls are covered in bioluminescent fungi.
 In the middle lies a marble statue of a saint.
 The group recognise her as one of [the Sisters](../weepingMother/theSisters.md).
+
+The higher floor reminds one of the [structure's architecture](../../gazetteer/Warden-Stone.md) below the abandoned church in [Sigisfarne](../Sigisfarne/index.md).
+Conversely, the lower floor reminds one of a more traditional temple of the [Weeping Mother](../weepingMother/index.md).

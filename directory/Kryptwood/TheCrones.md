@@ -11,8 +11,7 @@ title: Kryptwood Crones
 role: Cozy cottage and grounds
 status: 
 
-hooks: Cancelled wedding. Sly George, from the Highwaymen, decides not to marry beautiful Winnifried. The Crones want that fixed.
-nav_order: 1025-06-06
+hooks:
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250704161516.png
