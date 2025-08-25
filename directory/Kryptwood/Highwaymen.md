@@ -11,8 +11,8 @@ title: Highwaymen
 role: Treasure bandits
 status: 
 
-hooks: Want something of value from the Tomb.
-nav_order: 1025-06-06
+hooks:
+- Want something of value from the Tomb.
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250704160313.png
@@ -24,3 +24,5 @@ images:
 {% endcomment %}
 
 A gang of notorious highway robbers led by **Sly George** (a vainglorious coward whose reputation has been grossly exaggerated through folk songs of his own composition). The highwaymen use the Kryptwood as a hideout between robberies.
+
+[The Crones](TheCrones.md) poison Sly George in Jul-Wheat 1025.

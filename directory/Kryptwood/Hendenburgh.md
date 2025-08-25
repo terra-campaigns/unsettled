@@ -44,7 +44,7 @@ An affable and warm-hearted giant.
 Gregory spends much of his time staring longingly across the street at the Galloping Goat Inn.
 Recently, Gregory has become the object of the seemingly unjustified ire of the Widow Winstaple and is banned from the inn.
 
-He leaves the village in [early June 1025](../../campaigns/Book_01/ep_023.md) and moved to the [Mountain Court](../DuskmeadowFringe/MountainCourt.md)
+He leaves the village in [early June 1025](../../campaigns/Book_01/ep_023.md) and moved to the [Mountain Court](../DuskmeadowFringe/MountainCourt.md).
 
 ## Widow Winstaple, the Innkeeper
 #### Owner of the Galloping Goat Inn
