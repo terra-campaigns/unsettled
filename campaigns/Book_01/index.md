@@ -88,18 +88,20 @@ If ***2-3*** is rolled twice, treat it as a ***1***.
 
 ## Downtime
 
-Between sessions, you may take ***one*** Downtime Action.
+Between sessions, you may take ***one*** **Downtime Action**.
+**Downtime Actions** can be used to develop **Domain Projects**.
 Some actions and projects require costs to be paid and milestones to be reached, respectively.
 Roll a ***d6*** (***d8*** if your background can help you).
 
 |           |                                                                                                              |
 | --------- | ------------------------------------------------------------------------------------------------------------ |
-| ***1***   | **Disaster.** You are unsuccessful. Lose ***d6*** of an attribute.                                           |
+| ***1***   | **Disaster.** You are unsuccessful. You trigger a complication or may lose ***d6*** of an attribute.         |
 | ***2-3*** | **Setback.** You are partially successful and suffer a setback (e.g.: fatigue, reputation, loss, inflation). |
 | ***4+***  | **Success**. You are successful. You get excellent results with ***6+***.                                    |
 
-Research, treasure trade, training, carousing, care/recovery, forage/hunt, build, and strengthening community ties are examples of actions.
-The list is not comprehensive; you may propose other actions.
+Research, treasure trade, training, carousing, care/recovery, forage/hunt, build, and strengthening community ties are examples of **Downtime Actions**.
+Building farms, establishing institutions, developing businesses, running a established business, training retainers are examples of **Domain Projects**.
+The lists are not comprehensive; you may propose other actions or projects.
 
 {% comment %}
 ## Encounter rule
