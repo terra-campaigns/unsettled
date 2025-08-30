@@ -22,6 +22,9 @@ at: Bites (1d6)
 details:
 - Can use random spells (d666) at will
 
+hooks:
+- A Repitiloid's memories are seen where it stuffs an old man, in a green cloak, inside an amulet. Later, this same Repitiloid walks, dazed, through yellow smoke, to a cavern balcony, overseeing deadlands.
+
 footer_content: Inspired by Johnstone Metzger's text on <a href="https://www.drivethrurpg.com/en/product/226083/dungeon-full-of-monsters">Dungeon Full of Monsters</a>. Art by Nathan Jones. 
 ---
 

@@ -1945,6 +1945,12 @@
                 "url": "directory/Sigisfarne/Yewtree.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "forest beyond the wall",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/RushdIbnUbada.md": [
@@ -2801,6 +2807,18 @@
                 "direction": "inbound"
             },
             {
+                "text": "Reptiloid",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "reptiloids",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "reptiloid",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
@@ -2966,12 +2984,24 @@
                 "url": "campaigns/Book_01/ep_027.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "two-headed-over-a-head-men",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/SpiderPeople.md": [
             {
                 "text": "Anttaurs",
                 "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anttaurs",
+                "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3045,6 +3075,12 @@
             {
                 "text": "Furrykin",
                 "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "furrykins",
+                "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3244,6 +3280,12 @@
             {
                 "text": "insect-centaurs",
                 "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hippareiones",
+                "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4007,6 +4049,85 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Reptiloid",
+                "url": "directory/DuskmeadowFringe/Reptiloids.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anttaurs",
+                "url": "directory/DuskmeadowFringe/SpiderPeople.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "giggly alien creatures",
+                "url": "directory/DuskmeadowFringe/GreenWitches.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "this place",
+                "url": "directory/DuskmeadowFringe/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "furrykins",
+                "url": "directory/DuskmeadowFringe/Bugbears.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "two-headed-over-a-head-men",
+                "url": "directory/DuskmeadowFringe/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "reptiloids",
+                "url": "directory/DuskmeadowFringe/Reptiloids.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "forest beyond the wall",
+                "url": "directory/Kaldhur/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hippareiones",
+                "url": "directory/DuskmeadowFringe/Hippareiones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/DuskmeadowFringe/GreenWitches.md": [
+            {
+                "text": "giggly alien creatures",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/YellowSmoke.md": [
+            {
+                "text": "this place",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_008.md": [
