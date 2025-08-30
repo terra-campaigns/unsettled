@@ -7,11 +7,12 @@ has_children: true
 
 parent: Sigisfarne
 title: Ruined Church
-role: Ruind of an older religion
+role: Ruins of an older religion
 status: 
 flavour: 
 
-image: 
+image:
+- ../../imgs/gallery/Pasted%20image%2020250830164830.png
 
 ---
 
