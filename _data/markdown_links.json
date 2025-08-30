@@ -586,6 +586,12 @@
                 "url": "campaigns/Book_01/ep_026.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Horned Knight",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_015.md": [
@@ -2986,6 +2992,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Murk",
+                "url": "campaigns/Book_01/ep_013.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "two-headed-over-a-head-men",
                 "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
@@ -3031,6 +3043,13 @@
             {
                 "text": "ruined bathhouse",
                 "url": "directory/DuskmeadowFringe/BanditsBath.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Murk",
+                "url": "directory/DuskmeadowFringe/Murk.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4109,6 +4128,13 @@
             {
                 "text": "Hippareiones",
                 "url": "directory/DuskmeadowFringe/Hippareiones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Horned Knight",
+                "url": "directory/DuskmeadowFringe/HornedKnight.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
