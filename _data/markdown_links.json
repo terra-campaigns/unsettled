@@ -2601,6 +2601,13 @@
                 "favicon": null
             },
             {
+                "text": "Basajaun",
+                "url": "directory/Wyrmbark/Basajaun.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Artea",
                 "url": "campaigns/Book_01/ep_027.md",
                 "is_internal": true,
@@ -2608,6 +2615,20 @@
             },
             {
                 "text": "Artea",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Wyrmbark/Basajaun.md": [
+            {
+                "text": "Basajaun",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Basajauns",
                 "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2784,6 +2805,20 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "two heads attached to a normal human body's natural, but sleepy, head",
+                "url": "directory/DuskmeadowFringe/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anttaurs",
+                "url": "directory/DuskmeadowFringe/SpiderPeople.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/Sigisfarne/Ayrrin.md": [
@@ -2858,6 +2893,22 @@
             {
                 "text": "Lorenz",
                 "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Murk.md": [
+            {
+                "text": "two heads attached to a normal human body's natural, but sleepy, head",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/SpiderPeople.md": [
+            {
+                "text": "Anttaurs",
+                "url": "campaigns/Book_01/ep_027.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4094,14 +4145,6 @@
             {
                 "text": "Adair",
                 "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Wyrmbark/Basajaun.md": [
-            {
-                "text": "Basajauns",
-                "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
