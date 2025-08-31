@@ -24,6 +24,9 @@ details:
 - Likes to play chase, where he embraces losing opponents
 - Accompanied by Goblin squires (*detachement*)
 
+hooks:
+- May still have his goblins stolen by the Hippareones (or others from the Yellow Smoke).
+
 ---
 
 {% include header_directories.md %}

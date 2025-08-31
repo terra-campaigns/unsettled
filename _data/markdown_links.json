@@ -3016,6 +3016,12 @@
                 "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "creatures with eight legs and human torsos",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_013.md": [
@@ -4202,6 +4208,13 @@
             {
                 "text": "Kryptwood",
                 "url": "directory/Kryptwood/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "creatures with eight legs and human torsos",
+                "url": "directory/DuskmeadowFringe/SpiderPeople.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
