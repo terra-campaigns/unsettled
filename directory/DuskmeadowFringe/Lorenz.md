@@ -10,7 +10,6 @@ role: Kettlewright
 status: 
 hooks:
 - One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
-- Took a blue steel sword, with a pearl-incrusted hilt, from the hands of a skeleton in the Tyrant's Tomb.
 - Establishes a blacksmith workshop in Hendenburgh
 nav_order: 1025-06-10
 
@@ -34,3 +33,8 @@ What never fails to get you out of trouble?
 Black Tar - Versatile: both sticky and highly flammable. 3 uses.
 
 Bond: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
+
+## Carries the Blue Steel Sword (d8)
+
+- When hitting a foe, can read its memories (3 charges)
+- Unclear how to recharge it

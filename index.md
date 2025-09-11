@@ -45,7 +45,7 @@ A collection of **weird** medieval folklore.
 
 **GM:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: Every 8 days, except Mondays and Tuesdays, from <t:1750531500:t> to <t:1750541400:t>
+**Frequency**: Wednesdays from <t:1757618100:t> to <t:1757626200:t>
 **Sign-up**: First come, first served;  2-5 players  
 **Genre**: Weird Fantasy  
 **Language**: English  
@@ -59,7 +59,7 @@ A collection of **weird** medieval folklore.
 - [Owlbear Rodeo](https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled)
 - [Inventory Management](https://docs.google.com/spreadsheets/d/1NtuCQ-6oy5MD8iUA65_5N1TAezPsuV546jgH2-wI-BM/edit?gid=0#gid=0)
 **Notes**:  
-Downtime and some light conversations with characters can be conducted through PBP.
+Meaningful [downtime and domain play](https://discord.com/channels/1060840338777964565/1399765457992679534) happens through PBP in between sessions. The scope is driven by player choice ahead of planned sessions.
 
 2 hours and 45 minutes
 

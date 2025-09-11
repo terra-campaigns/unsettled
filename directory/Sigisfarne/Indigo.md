@@ -35,3 +35,7 @@ Has visions of the Weeping Mother's [Sisters](../weepingMother/theSisters.md).
 
 Lost his magpie tattoo to a [blizzard](../../campaigns/Book_01/ep_025.md).
 
+## Carries the Black Sword (d8)
+
+- Matte black blade, hilt and handle
+- Under some conditions, it becomes sharper and glossy (d12 damage)

@@ -18,4 +18,4 @@ images:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
-Bully mercenary, given tax collecting rights by Lord Griffin, from the [Mountain Court](MountainCourt.md).
+Bully mercenary, given tax-collecting rights by [Lord Griffin](LordGriffin.md), from the [Mountain Court](MountainCourt.md).

@@ -9,7 +9,7 @@ title: Pastor Noonan
 role: Barber-Surgeon
 status: 
 hooks: 
-nav_order: 1025-06-10
+- Restablished friendship with Lazlo.
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250830164641.png
@@ -26,3 +26,5 @@ Pastor of the [Weeping Mother](../weepingMother/index.md).
 Turning his beliefs to the heretical sect of the [Sisters](../weepingMother/theSisters.md), which spreads in the realm.
 
 Was a monk at the [Middle Waters Minster](../DuskmeadowFringe/MiddleWatersMinster.md).
+Friends with [Lazlo](../DuskmeadowFringe/Lazlo.md) when both lived in the Minster.
+Friendship revived when Lazlo spent two summer months in [Hendenburgh](Hendenburgh.md) in 1025.

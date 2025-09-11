@@ -3,7 +3,7 @@ layout: default
 template: 0.4
 type: location
 nav_exclude: false
-has_toc: false
+has_toc: true
 
 parent: Duskmeadow Fringe
 title: Mountain Court
@@ -12,9 +12,7 @@ status:
 hooks:
 - Lord Derron has asked the Monks for help with his daughter's curse. The curse seems to have gotten worse after being bitten by bees at the lake west of the Mountain Court.
 - Two brave villagers left the Mountain Court village to steal back from bandits who live in a known hideout south. They never came back.
-- Tax papers from the monastery were destroyed, but there might be copies in the capital.
-- Forged documents make Griffin look as stealing money.
-nav_order: 1025-05-21
+- Tax papers from the monastery were destroyed, but there might be copies in the capital. Tax collectors search the Riverrun men and Indigo for missing tax (2d10 x10gp).
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250408202017.png
@@ -38,20 +36,13 @@ On the full moon, the beast-bitten go to a cavern in the mountain and lock thems
 Direct vassals of the Crown.
 There are around 40 lords and ladies.
 Well-dressed, live with all kinds of animals in the Palace.
-All humans possess a great build and exhibit some animal-like aspects.
+All humans possess great build and exhibit some animal-like characteristics.
 
 ## Palace
 
 Open and built in blocks.
 Colourful columns and walls.
 Smell of manure.
-
-## Lord Griffin
-
-Has a thick skin, like a hide.
-Speaks slowly with a coarse voice.
-Has established a tax post by the river.
-The priest of the Church of the Weeping Mother is a kind supporter of him.
 
 ## Lord Derron
 

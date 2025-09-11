@@ -13,6 +13,8 @@ status:
 hooks:
 - The Wall. Cutting through the land, a wonder two storms tall. Guarding from invasion, or built to cage us all.
 - Yewtree has a map of a supposed great treasure hidden somewhere in a wood north of the Wall.
+
+old_hooks:
 - Flint, the snake charmer of Sigisfarne, has a compass that points north, but slightly off. He's been told it doesn't point north, but to somewhere in a forest far to the north.
 
 images:

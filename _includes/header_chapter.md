@@ -10,7 +10,7 @@
 {% for entry in page.narration %}
 {% assign to_include = filename | append: "_" | append: entry | append: ".md" %}
 <details close markdown="block">
-  <summary id="index">
+  <summary id="accounts">
     <b>{{ entry }}'s accounts</b><br> 
   </summary>
 {: .text-delta}
