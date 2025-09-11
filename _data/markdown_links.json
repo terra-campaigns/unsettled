@@ -158,6 +158,13 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.google.com/favicon.ico"
+            },
+            {
+                "text": "downtime and domain play",
+                "url": "https://discord.com/channels/1060840338777964565/1399765457992679534",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://discord.com/favicon.ico"
             }
         ],
         ".": [
@@ -189,6 +196,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Lazlo",
+                "url": "directory/Kryptwood/PastorNoonan.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Lazlo",
@@ -389,6 +402,20 @@
                 "favicon": null
             },
             {
+                "text": "Lazlo",
+                "url": "directory/DuskmeadowFringe/Lazlo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Pastor Noonan",
                 "url": "campaigns/Book_01/ep_023.md",
                 "is_internal": true,
@@ -496,6 +523,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/PastorNoonan.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Hendenburgh",
@@ -768,12 +801,6 @@
             {
                 "text": "some think",
                 "url": "directory/DuskmeadowFringe/HuntersCabin.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "March 1025",
-                "url": "directory/DuskmeadowFringe/SkySpire.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1534,33 +1561,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/DuskmeadowFringe/SkySpire.md": [
-            {
-                "text": "March 1025",
-                "url": "campaigns/Book_01/ep_005.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Northern Spire",
-                "url": "campaigns/Book_01/ep_029.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Northern Spire",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Spire",
-                "url": "campaigns/Book_01/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/Irgith.md": [
@@ -4241,6 +4241,26 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "directory/DuskmeadowFringe/SkySpire.md": [
+            {
+                "text": "Northern Spire",
+                "url": "campaigns/Book_01/ep_029.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Northern Spire",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spire",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_028.md": [
