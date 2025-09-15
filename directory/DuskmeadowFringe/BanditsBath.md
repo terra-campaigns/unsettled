@@ -19,6 +19,12 @@ images:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 
+[Bugbears](../FoldedBelow/Bugbears.md)
+[ChaosChampion](../FoldedBelow/ChaosChampion.md)
+[Murk](../FoldedBelow/Murk.md)
+
+{% endcomment %}
+
 Located at the base of a mountain.
 Ruined bath system.
 Entrance to the Blue Mountain realm through Iron Doors.
@@ -32,7 +38,3 @@ Their treasures are kept safe by Chaos Cultists
 They killed one bandit and one [aberration](../FoldedBelow/Murk.md).
 They are now toys in the hands of the [grotesque](../FoldedBelow/ChaosChampion.md).
 Their new pets.
-
-{% endcomment %}
-
-

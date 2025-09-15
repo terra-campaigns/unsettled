@@ -19,3 +19,13 @@ images:
 
 {% include header_directories.md %}
 
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+[ChaosChampion](ChaosChampion.md)
+[Bugbears](Bugbears.md)
+[Hippareiones](Hippareiones.md)
+[Murk](Murk.md)
+[Reptiloids](Reptiloids.md)
+[GreenWitches](GreenWitches.md)
+[SpiderPeople](SpiderPeople.md)
+{% endcomment %}

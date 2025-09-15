@@ -1461,6 +1461,27 @@
         ],
         "directory/DuskmeadowFringe/BanditsBath.md": [
             {
+                "text": "Bugbears",
+                "url": "directory/FoldedBelow/Bugbears.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Galen and Theron",
                 "url": "directory/DuskmeadowFringe/GalenTheron.md",
                 "is_internal": true,
@@ -1494,37 +1515,110 @@
                 "direction": "inbound"
             }
         ],
-        "directory/DuskmeadowFringe/GalenTheron.md": [
+        "directory/FoldedBelow/Bugbears.md": [
             {
-                "text": "Galen and Theron",
+                "text": "Bugbears",
                 "url": "directory/DuskmeadowFringe/BanditsBath.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Mountain Court",
-                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "text": "Bugbears",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
                 "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
+                "direction": "inbound"
             },
             {
-                "text": "one person",
+                "text": "Bugbears",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "hairy animal",
+                "url": "campaigns/Brigandage/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Furrykin",
+                "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "furrykins",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/ChaosChampion.md": [
+            {
+                "text": "ChaosChampion",
+                "url": "directory/DuskmeadowFringe/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "grotesque",
+                "url": "directory/DuskmeadowFringe/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "heavily robed men",
                 "url": "campaigns/Brigandage/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Galen and Theron",
+                "text": "grotesque",
                 "url": "campaigns/Brigandage/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "man",
+                "url": "campaigns/Book_01/ep_027.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
         "directory/FoldedBelow/Murk.md": [
             {
+                "text": "Murk",
+                "url": "directory/DuskmeadowFringe/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "aberration",
                 "url": "directory/DuskmeadowFringe/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1553,28 +1647,29 @@
                 "direction": "inbound"
             }
         ],
-        "directory/FoldedBelow/ChaosChampion.md": [
+        "directory/DuskmeadowFringe/GalenTheron.md": [
             {
-                "text": "grotesque",
+                "text": "Galen and Theron",
                 "url": "directory/DuskmeadowFringe/BanditsBath.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "heavily robed men",
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "one person",
                 "url": "campaigns/Brigandage/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "grotesque",
+                "text": "Galen and Theron",
                 "url": "campaigns/Brigandage/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "man",
-                "url": "campaigns/Book_01/ep_027.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1601,7 +1696,233 @@
                 "direction": "inbound"
             }
         ],
+        "directory/FoldedBelow/YellowSmoke.md": [
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bugbears",
+                "url": "directory/FoldedBelow/Bugbears.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hippareiones",
+                "url": "directory/FoldedBelow/Hippareiones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Reptiloids",
+                "url": "directory/FoldedBelow/Reptiloids.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "GreenWitches",
+                "url": "directory/FoldedBelow/GreenWitches.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "SpiderPeople",
+                "url": "directory/FoldedBelow/SpiderPeople.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "this place",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/Hippareiones.md": [
+            {
+                "text": "Hippareiones",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hippareiones",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hippareiones",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Insect-Centaurs",
+                "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "insect-centaurs",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hippareiones",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "insect centaurs",
+                "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/Reptiloids.md": [
+            {
+                "text": "Reptiloids",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Reptiloids",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "reptiloids",
+                "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "three-eyed",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Reptiloid",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "reptiloids",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "reptiloid",
+                "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/GreenWitches.md": [
+            {
+                "text": "GreenWitches",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "giggly alien creatures",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/SpiderPeople.md": [
+            {
+                "text": "SpiderPeople",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anttaurs",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "spider people",
+                "url": "campaigns/Book_01/ep_029.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anttaurs",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "creatures with eight legs and human torsos",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/FoldedBelow/UndergroundTemple.md": [
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bugbears",
+                "url": "directory/FoldedBelow/Bugbears.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hippareiones",
+                "url": "directory/FoldedBelow/Hippareiones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Reptiloids",
+                "url": "directory/FoldedBelow/Reptiloids.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
             {
                 "text": "the Sisters",
                 "url": "directory/weepingMother/theSisters.md",
@@ -3160,26 +3481,6 @@
                 "direction": "inbound"
             }
         ],
-        "directory/FoldedBelow/Bugbears.md": [
-            {
-                "text": "hairy animal",
-                "url": "campaigns/Brigandage/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Furrykin",
-                "url": "campaigns/Book_01/ep_026.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "furrykins",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/Book_01/ep_003.md": [
             {
                 "text": "Drake",
@@ -3250,38 +3551,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/FoldedBelow/Reptiloids.md": [
-            {
-                "text": "reptiloids",
-                "url": "campaigns/Book_01/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "three-eyed",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Reptiloid",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "reptiloids",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "reptiloid",
-                "url": "campaigns/Book_01/ep_010.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_027.md": [
@@ -3420,32 +3689,6 @@
             {
                 "text": "Lorenz",
                 "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/SpiderPeople.md": [
-            {
-                "text": "Anttaurs",
-                "url": "campaigns/Book_01/ep_027.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "spider people",
-                "url": "campaigns/Book_01/ep_029.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anttaurs",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "creatures with eight legs and human torsos",
-                "url": "campaigns/Book_01/ep_008.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3638,38 +3881,6 @@
             {
                 "text": "Tyrant's Tomb",
                 "url": "campaigns/Book_01/ep_024.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/Hippareiones.md": [
-            {
-                "text": "Hippareiones",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Insect-Centaurs",
-                "url": "campaigns/Book_01/ep_026.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "insect-centaurs",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hippareiones",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "insect centaurs",
-                "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4596,22 +4807,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/FoldedBelow/GreenWitches.md": [
-            {
-                "text": "giggly alien creatures",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/YellowSmoke.md": [
-            {
-                "text": "this place",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_008.md": [

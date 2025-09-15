@@ -21,9 +21,17 @@ images:
 ---
 
 {% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+[ChaosChampion](ChaosChampion.md)
+[Bugbears](Bugbears.md)
+[Hippareiones](Hippareiones.md)
+[Murk](Murk.md)
+[Reptiloids](Reptiloids.md)
+{% endcomment %}
 
 After being interrogated about what they had done in the past, the same teenagers who sent Clive into the ruined church two weeks ago explained they had found a strange cave a few hours down the river.
-In this cave, if you walk deep, you find an old structure with black and white tiled floors and walls and defaced statues of men and women larger than life.
+Walking deep into this cave, you will find an old structure with black-and-white tiled floors and walls and defaced statues of men and women larger than life.
 
 The doors are heavy.
 Inside are larger-than-life statues of people in noble but strange clothes.
@@ -46,7 +54,7 @@ The pool becomes deep quickly.
 A large iron door (almost a small iron gate) is in this same chamber.
 Under inspection, there are no traps, but it is closed, has no handle and does not move with force. 
 
-Checking the south of the tunnel, I noticed that glass mosaics covered some walls, which are now broken.
+When checking the south of the tunnel, the glass mosaics covered some walls, which are now broken.
 Red tiles behind mosaics.
 
 The walls are covered in bioluminescent fungi.
