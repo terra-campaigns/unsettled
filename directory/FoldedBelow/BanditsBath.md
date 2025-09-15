@@ -34,7 +34,7 @@ A silver skull keeps it open.
 It is a hideout of petty bandits that steal from rural villages.
 Their treasures are kept safe by Chaos Cultists
 
-[Galen and Theron](GalenTheron.md) went in a few days ago.
+[Galen and Theron](../DuskmeadowFringe/GalenTheron.md) went in a few days ago.
 They killed one bandit and one [aberration](../FoldedBelow/Murk.md).
 They are now toys in the hands of the [grotesque](../FoldedBelow/ChaosChampion.md).
 Their new pets.

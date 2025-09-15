@@ -1459,207 +1459,19 @@
                 "direction": "inbound"
             }
         ],
-        "directory/DuskmeadowFringe/BanditsBath.md": [
-            {
-                "text": "Bugbears",
-                "url": "directory/FoldedBelow/Bugbears.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "ChaosChampion",
-                "url": "directory/FoldedBelow/ChaosChampion.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Murk",
-                "url": "directory/FoldedBelow/Murk.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Galen and Theron",
-                "url": "directory/DuskmeadowFringe/GalenTheron.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "aberration",
-                "url": "directory/FoldedBelow/Murk.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "grotesque",
-                "url": "directory/FoldedBelow/ChaosChampion.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Bath",
-                "url": "campaigns/Brigandage/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "ruined bathhouse",
-                "url": "campaigns/Brigandage/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/Bugbears.md": [
-            {
-                "text": "Bugbears",
-                "url": "directory/DuskmeadowFringe/BanditsBath.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Bugbears",
-                "url": "directory/FoldedBelow/YellowSmoke.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Bugbears",
-                "url": "directory/FoldedBelow/UndergroundTemple.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "hairy animal",
-                "url": "campaigns/Brigandage/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Furrykin",
-                "url": "campaigns/Book_01/ep_026.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "furrykins",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/ChaosChampion.md": [
-            {
-                "text": "ChaosChampion",
-                "url": "directory/DuskmeadowFringe/BanditsBath.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "grotesque",
-                "url": "directory/DuskmeadowFringe/BanditsBath.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "ChaosChampion",
-                "url": "directory/FoldedBelow/YellowSmoke.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "ChaosChampion",
-                "url": "directory/FoldedBelow/UndergroundTemple.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "heavily robed men",
-                "url": "campaigns/Brigandage/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "grotesque",
-                "url": "campaigns/Brigandage/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "man",
-                "url": "campaigns/Book_01/ep_027.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/Murk.md": [
-            {
-                "text": "Murk",
-                "url": "directory/DuskmeadowFringe/BanditsBath.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "aberration",
-                "url": "directory/DuskmeadowFringe/BanditsBath.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Murk",
-                "url": "directory/FoldedBelow/YellowSmoke.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Murk",
-                "url": "directory/FoldedBelow/UndergroundTemple.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "a brutish man with two heads growing from its middle head",
-                "url": "campaigns/Brigandage/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "three-headed creature",
-                "url": "campaigns/Brigandage/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "two heads attached to a normal human body's natural, but sleepy, head",
-                "url": "campaigns/Book_01/ep_027.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "two-headed-over-a-head-men",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/DuskmeadowFringe/GalenTheron.md": [
-            {
-                "text": "Galen and Theron",
-                "url": "directory/DuskmeadowFringe/BanditsBath.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
             {
                 "text": "Mountain Court",
                 "url": "directory/DuskmeadowFringe/MountainCourt.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Galen and Theron",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "one person",
@@ -1753,6 +1565,88 @@
                 "direction": "inbound"
             }
         ],
+        "directory/FoldedBelow/ChaosChampion.md": [
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "grotesque",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "heavily robed men",
+                "url": "campaigns/Brigandage/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "grotesque",
+                "url": "campaigns/Brigandage/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "man",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/Bugbears.md": [
+            {
+                "text": "Bugbears",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Bugbears",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Bugbears",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "hairy animal",
+                "url": "campaigns/Brigandage/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Furrykin",
+                "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "furrykins",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/FoldedBelow/Hippareiones.md": [
             {
                 "text": "Hippareiones",
@@ -1793,6 +1687,56 @@
             {
                 "text": "insect centaurs",
                 "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/Murk.md": [
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "aberration",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "a brutish man with two heads growing from its middle head",
+                "url": "campaigns/Brigandage/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "three-headed creature",
+                "url": "campaigns/Brigandage/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "two heads attached to a normal human body's natural, but sleepy, head",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "two-headed-over-a-head-men",
+                "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2028,6 +1972,62 @@
             {
                 "text": "the Sisters",
                 "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/BanditsBath.md": [
+            {
+                "text": "Bugbears",
+                "url": "directory/FoldedBelow/Bugbears.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Galen and Theron",
+                "url": "directory/DuskmeadowFringe/GalenTheron.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "aberration",
+                "url": "directory/FoldedBelow/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "grotesque",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bath",
+                "url": "campaigns/Brigandage/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ruined bathhouse",
+                "url": "campaigns/Brigandage/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3338,7 +3338,7 @@
             },
             {
                 "text": "Bath",
-                "url": "directory/DuskmeadowFringe/BanditsBath.md",
+                "url": "directory/FoldedBelow/BanditsBath.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3440,7 +3440,7 @@
             },
             {
                 "text": "ruined bathhouse",
-                "url": "directory/DuskmeadowFringe/BanditsBath.md",
+                "url": "directory/FoldedBelow/BanditsBath.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
