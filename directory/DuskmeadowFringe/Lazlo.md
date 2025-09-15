@@ -16,7 +16,7 @@ nav_order: 1025-06-08
 
 
 images: 
-- ../../imgs/gallery/Pasted%20image%2020250707192045.png
+- ../../imgs/gallery/Pasted%20image%2020250915192633.png
 ---
 
 {% include header_directories.md %}
