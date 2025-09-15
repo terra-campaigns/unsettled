@@ -4537,7 +4537,7 @@
             },
             {
                 "text": "this place",
-                "url": "directory/DuskmeadowFringe/YellowSmoke.md",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4593,7 +4593,7 @@
                 "direction": "inbound"
             }
         ],
-        "directory/DuskmeadowFringe/YellowSmoke.md": [
+        "directory/FoldedBelow/YellowSmoke.md": [
             {
                 "text": "this place",
                 "url": "campaigns/Book_01/ep_028.md",
