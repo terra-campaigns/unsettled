@@ -1625,7 +1625,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "GalenTheron",
+                "text": "Galen and Theron",
                 "url": "campaigns/Brigandage/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1645,7 +1645,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "three-headed-creature",
+                "text": "three-headed creature",
                 "url": "campaigns/Brigandage/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3084,7 +3084,7 @@
         ],
         "campaigns/Brigandage/ep_001.md": [
             {
-                "text": "GalenTheron",
+                "text": "Galen and Theron",
                 "url": "directory/DuskmeadowFringe/GalenTheron.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -3119,7 +3119,7 @@
                 "favicon": null
             },
             {
-                "text": "three-headed-creature",
+                "text": "three-headed creature",
                 "url": "directory/DuskmeadowFringe/Murk.md",
                 "is_internal": true,
                 "direction": "outbound",
