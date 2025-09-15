@@ -2827,7 +2827,7 @@
             },
             {
                 "text": "Hippareiones",
-                "url": "directory/DuskmeadowFringe/Hippareiones.md",
+                "url": "directory/FoldedBelow/Hippareiones.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3337,7 +3337,7 @@
             },
             {
                 "text": "Anttaurs",
-                "url": "directory/DuskmeadowFringe/SpiderPeople.md",
+                "url": "directory/FoldedBelow/SpiderPeople.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3411,7 +3411,7 @@
                 "direction": "inbound"
             }
         ],
-        "directory/DuskmeadowFringe/SpiderPeople.md": [
+        "directory/FoldedBelow/SpiderPeople.md": [
             {
                 "text": "Anttaurs",
                 "url": "campaigns/Book_01/ep_027.md",
@@ -3629,7 +3629,7 @@
                 "direction": "inbound"
             }
         ],
-        "directory/DuskmeadowFringe/Hippareiones.md": [
+        "directory/FoldedBelow/Hippareiones.md": [
             {
                 "text": "Hippareiones",
                 "url": "campaigns/Book_01/ep_023.md",
@@ -4062,7 +4062,7 @@
             },
             {
                 "text": "Insect-Centaurs",
-                "url": "directory/DuskmeadowFringe/Hippareiones.md",
+                "url": "directory/FoldedBelow/Hippareiones.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4240,7 +4240,7 @@
             },
             {
                 "text": "insect-centaurs",
-                "url": "directory/DuskmeadowFringe/Hippareiones.md",
+                "url": "directory/FoldedBelow/Hippareiones.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4431,7 +4431,7 @@
             },
             {
                 "text": "spider people",
-                "url": "directory/DuskmeadowFringe/SpiderPeople.md",
+                "url": "directory/FoldedBelow/SpiderPeople.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4523,7 +4523,7 @@
             },
             {
                 "text": "Anttaurs",
-                "url": "directory/DuskmeadowFringe/SpiderPeople.md",
+                "url": "directory/FoldedBelow/SpiderPeople.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4572,7 +4572,7 @@
             },
             {
                 "text": "Hippareiones",
-                "url": "directory/DuskmeadowFringe/Hippareiones.md",
+                "url": "directory/FoldedBelow/Hippareiones.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4653,7 +4653,7 @@
             },
             {
                 "text": "creatures with eight legs and human torsos",
-                "url": "directory/DuskmeadowFringe/SpiderPeople.md",
+                "url": "directory/FoldedBelow/SpiderPeople.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4952,7 +4952,7 @@
         "campaigns/Book_01/ep_010.md": [
             {
                 "text": "insect centaurs",
-                "url": "directory/DuskmeadowFringe/Hippareiones.md",
+                "url": "directory/FoldedBelow/Hippareiones.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
