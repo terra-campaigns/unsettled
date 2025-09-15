@@ -3127,7 +3127,7 @@
             },
             {
                 "text": "hairy animal",
-                "url": "directory/DuskmeadowFringe/Bugbears.md",
+                "url": "directory/FoldedBelow/Bugbears.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3154,7 +3154,7 @@
                 "direction": "inbound"
             }
         ],
-        "directory/DuskmeadowFringe/Bugbears.md": [
+        "directory/FoldedBelow/Bugbears.md": [
             {
                 "text": "hairy animal",
                 "url": "campaigns/Brigandage/ep_001.md",
@@ -4104,7 +4104,7 @@
             },
             {
                 "text": "Furrykin",
-                "url": "directory/DuskmeadowFringe/Bugbears.md",
+                "url": "directory/FoldedBelow/Bugbears.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4530,7 +4530,7 @@
             },
             {
                 "text": "giggly alien creatures",
-                "url": "directory/DuskmeadowFringe/GreenWitches.md",
+                "url": "directory/FoldedBelow/GreenWitches.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4544,7 +4544,7 @@
             },
             {
                 "text": "furrykins",
-                "url": "directory/DuskmeadowFringe/Bugbears.md",
+                "url": "directory/FoldedBelow/Bugbears.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4585,7 +4585,7 @@
                 "favicon": null
             }
         ],
-        "directory/DuskmeadowFringe/GreenWitches.md": [
+        "directory/FoldedBelow/GreenWitches.md": [
             {
                 "text": "giggly alien creatures",
                 "url": "campaigns/Book_01/ep_028.md",
