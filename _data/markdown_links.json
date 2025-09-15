@@ -219,12 +219,6 @@
             },
             {
                 "text": "Weeping Mother",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Weeping Mother",
                 "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -232,6 +226,12 @@
             {
                 "text": "Weeping Mother",
                 "url": "directory/DuskmeadowFringe/Irgith.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1042,13 +1042,13 @@
             },
             {
                 "text": "Sigisfarne",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "url": "directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
                 "text": "Sigisfarne",
-                "url": "directory/DuskmeadowFringe/index.md",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1199,154 +1199,6 @@
             {
                 "text": "Gunther",
                 "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/DuskmeadowFringe/UndergroundTemple.md": [
-            {
-                "text": "the Sisters",
-                "url": "directory/weepingMother/theSisters.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "structure's architecture",
-                "url": "gazetteer/Warden-Stone.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sigisfarne",
-                "url": "directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Weeping Mother",
-                "url": "directory/weepingMother/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "underground temple",
-                "url": "campaigns/Book_01/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Underground Temple",
-                "url": "campaigns/Book_01/ep_027.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Underground Temple",
-                "url": "campaigns/Book_01/ep_026.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Underground Temple",
-                "url": "campaigns/Book_01/ep_012.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "underground temple",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Underground Temple",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "underground temple",
-                "url": "campaigns/Book_01/ep_010.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/weepingMother/theSisters.md": [
-            {
-                "text": "the Sisters",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sisters",
-                "url": "directory/Sigisfarne/Indigo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sisters",
-                "url": "directory/Kryptwood/PastorNoonan.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sisters",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sisters",
-                "url": "campaigns/Book_01/ep_010.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "the Sisters",
-                "url": "campaigns/Book_01/ep_010.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Warden-Stone.md": [
-            {
-                "text": "structure's architecture",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "old ruins but with well-maintained monuments",
-                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "ruins of a past civilisation",
-                "url": "directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "centuries-old ruins",
-                "url": "campaigns/Book_01/ep_026.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Warden-Stone",
-                "url": "campaigns/Book_01/ep_029.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "stone",
-                "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1569,6 +1421,44 @@
                 "favicon": null
             }
         ],
+        "gazetteer/Warden-Stone.md": [
+            {
+                "text": "old ruins but with well-maintained monuments",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "structure's architecture",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ruins of a past civilisation",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "centuries-old ruins",
+                "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Warden-Stone",
+                "url": "campaigns/Book_01/ep_029.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "stone",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/DuskmeadowFringe/BanditsBath.md": [
             {
                 "text": "Galen and Theron",
@@ -1701,6 +1591,116 @@
             {
                 "text": "Irgith",
                 "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/UndergroundTemple.md": [
+            {
+                "text": "the Sisters",
+                "url": "directory/weepingMother/theSisters.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "structure's architecture",
+                "url": "gazetteer/Warden-Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "underground temple",
+                "url": "campaigns/Book_01/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Underground Temple",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Underground Temple",
+                "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Underground Temple",
+                "url": "campaigns/Book_01/ep_012.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "underground temple",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Underground Temple",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "underground temple",
+                "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/weepingMother/theSisters.md": [
+            {
+                "text": "the Sisters",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sisters",
+                "url": "directory/Sigisfarne/Indigo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sisters",
+                "url": "directory/Kryptwood/PastorNoonan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sisters",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sisters",
+                "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "the Sisters",
+                "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3240,7 +3240,7 @@
             },
             {
                 "text": "underground temple",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3323,7 +3323,7 @@
             },
             {
                 "text": "Underground Temple",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4097,7 +4097,7 @@
             },
             {
                 "text": "Underground Temple",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4120,7 +4120,7 @@
             },
             {
                 "text": "Underground Temple",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4212,7 +4212,7 @@
             },
             {
                 "text": "underground temple",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4467,7 +4467,7 @@
             },
             {
                 "text": "Underground Temple",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4959,7 +4959,7 @@
             },
             {
                 "text": "underground temple",
-                "url": "directory/DuskmeadowFringe/UndergroundTemple.md",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
