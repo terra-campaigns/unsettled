@@ -25,12 +25,12 @@ Entrance to the Blue Mountain realm through Iron Doors.
 It cannot be opened from the outside.
 A silver skull keeps it open.
 
-Hideout of petty bandits that steal from rural villages.
+It is a hideout of petty bandits that steal from rural villages.
 Their treasures are kept safe by Chaos Cultists
 
-Two villagers went in a few days ago.
-They killed one bandit and one Murk.
-They are now toys in the hands of the Cultists.
+[Galen and Theron](GalenTheron.md) went in a few days ago.
+They killed one bandit and one [aberration](Murk.md).
+They are now toys in the hands of the [grotesque](../FoldedBelow/ChaosChampion.md).
 Their new pets.
 
 {% endcomment %}
