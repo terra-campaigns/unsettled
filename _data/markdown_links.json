@@ -1571,6 +1571,12 @@
                 "url": "campaigns/Brigandage/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "man",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/Irgith.md": [
@@ -3324,6 +3330,13 @@
             {
                 "text": "Underground Temple",
                 "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "man",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null

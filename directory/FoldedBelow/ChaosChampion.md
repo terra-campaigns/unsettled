@@ -23,5 +23,3 @@ footer_content: Inspired by Johnstone Metzger's <a href="https://www.drivethrurp
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 
 {% endcomment %}
-
-![](../../imgs/gallery/Pasted%20image%2020250914194231.png)
