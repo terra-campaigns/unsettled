@@ -1,4 +1,8 @@
-{% if page.title != 'Directory' %}
+{% if page.title == 'Home' %}
+
+{% assign all_references =  site.pages | where_exp:"item", "item.nav_exclude != true" %}
+
+{% elsif page.title != 'Directory' %}
 
 {% assign children_pages = site.pages | where: 'parent', page.title %}
 
@@ -54,8 +58,6 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
   {: .fs-3 }
   {% endfor %}
 {% elsif count > 0 %}
-
----
 
 {% endif %}
 
