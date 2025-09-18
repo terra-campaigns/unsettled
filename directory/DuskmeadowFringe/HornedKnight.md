@@ -4,7 +4,7 @@ template: 0.4
 type: creature
 nav_exclude: false
 
-parent: Duskmeadow Fringe
+parent: Queensweald
 title: Horned Knight
 role: Knight of the Queensweald
 status:

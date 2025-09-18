@@ -6,10 +6,11 @@ nav_exclude: false
 
 parent: Deverain
 title: Brothers Ig
-role: 
+role: Tanners in Deverain, love a story
 status: 
 
 images: 
+- ../../imgs/gallery/file_00000000f3ec61f79d36cea14a402417.png
 
 ---
 

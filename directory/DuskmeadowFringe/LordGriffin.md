@@ -7,14 +7,14 @@ has_toc: false
 
 parent: Mountain Court
 title: Lord Griffin
-role: Sinister Court
+role: Liege lord of Sigisfarne
 status:
 hooks:
-- Forged documents make Griffin look as stealing money.
-- With Jock and a retinue, look for Indigo and the Riverrun Stone.
+- Wants to silence Lazlo.
+- Wants to find Indigo and collect extra dues for some forged documents.
 
 images:
-
+- ../../imgs/gallery/Pasted%20image%2020250918164603.png
 ---
 
 {% include header_directories.md %}

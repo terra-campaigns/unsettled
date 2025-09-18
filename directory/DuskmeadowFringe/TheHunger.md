@@ -5,8 +5,8 @@ type: creature
 nav_exclude: false
 
 parent: Duskmeadow Fringe
-title: Giant Skelleton
-role: Folk Horror
+title: Finerona
+role: The Hunger, an elven dread
 status:
 flavour: 
 

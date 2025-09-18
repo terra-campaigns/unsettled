@@ -6,14 +6,13 @@ nav_exclude: false
 
 parent: Middle Waters
 title: Lazlo
-role: Scrivener (Monk)
+role: Scrivener Monk, half-giant
 status: 
 
 hooks:
 - Inscribe your mother’s name in the Azure Archives. You hold a Quill of Azure Feather (petty) that only writes one name—hers—and only in a language you cannot speak aloud. 
 - A Treatise on the Abyss - A nondescript black book about a gate southwest of the Monastery.
-nav_order: 1025-06-08
-
+- Grows to a half-giant
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250915192633.png

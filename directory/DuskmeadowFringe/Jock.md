@@ -4,12 +4,13 @@ template: 0.4
 type: people
 nav_exclude: false
 
-parent: Duskmeadow Fringe
+parent: Mountain Court
 title: Jock
-role: Mercenary Tax Collector
+role: Subvicar of the Mountain Court, Mercenary Tax Collector
 status: 
 
 images: 
+- ../../imgs/gallery/Pasted%20image%2020250918182427.png
 
 ---
 
