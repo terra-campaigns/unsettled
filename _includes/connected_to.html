@@ -1,6 +1,6 @@
 {% if page.title == 'Home' %}
 
-{% assign all_references =  site.pages | where_exp:"item", "item.nav_exclude != true" %}
+{% assign all_references =  site.pages | where_exp:"item", "item.nav_exclude != true" | sort: 'nav_order'%}
 
 {% elsif page.title != 'Directory' %}
 
