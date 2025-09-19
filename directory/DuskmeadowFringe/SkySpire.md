@@ -11,7 +11,7 @@ title: Titan Spire
 role: 
 status:
 hooks:
-- Adventurers from Sigisfarne have found this Sky Spire northwest of Sigisfarne. No one came near it, but on a summer night, it lit up.
+- Cultists try to awaken the titan
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250911092112.png
@@ -23,3 +23,6 @@ images:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
+
+- It was awakened once but fell prone when [Indigo](../Deverain/Indigo.md) broke its ceramic arteries.
+- Spire lies in ruins.
