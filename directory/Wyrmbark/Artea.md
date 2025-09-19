@@ -30,3 +30,7 @@ The monks of a secluded forest monastery in the [Wyrmbark](index.md). When their
 Pipeweed - Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.
 
 Take Cyrus’s place at the Earthen Council. You wear a Gravel Ring (petty) forged from pebbles and soil. When placed against stone, faint voices argue in chorus.
+
+Big Ford Druidic Monastery.
+They are hairy
+They are good with farming. Legend say they learned directly from the [Basajaun](Basajaun.md).
