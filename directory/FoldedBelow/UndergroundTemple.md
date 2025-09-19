@@ -10,7 +10,6 @@ title: Underground Temple
 role: Abandoned Underground Temple with mixed references.
 status: 
 hooks:
-- Adventurers have found two iron gates in corridors in the underground cathedral, which they found by the river floods, southeast of Sigisfarne. One does not open, and a collapsed corridor blocks the other one.
 - Note found on a dead adventurer "..."Big Market”... “Wall"...  “Village”..."
 nav_order: 1025-03-31
 

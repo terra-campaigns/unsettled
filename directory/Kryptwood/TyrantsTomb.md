@@ -3,6 +3,7 @@ layout: default
 template: 0.4
 type: location
 nav_exclude: false
+hook_exclude: true
 has_toc: false
 has_children: true
 

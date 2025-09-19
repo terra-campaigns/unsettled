@@ -10,7 +10,6 @@ role: Barber-Surgeon
 status: 
 hooks:
 - You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
-- Will get to speak with the Forest Queen when he helps solve the issue with the Hippareiones (with Razzie).
 - Develops an infection after being hit by a spider person's javelin.
 
 images: 
