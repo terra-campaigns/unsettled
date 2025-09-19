@@ -17,8 +17,22 @@ images:
 
 ---
 
+{% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+{% endcomment %}
+
 A land draped in rot and memory,  
 where moss-fed ruins whisper beneath the fog.
 
 The bones of a dead civilisation jut from hillsides and riverbeds —
 arches half-sunken, towers halved by time, their makers forgotten.
+
+- Capital [Ambaret](../directory/Ambaret/index.md)
+- Coastal Town of [Deverain](../directory/Deverain/index.md)
+- Northern Villages of the [Duskmeadow Fringe](../directory/DuskmeadowFringe/index.md)
+	- [Sigisfarne](../directory/Sigisfarne/index.md)
+	- [Hendenburgh](../directory/Kryptwood/Hendenburgh.md)
+- [Kaldhur](../directory/Kaldhur/index.md) Forest, beyond the Wall
+- [Kryptwood](../directory/Kryptwood/index.md) Forest
+- Druidic lands of the [Wyrmbark](../directory/Wyrmbark/index.md)

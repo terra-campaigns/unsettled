@@ -570,6 +570,12 @@
             },
             {
                 "text": "Hendenburgh",
+                "url": "gazetteer/Gravenmark.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
                 "url": "campaigns/Book_01/ep_023.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1143,6 +1149,12 @@
             },
             {
                 "text": "Sigisfarne",
+                "url": "gazetteer/Gravenmark.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1295,6 +1307,12 @@
             {
                 "text": "Duskmeadow Fringe",
                 "url": "directory/Wyrmbark/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "gazetteer/Gravenmark.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1493,6 +1511,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Wyrmbark",
+                "url": "gazetteer/Gravenmark.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "gazetteer/Warden-Stone.md": [
@@ -1743,6 +1767,65 @@
             {
                 "text": "the Sisters",
                 "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Deverain/index.md": [
+            {
+                "text": "Crown",
+                "url": "directory/Ambaret/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Deverain",
+                "url": "gazetteer/Gravenmark.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Deverain",
+                "url": "campaigns/Brigandage/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Deverain",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Deverain",
+                "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Ambaret/index.md": [
+            {
+                "text": "Crown",
+                "url": "directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ambaret",
+                "url": "gazetteer/Gravenmark.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ambaret",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ambaret",
+                "url": "campaigns/Book_01/ep_030.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2682,6 +2765,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Kaldhur",
+                "url": "gazetteer/Gravenmark.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "forest beyond the wall",
                 "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
@@ -3474,6 +3563,90 @@
                 "favicon": "https://docs.github.com/favicon.ico"
             }
         ],
+        "gazetteer/Gravenmark.md": [
+            {
+                "text": "Ambaret",
+                "url": "directory/Ambaret/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Deverain",
+                "url": "directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kaldhur",
+                "url": "directory/Kaldhur/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kryptwood",
+                "url": "directory/Kryptwood/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Wyrmbark",
+                "url": "directory/Wyrmbark/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Kryptwood/index.md": [
+            {
+                "text": "Kryptwood",
+                "url": "gazetteer/Gravenmark.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kryptwood",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kryptwood",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kryptwood",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/Brigandage/ep_002.md": [
             {
                 "text": "Deverain",
@@ -3530,26 +3703,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Deverain/index.md": [
-            {
-                "text": "Deverain",
-                "url": "campaigns/Brigandage/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Deverain",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Deverain",
-                "url": "campaigns/Book_01/ep_018.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Deverain/Basil.md": [
@@ -4947,6 +5100,13 @@
                 "favicon": null
             },
             {
+                "text": "Ambaret",
+                "url": "directory/Ambaret/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "forest beyond the wall",
                 "url": "directory/Kaldhur/index.md",
                 "is_internal": true,
@@ -5030,26 +5190,6 @@
             {
                 "text": "Kalamos",
                 "url": "campaigns/Book_01/ep_008.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Kryptwood/index.md": [
-            {
-                "text": "Kryptwood",
-                "url": "campaigns/Book_01/ep_008.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Kryptwood",
-                "url": "campaigns/Book_01/ep_025.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Kryptwood",
-                "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -5629,14 +5769,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Ambaret/index.md": [
-            {
-                "text": "Ambaret",
-                "url": "campaigns/Book_01/ep_030.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Deverain/BaronVonBetr\u00fcger.md": [

@@ -42,7 +42,7 @@ But most can communicate with villagers from the north.
 Deverainers find the northern villages untrustworthy.
 They believe those villagers commune with forest spirits.
 
-Before becoming a territory of the Crown, this land
+Before becoming a territory of the [Crown](../Ambaret/index.md), this land
 was forest. It was cleared for farmland, though the old flora and fauna continue to find their
 way back and attempt to take root. The Duke’s "Road" leads out of Deverain,
 heading directly to Fort Duhrin, through rivers and trails. However, the continual growth of the forest means that the
