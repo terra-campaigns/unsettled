@@ -8,10 +8,10 @@ parent: Mountain Court
 title: Lorenz
 role: Kettlewright
 status: 
+
 hooks:
 - One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
 - Establishes a blacksmith workshop in Hendenburgh
-nav_order: 1025-06-10
 
 images: 
 

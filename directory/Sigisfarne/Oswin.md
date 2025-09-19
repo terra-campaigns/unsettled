@@ -13,14 +13,7 @@ statblock: false
 images:
 - ../../imgs/gallery/portrait18.webp
 
-str: 
-dex: 
-wil: 
-
-hp: 
-armour: 
-
-details:
+hooks: 
 
 ---
 

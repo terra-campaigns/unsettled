@@ -600,6 +600,12 @@
             },
             {
                 "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
                 "url": "campaigns/Book_01/ep_021.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -631,6 +637,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Jock",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Jock",
@@ -1067,6 +1079,12 @@
             {
                 "text": "Rabbit Inn",
                 "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rabbits' Inn",
+                "url": "campaigns/Book_01/ep_031.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1617,6 +1635,12 @@
             },
             {
                 "text": "Indigo",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
                 "url": "campaigns/Book_01/ep_021.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1997,6 +2021,12 @@
             {
                 "text": "creatures with eight legs and human torsos",
                 "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spider People",
+                "url": "campaigns/Book_01/ep_031.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2556,6 +2586,12 @@
             {
                 "text": "Ayrrin",
                 "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ayrrin",
+                "url": "campaigns/Book_01/ep_031.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3263,6 +3299,12 @@
             },
             {
                 "text": "Rook",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rook",
                 "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3279,6 +3321,12 @@
             {
                 "text": "Highwaymen",
                 "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Highwaymen",
+                "url": "campaigns/Book_01/ep_031.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4761,6 +4809,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Titan Spire",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Spire",
                 "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
@@ -5022,6 +5076,122 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "campaigns/Book_01/ep_031.md": [
+            {
+                "text": "Theron",
+                "url": "directory/Wyrmbark/Theron.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rabbits' Inn",
+                "url": "directory/DuskmeadowFringe/RabbitInn.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Highwaymen",
+                "url": "directory/Kryptwood/Highwaymen.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jock",
+                "url": "directory/DuskmeadowFringe/Jock.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Indigo",
+                "url": "directory/Deverain/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Titan Spire",
+                "url": "directory/DuskmeadowFringe/SkySpire.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ayrrin",
+                "url": "directory/Sigisfarne/Ayrrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Spider People",
+                "url": "directory/FoldedBelow/SpiderPeople.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rook",
+                "url": "directory/Kryptwood/Rook.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "cultist",
+                "url": "directory/DuskmeadowFringe/Filakh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Flax",
+                "url": "directory/DuskmeadowFringe/Flax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Wyrmbark/Theron.md": [
+            {
+                "text": "Theron",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Filakh.md": [
+            {
+                "text": "cultist",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "followers of Filakh",
+                "url": "campaigns/Book_01/ep_030.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Flax.md": [
+            {
+                "text": "Flax",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/Oswin.md": [
@@ -5459,14 +5629,6 @@
         "directory/Deverain/BaronVonBetr\u00fcger.md": [
             {
                 "text": "Baron Von Betr\u00fcger",
-                "url": "campaigns/Book_01/ep_030.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/DuskmeadowFringe/Filakh.md": [
-            {
-                "text": "followers of Filakh",
                 "url": "campaigns/Book_01/ep_030.md",
                 "is_internal": true,
                 "direction": "inbound"

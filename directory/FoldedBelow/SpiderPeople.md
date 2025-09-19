@@ -5,8 +5,8 @@ type: creature
 nav_exclude: false
 
 parent: Duskmeadow Fringe
-title: Anttaurs
-role: 
+title: Spider People
+role: Anttaurs Mercenaries
 status:
 
 hooks:
@@ -22,3 +22,8 @@ footer_content: Inspired by Johnstone Metzger's <a href="https://www.drivethrurp
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
+
+- Speak a guttural unknown language.
+- Chest height, light in weight
+- Bodies are weak to corrosive substances, like chalk.
+- Very resistant to fire.

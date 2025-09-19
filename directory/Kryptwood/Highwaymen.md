@@ -13,6 +13,7 @@ status:
 
 hooks:
 - Want something of value from the Tomb.
+- Theron picks up a brawl with 3 Highwaymen.
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250704160313.png
