@@ -1560,29 +1560,52 @@
                 "direction": "inbound"
             }
         ],
-        "directory/DuskmeadowFringe/Irgith.md": [
+        "directory/DuskmeadowFringe/SkySpire.md": [
             {
-                "text": "Weeping Mother",
-                "url": "directory/weepingMother/index.md",
+                "text": "Indigo",
+                "url": "directory/Deverain/Indigo.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Middle Waters Minster",
-                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "text": "Northern Spire",
+                "url": "campaigns/Book_01/ep_029.md",
                 "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
+                "direction": "inbound"
             },
             {
-                "text": "Irgith",
-                "url": "campaigns/Book_01/ep_016.md",
+                "text": "Northern Spire",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Titan Spire",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spire",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Titan Spire",
+                "url": "campaigns/Book_01/ep_030.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
         "directory/Deverain/Indigo.md": [
+            {
+                "text": "Indigo",
+                "url": "directory/DuskmeadowFringe/SkySpire.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "Sisters",
                 "url": "directory/weepingMother/theSisters.md",
@@ -1660,6 +1683,28 @@
             {
                 "text": "Indigo",
                 "url": "campaigns/Book_01/ep_014.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Irgith.md": [
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Middle Waters Minster",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Irgith",
+                "url": "campaigns/Book_01/ep_016.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4793,38 +4838,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/DuskmeadowFringe/SkySpire.md": [
-            {
-                "text": "Northern Spire",
-                "url": "campaigns/Book_01/ep_029.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Northern Spire",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Titan Spire",
-                "url": "campaigns/Book_01/ep_031.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Spire",
-                "url": "campaigns/Book_01/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Titan Spire",
-                "url": "campaigns/Book_01/ep_030.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_028.md": [
