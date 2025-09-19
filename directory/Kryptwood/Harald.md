@@ -3,13 +3,14 @@ layout: default
 template: 0.4
 type: people
 nav_exclude: false
+hook_exclude: true
 
 parent: Hendenburgh
 title: Harald
 role: Barber-Surgeon
 status: 
 
-old_hooks:
+hooks:
 - You consumed a Mischievous Spirit that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. You have to go beyond the Wall, north, before the winter.
 
 images: 
@@ -38,3 +39,4 @@ Regrowth Salve - Regrows a body part over the course of a day. 1 use.
 **Harold's origin**: He might have been on the run from Hendenburgh (or a nearby village) after a botched job.
 
 Multiple bitemarks on his face, after a serious attack of the Hounds of [Hendenburgh](Hendenburgh.md).
+Retired in his uncle's state after it.

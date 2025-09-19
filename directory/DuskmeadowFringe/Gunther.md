@@ -3,6 +3,7 @@ layout: default
 template: 0.4
 type: people
 nav_exclude: false
+hook_exclude: true
 
 parent: Mountain Court
 title: Gunther
@@ -12,7 +13,7 @@ status:
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250526084933.png
 
-old_hooks: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
+hooks: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
 
 ---
 

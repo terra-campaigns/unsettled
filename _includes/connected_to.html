@@ -12,7 +12,7 @@
 	{% assign links_pages = links_pages | push: captured_page[0] | uniq %}
 {% endfor %}
 
-{% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' | where_exp:"item", "item.nav_exclude != true" %}
+{% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' %}
 
 {% else %}
 
