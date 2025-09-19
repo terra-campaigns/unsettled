@@ -13,6 +13,7 @@ hooks:
 - A very viscous fluid inside a spider person's mouth gland quickly moves beneath his nail, and vanishes.
 
 images: 
+- ../../imgs/gallery/Pasted%20image%2020250919180129.png
 
 ---
 
