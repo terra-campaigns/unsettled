@@ -8,7 +8,8 @@ parent: Wyrmbark
 title: Basajaun
 role: Those from which we stole the secrets of lifestock and farming
 status: 
-hooks: Is searching for a missing daughter.
+hooks: 
+- Finds his missing daughter, Artea, from the Big Ford Druidic Monastery.
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250729083448.png
@@ -18,6 +19,8 @@ images:
 {% include header_directories.md %}
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
+
+[Artea](Artea.md)
 {% endcomment %}
 
 From the legends of the Hairy Druids of the Big Ford.

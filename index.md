@@ -177,7 +177,7 @@ Roll 2d6 for beasts and d10+d20 for intelligent beings to see what they are doin
 
 **GM:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Sign-up**: First come, first served;  2-5 players  
+**Sign-up**: First-come, first-served;  2-5 players  
 **Genre**: Weird Fantasy  
 **Language**: English  
 **Communication**: Discord voice (video is optional)  
@@ -189,7 +189,7 @@ Roll 2d6 for beasts and d10+d20 for intelligent beings to see what they are doin
 - [Owlbear Rodeo](https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled)
 - [unsettling playlist](https://open.spotify.com/playlist/05GGUNeQ64RRxHiU2XWlef?si=b33716d53e4146d1)
 **Notes**:  
-Meaningful [downtime and domain play](https://discord.com/channels/1060840338777964565/1399765457992679534) happens through PBP in between sessions. The scope is driven by player choice ahead of planned sessions.
+Meaningful [downtime and domain play](https://discord.com/channels/1060840338777964565/1399765457992679534) happens through PBP between sessions. The scope is driven by player choice ahead of planned sessions.
 
 2 hours and 45 minutes
 

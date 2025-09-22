@@ -5,9 +5,11 @@ type: people
 nav_exclude: false
 
 parent: Mountain Court
-title: Jock
+title: Subvicar Jock
 role: Subvicar of the Mountain Court, Mercenary Tax Collector
 status: 
+
+hooks:
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250918182427.png

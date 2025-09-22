@@ -3,6 +3,7 @@ layout: default
 template: 0.4
 type: people
 nav_exclude: false
+hook_exclude: true
 
 parent: Deverain
 title: Yarrow

@@ -7,7 +7,7 @@ nav_exclude: false
 parent: Wyrmbark
 title: Theron
 role: Druidic Man in Arms
-status: 
+status: Deceased
 
 hooks:
 - Developed an infection in his leg.

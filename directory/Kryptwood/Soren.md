@@ -11,8 +11,6 @@ status:
 
 hooks:
 - Kormoran's Wheel, beyond the wall, is known for its impressive 'mother tree', which is said to shelter the town’s secrets in its boughs. Recently, it has begun bleeding red sap, worrying the elders.
-- Will be paid 1000gp if solves the issue with the moleman in sigisfarne.
-
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250825135117.png

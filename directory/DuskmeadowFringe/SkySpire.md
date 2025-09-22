@@ -7,7 +7,7 @@ has_children: true
 has_toc: false
 
 parent: Duskmeadow Fringe
-title: Titan Spire
+title: Titan & Ruined Spire
 role: 
 status:
 hooks:
