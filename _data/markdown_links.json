@@ -1128,6 +1128,12 @@
             },
             {
                 "text": "Sigisfarne",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
                 "url": "directory/DuskmeadowFringe/index.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1297,6 +1303,123 @@
             {
                 "text": "Gunther",
                 "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/PiotChant.md": [
+            {
+                "text": "Theron",
+                "url": "directory/Wyrmbark/Theron.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Flax",
+                "url": "directory/DuskmeadowFringe/Flax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "PiotChant",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Molemen",
+                "url": "directory/Sigisfarne/Hilda.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Molemen",
+                "url": "directory/Sigisfarne/Mateus.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "moleman",
+                "url": "directory/Kryptwood/Soren.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "molemen",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "molemen",
+                "url": "campaigns/Book_01/ep_032.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Piot Chants",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "molemen",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "humanoids",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Wyrmbark/Theron.md": [
+            {
+                "text": "Theron",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Theron",
+                "url": "campaigns/Book_01/ep_032.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Theron",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Flax.md": [
+            {
+                "text": "Flax",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Flax",
+                "url": "campaigns/Book_01/ep_032.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Flax",
+                "url": "campaigns/Book_01/ep_031.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2536,62 +2659,6 @@
             {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/DuskmeadowFringe/PiotChant.md": [
-            {
-                "text": "PiotChant",
-                "url": "directory/Sigisfarne/Razvan.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Molemen",
-                "url": "directory/Sigisfarne/Hilda.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Molemen",
-                "url": "directory/Sigisfarne/Mateus.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "moleman",
-                "url": "directory/Kryptwood/Soren.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "molemen",
-                "url": "campaigns/Book_01/ep_027.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "molemen",
-                "url": "campaigns/Book_01/ep_032.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Piot Chants",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "molemen",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "humanoids",
-                "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4319,20 +4386,6 @@
                 "favicon": null
             }
         ],
-        "directory/Wyrmbark/Theron.md": [
-            {
-                "text": "Theron",
-                "url": "campaigns/Book_01/ep_032.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Theron",
-                "url": "campaigns/Book_01/ep_031.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/Book_01/ep_031.md": [
             {
                 "text": "his previous injury",
@@ -4423,20 +4476,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/DuskmeadowFringe/Flax.md": [
-            {
-                "text": "Flax",
-                "url": "campaigns/Book_01/ep_032.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Flax",
-                "url": "campaigns/Book_01/ep_031.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Perdut/Nyx.md": [
