@@ -3,11 +3,12 @@ layout: default
 template: 0.4
 type: people
 nav_exclude: false
+hook_exclude: true
 
 parent: Duskmeadow Fringe
 title: Flax
 role: 
-status: 
+status: Deceased
 
 hooks:
 - A very viscous fluid inside a spider person's mouth gland quickly moves beneath his nail, and vanishes.

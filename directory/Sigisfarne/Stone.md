@@ -22,7 +22,7 @@ details:
 
 hooks: 
 - One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
-- Mind was visited by Snake Eyes
+- Stone's mind was visited by Snake Eyes, on their way to the Yellow Smoke.
 
 ---
 

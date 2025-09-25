@@ -3,12 +3,14 @@ template: 0.4
 layout: default
 type: people
 nav_exclude: true
+hook_exclude: true
 
 title: Flint
 role: Beast Handler
 parent: Sigisfarne
 statblock: false
 hooks: 
+- Flint, the snake charmer of Sigisfarne, has a compass that points north, but slightly off. He's been told it doesn't point north, but to somewhere in a forest far to the north.
 
 image: 
 

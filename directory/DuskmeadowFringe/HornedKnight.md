@@ -25,7 +25,6 @@ details:
 - Accompanied by Goblin squires (*detachement*)
 
 hooks:
-- May still have his goblins stolen by the Hippareones (or others from the Yellow Smoke).
 
 ---
 

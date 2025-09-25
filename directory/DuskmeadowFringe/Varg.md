@@ -9,8 +9,6 @@ title: Varg
 role: Barber-Surgeon
 status: 
 hooks:
-- Develops an infection after being hit by a spider person's javelin.
-- Sold his sense of purpose to the Forest Queen.
 
 images: 
 - ../../imgs/gallery/1ab6ca74a17d437c9690961c07b15301.webp
@@ -35,3 +33,5 @@ Regrowth Salve - Regrows a body part over the course of a day. 1 use.
 Bond: You crossed a creature of the Wood, and it cursed you with a Stone Heart. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.
 
 In the end of June, their heart becomes heavier.
+
+Sold his sense of purpose to the Forest Queen, to have his curse lifted.

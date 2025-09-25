@@ -8,8 +8,7 @@ parent: Wyrmbark
 title: Basajaun
 role: Those from which we stole the secrets of lifestock and farming
 status: 
-hooks: 
-- Finds his missing daughter, Artea, from the Big Ford Druidic Monastery.
+hooks:
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250729083448.png

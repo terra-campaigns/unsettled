@@ -14,7 +14,7 @@ images:
 - ../../imgs/gallery/Pasted%20image%2020250406092237.png
 
 hooks:
-- Ayrrin damaged one of their galleries when she was gathering herbs for her salves.
+- A group of adventurers tried to clean the Molemen's Nest.
 
 footer_content: Inspired by Nobboc's text on The Merry Mushmen's <a href="https://www.themerrymushmen.com/product/a-folklore-bestiary-for-old-school-essentials-tmm/">A Folklore Bestiary, Volume 1</a>. Art by Letty Wilson.
 ---

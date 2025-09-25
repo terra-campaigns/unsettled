@@ -11,7 +11,6 @@ title: Titan & Ruined Spire
 role: 
 status:
 hooks:
-- Cultists try to awaken the titan
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250911092112.png
@@ -26,3 +25,4 @@ images:
 
 - It was awakened once but fell prone when [Indigo](../Deverain/Indigo.md) broke its ceramic arteries.
 - Spire lies in ruins.
+- Does the Titan have anything to do with the stone children of the [Quarry](Quarry.md)?

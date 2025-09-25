@@ -11,7 +11,6 @@ role: Sinister Court
 status:
 hooks:
 - Lord Derron has asked the Monks for help with his daughter's curse. The curse has gotten worse after being bitten by bees at the lake west of the Mountain Court.
-- Tax papers from the monastery were destroyed, but there might be copies in the capital. Tax collectors search the Riverrun men and Indigo for missing tax (2d10 x10gp).
 - Some villagers from Sigisfarne moved to the court.
 
 images:

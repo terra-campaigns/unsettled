@@ -10,8 +10,6 @@ title: Lord Griffin
 role: Liege lord of Sigisfarne
 status:
 hooks:
-- Wants to silence Lazlo.
-- Wants to find Indigo and collect extra dues for some forged documents.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250918164603.png

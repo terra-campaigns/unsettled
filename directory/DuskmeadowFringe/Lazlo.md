@@ -12,7 +12,6 @@ status:
 hooks:
 - Inscribe your mother’s name in the Azure Archives. You hold a Quill of Azure Feather (petty) that only writes one name—hers—and only in a language you cannot speak aloud. 
 - A Treatise on the Abyss - A nondescript black book about a gate southwest of the Monastery.
-- Grows to a half-giant
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250915192633.png
@@ -36,3 +35,5 @@ Sanguine Lens - Extracts blood from a target without their knowledge. A stolen d
 Follower of the [Weeping Mother](../weepingMother/index.md).
 Is a monk at the [Middle Waters Minster](../DuskmeadowFringe/MiddleWatersMinster.md).
 Friends of [Pastor Noonan](../Kryptwood/PastorNoonan.md)
+
+Grows to a half-giant.

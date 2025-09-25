@@ -12,9 +12,6 @@ role: Forest Village
 status: 
 
 hooks:
-- Elizabeth is locked in the village by Oliver.
-- The Miller's wife went missing, north of the village, five days ago. She is now living with Sly George.
-nav_order: 1025-06-10
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250613195652.png

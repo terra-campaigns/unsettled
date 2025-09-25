@@ -3,6 +3,7 @@ layout: default
 template: 0.4
 type: people
 nav_exclude: false
+hook_exclude: true
 
 parent: Wyrmbark
 title: Theron
@@ -10,7 +11,6 @@ role: Druidic Man in Arms
 status: Deceased
 
 hooks:
-- Developed an infection in his leg.
 
 images: 
 - ../../imgs/gallery/Thoren.png
