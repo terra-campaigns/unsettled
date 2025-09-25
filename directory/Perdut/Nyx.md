@@ -38,3 +38,5 @@ Rebirth Ash: Remnants of a bark spirit. Sprinkle to reignite a fire that has die
 
 - Broken rib
 
+Has a vendetta of the [Piot Chant](../DuskmeadowFringe/PiotChant.md) on her face.
+

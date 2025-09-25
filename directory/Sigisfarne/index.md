@@ -10,7 +10,7 @@ parent: Directory
 title: Sigisfarne
 role: Grassland Village
 status: 
-hooks: Sigisfarne has vowed to abandon their western farms in a deal between the villagers and a community of underground mole-like creatures, and surrender that land back to the forest. Due to this, Sigisfarne will not have enough output next harvest to send the excess to the capital, which means it risks the crown's decision of dispersing the village and sending the people to become useful in other settlements unless Sigisfarne finds another way to be helpful to the kingdom.
+hooks:
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250406091305.png
@@ -38,12 +38,14 @@ Talented artifices put together these structures.
 
 ## Relations
 
-The kingdom Sigisfarne is a part of lies to the south of the village, along the coast.
-A tax collector from the crown comes after every harvest.
+Sigisfarne used to be a direct vassal of the crown in [Ambaret](../Ambaret/index.md).
 
-Sigisfarne sends a portion of the produce from the farms to the town to the south every harvest via riverboat. 
 Multiple crop failures in the years leading the year of 1025.
 This was impacted in [March](../../campaigns/Book_01/ep_004.md).
+
+Due to failing crop production, the crown has handed it over the a new liege lord: the [Mountain Court](../DuskmeadowFringe/MountainCourt.md).
+[Lord Griffin](../DuskmeadowFringe/LordGriffin.md) from the court, has appointed [Jock](../DuskmeadowFringe/Jock.md) as the village subvicar.
+Sigisfarne sends a portion of the produce from the farms to [Deverain](../Deverain/index.md) via riverboat. 
 
 ## Religion
 

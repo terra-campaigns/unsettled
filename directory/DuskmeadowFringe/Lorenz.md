@@ -34,6 +34,8 @@ Black Tar - Versatile: both sticky and highly flammable. 3 uses.
 
 Bond: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
 
+Establishes a blacksmith in [Hendenburgh](../Kryptwood/Hendenburgh.md).
+
 ## Carries the Blue Steel Sword (d8)
 
 - When hitting a foe, can read its memories (3 charges)

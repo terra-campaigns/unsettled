@@ -232,6 +232,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "weeping mother",
+                "url": "directory/DuskmeadowFringe/Quarry.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Weeping Mother",
                 "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
                 "is_internal": true,
@@ -482,6 +488,12 @@
             },
             {
                 "text": "Mountain Court",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
                 "url": "directory/Kryptwood/Hendenburgh.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -545,6 +557,12 @@
             {
                 "text": "Hendenburgh",
                 "url": "directory/DuskmeadowFringe/Gunther.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/DuskmeadowFringe/Lorenz.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -651,6 +669,12 @@
                 "favicon": null
             },
             {
+                "text": "Jock",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Subvicar Jock",
                 "url": "campaigns/Book_01/ep_032.md",
                 "is_internal": true,
@@ -679,6 +703,12 @@
             {
                 "text": "Lord Griffin",
                 "url": "directory/DuskmeadowFringe/Jock.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lord Griffin",
+                "url": "directory/Sigisfarne/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -871,6 +901,26 @@
                 "favicon": null
             },
             {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "an incursion to the quarry",
+                "url": "campaigns/Book_01/ep_032.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "cabin",
+                "url": "campaigns/Book_01/ep_033.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "cabin filled",
                 "url": "campaigns/Book_01/ep_002.md",
                 "is_internal": true,
@@ -887,6 +937,12 @@
             {
                 "text": "some think",
                 "url": "directory/DuskmeadowFringe/HuntersCabin.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "what was previously found",
+                "url": "campaigns/Book_01/ep_033.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1086,6 +1142,123 @@
                 "favicon": null
             }
         ],
+        "directory/Wyrmbark/Artea.md": [
+            {
+                "text": "Artea",
+                "url": "directory/DuskmeadowFringe/HuntersCabin.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Wyrmbark",
+                "url": "directory/Wyrmbark/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Basajaun",
+                "url": "directory/Wyrmbark/Basajaun.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Basajaun.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
+                "url": "campaigns/Book_01/ep_033.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_032.md": [
+            {
+                "text": "an incursion to the quarry",
+                "url": "directory/DuskmeadowFringe/HuntersCabin.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Theron",
+                "url": "directory/Wyrmbark/Theron.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Subvicar Jock",
+                "url": "directory/DuskmeadowFringe/Jock.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "his previous injury",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "molemen",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "earlier in the year",
+                "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Flax",
+                "url": "directory/DuskmeadowFringe/Flax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nyx",
+                "url": "directory/Perdut/Nyx.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "directory/DuskmeadowFringe/RabbitInn.md": [
             {
                 "text": "Sigisfarne",
@@ -1152,8 +1325,43 @@
                 "favicon": null
             },
             {
+                "text": "Ambaret",
+                "url": "directory/Ambaret/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "March",
                 "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lord Griffin",
+                "url": "directory/DuskmeadowFringe/LordGriffin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jock",
+                "url": "directory/DuskmeadowFringe/Jock.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Deverain",
+                "url": "directory/Deverain/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1328,6 +1536,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Piot Chant",
+                "url": "directory/Perdut/Nyx.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "PiotChant",
@@ -1617,6 +1831,51 @@
                 "favicon": null
             }
         ],
+        "directory/DuskmeadowFringe/Quarry.md": [
+            {
+                "text": "weeping mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Quarry",
+                "url": "directory/DuskmeadowFringe/SkySpire.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Quarry",
+                "url": "campaigns/Book_01/ep_033.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Quarry",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "quarry",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Quarry",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "quarry",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/DuskmeadowFringe/TheCrack.md": [
             {
                 "text": "Duskmeadow Fringe",
@@ -1704,6 +1963,93 @@
                 "direction": "inbound"
             }
         ],
+        "directory/DuskmeadowFringe/Lorenz.md": [
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_033.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_017.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_029.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_021.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_030.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/DuskmeadowFringe/GalenTheron.md": [
             {
                 "text": "Mountain Court",
@@ -1735,6 +2081,13 @@
             {
                 "text": "Indigo",
                 "url": "directory/Deverain/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Quarry",
+                "url": "directory/DuskmeadowFringe/Quarry.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1928,6 +2281,12 @@
             },
             {
                 "text": "Deverain",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Deverain",
                 "url": "gazetteer/Gravenmark.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1960,6 +2319,12 @@
             },
             {
                 "text": "Ambaret",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ambaret",
                 "url": "gazetteer/Gravenmark.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1973,6 +2338,21 @@
             {
                 "text": "Ambaret",
                 "url": "campaigns/Book_01/ep_030.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Perdut/Nyx.md": [
+            {
+                "text": "Piot Chant",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nyx",
+                "url": "campaigns/Book_01/ep_032.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2532,6 +2912,12 @@
             },
             {
                 "text": "Razzy",
+                "url": "campaigns/Book_01/ep_033.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
                 "url": "campaigns/Book_01/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2793,6 +3179,12 @@
             {
                 "text": "Ayrrin",
                 "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ayrrin",
+                "url": "campaigns/Book_01/ep_033.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3376,6 +3768,12 @@
             },
             {
                 "text": "Soren",
+                "url": "campaigns/Book_01/ep_033.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Soren",
                 "url": "campaigns/Book_01/ep_029.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3584,40 +3982,6 @@
             {
                 "text": "Crones' cottage",
                 "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Wyrmbark/Artea.md": [
-            {
-                "text": "Wyrmbark",
-                "url": "directory/Wyrmbark/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Basajaun",
-                "url": "directory/Wyrmbark/Basajaun.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Artea",
-                "url": "directory/Wyrmbark/Basajaun.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Artea",
-                "url": "campaigns/Book_01/ep_027.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Artea",
-                "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4055,78 +4419,62 @@
                 "favicon": null
             }
         ],
-        "directory/DuskmeadowFringe/Lorenz.md": [
+        "campaigns/Book_01/ep_033.md": [
             {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_027.md",
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
                 "is_internal": true,
-                "direction": "inbound"
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "cabin",
+                "url": "directory/DuskmeadowFringe/HuntersCabin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Quarry",
+                "url": "directory/DuskmeadowFringe/Quarry.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ayrrin",
+                "url": "directory/Sigisfarne/Ayrrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Soren",
+                "url": "directory/Kryptwood/Soren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "what was previously found",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             },
             {
                 "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_017.md",
+                "url": "directory/DuskmeadowFringe/Lorenz.md",
                 "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_022.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_019.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_029.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_021.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_025.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_024.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_030.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lorenz",
-                "url": "campaigns/Book_01/ep_020.md",
-                "is_internal": true,
-                "direction": "inbound"
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "campaigns/Book_01/ep_007.md": [
@@ -4321,71 +4669,6 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/Book_01/ep_032.md": [
-            {
-                "text": "Theron",
-                "url": "directory/Wyrmbark/Theron.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sigisfarne",
-                "url": "directory/Sigisfarne/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Subvicar Jock",
-                "url": "directory/DuskmeadowFringe/Jock.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "his previous injury",
-                "url": "campaigns/Book_01/ep_031.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "molemen",
-                "url": "directory/DuskmeadowFringe/PiotChant.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "earlier in the year",
-                "url": "campaigns/Book_01/ep_004.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Flax",
-                "url": "directory/DuskmeadowFringe/Flax.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Nyx",
-                "url": "directory/Perdut/Nyx.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Mountain Court",
-                "url": "directory/DuskmeadowFringe/MountainCourt.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
         "campaigns/Book_01/ep_031.md": [
             {
                 "text": "his previous injury",
@@ -4476,14 +4759,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Perdut/Nyx.md": [
-            {
-                "text": "Nyx",
-                "url": "campaigns/Book_01/ep_032.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_006.md": [
@@ -4806,32 +5081,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/DuskmeadowFringe/Quarry.md": [
-            {
-                "text": "Quarry",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "quarry",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Quarry",
-                "url": "campaigns/Book_01/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "quarry",
-                "url": "campaigns/Book_01/ep_025.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_026.md": [
