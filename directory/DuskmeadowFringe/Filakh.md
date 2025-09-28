@@ -19,6 +19,9 @@ images:
 {% include header_directories.md %}
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
+
+They want to recover the badlands, at any cost.
+
 {% endcomment %}
 
 This figure, depicted in village murals with

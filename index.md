@@ -177,7 +177,7 @@ Roll 2d6 for beasts and d10+d20 for intelligent beings to see what they are doin
 
 **GM:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Sign-up**: First-come, first-served;  2-5 players  
+**Sign-up**: Lottery 1 week before;  2-5 players  
 **Genre**: Weird Fantasy  
 **Language**: English  
 **Communication**: Discord voice (video is optional)  

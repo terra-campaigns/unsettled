@@ -25,6 +25,11 @@ images:
 {% include header_directories.md %}
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
+```dataview
+LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
+```
+---
+
 {% endcomment %}
 
 Northern hills become flatter and flatter towards the coast.
@@ -48,3 +53,5 @@ way back and attempt to take root. The Duke’s "Road" leads out of Deverain,
 heading directly to Fort Duhrin, through rivers and trails. However, the continual growth of the forest means that the
 road passes through a sliver of the Kalduhr's sister woods, making it dangerous for those carrying supplies to
 the fort or bringing newly unearthed artefacts to Deverain.
+
+- Sweet smell of the winery
