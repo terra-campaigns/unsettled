@@ -4,7 +4,7 @@ template: 0.4
 type: people
 nav_exclude: false
 
-parent: Wyrmbark
+parent: M. Elder Way
 title: Artea
 role: Foundling
 status: 
@@ -31,6 +31,6 @@ Pipeweed - Your good luck charm. Conversations tend to flow more easily after a 
 
 Take Cyrus’s place at the Earthen Council. You wear a Gravel Ring (petty) forged from pebbles and soil. When placed against stone, faint voices argue in chorus.
 
-Big Ford Druidic Monastery.
-They are hairy
+Big Ford Druidic Monastery of the Elder Way.
+They are hairy.
 They are good with farming. Legend say they learned directly from the [Basajaun](Basajaun.md).

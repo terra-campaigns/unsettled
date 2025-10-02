@@ -931,6 +931,12 @@
                 "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Hunters Cabin",
+                "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_005.md": [
@@ -2033,6 +2039,12 @@
             },
             {
                 "text": "Lorenz",
+                "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
                 "url": "campaigns/Book_01/ep_024.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2200,6 +2212,12 @@
             },
             {
                 "text": "Indigo",
+                "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2353,6 +2371,12 @@
             {
                 "text": "Nyx",
                 "url": "campaigns/Book_01/ep_032.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nyx",
+                "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2855,6 +2879,65 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Kaldhur/WitchNevask.md": [
+            {
+                "text": "Kaldhur",
+                "url": "directory/Kaldhur/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "woman",
+                "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kaldhur/index.md": [
+            {
+                "text": "Kaldhur",
+                "url": "directory/Kaldhur/WitchNevask.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "forest",
+                "url": "directory/Sigisfarne/Flint.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "wood",
+                "url": "directory/Sigisfarne/Yewtree.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kaldhur",
+                "url": "directory/Wyrmbark/ElderWay.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kaldhur",
+                "url": "gazetteer/Gravenmark.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "forest beyond the wall",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kaldhur",
+                "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Sigisfarne/RuinedChurch.md": [
             {
                 "text": "Church of the Weeping Mother",
@@ -3009,6 +3092,12 @@
             {
                 "text": "Razvan",
                 "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razvan",
+                "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3220,6 +3309,12 @@
             },
             {
                 "text": "Ayrrin",
+                "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ayrrin",
                 "url": "campaigns/Book_01/ep_030.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3236,32 +3331,6 @@
             {
                 "text": "Flint",
                 "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Kaldhur/index.md": [
-            {
-                "text": "forest",
-                "url": "directory/Sigisfarne/Flint.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "wood",
-                "url": "directory/Sigisfarne/Yewtree.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Kaldhur",
-                "url": "gazetteer/Gravenmark.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "forest beyond the wall",
-                "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3986,7 +4055,35 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Wyrmbark/ElderWay.md": [
+            {
+                "text": "Basajaun",
+                "url": "directory/Wyrmbark/Basajaun.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kaldhur",
+                "url": "directory/Kaldhur/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Big Ford",
+                "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Wyrmbark/Basajaun.md": [
+            {
+                "text": "Basajaun",
+                "url": "directory/Wyrmbark/ElderWay.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "Basajaun",
                 "url": "directory/Wyrmbark/Artea.md",
@@ -5916,6 +6013,101 @@
             {
                 "text": "Adair",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_034.md": [
+            {
+                "text": "Lorenz",
+                "url": "directory/DuskmeadowFringe/Lorenz.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Indigo",
+                "url": "directory/Deverain/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nyx",
+                "url": "directory/Perdut/Nyx.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ayrrin",
+                "url": "directory/Sigisfarne/Ayrrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razvan",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hunters Cabin",
+                "url": "directory/DuskmeadowFringe/HuntersCabin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fort Duhrin",
+                "url": "directory/Kaldhur/FortDuhrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Big Ford",
+                "url": "directory/Wyrmbark/ElderWay.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kaldhur",
+                "url": "directory/Kaldhur/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "woman",
+                "url": "directory/Kaldhur/WitchNevask.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gauntlet",
+                "url": "directory/Kaldhur/Gauntlet.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Kaldhur/FortDuhrin.md": [
+            {
+                "text": "Fort Duhrin",
+                "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kaldhur/Gauntlet.md": [
+            {
+                "text": "Gauntlet",
+                "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
