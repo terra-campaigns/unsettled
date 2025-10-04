@@ -29,3 +29,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 {% endcomment %}
 
 - Protects the River Nevask in [Kaldhur](index.md)
+
+## Myths
+
+[Razzy](../Sigisfarne/Razvan.md) spends time working with the druids, and when she gets familiar with them, she starts asking about the woman she saw. She is known as the Witch of Nevask, but whether she is a witch or not is unclear. She is a force of the forest herself, able to go beyond its borders (to some extent). She travels north and south through the rivers Nevask and Naveh. But east and west on their own path, subtle and narrow, marked with smooth, flat stones and connecting forest altars. But now that you know her myth, you also become marked by her - she will come to offer you the forest.

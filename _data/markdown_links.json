@@ -2158,6 +2158,12 @@
             },
             {
                 "text": "Indigo",
+                "url": "directory/Kaldhur/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
                 "url": "campaigns/Book_01/ep_023.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2888,6 +2894,13 @@
                 "favicon": null
             },
             {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "woman",
                 "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
@@ -2898,6 +2911,19 @@
             {
                 "text": "Kaldhur",
                 "url": "directory/Kaldhur/WitchNevask.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
+                "url": "directory/Deverain/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kaldhur",
+                "url": "directory/Kaldhur/FortDuhrin.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2938,34 +2964,13 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Sigisfarne/RuinedChurch.md": [
-            {
-                "text": "Church of the Weeping Mother",
-                "url": "directory/weepingMother/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Ruined Church",
-                "url": "campaigns/Book_01/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "abandoned church",
-                "url": "campaigns/Book_01/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "RuinedChurch",
-                "url": "campaigns/Book_01/ep_011.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/Sigisfarne/Razvan.md": [
+            {
+                "text": "Razzy",
+                "url": "directory/Kaldhur/WitchNevask.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "PiotChant",
                 "url": "directory/DuskmeadowFringe/PiotChant.md",
@@ -3134,6 +3139,48 @@
             {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kaldhur/FortDuhrin.md": [
+            {
+                "text": "Kaldhur",
+                "url": "directory/Kaldhur/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fort Duhrin",
+                "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/RuinedChurch.md": [
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ruined Church",
+                "url": "campaigns/Book_01/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "abandoned church",
+                "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "RuinedChurch",
+                "url": "campaigns/Book_01/ep_011.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -6094,14 +6141,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Kaldhur/FortDuhrin.md": [
-            {
-                "text": "Fort Duhrin",
-                "url": "campaigns/Book_01/ep_034.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Kaldhur/Gauntlet.md": [

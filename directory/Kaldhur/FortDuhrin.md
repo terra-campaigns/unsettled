@@ -29,3 +29,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 {% endcomment %}
 
 - Built at the ruins of one section of the Wall.
+- Free hospitality for crown subjects.
+- Collects taxes and controls the flow of treasures from [Kaldhur](index.md).
+
