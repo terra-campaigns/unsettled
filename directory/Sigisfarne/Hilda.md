@@ -36,6 +36,6 @@ details:
 - Likes mushrooms
 
 The family travelled to Hendenburgh to sell mushrooms there but never came back.
-Hilda has been a bit of a recluse since they disappeared & not interacted with many people in the village since.
+Since they disappeared, Hilda has been a bit of a recluse and has not interacted with many people in the village.
 
-Under a [vendetta](../../campaigns/Book_01/ep_004.md) of the [Molemen](../DuskmeadowFringe/PiotChant.md)
+Killed in a [vendetta](../../campaigns/Book_01/ep_004.md) of the [Molemen](../DuskmeadowFringe/PiotChant.md)
