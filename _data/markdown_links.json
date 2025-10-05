@@ -2211,6 +2211,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Uncle Indigo",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Indigo",
                 "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
@@ -3095,6 +3101,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Razvan",
                 "url": "campaigns/Book_01/ep_011.md",
                 "is_internal": true,
@@ -3150,6 +3162,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Fort Duhrin",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Fort Duhrin",
@@ -3399,6 +3417,12 @@
             {
                 "text": "Rushd",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rushd",
+                "url": "campaigns/Book_01/ep_035.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3899,6 +3923,12 @@
                 "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Soren",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/CoastWolves/004.md": [
@@ -4045,6 +4075,12 @@
             {
                 "text": "Rook",
                 "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rook",
+                "url": "campaigns/Book_01/ep_035.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -6060,6 +6096,125 @@
             {
                 "text": "Adair",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_035.md": [
+            {
+                "text": "Soren",
+                "url": "directory/Kryptwood/Soren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rushd",
+                "url": "directory/Sigisfarne/RushdIbnUbada.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rook",
+                "url": "directory/Kryptwood/Rook.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Uncle Indigo",
+                "url": "directory/Deverain/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fort Duhrin",
+                "url": "directory/Kaldhur/FortDuhrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Otter",
+                "url": "directory/FeverSwamp/Otter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aspen",
+                "url": "directory/Sigisfarne/Aspen.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Swamp",
+                "url": "directory/FeverSwamp/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "tavern",
+                "url": "directory/FeverSwamp/SmugglersTavern.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "drowned people",
+                "url": "directory/FeverSwamp/DrownedOnes.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/FeverSwamp/Otter.md": [
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/Aspen.md": [
+            {
+                "text": "Aspen",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/index.md": [
+            {
+                "text": "Swamp",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/SmugglersTavern.md": [
+            {
+                "text": "tavern",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/DrownedOnes.md": [
+            {
+                "text": "drowned people",
+                "url": "campaigns/Book_01/ep_035.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
