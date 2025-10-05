@@ -10,8 +10,6 @@ role: Kettlewright
 status: 
 
 hooks:
-- One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
-- Establishes a blacksmith workshop in Hendenburgh
 
 images: 
 
@@ -21,6 +19,8 @@ images:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
+
+> One of your ancestors wronged a Moss Witch, who cursed their bloodline. Your visage causes mirrors to shatter. You’ve noticed that the shards can sometimes reveal illusions.
 
 You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal.
 

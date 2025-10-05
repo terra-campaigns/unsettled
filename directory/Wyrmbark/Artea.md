@@ -8,7 +8,7 @@ parent: M. Elder Way
 title: Artea
 role: Foundling
 status: 
-hooks: Adopted by the Hairy Druids of the Big Ford.
+hooks: 
 
 images: 
 
@@ -18,6 +18,8 @@ images:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
+
+> Adopted by the Hairy Druids of the Big Ford.
 
 An odd birthmark, a strange smell: somehow, the touch of elsewhere still lingers. Wherever you are, you have trouble fitting in.
 

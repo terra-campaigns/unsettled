@@ -13,7 +13,6 @@ images:
 
 hooks:
 - Have a Piot Chant vendetta on her face.
-- You found a Tiny Crystal Prism (petty) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes, you feel a presence looking back at you.
 - Strange cracks have appeared in the night sky, revealing a swirling vortex of light and color. Some say that the divide between realms is at its weakest in centuries, and fear what may emerge from the other side.
 
 ---
@@ -22,6 +21,8 @@ hooks:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
+
+> You found a Tiny Crystal Prism (petty) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes, you feel a presence looking back at you.
 
 You have a Stout Physique, Tanned Skin, and Filthy Hair. Your Face is Square, your Speech Squeaky. You have Elegant Clothing. You are Merciful and Greedy. You are 32 years old.
 

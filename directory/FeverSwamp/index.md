@@ -11,6 +11,8 @@ title: Fever Swamp
 role: Doomed Swamp
 status: 
 hooks:
+- Stone altar with no inscription, surrounded by standing stones, gives dreams of warmth and comfort.
+- Chest by tree (by giant spider nest) has the symbol of an unknown empire.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020251005101324.png

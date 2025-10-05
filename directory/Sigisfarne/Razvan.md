@@ -11,7 +11,6 @@ parent: Sigisfarne
 statblock: false
 
 hooks:
-- You inherited a Single Gem from a long-dead relative. It arrived with a warning - squander your newfound riches, and a debt long thought forgotten would be called.
 - Wants to find red tree sap from Kormoran's Wheel.
 
 images:
@@ -23,6 +22,9 @@ images:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
+
+> You inherited a Single Gem from a long-dead relative. It arrived with a warning - squander your newfound riches, and a debt long thought forgotten would be called.
+> The debt is to either return the Gem or give her firstborn to the Fae.
 
 Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide. Forages for medicinal herbs and makes potions.
 

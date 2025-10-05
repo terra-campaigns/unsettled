@@ -10,7 +10,6 @@ role: Scrivener Monk, half-giant
 status: 
 
 hooks:
-- Inscribe your mother’s name in the Azure Archives. You hold a Quill of Azure Feather (petty) that only writes one name—hers—and only in a language you cannot speak aloud. 
 - A Treatise on the Abyss - A nondescript black book about a gate southwest of the Monastery.
 
 images: 
@@ -21,6 +20,8 @@ images:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
+
+> Inscribe your mother’s name in the Azure Archives. You hold a Quill of Azure Feather (petty) that only writes one name—hers—and only in a language you cannot speak aloud. 
 
 You copy ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.
 
