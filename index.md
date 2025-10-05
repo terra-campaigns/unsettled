@@ -181,7 +181,7 @@ Roll 2d6 for beasts and d10+d20 for intelligent beings to see what they are doin
 **Genre**: Weird Fantasy  
 **Language**: English  
 **Communication**: Discord voice (video is optional)  
-**Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression  
+**Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), oppression, diseases, illnesses, death  
 **Useful links**:  
 - [Book I campaign](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/)    
 - [Open Hooks](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#hooks)
