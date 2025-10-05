@@ -11,6 +11,7 @@ status:
 hooks: You promised a childhood friend that you’d bring them back a rare gift, something unique in all the world. Take a Bracelet (petty) woven from twine and wildflowers.
 
 images: 
+- ../../imgs/gallery/Pasted%20image%2020251004195352.png
 
 ---
 

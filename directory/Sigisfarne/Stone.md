@@ -2,7 +2,7 @@
 template: 0.4
 layout: default
 type: people
-nav_exclude: false
+nav_exclude: true
 
 title: Stone
 role: Rill Runner
