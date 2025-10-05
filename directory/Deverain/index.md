@@ -54,4 +54,7 @@ heading directly to Fort Duhrin, through rivers and trails. However, the continu
 road passes through a sliver of the Kalduhr's sister woods, making it dangerous for those carrying supplies to
 the fort or bringing newly unearthed artefacts to Deverain.
 
-- Sweet smell of the winery
+Sweet smell of the winery
+
+The Pipers set the western town ablaze in September 1025.
+Farms are destroyed, and grains to be exported sink in the sea.
