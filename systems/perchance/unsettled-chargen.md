@@ -3,6 +3,8 @@ dsix = {1-6}
 dfour = {1-4}
 dtwenty = {1-20}
 
+gauntlet = {import:dj6o7ktp3u}
+
 bondtxt
   [if (b=="Fieldwarden"||(b=="Outrider"&&addbnd==1)) {bnd=2,""} else {bnd=1,""}]<b>Bond: </b>[bond][if (bnd==2) {"<br><br>Your background grants you a second bond: " + [bond]} else {""}]
 
@@ -277,7 +279,7 @@ background
     event2 = <b>How do you transcribe sensitive information?</b><br>{<b>Fib Ink</b> - Glows when used to write true statements but fades if used to write false ones.|<b>Cipher Stone</b> - A pair of sharp black stones. Each one decrypts any message written by the other.|<b>Everquill</b> - A quill that writes on any surface. You still need ink. <i>Petty</i>.|<b>Whisper Vial</b> - Whisper a message into the vial, and it will play it back to whoever opens it next.|<b>Sanguine Lens</b> - Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day.|<b>Echo Leaf</b> - A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. <i>Petty</i>.}
     equip = Torch (3 uses)<br>Quill & Ink<br>Blank Book<br>Awl (d6)<br>Badge (<i>petty</i>)
 
-  Bog-Walker
+  Bog-Walker^2
     bgname = Bog-Walker
     blurb = Raised among the mist-choked fens, you know the secrets of peat, reeds, and sucking mud. Where others see only treacherous bogs, you see a world of possibilities. Some may even whisper that the marsh runs in your blood.
     name
@@ -305,6 +307,14 @@ background
       Insect Plague. Your home is nearly inhabitable due to a surge in aggressive dragonfly-like insects. These insect seem to be the source of a new affliction that took the live of a family member.
       Curse. A Bog Witch cursed you: "Walk soft, for the mire loves you now - your steps sink, never sound". You leave no trace or sound when walking, but your feet always sink slightly when walking on soil. You left the bog to find a solution to this curse.
     equip = Oil can (6 uses)<br>Stained pole (d6)<br>Woven Reed Sandals (petty)<br>Bog moss bandages (3 uses)
+
+  Gauntlet
+    bgname = [gauntlet.bgname]
+    blurb = [gauntlet.blurb]
+    name = [gauntlet.name]
+    event1 = [gauntlet.event1]
+    event2 = [gauntlet.event2]
+    equip = [gauntlet.equip]
 
 physique
   athletic
