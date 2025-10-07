@@ -429,9 +429,8 @@ thing
 $output
   name = [name]
   bgname = Treasure Hunter from the Gauntlet Guild
-  blurb = You were a(n) [who1] You joined the Gauntlet and became a(n) [who2]
-  event1 = <b>What treasure have you found?</b><br>[artefact]
+  blurb = You were a [who1] You joined the Gauntlet and became a [who2]
+  event1 = <b>What treasure have you found that still has a single use?</b><br>[artefact]
   event2 = <b>What are your mundane defenses?</b><br>[weapon] and [weapon]
   equip = [thing] <br> [thing] <br> [thing] <br> [thing]
-
 ```
