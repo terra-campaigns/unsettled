@@ -277,6 +277,35 @@ background
     event2 = <b>How do you transcribe sensitive information?</b><br>{<b>Fib Ink</b> - Glows when used to write true statements but fades if used to write false ones.|<b>Cipher Stone</b> - A pair of sharp black stones. Each one decrypts any message written by the other.|<b>Everquill</b> - A quill that writes on any surface. You still need ink. <i>Petty</i>.|<b>Whisper Vial</b> - Whisper a message into the vial, and it will play it back to whoever opens it next.|<b>Sanguine Lens</b> - Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day.|<b>Echo Leaf</b> - A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. <i>Petty</i>.}
     equip = Torch (3 uses)<br>Quill & Ink<br>Blank Book<br>Awl (d6)<br>Badge (<i>petty</i>)
 
+  Bog-Walker
+    bgname = Bog-Walker
+    blurb = Raised among the mist-choked fens, you know the secrets of peat, reeds, and sucking mud. Where others see only treacherous bogs, you see a world of possibilities. Some may even whisper that the marsh runs in your blood.
+    name
+      Jebbo
+      Zeke
+      Tilda
+      Burl
+      Hoss
+      Otis
+      Toad
+    event1 = <b>What is your most prized possession?</b><br> [b.event1tbl]
+    event1tbl
+      Bloodsucker. Your trusty Leech, twice per day you can use the leech to restore 1 STR. Restore uses by feeding it with healthy blood.
+      Bogstink. A pungent fruit that reminds you of home. Can be used to clear rooms by throwing it (1 use).
+      Gasmask. Long lost technology, protects you from smells and noxious gasses. You have disadvantage on vision-based actions while wearing the mask.
+      Gas detector. This lantern has a special indicator for combustible gases, it never ignites those gasses unless the lantern is broken.
+      Bog-walker suit. A festive suit consisting of a pair of stilts, an animal skin and a mask with antilope horns.
+      Bog Horn. A very loud instrument often used to warn others. Other Bog-Walkers will immediately recognize your specific tone.
+    event2 = <b>Why did you leave your bog?</b><br> [b.event2tbl]
+    event2tbl
+      Love. You dreamt of the love of your life, you are now roaming the world to find this person.
+      Impending doom. A prophecy long ago foretold the doom of your world, you are the next in line responsible to find further clues to what this cataclysmic event will entail.
+      Smell. You never really fitted in, now trying your luck in the 'normal' - less noxious - world.
+      Business. The bogs are rich in peat, but business has been slow. If you can't find a buyer for your stock, you will need to look for a new source of income.
+      Insect Plague. Your home is nearly inhabitable due to a surge in aggressive dragonfly-like insects. These insect seem to be the source of a new affliction that took the live of a family member.
+      Curse. A Bog Witch cursed you: "Walk soft, for the mire loves you now - your steps sink, never sound". You leave no trace or sound when walking, but your feet always sink slightly when walking on soil. You left the bog to find a solution to this curse.
+    equip = Oil can (6 uses)<br>Stained pole (d6)<br>Woven Reed Sandals (petty)<br>Bog moss bandages (3 uses)
+
 physique
   athletic
   brawny
