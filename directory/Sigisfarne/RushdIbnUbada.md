@@ -6,7 +6,7 @@ nav_exclude: false
 
 parent: Sigisfarne
 title: Rushd Ibn Ubada
-role: Prowler, Seeker
+role: Prowler, The Seeker
 status: 
 flavour: 
 

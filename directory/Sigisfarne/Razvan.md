@@ -4,9 +4,9 @@ layout: default
 type: people
 nav_exclude: false
 
-title: Razzy, the Bunny
+title: Razzy Rabbit
 flavour: 
-role: Half Witch
+role: Half Witch, The Bunny
 parent: Sigisfarne
 statblock: false
 

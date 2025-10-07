@@ -13,7 +13,7 @@ status:
 hooks:
 
 images:
-- ../imgs/gallery/Pasted%20image%2020250918170749.png
+- ../imgs/gallery/Pasted%20image%2020251007161700.jpg
 
 ---
 

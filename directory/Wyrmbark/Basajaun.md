@@ -31,3 +31,4 @@ From the legends of the Hairy Druids of the Big Ford.
 - Senses intruders instantly—his knowledge of his land is uncanny and complete.
 - His body may give rise to oak trees, suggesting he returns to the earth in death.
 - Violent yet protective, joyful yet tragic, he is a force of nature with fur and mind.
+- Cursed a mountain village northwest of the Big Ford for producing beyond their needs.

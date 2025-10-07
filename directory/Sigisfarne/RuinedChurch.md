@@ -11,8 +11,9 @@ role: Ruins of an older religion
 status: 
 flavour: 
 
-image:
+images:
 - ../../imgs/gallery/Pasted%20image%2020250830164830.png
+- ../../imgs/gallery/Pasted%20image%2020251007165101.jpg
 
 ---
 
