@@ -488,6 +488,12 @@
             },
             {
                 "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/SowFamily.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
                 "url": "directory/Sigisfarne/index.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -601,6 +607,12 @@
             {
                 "text": "Hendenburgh",
                 "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/ep_036.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1189,6 +1201,12 @@
             },
             {
                 "text": "Artea",
+                "url": "campaigns/Book_01/ep_036.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
                 "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1418,6 +1436,12 @@
             {
                 "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_036.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2263,6 +2287,21 @@
                 "direction": "inbound"
             }
         ],
+        "directory/DuskmeadowFringe/SowFamily.md": [
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sow Queen",
+                "url": "campaigns/Book_01/ep_036.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/weepingMother/theSisters.md": [
             {
                 "text": "Sisters",
@@ -2330,6 +2369,12 @@
             {
                 "text": "Deverain",
                 "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Deverain",
+                "url": "campaigns/Book_01/ep_036.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4794,6 +4839,12 @@
             },
             {
                 "text": "Varg",
+                "url": "campaigns/Book_01/ep_036.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Varg",
                 "url": "campaigns/Book_01/ep_026.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -5261,6 +5312,80 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "campaigns/Book_01/ep_036.md": [
+            {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Varg",
+                "url": "directory/DuskmeadowFringe/Varg.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jebbo",
+                "url": "directory/FeverSwamp/Jebbo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "once manicured land",
+                "url": "directory/DuskmeadowFringe/BlightedPlantation.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Deverain",
+                "url": "directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sow Queen",
+                "url": "directory/DuskmeadowFringe/SowFamily.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/FeverSwamp/Jebbo.md": [
+            {
+                "text": "Jebbo",
+                "url": "campaigns/Book_01/ep_036.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/BlightedPlantation.md": [
+            {
+                "text": "once manicured land",
+                "url": "campaigns/Book_01/ep_036.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_026.md": [

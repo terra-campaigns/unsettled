@@ -20,7 +20,10 @@ images:
 {% include header_directories.md %}
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
-
+```dataview
+LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
+```
+---
 Ancient Crown post in the mountains.
 Most of the court is afflicted, as if bitten by beasts, although it is disguised as a cultural aspect.
 The Crown hides them, and the local population pretends it is false.
