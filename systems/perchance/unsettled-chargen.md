@@ -38,7 +38,7 @@ background
       <b>Aqua Vita</b> - Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR. 1 use.
       <b>Mimic Stone</b> - Records a short phrase that can later be played back.
       <b>Spark Dust</b> - Ignites easily and quickly. Useful for starting a fire or as an incendiary device. 3 uses.
-      <b>Homunculus</b> - A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL}
+      <b>Homunculus</b> - A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL
     equip = Lantern<br>Oil Can (6 uses)<br>Needle-knife (d6)<br>Protective Gloves (petty)
   
   2_Barber-Surgeon 
@@ -459,7 +459,7 @@ bond
   Pay the toll of the Emerald Bridge. You carry a <b>Bridge-Token</b> (<i>petty</i>), made of green stone. You were told to “pay only once.” However, each tollkeeper requests something different.
   Pay your father’s debt to Bright-Teeth Assyrio. You bear a <b>Tooth Necklace</b> (<i>petty</i>), each tooth inscribed with a date. The last one is blank—and growing warm.
   Publish your discoveries from ancient Kalduhr. You keep a <b>Scroll Case</b> (<i>petty</i>) locked with spiderweb filaments. You don’t remember writing what’s inside.
-  Rebuild Hisham’s Fountain. You have a <b>Stone Spout</b> (<i>petty</i>), carved like a lion’s mouth. When placed in sand, it leaks a single drop of clean water each day.
+  Rebuild Hisham’s Fountain. You have a <b>Stone Spout</b> (<i>petty</i>), carved like a lion’s mouth. When placed in sand, it produces water for a day.
   Repay your losses to the Southern Pass Company. You were issued a <b>Debt Ledger</b> (<i>petty</i>) that always lists you last. Each week, the number beside your name increases by 1 gp, regardless of what you do.
   Restore the lost glory of the Caliginous Grove. You tend a <b>Seed Pod</b> (<i>petty</i>) pulsing with dark sap. You’re not sure if it’s a plant or an insect. It whispers of a forest long dead.
   Restore the Temple of Tanahlot. You bear a <b>Temple Bell Shard</b> (<i>petty</i>). If struck, it emits a sound only you can hear. Each time, it’s a different voice.

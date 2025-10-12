@@ -33,6 +33,8 @@ where moss-fed ruins whisper beneath the fog.
 The bones of a dead civilisation jut from hillsides and riverbeds —
 arches half-sunken, towers halved by time, their makers forgotten.
 
+## Regions
+
 - Capital [Ambaret](../directory/Ambaret/index.md)
 - Coastal Town of [Deverain](../directory/Deverain/index.md)
 - Northern Villages of the [Duskmeadow Fringe](../directory/DuskmeadowFringe/index.md)
@@ -41,3 +43,21 @@ arches half-sunken, towers halved by time, their makers forgotten.
 - [Kaldhur](../directory/Kaldhur/index.md) Forest, beyond the Wall
 - [Kryptwood](../directory/Kryptwood/index.md) Forest
 - Druidic lands of the [Wyrmbark](../directory/Wyrmbark/index.md)
+
+## Ambaretian Calendar
+
+|                                                                      |                                    |
+| -------------------------------------------------------------------- | ---------------------------------- |
+| **Jan-Feast**<br>Feasting                                            |                                    |
+| **Feb-Sit**<br>Sit by the fire and wait                              |                                    |
+| **Mar-Prune**<br>Pruning trees, digging                              |                                    |
+| **Apr-Garden**<br>Planting, enjoying the country or picking flowers  |                                    |
+| **May-Hunt**<br>Hawking, boating, courtly love                       |                                    |
+| **Jun-Hay**<br>Hay harvest                                           |                                    |
+| **Jul-Wheat**<br>Wheat harvest                                       |                                    |
+| **Aug-Grain**<br>Other grains harvest                                |                                    |
+| **Sep-Berries**<br>Grapes and berries harvest, making wine and cider | **Last week**: Feast of all saints |
+| **Oct-Sow**<br>Ploughing or sowing                                   |                                    |
+| **Nov-Acorns**<br>Gather acorns and feed pigs                        |                                    |
+| **Dec-Slaughter**<br>Kiling pigs, baking                             |                                    |
+
