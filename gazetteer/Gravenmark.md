@@ -56,8 +56,14 @@ arches half-sunken, towers halved by time, their makers forgotten.
 | **Jun-Hay**<br>Hay harvest                                           |                                    |
 | **Jul-Wheat**<br>Wheat harvest                                       |                                    |
 | **Aug-Grain**<br>Other grains harvest                                |                                    |
-| **Sep-Berries**<br>Grapes and berries harvest, making wine and cider | **Last week**: Feast of all saints |
+| **Sep-Berries**<br>Grapes and berries harvest, making wine and cider | **Last week**: Feast of All Saints |
 | **Oct-Sow**<br>Ploughing or sowing                                   |                                    |
 | **Nov-Acorns**<br>Gather acorns and feed pigs                        |                                    |
 | **Dec-Slaughter**<br>Kiling pigs, baking                             |                                    |
 
+### Feast of All Saints
+
+The various traditions of Ambaret are often celebrated in the northern villages as well.
+Whereas this festival is an introspective and sombre affair in the capital, families in the countryside celebrate with joy. Perhaps away from the heavy hand of the Crown, the people feel freer to enjoy themselves, or possibly there is just less concern about offending the [Church of the Weeping Mother](../directory/weepingMother/index.md) by celebrating some lesser-known Sisters.
+
+Some of the wine and cider made from berries and grapes in September always go bad quickly. The best are stored and will survive winter. The sour ones are drunk in abundance at the Feast of All Saints.

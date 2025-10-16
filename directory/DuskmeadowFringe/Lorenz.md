@@ -36,6 +36,8 @@ Bond: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Yo
 
 Establishes a blacksmith in [Hendenburgh](../Kryptwood/Hendenburgh.md).
 
+Named Champion of the [Mountain Court](../DuskmeadowFringe/MountainCourt.md) by [Jock](../DuskmeadowFringe/Jock.md).
+
 ## Carries the Blue Steel Sword (d8)
 
 - When hitting a foe, can read its memories (3 charges)

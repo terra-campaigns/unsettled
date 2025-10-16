@@ -6,7 +6,7 @@ nav_exclude: false
 has_children: true
 has_toc: true
 
-parent: Gazetteer
+parent: Gravenmark
 title: Warden-Stone
 role: 
 status: 

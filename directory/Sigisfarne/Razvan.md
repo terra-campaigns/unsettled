@@ -24,11 +24,11 @@ images:
 {% endcomment %}
 
 > You inherited a Single Gem from a long-dead relative. It arrived with a warning - squander your newfound riches, and a debt long thought forgotten would be called.
-> The debt is to either return the Gem or give her firstborn to the Fae.
+> The debt is to return the Gem or give her firstborn to the Fae.
 
 Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide. Forages for medicinal herbs and makes potions.
 
-You have an Athletic Physique, Rosy Skin, and Curly Hair. Your Face is Elongated. You have Soiled Clothing. You are Humble and Craven. You are 44 years old.
+You have an athletic physique, Rosy Skin, and curly hair. Your Face is Elongated. You wear Soiled Clothing. You are Humble and Craven. You are 44 years old.
 
 **Bond:** You inherited a Single Gem (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called.
 
@@ -40,3 +40,5 @@ Received a cravat from a faerie. It is brown, the most beautiful brown. It catch
 Wearing it makes parlaying with the Fae easier. They will look at you with different eyes.
 
 [Drake](Drake.md) is as beautiful as Fae: his features become your ideal of beauty.
+
+Named Champion of the [Mountain Court](../DuskmeadowFringe/MountainCourt.md) by [Jock](../DuskmeadowFringe/Jock.md).

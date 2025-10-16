@@ -70,7 +70,7 @@ background
       <b>Woundwax</b> - Heals wounds from fire or chemicals (restoring full STR) but nothing else. 2 uses.
       <b>Quicksilver</b> - A stimulant. Go first in combat, and automatically pass any WIL saves for one hour. <i>Addictive:</i> Save STR or become <a href="https://cairnrpg.com/second-edition/players-guide/core-rules/#deprivation--fatigue" target="_blank"><i>deprived</i></a> after 24 hours without it. 4 uses
       <b>Pneuma Pump</b> - Portable iron lungs (<i>bulky</i>). Enables life-saving surgery or underwater breathing.
-      <b>Lodestone</b> - Draws out dangerous elements from the body and acts as a powerful magnetic force.}
+      <b>Lodestone</b> - Draws out dangerous elements from the body and acts as a powerful magnetic force.
     equip = Torch (3 uses)<br>Bonesaw (d6)<br>Bandages (3 uses)<br>Leech (restores 1 STR, 3 uses)<br>Stained Medical Finery (petty)
   
   3_Beast Handler 
@@ -279,7 +279,7 @@ background
     event2 = <b>How do you transcribe sensitive information?</b><br>{<b>Fib Ink</b> - Glows when used to write true statements but fades if used to write false ones.|<b>Cipher Stone</b> - A pair of sharp black stones. Each one decrypts any message written by the other.|<b>Everquill</b> - A quill that writes on any surface. You still need ink. <i>Petty</i>.|<b>Whisper Vial</b> - Whisper a message into the vial, and it will play it back to whoever opens it next.|<b>Sanguine Lens</b> - Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day.|<b>Echo Leaf</b> - A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. <i>Petty</i>.}
     equip = Torch (3 uses)<br>Quill & Ink<br>Blank Book<br>Awl (d6)<br>Badge (<i>petty</i>)
 
-  Bog-Walker^2
+  Bog-Walker
     bgname = Bog-Walker
     blurb = Raised among the mist-choked fens, you know the secrets of peat, reeds, and sucking mud. Where others see only treacherous bogs, you see a world of possibilities. Some may even whisper that the marsh runs in your blood.
     name

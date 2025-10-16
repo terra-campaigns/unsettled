@@ -70,3 +70,4 @@ They never came back.
 ## Gregory the blacksmith
 
 Moved here from [Hendenburgh](../Kryptwood/Hendenburgh.md).
+Sets up a metalworking shop.

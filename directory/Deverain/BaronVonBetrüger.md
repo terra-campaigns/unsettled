@@ -22,3 +22,4 @@ images:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
+Named Champion of the [Mountain Court](../DuskmeadowFringe/MountainCourt.md) by [Jock](../DuskmeadowFringe/Jock.md).

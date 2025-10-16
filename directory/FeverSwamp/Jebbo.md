@@ -34,9 +34,12 @@ I'm scrawny with soft skin and frizzy hair. An ambitious boy in filthy clothes. 
 
 You consumed a Mischievous Spirit that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. It occupies one slot but absorbs one Fatigue each day. It wants you alive (for now).
 
+> Jebbo was chasing a small translucent frog - known to be a sign of good fortune to bog-walekrs - when he was only 9. It merged while struggling to hold on to it and since then I am more resistant to Fatique but also gives me a constant feeling of wanting to leave, as if I'm never really at home.
+
 **What is your most prized possession?**
 Bog-walker suit. A festive suit consisting of a pair of stilts, an animal skin and a mask with antelope horns.
 
 **□ Why did you leave your bog?**
 Curse. A Bog Witch cursed you: "Walk soft, for the mire loves you now - your steps sink, never sound". You leave no trace or sound when walking, but your feet always sink slightly when walking on soil. You left the bog to find a solution to this curse
 
+Named Champion of the [Mountain Court](../DuskmeadowFringe/MountainCourt.md) by [Jock](../DuskmeadowFringe/Jock.md).
