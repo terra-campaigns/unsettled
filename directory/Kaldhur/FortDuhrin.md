@@ -32,3 +32,4 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 - Free hospitality for crown subjects.
 - Collects taxes and controls the flow of treasures from [Kaldhur](index.md).
 
+Duhrin—the fort built a half day’s journey from the dreaded Kalduhr Forest—was meant to serve as the Crown’s first line of defence against the forest’s dangers. However, once small bands of explorers returned from the depths of Kalduhr with golden idols and peculiar artifacts, the fort quickly developed a second purpose as the ideal launch point for all new expeditions into the wood. 

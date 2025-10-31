@@ -9,7 +9,7 @@ has_toc: false
 
 parent: Directory
 title: Deverain
-role: Coastal Town
+role: Coastal Town, Duchy of the Kaldhur
 status: 
 
 hooks:
@@ -58,3 +58,5 @@ Sweet smell of the winery
 
 The Pipers set the western town ablaze in September 1025.
 Farms are destroyed, and grains to be exported sink in the sea.
+
+Oct 25 Duque acts with violence against the revolutionaries of the region.

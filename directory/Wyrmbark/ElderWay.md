@@ -34,3 +34,5 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 - Druids are big and hairy
 - A group of them wants to leave the monastery, seeking the Old One of [Kaldhur](../Kaldhur/index.md).
 - Part of their population is made of migrants from other villages.
+- Poppy, a friendly teenager
+- Pepper, a wise councillor 

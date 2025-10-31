@@ -5,7 +5,7 @@ type: people
 nav_exclude: false
 
 parent: Deverain
-title: Indigo
+title: Uncle Indigo
 role: Mountebank
 status: 
 

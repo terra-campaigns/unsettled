@@ -34,6 +34,8 @@ How did you earn your bow? Training. If you are the first to attack, melee attac
 
 What kind of wood is your bow made from? White Ash (d6, bulky). Can be used in place of a shield in melee combat (+1 Armour). 
 
+Took the wife and son of a violent husband to the druids.
+
 ## Carries the Scaled Mace (d8)
 
 - Wooden, looks ceremonial, aptly made

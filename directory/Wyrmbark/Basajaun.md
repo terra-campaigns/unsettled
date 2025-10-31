@@ -6,7 +6,7 @@ nav_exclude: false
 
 parent: Wyrmbark
 title: Basajaun
-role: Those from which we stole the secrets of lifestock and farming
+role: Grandfather of the Fathers, Big Hairy Grandad
 status: 
 hooks:
 
@@ -22,7 +22,7 @@ images:
 [Artea](Artea.md)
 {% endcomment %}
 
-From the legends of the Hairy Druids of the Big Ford.
+3m giant, from the legends of the Hairy Druids of the Big Ford.
 
 - Loves tricks and laughter—may lure you to a cliff just for the joy of it.
 - It will protect sheep and shepherds, chasing off wolves or warning of avalanches.
