@@ -21,8 +21,8 @@ images:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 
-
-[The Crones](TheCrones.md) poison Sly George in Jul-Wheat 1025.
 {% endcomment %}
 
 A gang of notorious highway robbers led by **Sly George** (a vainglorious coward whose reputation has been grossly exaggerated through folk songs of his own composition). The highwaymen use the Kryptwood as a hideout between robberies.
+
+[The Crones](TheCrones.md) poison Sly George in Jul-Wheat 1025.

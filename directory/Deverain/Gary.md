@@ -12,7 +12,7 @@ status:
 hooks:
 
 images:
-- 
+- ../../imgs/gallery/20251026_130952.jpg
 
 ---
 

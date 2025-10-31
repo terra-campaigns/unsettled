@@ -41,3 +41,5 @@ Rebirth Ash: Remnants of a bark spirit. Sprinkle to reignite a fire that has die
 
 Has a vendetta of the [Piot Chant](../DuskmeadowFringe/PiotChant.md) on her face.
 
+Carries a carving knife with her. And a small carved crow.
+
