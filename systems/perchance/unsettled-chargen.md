@@ -308,7 +308,7 @@ background
       Curse. A Bog Witch cursed you: "Walk soft, for the mire loves you now - your steps sink, never sound". You leave no trace or sound when walking, but your feet always sink slightly when walking on soil. You left the bog to find a solution to this curse.
     equip = Oil can (6 uses)<br>Stained pole (d6)<br>Woven Reed Sandals (petty)<br>Bog moss bandages (3 uses)
 
-  Gauntlet
+  Gauntlet ^2
     bgname = [gauntlet.bgname]
     blurb = [gauntlet.blurb]
     name = [gauntlet.name]

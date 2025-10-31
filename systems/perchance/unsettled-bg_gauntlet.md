@@ -343,7 +343,6 @@ thing
   Children’s toy
   Chisel
   Cloak
-  Clothing, basic
   Clothing, costume
   Clothing, fine
   Cooking pot
