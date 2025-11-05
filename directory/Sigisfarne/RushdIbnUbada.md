@@ -30,29 +30,29 @@ WIL 11 >
 A 1
 HP 5 >
 
-GP 38
+GP 133
 
 **Inventory**
 
-1. Rations (3)
+1. Rations (1)
 2. Torches (1)
 3. Tarp
 4. Boiled Leather Armour
 5. Short sword (d6) - 1-in-4, it is stuck in the next enemy
 6. Spring-loaded trap
 7. Hardening glue (3)
-8. Rations (3)
-9. Fish (3)
-10. Fish (3)
+8. Torches (3)
+9. Coins
+10. 
 
 **Petty items**
 
-- Silver moss: swallow and creature will come to pay its debt (Naiad)
-- Poisoned needles
+- Poisoned needles (2)
 
-**Boat**
+**Home in Sigisfarne**
 
-- Fish (6)
+- Fish (12)
+- Rations (3)
 
 {% endcomment %}
 

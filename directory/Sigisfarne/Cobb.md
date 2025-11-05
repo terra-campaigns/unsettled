@@ -15,7 +15,7 @@ status:
 hooks:
 
 images:
-- ../../imgs/gallery/Pasted%20image%2020251016152628.png
+- ../../imgs/gallery/Pasted%20image%2020251102214356.png
 
 ---
 
@@ -29,6 +29,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 {% endcomment %}
 
 > The name is Cobb, but friends call me Cobert. 
+
+![](../../imgs/gallery/Pasted%20image%2020251016152628.png)
 
 Cobb, the field warden, has been around the area of Sigisfarn for some time now.
 Protecting the peasantry, scaring thieves, just your general fieldwardenry.

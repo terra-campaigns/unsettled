@@ -1149,6 +1149,13 @@
                 "favicon": null
             },
             {
+                "text": "wall",
+                "url": "directory/Wall/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Artea",
                 "url": "directory/Wyrmbark/Artea.md",
                 "is_internal": true,
@@ -1221,6 +1228,13 @@
             {
                 "text": "stone",
                 "url": "gazetteer/Warden-Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "wonder",
+                "url": "directory/Wall/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1377,7 +1391,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "RabbitI's nn",
+                "text": "RabbitI's Inn",
                 "url": "campaigns/Book_01/ep_039.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1587,6 +1601,12 @@
             {
                 "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2250,6 +2270,12 @@
                 "favicon": null
             },
             {
+                "text": "Big Ford",
+                "url": "directory/Wyrmbark/Basajaun.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Monastery of the Elder Way",
                 "url": "campaigns/Book_01/ep_039.md",
                 "is_internal": true,
@@ -2424,6 +2450,12 @@
             },
             {
                 "text": "Indigo",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
                 "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2532,8 +2564,26 @@
                 "favicon": null
             },
             {
+                "text": "Prof Dr Gary",
+                "url": "directory/Wyrmbark/Basajaun.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Gary",
                 "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
+                "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2542,6 +2592,12 @@
             {
                 "text": "Western Swamp",
                 "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Swamp",
+                "url": "campaigns/Book_01/ep_038.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3242,7 +3298,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "forest beyond the wall",
+                "text": "forest",
                 "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3446,6 +3502,12 @@
             {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_038.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3775,6 +3837,12 @@
             },
             {
                 "text": "Rushd",
+                "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rushd",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3782,6 +3850,12 @@
             {
                 "text": "Rushd",
                 "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rushd",
+                "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4547,6 +4621,20 @@
             {
                 "text": "Artea",
                 "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Big Ford",
+                "url": "directory/Wyrmbark/ElderWay.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/Deverain/Gary.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -6203,7 +6291,7 @@
                 "favicon": null
             },
             {
-                "text": "RabbitI's nn",
+                "text": "RabbitI's Inn",
                 "url": "directory/DuskmeadowFringe/RabbitInn.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -6215,6 +6303,45 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "the Wall",
+                "url": "directory/Wall/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Wall/index.md": [
+            {
+                "text": "the Wall",
+                "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "wall",
+                "url": "campaigns/Book_01/ep_029.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "wall",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "wall",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "wonder",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_029.md": [
@@ -6296,11 +6423,149 @@
                 "favicon": null
             },
             {
+                "text": "wall",
+                "url": "directory/Wall/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "spider people",
                 "url": "directory/FoldedBelow/SpiderPeople.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "campaigns/Book_01/ep_038.md": [
+            {
+                "text": "Aspen",
+                "url": "directory/Sigisfarne/Aspen.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Otter",
+                "url": "directory/FeverSwamp/Otter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Guy",
+                "url": "directory/FeverSwamp/Guy.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Swamp",
+                "url": "directory/FeverSwamp/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Eira",
+                "url": "directory/FeverSwamp/Eira.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thresh",
+                "url": "directory/FeverSwamp/Thresh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rushd",
+                "url": "directory/Sigisfarne/RushdIbnUbada.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Smuggler's Copse",
+                "url": "directory/FeverSwamp/SmugglersTavern.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Aspen.md": [
+            {
+                "text": "Aspen",
+                "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aspen",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/Otter.md": [
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/Guy.md": [
+            {
+                "text": "Guy",
+                "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/Eira.md": [
+            {
+                "text": "Eira",
+                "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/Thresh.md": [
+            {
+                "text": "Thresh",
+                "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/SmugglersTavern.md": [
+            {
+                "text": "Smuggler's Copse",
+                "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "tavern",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_028.md": [
@@ -6417,8 +6682,15 @@
                 "favicon": null
             },
             {
-                "text": "forest beyond the wall",
+                "text": "forest",
                 "url": "directory/Kaldhur/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "wall",
+                "url": "directory/Wall/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -6785,34 +7057,77 @@
                 "favicon": null
             }
         ],
-        "directory/FeverSwamp/Otter.md": [
-            {
-                "text": "Otter",
-                "url": "campaigns/Book_01/ep_035.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Sigisfarne/Aspen.md": [
-            {
-                "text": "Aspen",
-                "url": "campaigns/Book_01/ep_035.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FeverSwamp/SmugglersTavern.md": [
-            {
-                "text": "tavern",
-                "url": "campaigns/Book_01/ep_035.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/FeverSwamp/DrownedOnes.md": [
             {
                 "text": "drowned people",
                 "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_040.md": [
+            {
+                "text": "Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Indigo",
+                "url": "directory/Deverain/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rushd",
+                "url": "directory/Sigisfarne/RushdIbnUbada.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Daegal",
+                "url": "directory/Sigisfarne/Daegal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Chapter Master Tarmac ",
+                "url": "directory/Sigisfarne/Tarmac.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Daegal.md": [
+            {
+                "text": "Daegal",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/Tarmac.md": [
+            {
+                "text": "Chapter Master Tarmac ",
+                "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

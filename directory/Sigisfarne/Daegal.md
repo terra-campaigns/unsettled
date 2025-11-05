@@ -1,18 +1,14 @@
 ---
 layout: default
 template: 0.4
-type: location
+type: people
 nav_exclude: false
-hook_exclude: false
-has_children: false
-has_toc: false
 
-parent: Fever Swamp
-title: Smuggler's Copse
-role: Tavern
-status:
-
-hooks:
+parent: Sigisfarne
+title: Daegal
+role: Prowler, The Seeker
+status: 
+flavour: 
 
 images:
 
@@ -25,5 +21,6 @@ images:
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
+
 {% endcomment %}
 

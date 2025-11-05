@@ -1,15 +1,15 @@
 ---
 layout: default
 template: 0.4
-type: location
+type: people
 nav_exclude: false
 hook_exclude: false
 has_children: false
 has_toc: false
 
 parent: Fever Swamp
-title: Smuggler's Copse
-role: Tavern
+title: Thresh
+role: Fieldwarden
 status:
 
 hooks:
