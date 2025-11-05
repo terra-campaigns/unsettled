@@ -1391,7 +1391,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "RabbitI's Inn",
+                "text": "Rabbit's Inn",
                 "url": "campaigns/Book_01/ep_039.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1664,6 +1664,13 @@
         ],
         "directory/DuskmeadowFringe/PiotChant.md": [
             {
+                "text": "Prof Dr Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Theron",
                 "url": "directory/Wyrmbark/Theron.md",
                 "is_internal": true,
@@ -1747,6 +1754,58 @@
             {
                 "text": "humanoids",
                 "url": "campaigns/Book_01/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Deverain/Gary.md": [
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lorenz",
+                "url": "directory/DuskmeadowFringe/Lorenz.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Western Swamp",
+                "url": "directory/FeverSwamp/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/Kaldhur/BurningTree.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/Wyrmbark/Basajaun.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
+                "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
+                "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2548,46 +2607,6 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Deverain/Gary.md": [
-            {
-                "text": "Lorenz",
-                "url": "directory/DuskmeadowFringe/Lorenz.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Western Swamp",
-                "url": "directory/FeverSwamp/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Prof Dr Gary",
-                "url": "directory/Wyrmbark/Basajaun.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Gary",
-                "url": "campaigns/Book_01/ep_039.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Gary",
-                "url": "campaigns/Book_01/ep_040.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Gary",
-                "url": "campaigns/Book_01/ep_040.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/FeverSwamp/index.md": [
             {
                 "text": "Western Swamp",
@@ -3338,6 +3357,13 @@
             }
         ],
         "directory/Kaldhur/BurningTree.md": [
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
             {
                 "text": "Rabbit's Inn",
                 "url": "directory/DuskmeadowFringe/RabbitInn.md",
@@ -4626,15 +4652,15 @@
                 "favicon": null
             },
             {
-                "text": "Big Ford",
-                "url": "directory/Wyrmbark/ElderWay.md",
+                "text": "Prof Dr Gary",
+                "url": "directory/Deverain/Gary.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Prof Dr Gary",
-                "url": "directory/Deverain/Gary.md",
+                "text": "Big Ford",
+                "url": "directory/Wyrmbark/ElderWay.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -6291,7 +6317,7 @@
                 "favicon": null
             },
             {
-                "text": "RabbitI's Inn",
+                "text": "Rabbit's Inn",
                 "url": "directory/DuskmeadowFringe/RabbitInn.md",
                 "is_internal": true,
                 "direction": "outbound",
