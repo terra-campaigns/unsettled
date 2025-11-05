@@ -28,11 +28,22 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ---
 {% endcomment %}
 
+## Scientific Inquiry and Journaling
+
+> by [Prof Dr Gary](../Deverain/Gary.md)
+
+
+![](../../imgs/gallery/Pasted%20image%2020251105204009.png)
+
+---
+
+
 The tree has no leaves, and its inside burns like golden melted rock.
-Inside it there are seven tiny golden bells, tied to the internal walls.
+Inside, there are seven tiny golden bells, tied to the internal walls.
 They chime like another bell, inside the barn of the [Rabbit's Inn](../DuskmeadowFringe/RabbitInn.md).
-Beside the tree, there are a few round rocks, and a worn hat lies in the ground.
+Beside the tree, there are a few round rocks, and a worn hat lies on the ground.
 In the vicinity of the tree, one hour into the tree line of the nearby woods, a lost waystation.
+
 
 ## Cartwheel hat
 

@@ -24,6 +24,16 @@ footer_content: Inspired by Nobboc's text on The Merry Mushmen's <a href="https:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
+## Scientific Inquiry and Journaling
+
+> by [Prof Dr Gary](../Deverain/Gary.md)
+
+![](../../imgs/gallery/Pasted%20image%2020251105204234.png)
+
+![](../../imgs/gallery/Pasted%20image%2020251105204243.png)
+
+---
+
 Nocturnal 1-2’ tall imps, looking like scrawny humans
 except for a long snout and two mole-like incisors. They
 use insect claws and shells to make weapons and armour.

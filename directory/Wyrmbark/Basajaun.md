@@ -22,20 +22,11 @@ images:
 [Artea](Artea.md)
 {% endcomment %}
 
-3m giant, from the legends of the Hairy Druids of the Big Ford.
-
-- Loves tricks and laughter—may lure you to a cliff just for the joy of it.
-- It will protect sheep and shepherds, chasing off wolves or warning of avalanches.
-- Breaks into cabins, eats your stew, drinks your wine, and takes your clothes—if you stay still.
-- Kidnaps human brides, treats them tenderly, mourns his dead children, and guards his domain with fury.
-- Senses intruders instantly—his knowledge of his land is uncanny and complete.
-- His body may give rise to oak trees, suggesting he returns to the earth in death.
-- Violent yet protective, joyful yet tragic, he is a force of nature with fur and mind.
-- Cursed a mountain village northwest of the [Big Ford](ElderWay.md) for producing beyond their needs.
-
-## Scientific Inquiry
+## Scientific Inquiry and Journaling
 
 > by [Prof Dr Gary](../Deverain/Gary.md)
+
+![](../../imgs/gallery/Pasted%20image%2020251105204141.png)
 
 1: what the skulls on his necklace are from
 From the villagers in the Northern mountains (between Fort Duhrin and the Druid Monastery), who were producing too much.
@@ -61,3 +52,16 @@ That humans just take too much.
 8: How do animals/plants talk (like do they have large vocabulary or not)?
 They are able to communicate simple concepts. Not with phrases like people do. It is more like music.
 
+
+---
+
+3m giant, from the legends of the Hairy Druids of the Big Ford.
+
+- Loves tricks and laughter—may lure you to a cliff just for the joy of it.
+- It will protect sheep and shepherds, chasing off wolves or warning of avalanches.
+- Breaks into cabins, eats your stew, drinks your wine, and takes your clothes—if you stay still.
+- Kidnaps human brides, treats them tenderly, mourns his dead children, and guards his domain with fury.
+- Senses intruders instantly—his knowledge of his land is uncanny and complete.
+- His body may give rise to oak trees, suggesting he returns to the earth in death.
+- Violent yet protective, joyful yet tragic, he is a force of nature with fur and mind.
+- Cursed a mountain village northwest of the [Big Ford](ElderWay.md) for producing beyond their needs.
