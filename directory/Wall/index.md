@@ -15,8 +15,7 @@ hooks:
 - There might be uncharted tunnels through the wall.
 
 images:
-- 
-
+- ../../imgs/gallery/Pasted%20image%2020251106135017.png
 ---
 
 {% include header_directories.md %}
