@@ -44,6 +44,7 @@ They chime like another bell, inside the barn of the [Rabbit's Inn](../Duskmeado
 Beside the tree, there are a few round rocks, and a worn hat lies on the ground.
 In the vicinity of the tree, one hour into the tree line of the nearby woods, a lost waystation.
 
+According to the [Grandfather of the Farmers](../Wyrmbark/Basajaun.md), the Tree is one of the beacons of the [Witch of Nevask](WitchNevask.md).
 
 ## Cartwheel hat
 
