@@ -37,6 +37,44 @@ name
   Valen 
   Vero 
 
+surname
+  Ashenroot
+  Hearthwick
+  Brackenlow
+  Tallowmere
+  Fenholt
+  Underbriar
+  Woldridge
+  Croftman
+  Barrowe
+  Hindle
+  Grieve
+  Mournfell
+  Quickfen
+  Sablemark
+  Crowder
+  Whist
+  Lammel
+  Hearthorne
+  Verrin
+  Ealdred
+  Thaneveil
+  Aelfwim
+  Ubadar
+  Prynn
+  Hallowmere
+  Veynar
+  Griscombe
+  Wealdin
+  Seroth
+  Myrren
+  Bright-Teeth
+  Thornbarrow
+  Virel
+  Tarnholt
+  Eldewane
+  Caldoran
+  Vexley
 
 who1
   Abandoned Squire — but aiding went astray.
@@ -343,6 +381,7 @@ thing
   Children’s toy
   Chisel
   Cloak
+  Clothing, basic
   Clothing, costume
   Clothing, fine
   Cooking pot
@@ -426,7 +465,7 @@ thing
   Wine
 
 $output
-  name = [name]
+  name = [name] [surname]
   bgname = Treasure Hunter from the Gauntlet Guild
   blurb = You were a [who1] You joined the Gauntlet and became a [who2]
   event1 = <b>What treasure have you found that still has a single use?</b><br>[artefact]

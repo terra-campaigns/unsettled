@@ -4,6 +4,7 @@ dfour = {1-4}
 dtwenty = {1-20}
 
 gauntlet = {import:dj6o7ktp3u}
+cairn1e = {import:chargedrpg-cairn}
 
 bondtxt
   [if (b=="Fieldwarden"||(b=="Outrider"&&addbnd==1)) {bnd=2,""} else {bnd=1,""}]<b>Bond: </b>[bond][if (bnd==2) {"<br><br>Your background grants you a second bond: " + [bond]} else {""}]
@@ -307,14 +308,51 @@ background
       Insect Plague. Your home is nearly inhabitable due to a surge in aggressive dragonfly-like insects. These insect seem to be the source of a new affliction that took the live of a family member.
       Curse. A Bog Witch cursed you: "Walk soft, for the mire loves you now - your steps sink, never sound". You leave no trace or sound when walking, but your feet always sink slightly when walking on soil. You left the bog to find a solution to this curse.
     equip = Oil can (6 uses)<br>Stained pole (d6)<br>Woven Reed Sandals (petty)<br>Bog moss bandages (3 uses)
+    
+  Wakeguard
+    bgname = Wakeguard
+    blurb = You keep watch when all are asleep. Bound to never speak of what you encounter, you keep the Alps at bay so that the helpless may wake each day anew.
+    name
+      Nath
+      Ovide
+      Hoffmann
+      Jung
+      Sand
+      Ernst
+      Somnus
+    event1 = <b>What nightmare did you face that you can never speak of?</b><br> [b.event1tbl]
+    event1tbl
+      Chased by a ghastly mare. Horses detest you but you can gallop like one (Add a fatigue each time).
+      Hugged by a hag. Your skin is covered in ugly warts (+1 armour).
+      Tricked by a drowsy goblin. Your teeth were replaced with sharp fangs (1d6). 
+      Stumbled into a bottomless hole and fell for a long time. Take a bag of sand that is a Gravity Shift Spellbook. Gravity Shift: You can change the direction of gravity, but only for yourself.
+      Transfigured by a protean dream. Your eyes wandered to the palms of your hands. Take a black veil for your eyeless face.
+      Robbed by a hair demon. You are completely hairless. Your skin reflects light like a mirror. 
+    event2 = <b>What helps you dispel nocturnal horrors?</b><br> [b.event2tbl]
+    event2tbl
+      Brass Bell (3 uses). Disperses any incorporeal entity, smoke or fog when rung. Melts after the third use.
+      Incense Thurible (1 charge). Emits sweet and heavy smoke for 24 hours. Recharge: Fill with the ashes of someone whose aspirations you knew.
+      Papaver Seeds Pouch (6 uses). Ingest to avoid panicking and restore 1 HP (caution: very addictive!).
+      Oneirological  Encyclopedia. A heavy tome made from humanoid leather. Contains hints towards the meaning of dreams from A to ZZZ.
+      Sacrificial Goat (1 use). Ritually slaughter this goat to break any curse or spell.  White Goat 2 HP, 5 STR, 9 DEX, 1 WIL.
+      Absorbing Skin. You can consume spirits. Gain 1d6 STR and lose equal WIL when you do.
+    equip = 3 Paper Lanterns<br>Sandglass (petty)<br>Lullaby Music Box (petty)<br>Blowgun (d6)
 
-  Gauntlet ^2
+  Gauntlet ^20
     bgname = [gauntlet.bgname]
     blurb = [gauntlet.blurb]
     name = [gauntlet.name]
     event1 = [gauntlet.event1]
     event2 = [gauntlet.event2]
     equip = [gauntlet.equip]
+
+  Expeditioners ^20
+    bgname = [cairn1e.bgname]
+    blurb = [cairn1e.blurb]
+    name = [cairn1e.name]
+    event1 = [cairn1e.event1]
+    event2 = [cairn1e.event2]
+    equip = [cairn1e.equip]  
 
 physique
   athletic
