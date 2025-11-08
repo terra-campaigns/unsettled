@@ -11,6 +11,7 @@ status:
 hooks: 
 
 images: 
+- ../../imgs/gallery/Pasted%20image%2020251107203342.png
 
 ---
 
@@ -33,6 +34,8 @@ Pipeweed - Your good luck charm. Conversations tend to flow more easily after a 
 
 Take Cyrus’s place at the Earthen Council. You wear a Gravel Ring (petty) forged from pebbles and soil. When placed against stone, faint voices argue in chorus.
 
-Big Ford Druidic Monastery of the Elder Way.
-They are hairy.
+**Big Ford Druidic Monastery of the Elder Way.**
+[They](ElderWay.md) are hairy.
 They are good with farming. Legend say they learned directly from the [Basajaun](Basajaun.md).
+
+**Artea seems to hear to people's spirits.**

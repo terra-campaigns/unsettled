@@ -11,6 +11,7 @@ status:
 flavour: 
 
 images:
+- ../../imgs/gallery/Pasted%20image%2020251107203158.png
 
 ---
 

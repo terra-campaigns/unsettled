@@ -287,6 +287,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Mother",
+                "url": "directory/SerpentQueen/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Church of the Weeping Mother",
                 "url": "gazetteer/Gravenmark.md",
                 "is_internal": true,
@@ -331,6 +337,12 @@
             {
                 "text": "Weeping Mother",
                 "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "campaigns/Book_01/ep_041.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1022,6 +1034,12 @@
                 "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Hunter's Cabin",
+                "url": "campaigns/Book_01/ep_041.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_005.md": [
@@ -1262,6 +1280,13 @@
                 "favicon": null
             },
             {
+                "text": "They",
+                "url": "directory/Wyrmbark/ElderWay.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Basajaun",
                 "url": "directory/Wyrmbark/Basajaun.md",
                 "is_internal": true,
@@ -1295,6 +1320,12 @@
             {
                 "text": "Artea",
                 "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
+                "url": "campaigns/Book_01/ep_041.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1618,6 +1649,12 @@
             },
             {
                 "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_041.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1806,6 +1843,12 @@
             {
                 "text": "Gary",
                 "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dr Gary",
+                "url": "campaigns/Book_01/ep_041.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2329,6 +2372,12 @@
                 "favicon": null
             },
             {
+                "text": "They",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Big Ford",
                 "url": "directory/Wyrmbark/Basajaun.md",
                 "is_internal": true,
@@ -2710,6 +2759,12 @@
             {
                 "text": "Ambaret",
                 "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ambaret",
+                "url": "directory/SerpentQueen/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3266,8 +3321,20 @@
                 "favicon": null
             },
             {
+                "text": "Witch of Nevask",
+                "url": "directory/Kaldhur/BurningTree.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "woman",
                 "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Witch of Nevask",
+                "url": "campaigns/Book_01/ep_041.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3327,6 +3394,12 @@
                 "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Kaldhur",
+                "url": "campaigns/Book_01/ep_041.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Kaldhur/FortDuhrin.md": [
@@ -3354,6 +3427,12 @@
                 "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Fort Duhrin",
+                "url": "campaigns/Book_01/ep_041.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Kaldhur/BurningTree.md": [
@@ -3372,6 +3451,20 @@
                 "favicon": null
             },
             {
+                "text": "Grandfather of the Farmers",
+                "url": "directory/Wyrmbark/Basajaun.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Witch of Nevask",
+                "url": "directory/Kaldhur/WitchNevask.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "burning tree",
                 "url": "campaigns/Book_01/ep_039.md",
                 "is_internal": true,
@@ -3380,6 +3473,59 @@
             {
                 "text": "immense tree, burning inside",
                 "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Wyrmbark/Basajaun.md": [
+            {
+                "text": "Grandfather of the Farmers",
+                "url": "directory/Kaldhur/BurningTree.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Basajaun",
+                "url": "directory/Wyrmbark/ElderWay.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Basajaun",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Big Ford",
+                "url": "directory/Wyrmbark/ElderWay.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Basajaun",
+                "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Basajauns",
+                "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3822,6 +3968,12 @@
             {
                 "text": "Ayrrin",
                 "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ayrrin",
+                "url": "campaigns/Book_01/ep_041.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4603,112 +4755,42 @@
                 "direction": "inbound"
             }
         ],
-        "directory/FeverSwamp/Jebbo.md": [
+        "directory/SerpentQueen/index.md": [
             {
-                "text": "Mountain Court",
-                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "text": "Mother",
+                "url": "directory/weepingMother/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Jock",
-                "url": "directory/DuskmeadowFringe/Jock.md",
+                "text": "Gravenmark",
+                "url": "gazetteer/Gravenmark.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Jebbo",
-                "url": "campaigns/Book_01/ep_037.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Jebbo",
-                "url": "campaigns/Book_01/ep_036.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Wyrmbark/Basajaun.md": [
-            {
-                "text": "Basajaun",
-                "url": "directory/Wyrmbark/ElderWay.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Basajaun",
-                "url": "directory/Wyrmbark/Artea.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Artea",
-                "url": "directory/Wyrmbark/Artea.md",
+                "text": "Ambaret",
+                "url": "directory/Ambaret/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Prof Dr Gary",
-                "url": "directory/Deverain/Gary.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Big Ford",
-                "url": "directory/Wyrmbark/ElderWay.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Basajaun",
-                "url": "campaigns/Book_01/ep_039.md",
+                "text": "old belief in the South",
+                "url": "campaigns/Book_01/ep_041.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Basajauns",
-                "url": "campaigns/Book_01/ep_025.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/README.md": [
-            {
-                "text": "Testing your GitHub Pages site locally with Jekyll",
-                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://docs.github.com/favicon.ico"
-            },
-            {
-                "text": "instructions for macOS",
-                "url": "https://jekyllrb.com/docs/installation/macos/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://jekyllrb.com/favicon.ico"
-            },
-            {
-                "text": "Dark Super Pastels",
-                "url": "https://www.pastelcolorpalettes.com/dark-super-pastels",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://www.pastelcolorpalettes.com/favicon.ico"
-            },
-            {
-                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
-                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://docs.github.com/favicon.ico"
             }
         ],
         "gazetteer/Gravenmark.md": [
+            {
+                "text": "Gravenmark",
+                "url": "directory/SerpentQueen/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "Ambaret",
                 "url": "directory/Ambaret/index.md",
@@ -4777,6 +4859,64 @@
                 "url": "campaigns/Book_01/ep_037.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/Jebbo.md": [
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jock",
+                "url": "directory/DuskmeadowFringe/Jock.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jebbo",
+                "url": "campaigns/Book_01/ep_037.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Jebbo",
+                "url": "campaigns/Book_01/ep_036.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/README.md": [
+            {
+                "text": "Testing your GitHub Pages site locally with Jekyll",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            },
+            {
+                "text": "instructions for macOS",
+                "url": "https://jekyllrb.com/docs/installation/macos/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://jekyllrb.com/favicon.ico"
+            },
+            {
+                "text": "Dark Super Pastels",
+                "url": "https://www.pastelcolorpalettes.com/dark-super-pastels",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.pastelcolorpalettes.com/favicon.ico"
+            },
+            {
+                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
             }
         ],
         "directory/Kryptwood/index.md": [
@@ -6336,6 +6476,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "a group of adventurers",
+                "url": "campaigns/Book_01/ep_041.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Wall/index.md": [
@@ -6868,6 +7014,12 @@
             },
             {
                 "text": "Oswin",
+                "url": "campaigns/Book_01/ep_041.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Oswin",
                 "url": "campaigns/Book_01/ep_030.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -7135,16 +7287,37 @@
                 "favicon": null
             },
             {
+                "text": "robed figure",
+                "url": "directory/Wall/WallPriest.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Chapter Master Tarmac ",
                 "url": "directory/Sigisfarne/Tarmac.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "an unexpected adventure",
+                "url": "campaigns/Book_01/ep_041.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/Daegal.md": [
             {
                 "text": "Daegal",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Wall/WallPriest.md": [
+            {
+                "text": "robed figure",
                 "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -7328,6 +7501,114 @@
             {
                 "text": "Farkas",
                 "url": "campaigns/Book_01/ep_024.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_041.md": [
+            {
+                "text": "a group of adventurers",
+                "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fort Duhrin",
+                "url": "directory/Kaldhur/FortDuhrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dr Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "an unexpected adventure",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ayrrin",
+                "url": "directory/Sigisfarne/Ayrrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Oswin",
+                "url": "directory/Sigisfarne/Oswin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hunter's Cabin",
+                "url": "directory/DuskmeadowFringe/HuntersCabin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kaldhur",
+                "url": "directory/Kaldhur/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "old belief in the South",
+                "url": "directory/SerpentQueen/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Church of the Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kormoran\u2019s Wheel",
+                "url": "directory/KormoransWheel/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Witch of Nevask",
+                "url": "directory/Kaldhur/WitchNevask.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/KormoransWheel/index.md": [
+            {
+                "text": "Kormoran\u2019s Wheel",
+                "url": "campaigns/Book_01/ep_041.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

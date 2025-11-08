@@ -13,6 +13,7 @@ role:
 status:
 
 hooks:
+- Echanor, a soft-spoken priestess trained under Mother Niavka at Fort Duhrin, hunted the Witch for years without success
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020251031181408.png
@@ -40,3 +41,4 @@ But now that you know her myth, you also become marked by her - she will come to
 The multitude of small copper bells that hang from the witch’s hut are said to have been cast in cities all across the world, each with a unique tone and purpose.
 Some have never been heard to make a sound—and perhaps that’s for the best.
 
+Echanor, a soft-spoken priestess trained under Mother Niavka at Fort Duhrin, hunted the Witch for years without success.

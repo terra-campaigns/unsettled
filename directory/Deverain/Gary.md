@@ -40,8 +40,14 @@ Bond: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Yo
 Gary is [Lorenz](../DuskmeadowFringe/Lorenz.md)'s far uncle.
 He has lost his arm in the [Western Swamp](../FeverSwamp/index.md).
 
-## Carries the Blue Steel Sword (d8)
+## Carries
+
+### Blue Steel Sword (d8)
 
 - When hitting a foe, can read its memories (3 charges)
 
 ![](../../imgs/gallery/Pasted%20image%2020251106183124.png)
+
+### Amulet
+
+![](../../imgs/gallery/Pasted%20image%2020251107200951.png)
