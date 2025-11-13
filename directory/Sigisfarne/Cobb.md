@@ -32,6 +32,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ![](../../imgs/gallery/Pasted%20image%2020251016152628.png)
 
+Human (late 30s), Short black beard, maroon brigandine. _Military affairs, sword fighting, calligraphy._ Desires to unite the human race and let it prosper in the lands of unsettled. Fears that the fey are inherrently evil and thus cannot be trusted.
+
 Cobb, the field warden, has been around the area of Sigisfarn for some time now.
 Protecting the peasantry, scaring thieves, just your general fieldwardenry.
 But a large fire has burned down large parts of his family farm.

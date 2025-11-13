@@ -634,6 +634,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/TheThornless.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "early June 1025",
                 "url": "campaigns/Book_01/ep_023.md",
                 "is_internal": true,
@@ -1818,6 +1824,30 @@
             },
             {
                 "text": "Prof Dr Gary",
+                "url": "directory/Wall/TheEyeless.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/Wall/BlueMen.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/FoldedBelow/SpiderPeople.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/FoldedBelow/GreenWitches.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prof Dr Gary",
                 "url": "directory/Kaldhur/BurningTree.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2787,6 +2817,36 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Wall/TheEyeless.md": [
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "robed figure",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Wall/BlueMen.md": [
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "savage creatures",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Perdut/Nyx.md": [
             {
                 "text": "Piot Chant",
@@ -2810,6 +2870,57 @@
             {
                 "text": "Nyx",
                 "url": "campaigns/Book_01/ep_034.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/SpiderPeople.md": [
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "SpiderPeople",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anttaurs",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "spider people",
+                "url": "campaigns/Book_01/ep_029.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anttaurs",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "creatures with eight legs and human torsos",
+                "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spider People",
+                "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "spider people",
+                "url": "campaigns/Book_01/ep_030.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3099,52 +3210,15 @@
                 "direction": "inbound"
             },
             {
+                "text": "Prof Dr Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "giggly alien creatures",
                 "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/SpiderPeople.md": [
-            {
-                "text": "SpiderPeople",
-                "url": "directory/FoldedBelow/YellowSmoke.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anttaurs",
-                "url": "campaigns/Book_01/ep_027.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "spider people",
-                "url": "campaigns/Book_01/ep_029.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anttaurs",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "creatures with eight legs and human torsos",
-                "url": "campaigns/Book_01/ep_008.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Spider People",
-                "url": "campaigns/Book_01/ep_031.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "spider people",
-                "url": "campaigns/Book_01/ep_030.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4443,6 +4517,15 @@
                 "url": "campaigns/Book_01/ep_020.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/TheThornless.md": [
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/Kryptwood/AelfwinEstate.md": [
@@ -7287,8 +7370,15 @@
                 "favicon": null
             },
             {
+                "text": "savage creatures",
+                "url": "directory/Wall/BlueMen.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "robed figure",
-                "url": "directory/Wall/WallPriest.md",
+                "url": "directory/Wall/TheEyeless.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -7310,14 +7400,6 @@
         "directory/Sigisfarne/Daegal.md": [
             {
                 "text": "Daegal",
-                "url": "campaigns/Book_01/ep_040.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Wall/WallPriest.md": [
-            {
-                "text": "robed figure",
                 "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"

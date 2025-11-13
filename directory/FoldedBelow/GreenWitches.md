@@ -22,3 +22,9 @@ footer_content: Inspired by Johnstone Metzger's <a href="https://www.drivethrurp
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
+
+## Scientific Inquiry and Journaling
+
+> by [Prof Dr Gary](../Deverain/Gary.md)
+
+![](../../imgs/gallery/Pasted%20image%2020251112134240.png)

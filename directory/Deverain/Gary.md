@@ -40,6 +40,8 @@ Bond: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Yo
 Gary is [Lorenz](../DuskmeadowFringe/Lorenz.md)'s far uncle.
 He has lost his arm in the [Western Swamp](../FeverSwamp/index.md).
 
+Gary was a profesor in biology, until he wanted to show the inner workings of the human by operating on one of his students...
+
 ## Carries
 
 ### Blue Steel Sword (d8)
@@ -47,6 +49,8 @@ He has lost his arm in the [Western Swamp](../FeverSwamp/index.md).
 - When hitting a foe, can read its memories (3 charges)
 
 ![](../../imgs/gallery/Pasted%20image%2020251106183124.png)
+
+Your experiment shows that if you stimulate a specific memory, the subject will remember a false memory related to that. So it is not random, but it is false.
 
 ### Amulet
 

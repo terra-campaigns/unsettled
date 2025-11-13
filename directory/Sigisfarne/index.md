@@ -11,6 +11,7 @@ title: Sigisfarne
 role: Grassland Village
 status: 
 hooks:
+- Migrant families - a group of three families arrived in Sigisfarne in Nov-Acorn. They fled their familial villages in the north after cultists came and started killing their people. You hear that amongst them, at least 10 people were killed.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020250406091305.png

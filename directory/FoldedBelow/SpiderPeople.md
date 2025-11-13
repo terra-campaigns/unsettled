@@ -5,8 +5,8 @@ type: creature
 nav_exclude: false
 
 parent: Duskmeadow Fringe
-title: Spider People
-role: Anttaurs Mercenaries
+title: Dryder
+role: Spider People, Anttaurs Mercenaries
 status:
 
 hooks:
@@ -27,3 +27,9 @@ footer_content: Inspired by Johnstone Metzger's <a href="https://www.drivethrurp
 - Chest height, light in weight
 - Bodies are weak to corrosive substances, like chalk.
 - Very resistant to fire.
+
+# Scientific Inquiry and Journaling
+
+> by [Prof Dr Gary](../Deverain/Gary.md)
+
+![](../../imgs/gallery/20251107_114500.jpg)

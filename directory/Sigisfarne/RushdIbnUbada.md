@@ -23,7 +23,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ```
 ---
 
-STR 10 >
+STR 10 > 
 DEX 3 >
 WIL 11 >
 
@@ -35,24 +35,28 @@ GP 133
 **Inventory**
 
 1. Rations (1)
-2. Torches (1)
+2. Torches (3)
 3. Tarp
 4. Boiled Leather Armour
 5. Short sword (d6) - 1-in-4, it is stuck in the next enemy
 6. Spring-loaded trap
 7. Hardening glue (3)
-8. Torches (3)
-9. Coins
-10. 
+8. Coins
+9. Sticky Rope: 120m that can stick to any surface. If one cannot recover the stuck part, sacrifice 10m of the rope to retrieve it.
 
 **Petty items**
 
-- Poisoned needles (2)
+- Poisoned needles (1)
+- Note to Serg Ante—letter of order to patrol this area and establish a foothold for the empire. Set up a base of operations. Signed by the Nilfenberg Emperor.
 
 **Home in Sigisfarne**
 
 - Fish (12)
-- Rations (3)
+- Rations (1)
+
+**In the boat**
+
+- Bundle with 8 bombs
 
 {% endcomment %}
 
