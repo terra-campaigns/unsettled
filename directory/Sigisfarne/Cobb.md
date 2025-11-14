@@ -40,3 +40,9 @@ But a large fire has burned down large parts of his family farm.
 With rumours about the unholy mole pest in the west. He decided it would be time to field an expedition to rid the world of this vermin.
 
 Named Champion of the [Mountain Court](../DuskmeadowFringe/MountainCourt.md) by [Jock](../DuskmeadowFringe/Jock.md).
+
+After [the 13th November](../../campaigns/Book_01/ep_043.md), Cobb wakes up in cold sweats each night, sensing the presence of chaos and fey around him. He sees two images. 
+
+The first image of an [elven woman, that at first seems like a figure of utmost beauty](../DuskmeadowFringe/TheHunger.md). Pale silver skin, slender figure, long golden hair a long blue revealing robe. But her face is gravely distorted and melevolent. Rows of jarring teeth, her eyes covered by an unholy hood. Her hands sporting razor sharp nails.
+
+The second image of a [cathedral like building](../FoldedBelow/UndergroundTemple.md), men, women and children are entering in their most finest of clothes. But alas, it is burning, the flames mock Cobb and he is grappled by a set of chains. He feels the chains heat up as more and more people enter the building. He can see Jebbo, TJ, Baron, and others entering the flaming cathedral as it collapsed on them all.

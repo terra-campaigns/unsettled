@@ -1809,6 +1809,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Garriout",
+                "url": "directory/DuskmeadowFringe/Lorenz.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Lorenz",
                 "url": "directory/DuskmeadowFringe/Lorenz.md",
                 "is_internal": true,
@@ -2266,6 +2272,13 @@
             {
                 "text": "Jock",
                 "url": "directory/DuskmeadowFringe/Jock.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Garriout",
+                "url": "directory/Deverain/Gary.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3288,6 +3301,12 @@
                 "favicon": null
             },
             {
+                "text": "cathedral like building",
+                "url": "directory/Sigisfarne/Cobb.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "underground temple",
                 "url": "campaigns/Book_01/ep_003.md",
                 "is_internal": true,
@@ -3977,8 +3996,69 @@
                 "favicon": null
             },
             {
+                "text": "the 13th November",
+                "url": "campaigns/Book_01/ep_043.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "elven woman, that at first seems like a figure of utmost beauty",
+                "url": "directory/DuskmeadowFringe/TheHunger.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "cathedral like building",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "General Cobb",
+                "url": "directory/Kryptwood/TheThornless.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Cobb",
                 "url": "campaigns/Book_01/ep_037.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_043.md": [
+            {
+                "text": "the 13th November",
+                "url": "directory/Sigisfarne/Cobb.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/TheHunger.md": [
+            {
+                "text": "elven woman, that at first seems like a figure of utmost beauty",
+                "url": "directory/Sigisfarne/Cobb.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hunger",
+                "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "tall skeletal figure",
+                "url": "campaigns/Book_01/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "giant skeletal figure of darkness",
+                "url": "campaigns/Book_01/ep_030.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4523,6 +4603,13 @@
             {
                 "text": "Hendenburgh",
                 "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "General Cobb",
+                "url": "directory/Sigisfarne/Cobb.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5888,26 +5975,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/DuskmeadowFringe/TheHunger.md": [
-            {
-                "text": "Hunger",
-                "url": "campaigns/Book_01/ep_016.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "tall skeletal figure",
-                "url": "campaigns/Book_01/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "giant skeletal figure of darkness",
-                "url": "campaigns/Book_01/ep_030.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_022.md": [
