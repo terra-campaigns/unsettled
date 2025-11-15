@@ -30,7 +30,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 A land draped in rot and memory,  
 where moss-fed ruins whisper beneath the fog.
 
-The bones of a dead civilisation jut from hillsides and riverbeds —
+The bones of a dead civilisation jut from hillsides and riverbeds —  
 arches half-sunken, towers halved by time, their makers forgotten.
 
 ## Regions
@@ -43,6 +43,10 @@ arches half-sunken, towers halved by time, their makers forgotten.
 - [Kaldhur](../directory/Kaldhur/index.md) Forest, beyond the Wall
 - [Kryptwood](../directory/Kryptwood/index.md) Forest
 - Druidic lands of the [Wyrmbark](../directory/Wyrmbark/index.md)
+
+## Religion
+
+[The Church of the Weeping Mother](../directory/weepingMother/index.md)
 
 ## Ambaretian Calendar
 
