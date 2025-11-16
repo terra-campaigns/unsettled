@@ -39,3 +39,10 @@ Take Cyrus’s place at the Earthen Council. You wear a Gravel Ring (petty) forg
 They are good with farming. Legend say they learned directly from the [Basajaun](Basajaun.md).
 
 **Artea seems to hear to people's spirits.**
+
+## Carries a cursed teddy bear
+
+Artea takes the burden of carrying a cursed toy from the daughter of the stablemen in [Fort Duhrin](../Kaldhur/FortDuhrin.md).
+The toy supposedly speaks two words: *[Geese](../../campaigns/Book_01/ep_044.md)* and *[Nevask](../Kaldhur/WitchNevask.md)*.
+They say the toy can only be given to someone who agrees to take it.
+And that it must be done before it learns to walk.

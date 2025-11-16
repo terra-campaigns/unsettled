@@ -293,6 +293,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "The Church of the Weeping Mother",
+                "url": "gazetteer/Gravenmark.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Church of the Weeping Mother",
                 "url": "gazetteer/Gravenmark.md",
                 "is_internal": true,
@@ -1300,6 +1306,27 @@
                 "favicon": null
             },
             {
+                "text": "Fort Duhrin",
+                "url": "directory/Kaldhur/FortDuhrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Geese",
+                "url": "campaigns/Book_01/ep_044.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nevask",
+                "url": "directory/Kaldhur/WitchNevask.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Artea",
                 "url": "directory/Wyrmbark/Basajaun.md",
                 "is_internal": true,
@@ -1326,6 +1353,12 @@
             {
                 "text": "Artea",
                 "url": "campaigns/Book_01/ep_036.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
+                "url": "campaigns/Book_01/ep_044.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1638,6 +1671,12 @@
             {
                 "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_015.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/ep_044.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3450,6 +3489,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Nevask",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "woman",
                 "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
@@ -3513,6 +3558,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "northern forests",
+                "url": "campaigns/Book_01/ep_044.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Kaldhur",
                 "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
@@ -3532,6 +3583,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Fort Duhrin",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Fort Duhrin",
@@ -3827,6 +3884,12 @@
             {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_015.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_044.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4187,6 +4250,12 @@
             {
                 "text": "Ayrrin",
                 "url": "campaigns/Book_01/ep_031.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ayrrin",
+                "url": "campaigns/Book_01/ep_044.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -5101,6 +5170,13 @@
                 "favicon": null
             },
             {
+                "text": "The Church of the Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Church of the Weeping Mother",
                 "url": "directory/weepingMother/index.md",
                 "is_internal": true,
@@ -5146,6 +5222,70 @@
                 "url": "campaigns/Book_01/ep_043.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_044.md": [
+            {
+                "text": "Geese",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ayrrin",
+                "url": "directory/Sigisfarne/Ayrrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aspen",
+                "url": "directory/Sigisfarne/Aspen.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "northern forests",
+                "url": "directory/Kaldhur/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kormoran's Wheel",
+                "url": "directory/KormoransWheel/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dick Dale",
+                "url": "directory/Wyrmbark/Dick.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "_site/README.md": [
@@ -5607,6 +5747,12 @@
             {
                 "text": "Aspen",
                 "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aspen",
+                "url": "campaigns/Book_01/ep_044.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -7307,6 +7453,28 @@
                 "direction": "inbound"
             }
         ],
+        "directory/KormoransWheel/index.md": [
+            {
+                "text": "Kormoran's Wheel",
+                "url": "campaigns/Book_01/ep_044.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kormoran\u2019s Wheel",
+                "url": "campaigns/Book_01/ep_041.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Wyrmbark/Dick.md": [
+            {
+                "text": "Dick Dale",
+                "url": "campaigns/Book_01/ep_044.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/Book_01/ep_021.md": [
             {
                 "text": "Indigo",
@@ -7884,14 +8052,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/KormoransWheel/index.md": [
-            {
-                "text": "Kormoran\u2019s Wheel",
-                "url": "campaigns/Book_01/ep_041.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_010.md": [
