@@ -19,6 +19,11 @@ images:
 {% include header_directories.md %}
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
+- _Mirror World_: Everything seemed okay at first, but now you are sure of it, the world
+
+inside the mirror is different. The side glances, the shifting of places, it is undeniable. When you first start to notice, roll 2d6. If the total is higher than your max HP, take the new result.
+
+- _Criss-Cross Meat Sauce:_ Legs cross while standing, sitting, or walking. Yet you find that this is more efficient than your standard posture. Add d4 to DEX.
 {% endcomment %}
 
 > You owe an outstanding debt to a member of the nobility and carry their Signet Ring, which serves as proof of their protection and your obligation. This ring was stolen.

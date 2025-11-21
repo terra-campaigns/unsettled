@@ -23,6 +23,9 @@ images:
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
+- _Memories of an Unknown Traveler:_ These memories are not your own. They are of a
+
+different time, a different place, from a perspective so unlike your own. The realities they walk through are so alien and different, their feelings so foreign. If only you could understand what they experienced. During your next rest, roll 2d6. If the total is higher than your max HP, take the new result.
 {% endcomment %}
 
 Barber-Surgeon: You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lie within. With the right tools, life and death are merely words. 

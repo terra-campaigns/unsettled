@@ -10,7 +10,7 @@ has_toc: false
 parent: Fever Swamp
 title: Jebbo
 role: Bog-Walker
-status:
+status: Deceased
 
 hooks:
 
@@ -26,6 +26,9 @@ images:
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
+- _Magical Corruption_ (this can be taken multiple times per Investigator): Flesh is weak.
+
+A part of your body becomes visibly changed through your proximity to the weird. The Facilitator and Investigator should decide on how that change manifests, if it has any mechanical impacts.
 {% endcomment %}
 
 Raised among the mist-choked fens, you know the secrets of peat, reeds, and sucking mud. Where others see only treacherous bogs, you see a world of possibilities. Some may even whisper that the marsh runs in your blood.

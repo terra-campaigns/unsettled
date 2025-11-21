@@ -28,3 +28,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ---
 {% endcomment %}
 
+## Scientific Inquiry and Journaling
+
+> by [Prof Dr Gary](../Deverain/Gary.md)
+
+![](../../imgs/gallery/Pasted%20image%2020251119144807.png)

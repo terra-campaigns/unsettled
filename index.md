@@ -188,6 +188,7 @@ Roll 2d6 for beasts and d10+d20 for intelligent beings to see what they are doin
 - [Open Hooks](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#hooks)
 - [TTRPG system & chargen](https://terra-campaigns.github.io/unsettled/#system)  
 - [Owlbear Rodeo](https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled)
+- [Shared Notes](https://docs.google.com/document/d/1jjI_qiUby7wYvsP3XnxxTKmSl9aD0w1vZKz8eSQj01c/edit?usp=sharing)
 - [unsettling playlist](https://open.spotify.com/playlist/05GGUNeQ64RRxHiU2XWlef?si=b33716d53e4146d1)
 **Notes**:  
 Meaningful [downtime and domain play](https://discord.com/channels/1060840338777964565/1399765457992679534) happens through PBP between sessions. The scope is driven by player choice ahead of planned sessions.

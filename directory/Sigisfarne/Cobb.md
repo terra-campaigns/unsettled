@@ -10,7 +10,7 @@ has_toc: false
 parent: Sigisfarne
 title: General Cobb
 role: Field Warden, Champion of the Mountain Court
-status:
+status: Deceased
 
 hooks:
 
@@ -26,6 +26,9 @@ images:
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
+- _Plagued by Nightmares_: It comes for you every night, without fail. You do not know if
+
+they are from the beginning, or the end. All you know is that they won’t stop, and that they must mean something. After a week of nightmares, tell your Facilitator two distinct images that linger at the edge of your remembering.
 {% endcomment %}
 
 > The name is Cobb, but friends call me Cobert. 
