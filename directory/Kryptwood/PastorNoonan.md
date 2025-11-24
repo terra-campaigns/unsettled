@@ -33,3 +33,6 @@ Lazlo's conversation with the pastor:
 > I reassure him that whatever called the hounds, it wasn't his lack of faith. If anything, it was likely the villagers fears and worries that called them, and simple as they are, they saw a scapegoat in him. I gently remind him that such tests of faith are frequently described in many religious texts, including the mother's, which I expect he remembers. And that many such tests are hard if not seemingly impossible for the common man to withstand. (Indicating I don't blame him for finding a coping mechanism.)
 
 - Restablished friendship with Lazlo.
+
+
+[Beatrix](../Deverain/Beatrix.md) donates to the church. Becomes friends with Noonan.

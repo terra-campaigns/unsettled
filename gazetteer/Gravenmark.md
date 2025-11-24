@@ -52,7 +52,7 @@ arches half-sunken, towers halved by time, their makers forgotten.
 
 |                                                                      |                                    |
 | -------------------------------------------------------------------- | ---------------------------------- |
-| **Jan-Feast**<br>Feasting                                            |                                    |
+| **Jan-Feast**<br>Feasting                                            | **Variable**: Parade of the First Snow                                   |
 | **Feb-Sit**<br>Sit by the fire and wait                              |                                    |
 | **Mar-Prune**<br>Pruning trees, digging                              |                                    |
 | **Apr-Garden**<br>Planting, enjoying the country or picking flowers  |                                    |

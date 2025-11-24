@@ -10,6 +10,9 @@ title: Bandit's Bath
 role: 
 status: 
 
+hooks:
+- Twice adventures were sent to Bath ruins, but none returned
+
 images:
 - ../../imgs/gallery/3_underground_heating.jpg
 

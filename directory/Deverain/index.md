@@ -56,7 +56,15 @@ the fort or bringing newly unearthed artefacts to Deverain.
 
 Sweet smell of the winery
 
-The Pipers set the western town ablaze in September 1025.
+The [Piper's Band](PipersBand.md) set the western town ablaze in September 1025.
 Farms are destroyed, and grains to be exported sink in the sea.
 
-Oct 25 Duque acts with violence against the revolutionaries of the region.
+In October 1025, the Duque commits acts of violence against the region's revolutionaries.
+
+In Nov-Acorns, refugees from Wellslode move into the marshland and squat there, as Deverain cannot house them.
+
+In Dec-Slaugther 1025, the crown sends a vessel and their Kingsguard to enforce the rule in the town.
+The Kingsguard is expanded by hiring local mercenaries.
+Revolutionaries and bandits alike flee and set up camp in the marshland to the west.
+
+
