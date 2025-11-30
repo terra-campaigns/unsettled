@@ -1390,6 +1390,12 @@
             },
             {
                 "text": "Artea",
+                "url": "campaigns/Book_01/ep_048.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
                 "url": "campaigns/Book_01/ep_044.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1968,6 +1974,12 @@
             {
                 "text": "Gary",
                 "url": "campaigns/Book_01/ep_043.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
+                "url": "campaigns/Book_01/ep_048.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2822,6 +2834,12 @@
             {
                 "text": "index",
                 "url": "campaigns/Book_01/ep_046.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/Book_01/ep_048.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3943,6 +3961,12 @@
             {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_019.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razvan",
+                "url": "campaigns/Book_01/ep_048.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -5943,6 +5967,12 @@
             },
             {
                 "text": "Aspen",
+                "url": "campaigns/Book_01/ep_048.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aspen",
                 "url": "campaigns/Book_01/ep_038.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -7087,6 +7117,91 @@
                 "favicon": null
             }
         ],
+        "campaigns/Book_01/ep_048.md": [
+            {
+                "text": "Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aspen",
+                "url": "directory/Sigisfarne/Aspen.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razvan",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dick",
+                "url": "directory/Wyrmbark/Dick.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/FeverSwamp/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Otter",
+                "url": "directory/FeverSwamp/Otter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Wyrmbark/Dick.md": [
+            {
+                "text": "Dick",
+                "url": "campaigns/Book_01/ep_048.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dick Dale",
+                "url": "campaigns/Book_01/ep_044.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/Otter.md": [
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_048.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/Book_01/ep_039.md": [
             {
                 "text": "Ayrrin",
@@ -7374,20 +7489,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/FeverSwamp/Otter.md": [
-            {
-                "text": "Otter",
-                "url": "campaigns/Book_01/ep_038.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Otter",
-                "url": "campaigns/Book_01/ep_035.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/FeverSwamp/Guy.md": [
@@ -7723,14 +7824,6 @@
             {
                 "text": "Kormoran\u2019s Wheel",
                 "url": "campaigns/Book_01/ep_041.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Wyrmbark/Dick.md": [
-            {
-                "text": "Dick Dale",
-                "url": "campaigns/Book_01/ep_044.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

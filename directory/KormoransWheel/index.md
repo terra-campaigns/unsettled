@@ -12,7 +12,6 @@ role: Ramshakle village and market
 status: 
 
 hooks:
-- Missing youth
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020251108090805.png
