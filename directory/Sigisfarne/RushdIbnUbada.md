@@ -7,7 +7,7 @@ nav_exclude: false
 parent: Sigisfarne
 title: Rushd Ibn Ubada
 role: Prowler, The Seeker
-status: 
+status: Deceased
 flavour: 
 
 images:
@@ -27,22 +27,27 @@ STR 10 >
 DEX 3 >
 WIL 11 >
 
-A 1
+A 2
 HP 5 >
 
-GP 133
+GP 68
 
 **Inventory**
 
-1. Rations (1)
+1. Rations (2)
 2. Torches (3)
-3. Tarp
-4. Boiled Leather Armour
+3. Boiled Leather Armour (1 armour)
+4. Helmet (1 armour)
 5. Short sword (d6) - 1-in-4, it is stuck in the next enemy
-6. Spring-loaded trap
-7. Hardening glue (3)
-8. Coins
-9. Sticky Rope: 120m that can stick to any surface. If one cannot recover the stuck part, sacrifice 10m of the rope to retrieve it.
+6. Sticky Rope: 120m that can stick to any surface. If one cannot recover the stuck part, sacrifice 10m of the rope to retrieve it.
+7. Pole (3m)
+
+
+**Cart**
+
+1. Spring-loaded trap
+2. Tarp
+3. Hardening glue (3)
 
 **Petty items**
 
@@ -52,7 +57,7 @@ GP 133
 **Home in Sigisfarne**
 
 - Fish (12)
-- Rations (1)
+- Harberd (d10)
 
 **In the boat**
 

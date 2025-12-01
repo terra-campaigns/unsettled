@@ -4187,6 +4187,12 @@
             },
             {
                 "text": "Stone",
+                "url": "campaigns/Book_01/ep_049.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
                 "url": "campaigns/Book_01/ep_014.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4447,6 +4453,12 @@
             {
                 "text": "Rushd",
                 "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rushd",
+                "url": "campaigns/Book_01/ep_049.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -7774,6 +7786,144 @@
                 "favicon": null
             }
         ],
+        "campaigns/Book_01/ep_049.md": [
+            {
+                "text": "index",
+                "url": "directory/KAW/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "old report",
+                "url": "campaigns/Book_01/ep_045.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rushd",
+                "url": "directory/Sigisfarne/RushdIbnUbada.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ElisioThaneveil",
+                "url": "directory/KAW/ElisioThaneveil.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "SarehTallowmere",
+                "url": "directory/KAW/SarehTallowmere.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Leth",
+                "url": "directory/KAW/Leth.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Stone",
+                "url": "directory/Sigisfarne/Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/KAW/index.md": [
+            {
+                "text": "index",
+                "url": "campaigns/Book_01/ep_049.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/Book_01/ep_045.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_045.md": [
+            {
+                "text": "old report",
+                "url": "campaigns/Book_01/ep_049.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/KAW/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rumoured location of the legendary sorcerer king's tomb",
+                "url": "directory/TombOfHorrors/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cobert",
+                "url": "directory/Sigisfarne/Cobb.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jebbo",
+                "url": "directory/FeverSwamp/Jebbo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ElisioThaneveil",
+                "url": "directory/KAW/ElisioThaneveil.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/KAW/ElisioThaneveil.md": [
+            {
+                "text": "ElisioThaneveil",
+                "url": "campaigns/Book_01/ep_049.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ElisioThaneveil",
+                "url": "campaigns/Book_01/ep_045.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/KAW/SarehTallowmere.md": [
+            {
+                "text": "SarehTallowmere",
+                "url": "campaigns/Book_01/ep_049.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/KAW/Leth.md": [
+            {
+                "text": "Leth",
+                "url": "campaigns/Book_01/ep_049.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/DuskmeadowFringe/Filakh.md": [
             {
                 "text": "cultist",
@@ -8692,29 +8842,6 @@
                 "url": "campaigns/Book_01/ep_014.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "campaigns/Book_01/ep_045.md": [
-            {
-                "text": "Rumoured location of the legendary sorcerer king's tomb",
-                "url": "directory/TombOfHorrors/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Cobert",
-                "url": "directory/Sigisfarne/Cobb.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Jebbo",
-                "url": "directory/FeverSwamp/Jebbo.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
             }
         ],
         "directory/TombOfHorrors/index.md": [

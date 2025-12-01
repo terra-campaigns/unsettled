@@ -15,7 +15,6 @@ footer_content:
 
 ![](https://i.imgur.com/U2TpsRv.png)
 
-
 In Sigisfarne’s stone, the silence stays,  
 Older than memory, older than praise.  
 {: .text-right }
