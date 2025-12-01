@@ -26,3 +26,4 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ---
 {% endcomment %}
 
+Deep in the tomb, a church like the ones of the [Weeping Mother](../weepingMother/index.md).

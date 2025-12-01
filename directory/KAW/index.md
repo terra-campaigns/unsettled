@@ -14,7 +14,6 @@ status:
 hooks:
 
 images:
-- ../../imgs/gallery/Pasted%20image%2020250918164921.png
 
 ---
 
@@ -23,3 +22,4 @@ images:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
+From [Ambaret](../Ambaret/index.md).
