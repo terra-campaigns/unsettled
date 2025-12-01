@@ -87,5 +87,3 @@ You were an **Enlightened Miner** — but paths collapsed. You joined the Gauntl
 You are stout with rosy skin and braided hair. You have a bony face and precise speech. You are dressed in frayed clothing. You are gregareous but also vain. You are 49 years old.
 
 **Bond**: Establish an estate in the Levasti countryside. You were gifted a Deed Scroll (petty) sealed with gold wax. The coordinates lead to a field of thorns and stones. Still, the name at the bottom is yours.
-
-![](../../imgs/gallery/Pasted%20image%2020251130232016.png)

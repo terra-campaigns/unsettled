@@ -21,7 +21,6 @@ armour:
 details:
 
 hooks: 
-- Stone's mind was visited by Snake Eyes, on their way to the Yellow Smoke caves.
 
 ---
 
