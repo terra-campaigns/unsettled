@@ -1,19 +1,19 @@
 ---
 layout: default
 template: 0.4
-type: location
+type: creature
 nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: Directory
-title: Tomb of Horrors
-role: Rumoured location of the legendary sorcerer king's tomb
+parent: Tomb of Horrors
+title: Gargoyle
+role: Stone Monster
 status: 
 hooks:
 
 images:
-- ../../imgs/gallery/Pasted%20image%2020251201124856.png
+- ../../imgs/gallery/Pasted%20image%2020251201125109.png
 
 ---
 
@@ -26,6 +26,4 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ---
 {% endcomment %}
 
-Deep in the tomb, a church like the ones of the [Weeping Mother](../weepingMother/index.md).
-
-![](../../imgs/gallery/Pasted%20image%2020251201124924.png)
+![](../../imgs/gallery/Pasted%20image%2020251201125034.png)

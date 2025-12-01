@@ -7877,6 +7877,13 @@
                 "favicon": null
             },
             {
+                "text": "Gargoyle",
+                "url": "directory/TombOfHorrors/Gargoyle.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "SarehTallowmere",
                 "url": "directory/KAW/SarehTallowmere.md",
                 "is_internal": true,
@@ -7951,6 +7958,14 @@
             {
                 "text": "ElisioThaneveil",
                 "url": "campaigns/Book_01/ep_045.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/TombOfHorrors/Gargoyle.md": [
+            {
+                "text": "Gargoyle",
+                "url": "campaigns/Book_01/ep_049.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
