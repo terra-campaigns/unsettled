@@ -75,3 +75,7 @@ GP 68
 
 Scarred and broken body.
 Someone who has suffered.
+
+Funeral was organised by [Daegal](Daegal.md) in December.
+
+> To Rushd. I didn't know 'im much, but he was a fine bloke. May the Mother permit you all the rest and luxuries you could want.

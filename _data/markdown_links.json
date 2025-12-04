@@ -4472,6 +4472,13 @@
                 "favicon": null
             },
             {
+                "text": "Daegal",
+                "url": "directory/Sigisfarne/Daegal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "RushdIbnUbada",
                 "url": "campaigns/Book_01/ep_042.md",
                 "is_internal": true,
@@ -4516,6 +4523,20 @@
             {
                 "text": "RushdIbnUbada",
                 "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/Daegal.md": [
+            {
+                "text": "Daegal",
+                "url": "directory/Sigisfarne/RushdIbnUbada.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Daegal",
+                "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -8317,14 +8338,6 @@
             {
                 "text": "an unexpected adventure",
                 "url": "campaigns/Book_01/ep_041.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Sigisfarne/Daegal.md": [
-            {
-                "text": "Daegal",
-                "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
