@@ -7,13 +7,15 @@ has_toc: false
 has_children: true
 
 parent: Kryptwood
-title: Villa Ruins
-role: 
+title: Van der Wouden
+role: Villa, abandoned in the forest
 status: 
 
 hooks:
+- Strange masks
 
 images: 
+- ../../imgs/gallery/Pasted%20image%2020251204182949.png
 
 ---
 
@@ -25,3 +27,20 @@ images:
 Close to [Hendenburgh](Hendenburgh.md).
 The Lord family was killed by the [Tyrant](TyrantsTomb.md) and his hounds.
 Currently property of the Duke of [Deverain](../Deverain/index.md).
+
+[Beatrix](../Deverain/Beatrix.md) does not know how to read, but she has a keen sense for official documents.
+And also a sixth sense for finding them.
+The original occupants of this villa left their documents in one of the offices, inside a book.
+And Beatrix found them.
+
+She also found a document signed by the Lord of this villa, in accord with the Duque of [Deverain](../Deverain/index.md), in which he left the property to his daughter.
+
+They are a family of lower nobility (when compared to the bigger and luxurious houses).
+There were four people in the main house (based on the number of bedrooms and closets).
+Three were adults, and one was a child.
+For each adult, a strange mask is hidden deep in the clothes drawers.
+
+Their names:
+- Fietje, Victor and Achim are the adults.
+- Helge is the daughter.
+- Their surname is van der Wouden.

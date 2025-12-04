@@ -2984,6 +2984,12 @@
             },
             {
                 "text": "Deverain",
+                "url": "directory/Kryptwood/Villa-vd-Wouden.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Deverain",
                 "url": "directory/Kryptwood/VillaRuins.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4958,6 +4964,42 @@
                 "favicon": null
             }
         ],
+        "directory/Kryptwood/Villa-vd-Wouden.md": [
+            {
+                "text": "Beatrix",
+                "url": "directory/Deverain/Beatrix.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Deverain",
+                "url": "directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Deverain/Beatrix.md": [
+            {
+                "text": "Beatrix",
+                "url": "directory/Kryptwood/Villa-vd-Wouden.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Beatrix",
+                "url": "directory/Kryptwood/PastorNoonan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Beatrix",
+                "url": "campaigns/Book_01/ep_047.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Kryptwood/AelfwinEstate.md": [
             {
                 "text": "Harald",
@@ -5319,20 +5361,6 @@
             {
                 "text": "Tyrant's Tomb",
                 "url": "campaigns/Book_01/ep_024.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Deverain/Beatrix.md": [
-            {
-                "text": "Beatrix",
-                "url": "directory/Kryptwood/PastorNoonan.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Beatrix",
-                "url": "campaigns/Book_01/ep_047.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

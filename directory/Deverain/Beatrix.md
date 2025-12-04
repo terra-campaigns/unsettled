@@ -9,7 +9,7 @@ has_toc: false
 
 parent: Deverain
 title: Beatrix Wightman
-role: Thief
+role: Thief, a.k.a. Beatrice van der Wouden
 status:
 
 hooks:
