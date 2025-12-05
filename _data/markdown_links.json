@@ -4542,6 +4542,12 @@
             },
             {
                 "text": "Daegal",
+                "url": "directory/Kryptwood/VillaRuins.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Daegal",
                 "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -5306,6 +5312,13 @@
             {
                 "text": "Deverain",
                 "url": "directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Daegal",
+                "url": "directory/Sigisfarne/Daegal.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
