@@ -2062,6 +2062,12 @@
             },
             {
                 "text": "Gary",
+                "url": "campaigns/Book_01/ep_043.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
                 "url": "campaigns/Book_01/ep_048.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4372,6 +4378,13 @@
             {
                 "text": "Jebbo",
                 "url": "directory/FeverSwamp/Jebbo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gary",
+                "url": "directory/Deverain/Gary.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
