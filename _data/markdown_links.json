@@ -219,6 +219,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/Book_01/ep_051.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/Book_01/ep_045.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1479,6 +1485,12 @@
             },
             {
                 "text": "Artea",
+                "url": "campaigns/Book_01/ep_051.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
                 "url": "campaigns/Book_01/ep_041.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2057,6 +2069,12 @@
             {
                 "text": "Gary",
                 "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
+                "url": "campaigns/Book_01/ep_050.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2873,6 +2891,12 @@
             {
                 "text": "Sisters",
                 "url": "directory/Kryptwood/PastorNoonan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "the Sisters",
+                "url": "directory/Ambaret/ObehaAshenroot.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4178,6 +4202,12 @@
             },
             {
                 "text": "Stone",
+                "url": "directory/Sigisfarne/Pebble.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
                 "url": "campaigns/Book_01/ep_017.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4874,6 +4904,27 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Pebble.md": [
+            {
+                "text": "Stone",
+                "url": "directory/Sigisfarne/Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pebble",
+                "url": "campaigns/Book_01/ep_050.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pebble",
+                "url": "campaigns/Book_01/ep_051.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/Hackett.md": [
@@ -5623,8 +5674,29 @@
                 "direction": "inbound"
             },
             {
+                "text": "index",
+                "url": "campaigns/Book_01/ep_051.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Rumoured location of the legendary sorcerer king's tomb",
                 "url": "campaigns/Book_01/ep_045.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Ambaret/ObehaAshenroot.md": [
+            {
+                "text": "the Sisters",
+                "url": "directory/weepingMother/theSisters.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Obeha Ashenroot",
+                "url": "campaigns/Book_01/ep_050.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -7447,6 +7519,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "index",
+                "url": "campaigns/Book_01/ep_050.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "wall",
                 "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
@@ -8028,6 +8106,12 @@
                 "url": "campaigns/Book_01/ep_049.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Gargoyle",
+                "url": "campaigns/Book_01/ep_051.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/KAW/SarehTallowmere.md": [
@@ -8231,6 +8315,36 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/Book_01/ep_050.md": [
+            {
+                "text": "index",
+                "url": "directory/Wall/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Obeha Ashenroot",
+                "url": "directory/Ambaret/ObehaAshenroot.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pebble",
+                "url": "directory/Sigisfarne/Pebble.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "campaigns/Book_01/ep_035.md": [
             {
                 "text": "Soren",
@@ -8385,6 +8499,73 @@
             {
                 "text": "Chapter Master Tarmac ",
                 "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_051.md": [
+            {
+                "text": "index",
+                "url": "directory/KAW/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/TombOfHorrors/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gargoyle",
+                "url": "directory/TombOfHorrors/Gargoyle.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hester",
+                "url": "directory/KAW/Hester.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pebble",
+                "url": "directory/Sigisfarne/Pebble.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Seren",
+                "url": "directory/KAW/Seren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/KAW/Hester.md": [
+            {
+                "text": "Hester",
+                "url": "campaigns/Book_01/ep_051.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/KAW/Seren.md": [
+            {
+                "text": "Seren",
+                "url": "campaigns/Book_01/ep_051.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
