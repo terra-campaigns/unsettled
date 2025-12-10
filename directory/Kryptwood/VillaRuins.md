@@ -25,8 +25,8 @@ images:
 {% endcomment %}
 
 Close to [Hendenburgh](Hendenburgh.md).
-The Lord family was killed by the [Tyrant](TyrantsTomb.md) and his hounds.
-Currently property of the Duke of [Deverain](../Deverain/index.md).
+The Tyrant and his hounds killed the Lord family.
+Currently, the property of the Duke of [Deverain](../Deverain/index.md).
 
 [Beatrix](../Deverain/Beatrix.md) does not know how to read, but she has a keen sense for official documents.
 And also a sixth sense for finding them.
@@ -47,4 +47,5 @@ Their names:
 
 ## Pavasarii
 
-[Daegal](../Sigisfarne/Daegal.md) is setting up a Pavasarii corp in the villa.
+[Daegal](../Sigisfarne/Daegal.md) is setting up a Pavasarii Hall in the villa.
+The Pavasarii Hall already has an antagonistic faction: [Jock](../DuskmeadowFringe/Jock.md), his men, and the [Mountain Court](../DuskmeadowFringe/MountainCourt.md).

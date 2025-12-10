@@ -213,6 +213,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/Book_01/ep_052.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/Book_01/ep_049.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -652,6 +658,12 @@
             },
             {
                 "text": "Mountain Court",
+                "url": "directory/Kryptwood/VillaRuins.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
                 "url": "directory/FeverSwamp/Jebbo.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -877,6 +889,12 @@
             {
                 "text": "Jock",
                 "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Jock",
+                "url": "directory/Kryptwood/VillaRuins.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1432,6 +1450,12 @@
             {
                 "text": "Artea",
                 "url": "directory/Wyrmbark/Basajaun.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
+                "url": "campaigns/Book_01/ep_052.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2061,7 +2085,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "Gary",
+                "text": "Prof Dr Gary",
                 "url": "campaigns/Book_01/ep_043.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4383,7 +4407,7 @@
                 "favicon": null
             },
             {
-                "text": "Gary",
+                "text": "Prof Dr Gary",
                 "url": "directory/Deverain/Gary.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -5353,13 +5377,6 @@
                 "favicon": null
             },
             {
-                "text": "Tyrant",
-                "url": "directory/Kryptwood/TyrantsTomb.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
                 "text": "Deverain",
                 "url": "directory/Deverain/index.md",
                 "is_internal": true,
@@ -5386,38 +5403,20 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Kryptwood/TyrantsTomb.md": [
-            {
-                "text": "Tyrant",
-                "url": "directory/Kryptwood/VillaRuins.md",
-                "is_internal": true,
-                "direction": "inbound"
             },
             {
-                "text": "Tyrant's Tomb",
-                "url": "campaigns/Book_01/ep_023.md",
+                "text": "Jock",
+                "url": "directory/DuskmeadowFringe/Jock.md",
                 "is_internal": true,
-                "direction": "inbound"
+                "direction": "outbound",
+                "favicon": null
             },
             {
-                "text": "Tyrant's Tomb",
-                "url": "campaigns/Book_01/ep_022.md",
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
                 "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Tyrant's Tomb",
-                "url": "campaigns/Book_01/ep_025.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Tyrant's Tomb",
-                "url": "campaigns/Book_01/ep_024.md",
-                "is_internal": true,
-                "direction": "inbound"
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/Deverain/Beatrix.md": [
@@ -5682,6 +5681,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/Book_01/ep_052.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/Book_01/ep_049.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -5920,6 +5925,95 @@
             {
                 "text": "flock of crows",
                 "url": "campaigns/Book_01/ep_016.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_052.md": [
+            {
+                "text": "index",
+                "url": "directory/KAW/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/TombOfHorrors/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Oswin",
+                "url": "directory/Sigisfarne/Oswin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dick",
+                "url": "directory/Wyrmbark/Dick.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Sigisfarne/Oswin.md": [
+            {
+                "text": "Oswin",
+                "url": "campaigns/Book_01/ep_052.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Oswin",
+                "url": "campaigns/Book_01/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Oswin",
+                "url": "campaigns/Book_01/ep_015.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Oswin",
+                "url": "campaigns/Book_01/ep_041.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Oswin",
+                "url": "campaigns/Book_01/ep_030.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Wyrmbark/Dick.md": [
+            {
+                "text": "Dick",
+                "url": "campaigns/Book_01/ep_052.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dick",
+                "url": "campaigns/Book_01/ep_048.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dick Dale",
+                "url": "campaigns/Book_01/ep_044.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -6464,6 +6558,32 @@
             {
                 "text": "Varg",
                 "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Kryptwood/TyrantsTomb.md": [
+            {
+                "text": "Tyrant's Tomb",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tyrant's Tomb",
+                "url": "campaigns/Book_01/ep_022.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tyrant's Tomb",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tyrant's Tomb",
+                "url": "campaigns/Book_01/ep_024.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -7379,20 +7499,6 @@
                 "favicon": null
             }
         ],
-        "directory/Wyrmbark/Dick.md": [
-            {
-                "text": "Dick",
-                "url": "campaigns/Book_01/ep_048.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Dick Dale",
-                "url": "campaigns/Book_01/ep_044.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/FeverSwamp/Otter.md": [
             {
                 "text": "Otter",
@@ -8152,32 +8258,6 @@
             },
             {
                 "text": "followers of Filakh",
-                "url": "campaigns/Book_01/ep_030.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Sigisfarne/Oswin.md": [
-            {
-                "text": "Oswin",
-                "url": "campaigns/Book_01/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Oswin",
-                "url": "campaigns/Book_01/ep_015.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Oswin",
-                "url": "campaigns/Book_01/ep_041.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Oswin",
                 "url": "campaigns/Book_01/ep_030.md",
                 "is_internal": true,
                 "direction": "inbound"
