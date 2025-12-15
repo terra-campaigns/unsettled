@@ -7,7 +7,7 @@ nav_exclude: false
 parent: Ambaret
 title: Obeha Ashenroot
 role: Treasure Hunter from the Gauntlet Guild, Defrocked Priest of the Sisters, Bodyguard
-status: 
+status: Deceased
 flavour: 
 
 images:

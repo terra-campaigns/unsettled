@@ -219,6 +219,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/Book_01/ep_053.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/Book_01/ep_049.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2797,6 +2803,12 @@
             },
             {
                 "text": "Indigo",
+                "url": "campaigns/Book_01/ep_053.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Indigo",
                 "url": "campaigns/Book_01/ep_026.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2995,6 +3007,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Baron Von Betr\u00fcger",
+                "url": "campaigns/Book_01/ep_052.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "The Baron",
@@ -5687,6 +5705,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/Book_01/ep_053.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/Book_01/ep_049.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -5711,6 +5735,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "ObehaAshenroot",
+                "url": "campaigns/Book_01/ep_053.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Obeha Ashenroot",
@@ -5959,11 +5989,17 @@
                 "favicon": null
             },
             {
-                "text": "Dick",
-                "url": "directory/Wyrmbark/Dick.md",
+                "text": "Baron Von Betr\u00fcger",
+                "url": "directory/Deverain/BaronVonBetr\u00fcger.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "previously",
+                "url": "campaigns/Book_01/ep_053.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Sigisfarne/Oswin.md": [
@@ -5994,26 +6030,6 @@
             {
                 "text": "Oswin",
                 "url": "campaigns/Book_01/ep_030.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Wyrmbark/Dick.md": [
-            {
-                "text": "Dick",
-                "url": "campaigns/Book_01/ep_052.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Dick",
-                "url": "campaigns/Book_01/ep_048.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Dick Dale",
-                "url": "campaigns/Book_01/ep_044.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -6953,6 +6969,85 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "campaigns/Book_01/ep_053.md": [
+            {
+                "text": "index",
+                "url": "directory/KAW/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/TombOfHorrors/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "previously",
+                "url": "campaigns/Book_01/ep_052.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Indigo",
+                "url": "directory/Deverain/Indigo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dick",
+                "url": "directory/Wyrmbark/Dick.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ObehaAshenroot",
+                "url": "directory/Ambaret/ObehaAshenroot.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Brunhilda",
+                "url": "directory/KAW/Brunhilda.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Wyrmbark/Dick.md": [
+            {
+                "text": "Dick",
+                "url": "campaigns/Book_01/ep_053.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dick",
+                "url": "campaigns/Book_01/ep_048.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dick Dale",
+                "url": "campaigns/Book_01/ep_044.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/KAW/Brunhilda.md": [
+            {
+                "text": "Brunhilda",
+                "url": "campaigns/Book_01/ep_053.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_002.md": [

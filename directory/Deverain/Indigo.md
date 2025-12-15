@@ -7,7 +7,7 @@ nav_exclude: false
 parent: Deverain
 title: Uncle Indigo
 role: Mountebank
-status: 
+status: Deceased
 
 hooks:
 
