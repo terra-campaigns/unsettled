@@ -15,6 +15,7 @@ hooks:
 - Wax doppelgangers live in the village.
 
 images:
+- ../../imgs/gallery/Pasted%20image%2020251217162430.png
 
 ---
 
