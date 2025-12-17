@@ -310,6 +310,12 @@
             },
             {
                 "text": "Lazlo",
+                "url": "directory/DuskmeadowFringe/LordGriffin.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lazlo",
                 "url": "directory/Kryptwood/PastorNoonan.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -943,6 +949,13 @@
                 "direction": "inbound"
             },
             {
+                "text": "Lazlo",
+                "url": "directory/DuskmeadowFringe/Lazlo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Lord Griffin",
                 "url": "directory/Sigisfarne/index.md",
                 "is_internal": true,
@@ -983,6 +996,13 @@
             {
                 "text": "turning travellers into rabbits",
                 "url": "campaigns/Book_01/ep_015.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hippareiones",
+                "url": "directory/FoldedBelow/Hippareiones.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1080,6 +1100,56 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "directory/FoldedBelow/Hippareiones.md": [
+            {
+                "text": "Hippareiones",
+                "url": "directory/DuskmeadowFringe/HornedKnight.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hippareiones",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hippareiones",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hippareiones",
+                "url": "campaigns/Book_01/ep_023.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Insect-Centaurs",
+                "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "insect-centaurs",
+                "url": "campaigns/Book_01/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hippareiones",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "insect centaurs",
+                "url": "campaigns/Book_01/ep_010.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/Queensweald.md": [
@@ -2110,6 +2180,12 @@
             },
             {
                 "text": "Gary",
+                "url": "campaigns/Book_01/ep_054.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
                 "url": "campaigns/Book_01/ep_050.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3101,6 +3177,12 @@
                 "url": "campaigns/Book_01/ep_018.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Deverain",
+                "url": "campaigns/Book_01/ep_054.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Deverain/PipersBand.md": [
@@ -3354,50 +3436,6 @@
             {
                 "text": "furrykins",
                 "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/Hippareiones.md": [
-            {
-                "text": "Hippareiones",
-                "url": "directory/FoldedBelow/YellowSmoke.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hippareiones",
-                "url": "directory/FoldedBelow/UndergroundTemple.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hippareiones",
-                "url": "campaigns/Book_01/ep_023.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Insect-Centaurs",
-                "url": "campaigns/Book_01/ep_026.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "insect-centaurs",
-                "url": "campaigns/Book_01/ep_009.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Hippareiones",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "insect centaurs",
-                "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4102,6 +4140,12 @@
             {
                 "text": "Razvan",
                 "url": "campaigns/Book_01/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_054.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -5737,7 +5781,7 @@
                 "favicon": null
             },
             {
-                "text": "ObehaAshenroot",
+                "text": "Obeha Ashenroot",
                 "url": "campaigns/Book_01/ep_053.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -7008,7 +7052,7 @@
                 "favicon": null
             },
             {
-                "text": "ObehaAshenroot",
+                "text": "Obeha Ashenroot",
                 "url": "directory/Ambaret/ObehaAshenroot.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -7032,6 +7076,12 @@
             {
                 "text": "Dick",
                 "url": "campaigns/Book_01/ep_048.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dick",
+                "url": "campaigns/Book_01/ep_054.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -8354,6 +8404,51 @@
             {
                 "text": "followers of Filakh",
                 "url": "campaigns/Book_01/ep_030.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_054.md": [
+            {
+                "text": "Wellslode",
+                "url": "directory/DuskmeadowFringe/Wellslode.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Deverain",
+                "url": "directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dick",
+                "url": "directory/Wyrmbark/Dick.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/DuskmeadowFringe/Wellslode.md": [
+            {
+                "text": "Wellslode",
+                "url": "campaigns/Book_01/ep_054.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

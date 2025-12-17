@@ -40,3 +40,5 @@ Hooves for feet.
 Normally, always excited.
 
 He was friends with the fae creature that was [turning travellers into rabbits](../../campaigns/Book_01/ep_015.md).
+
+Goblins are still being taken by the [Hippareiones](../FoldedBelow/Hippareiones.md).

@@ -37,4 +37,4 @@ Follower of the [Weeping Mother](../weepingMother/index.md).
 Is a monk at the [Middle Waters Minster](../DuskmeadowFringe/MiddleWatersMinster.md).
 Friends of [Pastor Noonan](../Kryptwood/PastorNoonan.md)
 
-Grows to a half-giant.
+**Grows to a half-giant.**

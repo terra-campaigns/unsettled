@@ -42,3 +42,5 @@ Wearing it makes parlaying with the Fae easier. They will look at you with diffe
 [Drake](Drake.md) is as beautiful as Fae: his features become your ideal of beauty.
 
 Named Champion of the [Mountain Court](../DuskmeadowFringe/MountainCourt.md) by [Jock](../DuskmeadowFringe/Jock.md).
+
+Has a doppelganger living as her.

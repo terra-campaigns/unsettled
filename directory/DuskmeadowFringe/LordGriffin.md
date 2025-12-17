@@ -24,3 +24,5 @@ Has a thick skin, like a hide.
 Speaks slowly with a coarse voice.
 Has established a tax post by the river.
 The Church of the Weeping Mother priest is a kind supporter of him.
+
+Dislikes [Lazlo](Lazlo.md) and wants to silence him.

@@ -7,7 +7,7 @@ nav_exclude: false
 parent: Wyrmbark
 title: Dick Dale
 role: Rill Runner from Miserlou
-status: 
+status: Deceased
 hooks: 
 
 images: 
@@ -29,3 +29,5 @@ A man in his thirties, flabby, weathered with long hair. An elongated face, whis
 **Traits:** Carrying a stone flute ( can calm almost any river, and is a bodyguard.
 
 **Bond:** Mischievious Spirit. You consumed a mischievious spirit, that wreaks havoc on your insides, demanding to be taken home, deep in the woods. It occupies one slot but absorbs one Fatigue each day. It wants you alive ( for now ) 
+
+Dick has died, but his doppelganger still live and act as if it was him.

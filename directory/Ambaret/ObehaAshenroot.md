@@ -39,10 +39,11 @@ A 1
 3. Torches (3)
 4. Rations (3 uses)
 5. Rope 50ft
+6. Pickaxe (d6)
 
 **Petty items**
 
-- GP 46
+- Gold 16
 - Palette Knife (petty); oozes a slow rainbow oil and whispers blasphemies when you're asleep.
 - A sachet of dead leaves; crush it and sounds rise where none exist. (one use)
 
@@ -52,6 +53,7 @@ A 1
 - Skis
 - Hammock
 - Bottles, lead (6)
+- Gold 296+133
 
 {% endcomment %}
 

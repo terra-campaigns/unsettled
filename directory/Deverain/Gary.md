@@ -45,6 +45,8 @@ He has lost his arm in the [Western Swamp](../FeverSwamp/index.md).
 
 Gary was a profesor in biology, until he wanted to show the inner workings of the human by operating on one of his students...
 
+Has a doppelganger living as him.
+
 ## Carries
 
 ### Blue Steel Sword (d8)
