@@ -2344,6 +2344,18 @@
                 "direction": "inbound"
             },
             {
+                "text": "index",
+                "url": "campaigns/Book_01/ep_054.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/Book_01/ep_054.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Duskmeadow Fringe",
                 "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
@@ -3326,6 +3338,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/Book_01/ep_055.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3339,8 +3357,41 @@
                 "direction": "inbound"
             },
             {
+                "text": "Tarmac",
+                "url": "directory/Wall/FortDrugar.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Chapter Master Tarmac ",
                 "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Wall/FortDrugar.md": [
+            {
+                "text": "Tarmac",
+                "url": "directory/Sigisfarne/Tarmac.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "FortDrugar",
+                "url": "campaigns/Book_01/ep_050.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "FortDrugar",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "FortDrugar",
+                "url": "campaigns/Book_01/ep_055.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -8619,6 +8670,20 @@
                 "favicon": null
             },
             {
+                "text": "index",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Deverain",
                 "url": "directory/Deverain/index.md",
                 "is_internal": true,
@@ -8801,6 +8866,13 @@
                 "favicon": null
             },
             {
+                "text": "FortDrugar",
+                "url": "directory/Wall/FortDrugar.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Obeha Ashenroot",
                 "url": "directory/Ambaret/ObehaAshenroot.md",
                 "is_internal": true,
@@ -8902,6 +8974,20 @@
             }
         ],
         "campaigns/Book_01/ep_040.md": [
+            {
+                "text": "FortDrugar",
+                "url": "directory/Wall/FortDrugar.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Wall/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
             {
                 "text": "Gary",
                 "url": "directory/Deverain/Gary.md",
@@ -9531,6 +9617,13 @@
             {
                 "text": "Brunhilda",
                 "url": "directory/KAW/Brunhilda.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "FortDrugar",
+                "url": "directory/Wall/FortDrugar.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
