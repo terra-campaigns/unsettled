@@ -2095,6 +2095,13 @@
                 "favicon": null
             },
             {
+                "text": "Wellslode",
+                "url": "directory/DuskmeadowFringe/Wellslode.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Prof Dr Gary",
                 "url": "directory/Wall/TheEyeless.md",
                 "is_internal": true,
@@ -2139,6 +2146,12 @@
             {
                 "text": "Gary",
                 "url": "campaigns/Book_01/ep_042.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
+                "url": "campaigns/Book_01/ep_056.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2205,6 +2218,12 @@
             {
                 "text": "Dr Gary",
                 "url": "campaigns/Book_01/ep_041.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
+                "url": "campaigns/Book_01/ep_055.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3014,6 +3033,12 @@
             },
             {
                 "text": "the Sisters",
+                "url": "directory/Ambaret/Toram.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "the Sisters",
                 "url": "directory/Ambaret/ObehaAshenroot.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3046,6 +3071,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/Book_01/ep_056.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/Book_01/ep_046.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3065,6 +3096,20 @@
             {
                 "text": "Swamp",
                 "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Wellslode.md": [
+            {
+                "text": "Wellslode",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Wellslode",
+                "url": "campaigns/Book_01/ep_054.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3098,6 +3143,12 @@
             },
             {
                 "text": "BaronVonBetr\u00fcger",
+                "url": "campaigns/Book_01/ep_056.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "BaronVonBetr\u00fcger",
                 "url": "campaigns/Book_01/ep_043.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3105,6 +3156,12 @@
             {
                 "text": "Baron Von Betr\u00fcger",
                 "url": "campaigns/Book_01/ep_030.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "BaronVonBetr\u00fcger",
+                "url": "campaigns/Book_01/ep_055.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3218,6 +3275,71 @@
             },
             {
                 "text": "savage creatures",
+                "url": "campaigns/Book_01/ep_040.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Wall/index.md": [
+            {
+                "text": "Tarmac",
+                "url": "directory/Sigisfarne/Tarmac.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "the Wall",
+                "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "wall",
+                "url": "campaigns/Book_01/ep_029.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "wall",
+                "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/Book_01/ep_050.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "wall",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "wonder",
+                "url": "campaigns/Book_01/ep_025.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/Book_01/ep_055.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Sigisfarne/Tarmac.md": [
+            {
+                "text": "Tarmac",
+                "url": "directory/Wall/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Chapter Master Tarmac ",
                 "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -5742,6 +5864,12 @@
                 "favicon": null
             },
             {
+                "text": "KAW's excavation",
+                "url": "directory/Ambaret/Toram.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "index",
                 "url": "campaigns/Book_01/ep_052.md",
                 "is_internal": true,
@@ -5772,7 +5900,42 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Ambaret/Toram.md": [
+            {
+                "text": "the Sisters",
+                "url": "directory/weepingMother/theSisters.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Obeha Ashenroot",
+                "url": "directory/Ambaret/ObehaAshenroot.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "KAW's excavation",
+                "url": "directory/TombOfHorrors/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Toram",
+                "url": "campaigns/Book_01/ep_056.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Ambaret/ObehaAshenroot.md": [
+            {
+                "text": "Obeha Ashenroot",
+                "url": "directory/Ambaret/Toram.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "the Sisters",
                 "url": "directory/weepingMother/theSisters.md",
@@ -6326,6 +6489,12 @@
             },
             {
                 "text": "Aspen",
+                "url": "campaigns/Book_01/ep_056.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aspen",
                 "url": "campaigns/Book_01/ep_046.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -6473,6 +6642,91 @@
             {
                 "text": "deal",
                 "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_056.md": [
+            {
+                "text": "Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aspen",
+                "url": "directory/Sigisfarne/Aspen.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Toram",
+                "url": "directory/Ambaret/Toram.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "BaronVonBetr\u00fcger",
+                "url": "directory/Deverain/BaronVonBetr\u00fcger.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Slate",
+                "url": "directory/Ambaret/Slate.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/FeverSwamp/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Otter",
+                "url": "directory/FeverSwamp/Otter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Ambaret/Slate.md": [
+            {
+                "text": "Slate",
+                "url": "campaigns/Book_01/ep_056.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FeverSwamp/Otter.md": [
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_056.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_048.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_035.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -7098,6 +7352,12 @@
                 "url": "campaigns/Book_01/ep_053.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Brunhilda",
+                "url": "campaigns/Book_01/ep_055.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_002.md": [
@@ -7644,26 +7904,6 @@
                 "favicon": null
             }
         ],
-        "directory/FeverSwamp/Otter.md": [
-            {
-                "text": "Otter",
-                "url": "campaigns/Book_01/ep_048.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Otter",
-                "url": "campaigns/Book_01/ep_038.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Otter",
-                "url": "campaigns/Book_01/ep_035.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/Book_01/ep_039.md": [
             {
                 "text": "Ayrrin",
@@ -7759,44 +7999,6 @@
             {
                 "text": "a group of adventurers",
                 "url": "campaigns/Book_01/ep_041.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Wall/index.md": [
-            {
-                "text": "the Wall",
-                "url": "campaigns/Book_01/ep_039.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "wall",
-                "url": "campaigns/Book_01/ep_029.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "wall",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "campaigns/Book_01/ep_050.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "wall",
-                "url": "campaigns/Book_01/ep_025.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "wonder",
-                "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -8445,14 +8647,6 @@
                 "favicon": null
             }
         ],
-        "directory/DuskmeadowFringe/Wellslode.md": [
-            {
-                "text": "Wellslode",
-                "url": "campaigns/Book_01/ep_054.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/KormoransWheel/index.md": [
             {
                 "text": "Kormoran's Wheel",
@@ -8774,14 +8968,6 @@
             {
                 "text": "an unexpected adventure",
                 "url": "campaigns/Book_01/ep_041.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Sigisfarne/Tarmac.md": [
-            {
-                "text": "Chapter Master Tarmac ",
-                "url": "campaigns/Book_01/ep_040.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -9315,6 +9501,36 @@
             {
                 "text": "followers of Filakh",
                 "url": "directory/DuskmeadowFringe/Filakh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/Book_01/ep_055.md": [
+            {
+                "text": "index",
+                "url": "directory/Wall/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "BaronVonBetr\u00fcger",
+                "url": "directory/Deverain/BaronVonBetr\u00fcger.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Brunhilda",
+                "url": "directory/KAW/Brunhilda.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
