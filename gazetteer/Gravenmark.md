@@ -43,6 +43,7 @@ arches half-sunken, towers halved by time, their makers forgotten.
 - [Kaldhur](../directory/Kaldhur/index.md) Forest, beyond the Wall
 - [Kryptwood](../directory/Kryptwood/index.md) Forest
 - Druidic lands of the [Wyrmbark](../directory/Wyrmbark/index.md)
+- Sea of Salt in the South, Crystal Frontier after it
 
 ## Religion
 
