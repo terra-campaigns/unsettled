@@ -43,9 +43,12 @@ Bond: One of your ancestors wronged a Moss Witch, who cursed their bloodline. Yo
 Gary is [Lorenz](../DuskmeadowFringe/Lorenz.md)'s far uncle.
 He has lost his arm in the [Western Swamp](../FeverSwamp/index.md).
 
-Gary was a profesor in biology, until he wanted to show the inner workings of the human by operating on one of his students...
+Gary was a professor of biology, until he wanted to show the inner workings of the human body by operating on one of his students...
 
-Has a doppelganger living as him.
+## Waxmillian
+
+Waxmillian is a doppelganger living as Gary.
+He was found in [Wellslode](../DuskmeadowFringe/Wellslode.md).
 
 ## Carries
 
