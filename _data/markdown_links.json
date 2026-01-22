@@ -2151,12 +2151,6 @@
             },
             {
                 "text": "Gary",
-                "url": "campaigns/Book_01/ep_056.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Gary",
                 "url": "campaigns/Book_01/ep_046.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2188,6 +2182,12 @@
             {
                 "text": "Gary",
                 "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Gary",
+                "url": "campaigns/Book_01/ep_056_057.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2799,6 +2799,27 @@
                 "favicon": null
             },
             {
+                "text": "Bandits Bath",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "large robbed man",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "murks",
+                "url": "directory/FoldedBelow/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Galen and Theron",
                 "url": "directory/FoldedBelow/BanditsBath.md",
                 "is_internal": true,
@@ -2813,6 +2834,222 @@
             {
                 "text": "Galen and Theron",
                 "url": "campaigns/Brigandage/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/BanditsBath.md": [
+            {
+                "text": "Bandits Bath",
+                "url": "directory/DuskmeadowFringe/GalenTheron.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Bandits Bath",
+                "url": "directory/Deverain/Basil.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Bandits Bath",
+                "url": "directory/Deverain/Wilmot.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Bugbears",
+                "url": "directory/FoldedBelow/Bugbears.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Galen and Theron",
+                "url": "directory/DuskmeadowFringe/GalenTheron.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "aberration",
+                "url": "directory/FoldedBelow/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "grotesque",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "abandoned bath",
+                "url": "campaigns/Brigandage/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Bath",
+                "url": "campaigns/Brigandage/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ruined bathhouse",
+                "url": "campaigns/Brigandage/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/ChaosChampion.md": [
+            {
+                "text": "large robbed man",
+                "url": "directory/DuskmeadowFringe/GalenTheron.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "large robbed man",
+                "url": "directory/Deverain/Basil.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "large robbed man",
+                "url": "directory/Deverain/Wilmot.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ChaosChampion",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "grotesque",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "heavily robed man",
+                "url": "campaigns/Brigandage/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "heavily robed men",
+                "url": "campaigns/Brigandage/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "grotesque",
+                "url": "campaigns/Brigandage/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "man",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/Murk.md": [
+            {
+                "text": "murks",
+                "url": "directory/DuskmeadowFringe/GalenTheron.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "murks",
+                "url": "directory/Deverain/Basil.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "murks",
+                "url": "directory/Deverain/Wilmot.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Murk",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "aberration",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "a brutish man with two heads growing from its middle head",
+                "url": "campaigns/Brigandage/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "three-headed creature",
+                "url": "campaigns/Brigandage/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "two heads attached to a normal human body's natural, but sleepy, head",
+                "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "two-headed-over-a-head-men",
+                "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3083,12 +3320,6 @@
             },
             {
                 "text": "index",
-                "url": "campaigns/Book_01/ep_056.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
                 "url": "campaigns/Book_01/ep_046.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3102,6 +3333,12 @@
             {
                 "text": "Swamp",
                 "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/Book_01/ep_056_057.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3122,6 +3359,41 @@
             {
                 "text": "Wellslode",
                 "url": "campaigns/Book_01/ep_054.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Deverain/Basil.md": [
+            {
+                "text": "Bandits Bath",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "large robbed man",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "murks",
+                "url": "directory/FoldedBelow/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Basil",
+                "url": "campaigns/Brigandage/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Basil",
+                "url": "campaigns/Brigandage/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3155,13 +3427,13 @@
             },
             {
                 "text": "BaronVonBetr\u00fcger",
-                "url": "campaigns/Book_01/ep_056.md",
+                "url": "campaigns/Book_01/ep_043.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
                 "text": "BaronVonBetr\u00fcger",
-                "url": "campaigns/Book_01/ep_043.md",
+                "url": "campaigns/Book_01/ep_056_057.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3258,6 +3530,41 @@
             {
                 "text": "Piper's Band",
                 "url": "directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Deverain/Wilmot.md": [
+            {
+                "text": "Bandits Bath",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "large robbed man",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "murks",
+                "url": "directory/FoldedBelow/Murk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Wilmot",
+                "url": "campaigns/Brigandage/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Wilmot",
+                "url": "campaigns/Brigandage/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3531,50 +3838,6 @@
                 "direction": "inbound"
             }
         ],
-        "directory/FoldedBelow/ChaosChampion.md": [
-            {
-                "text": "ChaosChampion",
-                "url": "directory/FoldedBelow/YellowSmoke.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "ChaosChampion",
-                "url": "directory/FoldedBelow/UndergroundTemple.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "ChaosChampion",
-                "url": "directory/FoldedBelow/BanditsBath.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "grotesque",
-                "url": "directory/FoldedBelow/BanditsBath.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "heavily robed men",
-                "url": "campaigns/Brigandage/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "grotesque",
-                "url": "campaigns/Brigandage/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "man",
-                "url": "campaigns/Book_01/ep_027.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/FoldedBelow/Bugbears.md": [
             {
                 "text": "Bugbears",
@@ -3595,6 +3858,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "metallic humanoid bugs",
+                "url": "campaigns/Brigandage/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "hairy animal",
                 "url": "campaigns/Brigandage/ep_001.md",
                 "is_internal": true,
@@ -3608,56 +3877,6 @@
             },
             {
                 "text": "furrykins",
-                "url": "campaigns/Book_01/ep_028.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/Murk.md": [
-            {
-                "text": "Murk",
-                "url": "directory/FoldedBelow/YellowSmoke.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Murk",
-                "url": "directory/FoldedBelow/UndergroundTemple.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Murk",
-                "url": "directory/FoldedBelow/BanditsBath.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "aberration",
-                "url": "directory/FoldedBelow/BanditsBath.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "a brutish man with two heads growing from its middle head",
-                "url": "campaigns/Brigandage/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "three-headed creature",
-                "url": "campaigns/Brigandage/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "two heads attached to a normal human body's natural, but sleepy, head",
-                "url": "campaigns/Book_01/ep_027.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "two-headed-over-a-head-men",
                 "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3837,62 +4056,6 @@
             {
                 "text": "underground temple",
                 "url": "campaigns/Book_01/ep_010.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/BanditsBath.md": [
-            {
-                "text": "Bugbears",
-                "url": "directory/FoldedBelow/Bugbears.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "ChaosChampion",
-                "url": "directory/FoldedBelow/ChaosChampion.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Murk",
-                "url": "directory/FoldedBelow/Murk.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Galen and Theron",
-                "url": "directory/DuskmeadowFringe/GalenTheron.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "aberration",
-                "url": "directory/FoldedBelow/Murk.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "grotesque",
-                "url": "directory/FoldedBelow/ChaosChampion.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Bath",
-                "url": "campaigns/Brigandage/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "ruined bathhouse",
-                "url": "campaigns/Brigandage/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -5975,7 +6138,7 @@
             },
             {
                 "text": "Toram",
-                "url": "campaigns/Book_01/ep_056.md",
+                "url": "campaigns/Book_01/ep_056_057.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -6063,6 +6226,43 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/Brigandage/ep_003.md": [
+            {
+                "text": "Wilmot",
+                "url": "directory/Deverain/Wilmot.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Basil",
+                "url": "directory/Deverain/Basil.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "abandoned bath",
+                "url": "directory/FoldedBelow/BanditsBath.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "metallic humanoid bugs",
+                "url": "directory/FoldedBelow/Bugbears.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "heavily robed man",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "campaigns/Brigandage/ep_002.md": [
             {
                 "text": "Deverain",
@@ -6119,22 +6319,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Deverain/Basil.md": [
-            {
-                "text": "Basil",
-                "url": "campaigns/Brigandage/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Deverain/Wilmot.md": [
-            {
-                "text": "Wilmot",
-                "url": "campaigns/Brigandage/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Deverain/BrothersIg.md": [
@@ -6540,12 +6724,6 @@
             },
             {
                 "text": "Aspen",
-                "url": "campaigns/Book_01/ep_056.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Aspen",
                 "url": "campaigns/Book_01/ep_046.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -6559,6 +6737,12 @@
             {
                 "text": "Aspen",
                 "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aspen",
+                "url": "campaigns/Book_01/ep_056_057.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -6693,91 +6877,6 @@
             {
                 "text": "deal",
                 "url": "campaigns/Book_01/ep_026.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/Book_01/ep_056.md": [
-            {
-                "text": "Gary",
-                "url": "directory/Deverain/Gary.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Aspen",
-                "url": "directory/Sigisfarne/Aspen.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Toram",
-                "url": "directory/Ambaret/Toram.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "BaronVonBetr\u00fcger",
-                "url": "directory/Deverain/BaronVonBetr\u00fcger.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Slate",
-                "url": "directory/Ambaret/Slate.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "index",
-                "url": "directory/FeverSwamp/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Otter",
-                "url": "directory/FeverSwamp/Otter.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "directory/Ambaret/Slate.md": [
-            {
-                "text": "Slate",
-                "url": "campaigns/Book_01/ep_056.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FeverSwamp/Otter.md": [
-            {
-                "text": "Otter",
-                "url": "campaigns/Book_01/ep_056.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Otter",
-                "url": "campaigns/Book_01/ep_048.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Otter",
-                "url": "campaigns/Book_01/ep_038.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Otter",
-                "url": "campaigns/Book_01/ep_035.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -7955,6 +8054,32 @@
                 "favicon": null
             }
         ],
+        "directory/FeverSwamp/Otter.md": [
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_048.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_038.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_056_057.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Otter",
+                "url": "campaigns/Book_01/ep_035.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/Book_01/ep_039.md": [
             {
                 "text": "Ayrrin",
@@ -8643,6 +8768,65 @@
             {
                 "text": "Leth",
                 "url": "campaigns/Book_01/ep_049.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_056_057.md": [
+            {
+                "text": "Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aspen",
+                "url": "directory/Sigisfarne/Aspen.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Toram",
+                "url": "directory/Ambaret/Toram.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "BaronVonBetr\u00fcger",
+                "url": "directory/Deverain/BaronVonBetr\u00fcger.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Slate",
+                "url": "directory/Ambaret/Slate.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/FeverSwamp/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Otter",
+                "url": "directory/FeverSwamp/Otter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Ambaret/Slate.md": [
+            {
+                "text": "Slate",
+                "url": "campaigns/Book_01/ep_056_057.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

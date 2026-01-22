@@ -7,7 +7,7 @@ nav_exclude: true
 parent: Deverain
 title: Basil
 role: Aurifex
-status: 
+status: Deceased
 
 images: 
 
@@ -43,3 +43,5 @@ Ridiculed for discovering how to turn gold into lead, you were a laughing stock.
 Spark Dust - Ignites easily and quickly. Useful for starting a fire or as an incendiary device. 3 uses.
 
 **Bond**: Seize absolute control of Kormoran’s Wheel. You hold a Clockwork Gear (petty) etched with strange runes. It ticks slowly, once every hour. You don’t know why.
+
+In a delve into the [Bandits Bath](../FoldedBelow/BanditsBath.md) they are caught by a [large robbed man](../FoldedBelow/ChaosChampion.md) and turned into [murks](../FoldedBelow/Murk.md).

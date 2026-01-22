@@ -7,7 +7,7 @@ nav_exclude: true
 parent: Deverain
 title: Wilmot
 role: Barber-Surgeon
-status: 
+status: Deceased
 
 images: 
 
@@ -43,3 +43,5 @@ One arm is fully metal and comes off at the shoulder. It can be used as a weapon
 Pneuma Pump - Portable iron lungs (bulky). Enables life-saving surgery or underwater breathing.
 
 **Bond**: Resurrect the Cult of Derawan. You found a Bone Sigil (petty) under your pillow after dreaming of fire. If buried in the earth, mushrooms proliferate around it.
+
+In a delve into the [Bandits Bath](../FoldedBelow/BanditsBath.md) they are caught by a [large robbed man](../FoldedBelow/ChaosChampion.md) and turned into [murks](../FoldedBelow/Murk.md).
