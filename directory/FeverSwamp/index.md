@@ -40,3 +40,11 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 Place of smugglers and thieves.
 Rumours of people living in small villages within the swamp.
+
+## Scientific Inquiry and Journaling
+
+> by [Prof Dr Gary](../Deverain/Gary.md)
+
+![](../../imgs/gallery/Pasted%20image%2020260124094027.png)
+
+![](../../imgs/gallery/Pasted%20image%2020260124094116.png)

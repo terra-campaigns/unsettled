@@ -2133,6 +2133,12 @@
             },
             {
                 "text": "Prof Dr Gary",
+                "url": "directory/FeverSwamp/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prof Dr Gary",
                 "url": "directory/FeverSwamp/DrownedOnes.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3317,6 +3323,13 @@
                 "url": "directory/Deverain/Gary.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Prof Dr Gary",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             },
             {
                 "text": "index",
