@@ -9,6 +9,7 @@ flavour:
 role: Half Witch, The Bunny
 parent: Sigisfarne
 statblock: false
+status: Deceased
 
 hooks:
 - Wants to find red tree sap from Kormoran's Wheel.

@@ -1026,6 +1026,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Horny Knight",
+                "url": "campaigns/Book_01/ep_058.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Horned Knight",
                 "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
@@ -1181,6 +1187,12 @@
             {
                 "text": "Queensweald",
                 "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Queensweald",
+                "url": "campaigns/Book_01/ep_058.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2049,6 +2061,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Piot Chant",
+                "url": "campaigns/Book_01/ep_058.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Piot Chants",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
@@ -2176,6 +2194,12 @@
             {
                 "text": "Prof Dr Gary",
                 "url": "campaigns/Book_01/ep_043.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Waximilian",
+                "url": "campaigns/Book_01/ep_058.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4055,6 +4079,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Underground Temple",
+                "url": "campaigns/Book_01/ep_058.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "underground temple",
                 "url": "campaigns/Book_01/ep_009.md",
                 "is_internal": true,
@@ -4447,6 +4477,12 @@
             {
                 "text": "Razzy",
                 "url": "campaigns/Book_01/ep_012.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Razzy",
+                "url": "campaigns/Book_01/ep_058.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -6466,6 +6502,12 @@
             },
             {
                 "text": "Oswin",
+                "url": "campaigns/Book_01/ep_058.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Oswin",
                 "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -7518,6 +7560,12 @@
             },
             {
                 "text": "Brunhilda",
+                "url": "campaigns/Book_01/ep_058.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Brunhilda",
                 "url": "campaigns/Book_01/ep_055.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -7928,6 +7976,94 @@
             {
                 "text": "Arlo",
                 "url": "campaigns/Book_01/ep_011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/ep_058.md": [
+            {
+                "text": "Razzy",
+                "url": "directory/Sigisfarne/Razvan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Oswin",
+                "url": "directory/Sigisfarne/Oswin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Brunhilda",
+                "url": "directory/KAW/Brunhilda.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Waximilian",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pela Croftman",
+                "url": "directory/Ambaret/PelaCroftman.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Tia",
+                "url": "directory/DuskmeadowFringe/Tia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Underground Temple",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Piot Chant",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Horny Knight",
+                "url": "directory/DuskmeadowFringe/HornedKnight.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Queensweald",
+                "url": "directory/DuskmeadowFringe/Queensweald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Ambaret/PelaCroftman.md": [
+            {
+                "text": "Pela Croftman",
+                "url": "campaigns/Book_01/ep_058.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/DuskmeadowFringe/Tia.md": [
+            {
+                "text": "Tia",
+                "url": "campaigns/Book_01/ep_058.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -8816,7 +8952,7 @@
             },
             {
                 "text": "Slate",
-                "url": "directory/Ambaret/Slate.md",
+                "url": "directory/Kryptwood/Slate.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -8836,7 +8972,7 @@
                 "favicon": null
             }
         ],
-        "directory/Ambaret/Slate.md": [
+        "directory/Kryptwood/Slate.md": [
             {
                 "text": "Slate",
                 "url": "campaigns/Book_01/ep_056_057.md",
