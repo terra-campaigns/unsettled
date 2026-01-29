@@ -45,3 +45,13 @@ Wearing it makes parlaying with the Fae easier. They will look at you with diffe
 Named Champion of the [Mountain Court](../DuskmeadowFringe/MountainCourt.md) by [Jock](../DuskmeadowFringe/Jock.md).
 
 Has a doppelganger living as her.
+
+## Life and Death Ceremony 
+
+A small pixie comes in everyone's dream and handles a parchment written in gold text. You wake up holding said parchment.
+
+It is an invitation to celebrate the life and death of Razzy the Bunny. A woman of the forest, a woman of humankind.
+
+Her ceremony will take place in Queensweald and will last 77 hours. There will be 7 banquets and 11 orgies. Goblins will be sacrificed in her name, and their blood will be drunk by human children, so many more Razzys are born again.
+
+In the last event, Razzy's body will be placed in a hole on earth, and through her a cherry tree will grow in the years to come. The cherry tree will be called Razzy. Their fruits will have the shape of bunny tails.
