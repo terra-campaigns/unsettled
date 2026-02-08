@@ -3,7 +3,7 @@ layout: default
 template: 0.4
 type: faction
 nav_exclude: false
-has_children: false
+has_children: true
 
 parent: Directory
 title: Church of the Weeping Mother
