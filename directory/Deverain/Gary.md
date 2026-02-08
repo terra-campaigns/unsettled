@@ -35,6 +35,9 @@ Garriout is lanky, with tanned skin and voluminous but messy hair. He has a weat
 **How have you “improved” yourself?**
 One arm is entirely metal and comes off at the shoulder. It can be used as a weapon (d8, bulky when not attached) and can move independently if you are within sight of it. 
 
+![](../../imgs/gallery/Pasted%20image%2020260208171808.png)
+![](../../imgs/gallery/Pasted%20image%2020260208171821.png)
+
 **What rare tool is essential to your work?**
 Graftgrub - A small worm that can fuse inanimate objects with parts of the body. 1 use. 
 
