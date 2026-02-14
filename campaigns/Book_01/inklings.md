@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] How to add moral decisions like degenesis
 - [ ] Inflation rules
 - [ ] Promoter some npc from Hendenburgh to it's own page
+- [ ] Myth: de gek 11
 
 
 ## Snoozed

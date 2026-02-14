@@ -11,6 +11,7 @@ title: Elder Way Monastery
 role: Druid Community at the Big Ford
 status: 
 hooks:
+- A group left in the fall of 1025 for the Kaldhur forest and were never seen again.
 
 images:
 - ../../imgs/gallery/Pasted%20image%2020251003223558.png
@@ -27,12 +28,16 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
+They established at the big ford because of it's safety, with a circular hill overseeing the region.
+Run by a gifted druid, and many wise men and women in the matters of nature.
+
+Best farming knowledge in the region.
+
 - Kilometres long and wide ford and shallow river
 - Many islands and floating farms
 - Druids learned farming from the [Basajaun](Basajaun.md)
 - Wear thorns and brambles on their massive hairy heads
 - Druids are big and hairy
-- A group of them wants to leave the monastery, seeking the Old One of [Kaldhur](../Kaldhur/index.md).
+- A group of them left the monastery, seeking the Old One of [Kaldhur](../Kaldhur/index.md). They were never seen again: Poppy, a friendly teenager.
 - Part of their population is made of migrants from other villages.
-- Poppy, a friendly teenager
 - Pepper, a wise councillor 

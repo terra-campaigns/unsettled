@@ -91,12 +91,12 @@ Normally ***d6*** (bigger dice for safer regions).
 **Weather** affects posterior die sizes.
 If travelling at **Night**, or under looming weather, roll for **Getting Lost**.
 
-|           |                            |                                                                                                                                    |                                            |
-| --------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-|           | **Each Watch**             | **Each day**                                                                                                                       | **Getting lost**                           |
-| ***1***   | **Encounter.**             | **Dire weather.**<br>Fatigued unless you stay put.<br>You can't rest.<br>Someone's food or lights spoil.<br>You risk getting lost. | **Lost.**<br>Circle back to where started. |
-| ***2-3*** | **Signs** of an encounter. | **Looming** threat.<br>You risk getting lost.                                                                                      | **Drift**.<br>Left(2) or Right (3).        |
-| ***4+***  | All clear.                 | Fine weather.                                                                                                                      | Normal progress.                           |
+|           |                                                 |                                                                                                                                    |                                            |
+| --------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+|           | **Each Watch**                                  | **Each day**                                                                                                                       | **Getting lost**                           |
+| ***1***   | **Encounter.**                                  | **Dire weather.**<br>Fatigued unless you stay put.<br>You can't rest.<br>Someone's food or lights spoil.<br>You risk getting lost. | **Lost.**<br>Circle back to where started. |
+| ***2-3*** | **Signs** of an encounter.                      | **Looming** threat.<br>You risk getting lost.                                                                                      | **Drift**.<br>Left(2) or Right (3).        |
+| ***4+***  | All clear. Find a **Landmark** if there is one. | Fine weather.                                                                                                                      | Normal progress.                           |
 
 If ***2-3*** is rolled twice, treat it as a ***1***.  
 
