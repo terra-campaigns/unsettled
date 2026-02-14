@@ -4255,6 +4255,12 @@
                 "url": "campaigns/Book_01/ep_041.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Fort Duhrin",
+                "url": "campaigns/Anthology/260201.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Kaldhur/BurningTree.md": [
@@ -9563,6 +9569,12 @@
                 "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Gauntlet",
+                "url": "campaigns/Anthology/260201.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_024.md": [
@@ -10214,6 +10226,22 @@
             {
                 "text": "coast",
                 "url": "gazetteer/Hwicce/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/Anthology/260201.md": [
+            {
+                "text": "Fort Duhrin",
+                "url": "directory/Kaldhur/FortDuhrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gauntlet",
+                "url": "directory/Kaldhur/Gauntlet.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
