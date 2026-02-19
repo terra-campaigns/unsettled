@@ -1,0 +1,603 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+
+<style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+.mac-os-11 { --title-bar-height: 28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+h1, h2, h3, h4, h5 { white-space: pre-wrap; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; position: relative; }
+#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+thead, tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; border-color: transparent !important; padding-top: 0px !important; padding-bottom: 0px !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  #write > p:nth-child(1) { margin-top: 0px; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+  figure { overflow-x: visible; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.mermaid-svg { margin: auto; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; overflow-wrap: anywhere; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
+.md-alert.md-alert-note { border-left-color: rgb(9, 105, 218); }
+.md-alert.md-alert-important { border-left-color: rgb(130, 80, 223); }
+.md-alert.md-alert-warning { border-left-color: rgb(154, 103, 0); }
+.md-alert.md-alert-tip { border-left-color: rgb(31, 136, 61); }
+.md-alert.md-alert-caution { border-left-color: rgb(207, 34, 46); }
+.md-alert { padding: 0px 1em; margin-bottom: 16px; color: inherit; border-left: 0.25em solid rgb(0, 0, 0); }
+.md-alert-text-note { color: rgb(9, 105, 218); }
+.md-alert-text-important { color: rgb(130, 80, 223); }
+.md-alert-text-warning { color: rgb(154, 103, 0); }
+.md-alert-text-tip { color: rgb(31, 136, 61); }
+.md-alert-text-caution { color: rgb(207, 34, 46); }
+.md-alert-text { font-size: 0.9rem; font-weight: 700; }
+.md-alert-text svg { fill: currentcolor; position: relative; top: 0.125em; margin-right: 1ch; overflow: visible; }
+.md-alert-text-container::after { content: attr(data-text); text-transform: capitalize; pointer-events: none; margin-right: 1ch; }
+
+
+/* OSR RPG Module Typora Theme */
+
+/* --- General Styles --- */
+body {
+    font-family: 'PT Serif', serif;
+    font-size: 14px;
+    line-height: 1.6;
+    background-color: #faf7f1;
+    color: #222;
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Futura', sans-serif;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 2.5em;
+    border-bottom: 2px solid #666;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 2em;
+    border-bottom: 1px solid #666;
+    padding-bottom: 8px;
+}
+
+h3 {
+    font-size: 1.75em;
+}
+
+/* --- Blockquote Styling --- */
+blockquote {
+    border-left: 5px solid #b22222;
+    background: #f9f2ec;
+    padding: 10px 20px;
+    font-family: 'Garamond', serif;
+    font-style: italic;
+    color: #5a3b1e;
+    margin: 20px 0;
+}
+
+/* --- Code Blocks --- */
+code, pre {
+    font-family: 'Courier New', monospace;
+    background-color: #f4f4f4;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+
+pre {
+    padding: 15px;
+    background-color: #f0ebe1;
+    border-left: 5px solid #b22222;
+    font-size: 0.95em;
+}
+
+/* --- Table Styling --- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table th {
+    font-family: 'Futura', sans-serif;
+    text-transform: uppercase;
+    background-color: #f0ebe1;
+    color: #333;
+    padding: 10px;
+    border-bottom: 2px solid #b22222;
+}
+
+table td {
+    padding: 10px;
+    border-bottom: 1px solid #d3cfc5;
+    text-align: left;
+}
+
+/* --- List Styling --- */
+ul, ol {
+    margin: 15px 0;
+    padding-left: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* --- Link Styling --- */
+a {
+    color: #b22222;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* --- Horizontal Rule --- */
+hr {
+    border: 0;
+    height: 1px;
+    background: #b22222;
+    margin: 30px 0;
+}
+
+/* --- Images --- */
+img {
+    max-width: 100%;
+    border: 3px solid #d3cfc5;
+    padding: 5px;
+    margin: 20px 0;
+}
+
+/* --- Footnotes --- */
+.footnote-ref, .footnote-item {
+    font-family: 'Courier New', monospace;
+    color: #666;
+}
+
+.footnote-ref {
+    font-size: 0.9em;
+}
+
+/* --- Custom Class for Special Callouts --- */
+.callout {
+    background: #f9f2ec;
+    border-left: 5px solid #333;
+    padding: 15px;
+    font-family: 'Garamond', serif;
+    color: #5a3b1e;
+    margin: 20px 0;
+}
+
+/* --- Notes --- */
+.note {
+    background: #ffffcc;
+    padding: 10px;
+    border-left: 5px solid #ffcc00;
+    font-family: 'PT Serif', serif;
+    color: #333;
+    margin: 20px 0;
+}
+/* --- OSR Statblock --- */
+.statblock {
+    background-color: #f4f1e5;
+    border: 2px solid #b22222;
+    border-radius: 6px;
+    padding: 1em 1.5em;
+    margin: 20px 0;
+    font-family: 'PT Serif', serif;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+    page-break-inside: avoid;
+}
+
+.statblock h3 {
+    font-family: 'Futura', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    color: #b22222;
+    border-bottom: 1px solid #b22222;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.3em;
+    letter-spacing: 1px;
+}
+
+.statblock-attributes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    gap: 0.5em;
+    margin-bottom: 1em;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: bold;
+}
+
+.statblock-tags {
+    font-style: italic;
+    font-size: 0.85em;
+    color: #555;
+    margin-bottom: 0.8em;
+}
+
+.statblock ul {
+    margin: 0;
+    padding-left: 1.2em;
+}
+
+.statblock li {
+    margin-bottom: 0.3em;
+}
+
+@media print {
+    html, body {
+        background-color: #faf7f1 !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}
+.statblock-top {
+    line-height: 1.3;
+    margin-bottom: 0.5em;
+}
+
+
+
+</style><title>Bestiary</title>
+</head>
+<body class='typora-export os-windows typora-export-show-outline typora-export-no-collapse-outline'><div class='typora-export-content'>
+<div class="typora-export-sidebar"><div class="outline-content"><li class="outline-item-wrapper outline-h1"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#just-use-bears-or-wolves-or-spiders-or-tigers">Just Use Bears, or Wolves, or Spiders, or Tigers</a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#bear">Bear</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#bull">Bull</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#deer">Deer</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#dragon">Dragon</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#elephant">Elephant</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#hawk">Hawk</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#horse">Horse</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#snake">Snake</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#spider">Spider</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#swarm">Swarm</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#tiger">Tiger</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#wolf">Wolf</a></div><ul class="outline-children"></ul></li></ul></li><li class="outline-item-wrapper outline-h1"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#biome-encounter-tables">Biome Encounter Tables</a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#grassland">Grassland</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#forest">Forest</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#hills">Hills</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#mountains">Mountains</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#swamp">Swamp</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#desert">Desert</a></div><ul class="outline-children"></ul></li></ul></li></div></div><div id='write'  class=''><h1 id='just-use-bears-or-wolves-or-spiders-or-tigers'><span>Just Use Bears, or Wolves, or Spiders, or Tigers</span></h1><p><img src="https://dicegoblin.blog/wp-content/uploads/2025/04/ItchBanner.webp" referrerpolicy="no-referrer"></p><blockquote><p><em><span>So, the characters in your old-school D&amp;D game go somewhere you haven’t yet prepared and you describe some cool, weird-ass monster that you don’t actually have stats for:</span></em><span> </span>
+<em><span>&quot;At the bottom of the Bone Pit of the Succulent Orb a vast form rises from the sinkhole; its reptilian body glistens with antediluvian slime and its pteroid jaw opens, revealing rows of serrated fangs in what appears to be a most unholy welcome.&quot;</span></em><span> </span>
+<em><span>In situations likes these, I just use the stats for a bear and no one is the wiser.</span></em><span> </span>
+<em><span>Re-skin appearance, methods of attack, and add special abilities on the fly if you absolutely must...but when in doubt, just use bears.</span></em>
+<strong><a href='https://talesofthegrotesqueanddungeonesque.blogspot.com/2016/08/just-use-bears.html'><span>Jack Guignol, 2016</span></a></strong></p></blockquote><p><span>Bears are a solid start - but I feel like we can expand this idea a bit more. These statblocks provide a framework for quickly adapting various animal archetypes to your encounters. </span></p><p><span>Each can be reskinned to represent monsters, NPCs, or other threats while maintaining the mechanical &quot;feel&quot; of the archetype.</span></p><ul><li><p><strong><a href='#bear'><span>Bear</span></a></strong><span>. A solitary powerhouse that gets deadlier when wounded. </span><em><span>Use for: Ogres, trolls, lone barbarians, cave beasts, or any solo brute-force threat.</span></em></p></li><li><p><strong><a href='#bull'><span>Bull</span></a></strong><span>. A thundering force of muscle and momentum, explosive and wild. </span><em><span>Use for: Boars, minotaurs, large scarab beetles, knights on horseback, or any threat that relies on momentum and charging.</span></em></p></li><li><p><strong><a href='#deer'><span>Deer</span></a></strong><span>. Skittish and swift—designed to escape, not to fight. </span><em><span>Use for: Wild game, birds, prey animals, timid spirits, fae scouts, elusive messengers or any target that prioritizes escape over combat.</span></em></p></li><li><p><strong><a href='#dragon'><span>Dragon</span></a></strong><span>. A legendary apex threat with devastating attacks and fearsome presence. </span><em><span>Use for: Dragons, demon lords, ancient guardians, or any legendary-tier threat.</span></em></p></li><li><p><strong><a href='#elephant'><span>Elephant</span></a></strong><span>. A living siege weapon—unstoppable and ruinous when provoked. </span><em><span>Use for: Giants, siege beasts, war constructs, ents/treants, or any massive, destructive force.</span></em></p></li><li><p><strong><a href='#hawk'><span>Hawk</span></a></strong><span>. Aerial harassers that confuse, distract, and chip away from above. </span><em><span>Use for: Vultures, eagles, harpies, gargoyles, flying imps, or any highly mobile threat.</span></em></p></li><li><p><strong><a href='#horse'><span>Horse</span></a></strong><span>. Not a threat unless seriously provoked. </span><em><span>Use for: Mounts of all kinds (large birds, horses, camels, dinosaurs)</span></em></p></li><li><p><strong><a href='#snake'><span>Snake</span></a></strong><span>. Fragile but deadly—lurks in shadow, strikes with poison and surprise. </span><em><span>Use for: Dangerous insects or plants, assassin&#39;s pets, scorpions, or any threat that strikes from hiding.</span></em></p></li><li><p><strong><a href='#spider'><span>Spider</span></a></strong><span>. A lurking threat that thrives when its victims are caught or trapped. </span><em><span>Use for: Insects, web-spinning demons, saboteurs/trappers, mimics, cursed relics.</span></em></p></li><li><p><strong><a href='#swarm'><span>Swarm</span></a></strong><span>. Weak individually, but together they overwhelm, spread disease, and wear you down. </span><em><span>Use for: Weak minions, rats, insect swarms, bat clouds, goblins, piranhas, zombies, or any threat that relies on numbers.</span></em></p></li><li><p><strong><a href='#tiger'><span>Tiger</span></a></strong><span>. A stealthy, devastating ambusher with the power to drop foes in a single strike. </span><em><span>Use for: Tigers and other large felines, crocodiles (in water), jungle stalkers, griffons (flying), skilled assassins, dangerous predators.</span></em></p></li><li><p><strong><a href='#wolf'><span>Wolf</span></a></strong><span>. A coordinated predator that grows bolder and deadlier in a pack. </span><em><span>Use for: Bandit gangs, goblins packs, velociraptors, guards, or any coordinated group of attackers.</span></em></p></li></ul><p><span>These statblocks are designed to be flexible templates. When using them:</span></p><ol start='' ><li><p><strong><span>Adjust the numbers</span></strong><span> - Increase or decrease STR, DEX, WIL, HP, and Armor based on the specific creature you&#39;re creating.</span></p></li><li><p><strong><span>Rename attacks</span></strong><span> - &quot;Bite&quot; could become &quot;Sword Slash&quot; or &quot;Tentacle Strike&quot; as appropriate.</span></p></li><li><p><strong><span>Modify special abilities</span></strong><span> - Keep the mechanical effect but change the flavor to suit your creature.</span></p></li><li><p><strong><span>Consider combinations</span></strong><span> - Mix and match features from different archetypes for unique enemies.</span></p></li></ol><p><span>For example, a veteran knight might use the Horse archetype for mobility, but with the Bear&#39;s strength and the Wolf&#39;s pack tactics to represent coordinated cavalry charges.</span></p><h2 id='bear'><span>Bear</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 10 <strong>Armor</strong> 1<br>
+    <strong>STR</strong> 16 <strong>DEX</strong> 8 <strong>WIL</strong> 14<br>
+    <strong>#:</strong> 1 <strong>Danger:</strong> ⚠️ ⚠️ ⚠️
+  </div>
+  <em>A solitary powerhouse that gets deadlier when wounded.</em>
+  <ul>
+    <li><strong>Claws</strong> (d10, Brutal 8)</li>
+    <li><strong>Grapple:</strong> Can forego attack to grapple a target (<strong>DEX Save</strong> to avoid). Take <strong>d4 STR damage</strong> each round, <strong>STR Save</strong> to escape.</li>
+    <li><strong>Fury:</strong> When reduced to <strong>0 HP</strong>, makes a <strong>WIL save</strong>. On success, regains <strong>1d6 HP</strong> and becomes enraged (attacks are <strong>Enhanced</strong>).</li>
+  </ul>
+  <p><strong>Use for:</strong> Ogres, trolls, lone barbarians, cave beasts, or any solo brute-force threat.</p>
+</div><h2 id='bull'><span>Bull</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 6 <strong>Armor</strong> 0<br>
+    <strong>STR</strong> 14 <strong>DEX</strong> 12 <strong>WIL</strong> 8<br>
+    <strong>#:</strong> 1d4 <strong>Danger:</strong> ⚠️ ⚠️
+  </div>
+  <em>A thundering force of muscle and momentum, explosive and wild.</em>
+  <ul>
+    <li><strong>Trample</strong> (d8)</li>
+    <li><strong>Charge:</strong> If the bull can charge in a straight line at the target before attacking, attack is <strong>Enhanced</strong> and knocks target down or back.</li>
+  </ul>
+  <p><strong>Use for:</strong> Boars, minotaurs, large scarab beetles, knights on horseback, or any threat that relies on momentum and charging.</p>
+</div><h2 id='deer'><span>Deer</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 3 <strong>Armor</strong> 0<br>
+    <strong>STR</strong> 8 <strong>DEX</strong> 16 <strong>WIL</strong> 6<br>
+    <strong>#:</strong> 2d6 <strong>Danger:</strong> ⚠️
+  </div>
+  <em>Skittish and swift—designed to escape, not to fight.</em>
+  <ul>
+    <li><strong>Skittish:</strong> Decreases the chance of being surprised by -1.</li>
+    <li><strong>Fast:</strong> On a successful DEX Save, greatly increases distance to attackers.</li>
+  </ul>
+  <p><strong>Use for:</strong> Wild game, birds, prey animals, timid spirits, fae scouts, elusive messengers or any target that prioritizes escape over combat.</p>
+</div><h2 id='dragon'><span>Dragon</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 18 <strong>Armor</strong> 3<br>
+    <strong>STR</strong> 18 <strong>DEX</strong> 12 <strong>WIL</strong> 16<br>
+    <strong>#:</strong> 1 <strong>Danger:</strong> ⚠️ ⚠️ ⚠️
+  </div>
+  <em>A legendary apex threat with devastating attacks and fearsome presence.</em>
+  <ul>
+    <li><strong>Claws</strong> (2d8, Sweep 7)</li>
+    <li><strong>Bite</strong> (d10, Brutal 8)</li>
+    <li><strong>Breath weapon:</strong> (d12, blast). Recharges on 5–6 each round. Telegraphed 1 turn in advance.</li>
+    <li><strong>Flying:</strong> Fly-by attacks. Melee attackers must DEX save to hit.</li>
+    <li><strong>Terrifying:</strong> WIL save or become <strong>Impaired</strong> until regrouping.</li>
+  </ul>
+  <p><strong>Use for:</strong> Dragons, demon lords, ancient guardians, or any legendary-tier threat.</p>
+</div><h2 id='elephant'><span>Elephant</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 12 <strong>Armor</strong> 2<br>
+    <strong>STR</strong> 18 <strong>DEX</strong> 6 <strong>WIL</strong> 10<br>
+    <strong>#:</strong> 1 <strong>Danger:</strong> ⚠️ ⚠️ ⚠️
+  </div>
+  <em>A living siege weapon—unstoppable and ruinous when provoked.</em>
+  <ul>
+    <li><strong>Tusks</strong> (d8)</li>
+    <li><strong>Trample</strong> (d10, blast)</li>
+    <li><strong>Charge:</strong> If charging straight-line, attack is <strong>Enhanced</strong> and knocks back.</li>
+    <li><strong>Demolisher:</strong> Destroys obstacles smaller creatures cannot.</li>
+  </ul>
+  <p><strong>Use for:</strong> Giants, siege beasts, war constructs, ents/treants, or any massive, destructive force.</p>
+</div><h2 id='hawk'><span>Hawk</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 5 <strong>Armor</strong> 0<br>
+    <strong>STR</strong> 6 <strong>DEX</strong> 16 <strong>WIL</strong> 12<br>
+    <strong>#:</strong> 1d6 <strong>Danger:</strong> ⚠️ ⚠️
+  </div>
+  <em>Aerial harassers that confuse, distract, and chip away from above.</em>
+  <ul>
+    <li><strong>Talons</strong> (d6)</li>
+    <li><strong>Flying:</strong> Fly-by attacks. Melee attackers must DEX save to hit.</li>
+    <li><strong>Coming From All Sides:</strong> If multiple hawks target the same creature, add 1d12 to damage.</li>
+  </ul>
+  <p><strong>Use for:</strong> Vultures, eagles, harpies, gargoyles, flying imps, or any highly mobile threat.</p>
+</div><h2 id='horse'><span>Horse</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 3 <strong>Armor</strong> 0<br>
+    <strong>STR</strong> 16 <strong>DEX</strong> 12 <strong>WIL</strong> 5<br>
+    <strong>#:</strong> 1d6 <strong>Danger:</strong> ⚠️
+  </div>
+  <em>Not a threat unless seriously provoked.</em>
+  <ul>
+    <li><strong>Trample</strong> (d6)</li>
+    <li><strong>Spooked:</strong> Must WIL save when confronted with fire, magic, or violence.</li>
+  </ul>
+  <p><strong>Use for:</strong> Mounts of all kinds (birds, horses, camels, dinosaurs).</p>
+</div><h2 id='snake'><span>Snake</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 4 <strong>Armor</strong> 0<br>
+    <strong>STR</strong> 6 <strong>DEX</strong> 16 <strong>WIL</strong> 10<br>
+    <strong>#:</strong> 1d6 <strong>Danger:</strong> ⚠️ ⚠️
+  </div>
+  <em>Fragile but deadly—lurks in shadow, strikes with poison and surprise.</em>
+  <ul>
+    <li><strong>Bite</strong> (d6). <em>Poison 6:</em> On a damage roll of 6, the target takes an additional 1d4 STR damage at the start of their next turn. This STR damage does not trigger a Critical Damage save.</li>
+    <li><strong>Constrict:</strong> Target must make STR save or be grappled, taking d4 damage per round</li>
+    <li><strong>Stealthy:</strong> Increases the chance of the party being surprised by +1 (i.e. 2-in-6 instead of 1-in-6)</li>
+  </ul>
+  <p><strong>Use for:</strong> Insects, pets, scorpions, ambushers.</p>
+</div><h2 id='spider'><span>Spider</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 6 <strong>Armor</strong> 0<br>
+    <strong>STR</strong> 8 <strong>DEX</strong> 14 <strong>WIL</strong> 10<br>
+    <strong>#:</strong> 1–1d4 <strong>Danger:</strong> ⚠️ ⚠️
+  </div>
+  <em>A lurking threat that thrives when its victims are caught or trapped.</em>
+  <ul>
+    <li><strong>Bite</strong> (d6). After target HP is depleted, attack also deals 1d4 damage to DEX. Bite attacks against immobilized targets are <strong>Enhanced.</strong></li>
+    <li><strong>Stealthy:</strong> Increases the chance of the party being surprised by +1 (i.e. 2-in-6 instead of 1-in-6)</li>
+    <li><strong>Trap:</strong> Continuous spray of webbing. Target must make DEX save or be immobilized.</li>
+  </ul>
+  <p><strong>Use for:</strong> Insects, web-spinning demons, saboteurs/trappers, mimics, cursed relics.</p>
+</div><h2 id='swarm'><span>Swarm</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 7 <strong>Armor</strong> 0<br>
+    <strong>STR</strong> 6 <strong>DEX</strong> 14 <strong>WIL</strong> 8<br>
+    <strong>#:</strong> 1 <strong>Danger:</strong> ⚠️ ⚠️
+  </div>
+  <em>Weak individually, but together they overwhelm, spread disease, and wear you down.</em>
+  <ul>
+    <li><strong>Bite</strong> (d4, blast)</li>
+    <li><strong>Swarming:</strong> A swarm of numerous creatures, scurrying and gnawing. Piercing and Bludgeoning attacks are <strong>Impaired</strong>. Attacks with <em>Blast</em> are <strong>Enhanced</strong>.</li>
+    <li><strong>Disease:</strong> Attacks that incur Critical Damage leave the target <strong>Deprived</strong> until a night of full rest.</li>
+  </ul>
+  <p><strong>Use for:</strong> Weak minions, rats, insect swarms, bat clouds, goblins, piranhas, zombies, or any threat that relies on numbers.</p>
+</div><h2 id='tiger'><span>Tiger</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 8 <strong>Armor</strong> 0<br>
+    <strong>STR</strong> 14 <strong>DEX</strong> 16 <strong>WIL</strong> 12<br>
+    <strong>#:</strong> 1 <strong>Danger:</strong> ⚠️ ⚠️ ⚠️
+  </div>
+  <em>A stealthy, devastating ambusher with the power to drop foes in a single strike.</em>
+  <ul>
+    <li><strong>Claws</strong> (d8)</li>
+    <li><strong>Stealthy:</strong> Increases the chance of the party being surprised by +1 (i.e. 2-in-6 instead of 1-in-6)</li>
+    <li><strong>Ambush:</strong> Attacks from ambush/stealth (on a surprised target, or before they can react) are <strong>Enhanced</strong>.</li>
+  </ul>
+  <p><strong>Use for:</strong> Tigers and other large felines, crocodiles (in water), jungle stalkers, griffons (flying), skilled assassins, dangerous predators.</p>
+</div><h2 id='wolf'><span>Wolf</span></h2><div class="statblock">
+  <div class="statblock-top">
+    <strong>HP</strong> 6 <strong>Armor</strong> 0<br>
+    <strong>STR</strong> 8 <strong>DEX</strong> 14 <strong>WIL</strong> 8<br>
+    <strong>#:</strong> 2d6 <strong>Danger:</strong> ⚠️ ⚠️
+  </div>
+  <em>A coordinated predator that grows bolder and deadlier in a pack.</em>
+  <ul>
+    <li><strong>Bite</strong> (d6)</li>
+    <li><strong>Pack Tactics:</strong> When multiple wolves attack the same target, add 1d12 to the damage rolls.</li>
+    <li><strong>Leader:</strong> If more than 5 in pack, accompanied by a leader with <strong>+4 WIL</strong>. The leader's WIL is used for Morale. If the leader falls, all others must make a WIL Save or flee.</li>
+  </ul>
+  <p><strong>Use for:</strong> Bandit gangs, goblins packs, velociraptors, guards, or any coordinated group of attackers.</p>
+</div><h1 id='biome-encounter-tables'><span>Biome Encounter Tables</span></h1><p><span>I&#39;m a big fan of the </span><a href='https://www.paperspencils.com/structuring-encounter-tables-amended-restated/'><span>2d6-dragon-wizard encounter table method</span></a><span>; below are example interpretations of applying the archetypes to various biomes.</span></p><h2 id='grassland'><span>Grassland</span></h2><figure class='table-figure'><table><thead><tr><th><span>2d6</span></th><th><span>Encounter</span></th><th><span>Example</span></th></tr></thead><tbody><tr><td><span>2</span></td><td><span>1 Dragon</span></td><td><span>Giant Winged Serpent</span></td></tr><tr><td><span>3</span></td><td><span>1 Bear</span></td><td><span>Grey Ogre</span></td></tr><tr><td><span>4</span></td><td><span>1 Tiger</span></td><td><span>Sabretooth Tiger</span></td></tr><tr><td><span>5</span></td><td><span>2d6 Wolves</span></td><td><span>Gnolls</span></td></tr><tr><td><span>6</span></td><td><span>1d6 Hawk</span></td><td><span>Windclaws</span></td></tr><tr><td><span>7</span></td><td><span>Wandering NPC</span></td><td><span>Shepherd</span></td></tr><tr><td><span>8</span></td><td><span>2d6 Deer</span></td><td><span>Long-horned Grazers</span></td></tr><tr><td><span>9</span></td><td><span>1d6 Horses</span></td><td><span>Sunback Mustangs</span></td></tr><tr><td><span>10</span></td><td><span>1d4 Bull</span></td><td><span>Ironhorn Charger</span></td></tr><tr><td><span>11</span></td><td><span>1 Elephant</span></td><td><span>Thunderstep Mammoth</span></td></tr><tr><td><span>12</span></td><td><span>Wizard</span></td><td><span>Wandering Soothsayer</span></td></tr></tbody></table></figure><h2 id='forest'><span>Forest</span></h2><figure class='table-figure'><table><thead><tr><th><span>2d6</span></th><th><span>Encounter</span></th><th><span>Example</span></th></tr></thead><tbody><tr><td><span>2</span></td><td><span>1 Dragon</span></td><td><span>Moss Wyrm</span></td></tr><tr><td><span>3</span></td><td><span>1 Bear</span></td><td><span>Barkhide Brute</span></td></tr><tr><td><span>4</span></td><td><span>1 Tiger</span></td><td><span>Shadowcat</span></td></tr><tr><td><span>5</span></td><td><span>2d6 Wolves</span></td><td><span>Treeraptors</span></td></tr><tr><td><span>6</span></td><td><span>1d6 Hawk</span></td><td><span>Thornhawks</span></td></tr><tr><td><span>7</span></td><td><span>Wandering NPC</span></td><td><span>Lost Hunter</span></td></tr><tr><td><span>8</span></td><td><span>1 Swarm</span></td><td><span>Rotgnaw Swarm</span></td></tr><tr><td><span>9</span></td><td><span>1d6 Snakes</span></td><td><span>Strangling Vines</span></td></tr><tr><td><span>10</span></td><td><span>1d4 Spiders</span></td><td><span>Rootlurker Spider</span></td></tr><tr><td><span>11</span></td><td><span>1 Elephant</span></td><td><span>Treant</span></td></tr><tr><td><span>12</span></td><td><span>Wizard</span></td><td><span>Druid</span></td></tr></tbody></table></figure><h2 id='hills'><span>Hills</span></h2><figure class='table-figure'><table><thead><tr><th><span>2d6</span></th><th><span>Encounter</span></th><th><span>Example</span></th></tr></thead><tbody><tr><td><span>2</span></td><td><span>1 Dragon</span></td><td><span>Ridge Drake</span></td></tr><tr><td><span>3</span></td><td><span>1 Bear</span></td><td><span>Crag Brute</span></td></tr><tr><td><span>4</span></td><td><span>1 Tiger</span></td><td><span>Cliff Stalker</span></td></tr><tr><td><span>5</span></td><td><span>2d6 Wolves</span></td><td><span>Troglodytes</span></td></tr><tr><td><span>6</span></td><td><span>1d6 Hawk</span></td><td><span>Grey Harpies</span></td></tr><tr><td><span>7</span></td><td><span>Wandering NPC</span></td><td><span>Trail Hermit</span></td></tr><tr><td><span>8</span></td><td><span>2d6 Deer</span></td><td><span>Hill Goats</span></td></tr><tr><td><span>9</span></td><td><span>1d6 Horses</span></td><td><span>Canyon Salamanders</span></td></tr><tr><td><span>10</span></td><td><span>1d4 Spiders</span></td><td><span>Rock Scorpions</span></td></tr><tr><td><span>11</span></td><td><span>1 Elephant</span></td><td><span>Hill Giant</span></td></tr><tr><td><span>12</span></td><td><span>Wizard</span></td><td><span>Hill Sage</span></td></tr></tbody></table></figure><h2 id='mountains'><span>Mountains</span></h2><figure class='table-figure'><table><thead><tr><th><span>2d6</span></th><th><span>Encounter</span></th><th><span>Example</span></th></tr></thead><tbody><tr><td><span>2</span></td><td><span>1 Dragon</span></td><td><span>Ridge Drake</span></td></tr><tr><td><span>3</span></td><td><span>1 Bear</span></td><td><span>Cave Ape</span></td></tr><tr><td><span>4</span></td><td><span>1 Tiger</span></td><td><span>Snowcat</span></td></tr><tr><td><span>5</span></td><td><span>2d6 Wolves</span></td><td><span>Cliff Jackals</span></td></tr><tr><td><span>6</span></td><td><span>1d6 Hawk</span></td><td><span>Razorwing</span></td></tr><tr><td><span>7</span></td><td><span>Wandering NPC</span></td><td><span>Peak Guide</span></td></tr><tr><td><span>8</span></td><td><span>2d6 Deer</span></td><td><span>Mountain Goat</span></td></tr><tr><td><span>9</span></td><td><span>1d6 Horses</span></td><td><span>Ridge Strider</span></td></tr><tr><td><span>10</span></td><td><span>1d4 Spiders</span></td><td><span>Frost Weaver</span></td></tr><tr><td><span>11</span></td><td><span>1 Elephant</span></td><td><span>Stoneback Giant</span></td></tr><tr><td><span>12</span></td><td><span>Wizard</span></td><td><span>Cloudbound Seer</span></td></tr></tbody></table></figure><h2 id='swamp'><span>Swamp</span></h2><figure class='table-figure'><table><thead><tr><th><span>2d6</span></th><th><span>Encounter</span></th><th><span>Example</span></th></tr></thead><tbody><tr><td><span>2</span></td><td><span>1 Dragon</span></td><td><span>Mire Hydra</span></td></tr><tr><td><span>3</span></td><td><span>1 Bear</span></td><td><span>Bog Ogre</span></td></tr><tr><td><span>4</span></td><td><span>1 Tiger</span></td><td><span>Giant Crocodile</span></td></tr><tr><td><span>5</span></td><td><span>2d6 Wolves</span></td><td><span>Mire Raptor</span></td></tr><tr><td><span>6</span></td><td><span>1d6 Hawks</span></td><td><span>Swamp Vulture</span></td></tr><tr><td><span>7</span></td><td><span>Wandering NPC</span></td><td><span>Leechmonger</span></td></tr><tr><td><span>8</span></td><td><span>1 Swarm</span></td><td><span>Corpse Beetles</span></td></tr><tr><td><span>9</span></td><td><span>1d6 Snakes</span></td><td><span>Bog Viper</span></td></tr><tr><td><span>10</span></td><td><span>1d4 Spiders</span></td><td><span>Giant Spider</span></td></tr><tr><td><span>11</span></td><td><span>1 Elephant</span></td><td><span>Swamp Treant</span></td></tr><tr><td><span>12</span></td><td><span>Wizard</span></td><td><span>Fen Oracle</span></td></tr></tbody></table></figure><h2 id='desert'><span>Desert</span></h2><figure class='table-figure'><table><thead><tr><th><span>2d6</span></th><th><span>Encounter</span></th><th><span>Example</span></th></tr></thead><tbody><tr><td><span>2</span></td><td><span>1 Dragon</span></td><td><span>Sand Worm</span></td></tr><tr><td><span>3</span></td><td><span>1 Bear</span></td><td><span>Desert Roc (Bear, but flying)</span></td></tr><tr><td><span>4</span></td><td><span>1 Tiger</span></td><td><span>Sand Raptor</span></td></tr><tr><td><span>5</span></td><td><span>2d6 Wolves</span></td><td><span>Hyenas</span></td></tr><tr><td><span>6</span></td><td><span>1d6 Hawks</span></td><td><span>Sunwing</span></td></tr><tr><td><span>7</span></td><td><span>Wandering NPC</span></td><td><span>Salt Nomad</span></td></tr><tr><td><span>8</span></td><td><span>2d6 Deer</span></td><td><span>Desert Goat</span></td></tr><tr><td><span>9</span></td><td><span>1d6 Snakes</span></td><td><span>Black Scorpion</span></td></tr><tr><td><span>10</span></td><td><span>1d4 Bulls</span></td><td><span>Giant Beetle</span></td></tr><tr><td><span>11</span></td><td><span>1 Elephant</span></td><td><span>Earth Elemental</span></td></tr><tr><td><span>12</span></td><td><span>Wizard</span></td><td><span>Ember Scribe</span></td></tr></tbody></table></figure></div></div>
+
+<script>(function(){function e(e,n,i){document.addEventListener(e,function(e){if(!e.defaultPrevented)for(var t=e.target;t&&t!=this;t=t.parentNode)if(t.matches(n)){!1===i.call(t,e)&&(e.preventDefault(),e.stopPropagation());break}},!1)}var t=document.body.parentElement,i=[],r=null,o=document.body.classList.contains("typora-export-collapse-outline");function a(){return t.scrollTop}e("click",".outline-expander",function(e){var t=this.closest(".outline-item-wrapper").classList;return t.contains("outline-item-open")?t.remove("outline-item-open"):t.add("outline-item-open"),u(),!1}),e("click",".outline-item",function(e){var t=this.querySelector(".outline-label");location.hash="#"+t.getAttribute("href"),o&&((t=this.closest(".outline-item-wrapper").classList).contains("outline-item-open")||t.add("outline-item-open"),d(),t.add("outline-item-active"))});function s(){var e=a();r=null;for(var t=0;t<i.length&&i[t][1]-e<60;t++)r=i[t]}function n(){c=setTimeout(function(){var n;i=[],n=a(),document.querySelector("#write").querySelectorAll("h1, h2, h3, h4, h5, h6").forEach(e=>{var t=e.getAttribute("id");i.push([t,n+e.getBoundingClientRect().y])}),s(),u()},300)}var l,c,d=function(){document.querySelectorAll(".outline-item-active").forEach(e=>e.classList.remove("outline-item-active")),document.querySelectorAll(".outline-item-single.outline-item-open").forEach(e=>e.classList.remove("outline-item-open"))},u=function(){if(r&&(d(),t=document.querySelector('.outline-label[href="#'+(CSS.escape?CSS.escape(r[0]):r[0])+'"]')))if(o){var e=t.closest(".outline-item-open>ul>.outline-item-wrapper");if(e)e.classList.add("outline-item-active");else{for(var t,n=(t=t.closest(".outline-item-wrapper")).parentElement.closest(".outline-item-wrapper");n;)n=(t=n).parentElement.closest(".outline-item-wrapper");t.classList.add("outline-item-active")}}else t.closest(".outline-item-wrapper").classList.add("outline-item-active")};window.addEventListener("scroll",function(e){l&&clearTimeout(l),l=setTimeout(function(){s(),u()},300)});window.addEventListener("resize",function(e){c&&clearTimeout(c),n()}),n()})();</script></body>
+</html>
