@@ -1592,6 +1592,12 @@
             },
             {
                 "text": "Artea",
+                "url": "campaigns/Book_01/ep_059.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Artea",
                 "url": "campaigns/Book_01/ep_044.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2219,6 +2225,12 @@
             {
                 "text": "Gary",
                 "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Waximillian",
+                "url": "campaigns/Book_01/ep_059.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3025,6 +3037,12 @@
             {
                 "text": "man",
                 "url": "campaigns/Book_01/ep_027.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "mimics",
+                "url": "campaigns/Book_01/ep_059.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3886,6 +3904,12 @@
                 "url": "campaigns/Book_01/ep_028.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "yellow smoke spa",
+                "url": "campaigns/Book_01/ep_059.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/FoldedBelow/Bugbears.md": [
@@ -3993,6 +4017,12 @@
             {
                 "text": "giggly alien creatures",
                 "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Handzies",
+                "url": "campaigns/Book_01/ep_059.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4106,6 +4136,12 @@
             {
                 "text": "Underground Temple",
                 "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Underground Temple",
+                "url": "campaigns/Book_01/ep_059.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -5897,6 +5933,12 @@
                 "url": "campaigns/Book_01/ep_047.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Beatrix",
+                "url": "campaigns/Book_01/ep_059.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/SerpentQueen/index.md": [
@@ -6533,6 +6575,12 @@
             {
                 "text": "Oswin",
                 "url": "campaigns/Book_01/ep_058.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Oswin",
+                "url": "campaigns/Book_01/ep_059.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -8088,6 +8136,12 @@
                 "url": "campaigns/Book_01/ep_058.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Pela Croftman",
+                "url": "campaigns/Book_01/ep_059.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/Tia.md": [
@@ -8694,6 +8748,92 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "campaigns/Book_01/ep_059.md": [
+            {
+                "text": "Underground Temple",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Artea",
+                "url": "directory/Wyrmbark/Artea.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Waximillian",
+                "url": "directory/Deverain/Gary.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Oswin",
+                "url": "directory/Sigisfarne/Oswin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Seren",
+                "url": "directory/KAW/Seren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pela Croftman",
+                "url": "directory/Ambaret/PelaCroftman.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Beatrix",
+                "url": "directory/Deverain/Beatrix.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "mimics",
+                "url": "directory/FoldedBelow/ChaosChampion.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "yellow smoke spa",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Handzies",
+                "url": "directory/FoldedBelow/GreenWitches.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/KAW/Seren.md": [
+            {
+                "text": "Seren",
+                "url": "campaigns/Book_01/ep_059.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Seren",
+                "url": "campaigns/Book_01/ep_051.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_008.md": [
@@ -9475,14 +9615,6 @@
         "directory/KAW/Hester.md": [
             {
                 "text": "Hester",
-                "url": "campaigns/Book_01/ep_051.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/KAW/Seren.md": [
-            {
-                "text": "Seren",
                 "url": "campaigns/Book_01/ep_051.md",
                 "is_internal": true,
                 "direction": "inbound"

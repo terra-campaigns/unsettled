@@ -5,13 +5,12 @@ type: people
 nav_exclude: false
 
 parent: KAW
-title: Hester
+title: Seren
 role: Kettlewright from the KAW
 status: 
 flavour: 
 
 images:
-- ../../imgs/gallery/Pasted%20image%2020251208091721.png
 
 ---
 

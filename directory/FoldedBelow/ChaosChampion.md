@@ -6,7 +6,7 @@ nav_exclude: false
 
 parent: Duskmeadow Fringe
 title: Heavy cloaked grotesque
-role: 
+role: a.k.a. Mimics
 status:
 
 hooks:
