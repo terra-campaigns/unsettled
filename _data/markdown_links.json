@@ -4255,12 +4255,6 @@
                 "url": "campaigns/Book_01/ep_041.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Fort Duhrin",
-                "url": "campaigns/Anthology/260201.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Kaldhur/BurningTree.md": [
@@ -6266,6 +6260,23 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "_site/systems/procedural-worldbuilding.md": [
+            {
+                "text": "Just-bears-etc",
+                "url": "_site/systems/Just-bears-etc.html",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_site/systems/Just-bears-etc.html": [
+            {
+                "text": "Just-bears-etc",
+                "url": "_site/systems/procedural-worldbuilding.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Kryptwood/index.md": [
@@ -9569,12 +9580,6 @@
                 "url": "campaigns/Book_01/ep_034.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Gauntlet",
-                "url": "campaigns/Anthology/260201.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_024.md": [
@@ -10231,20 +10236,21 @@
                 "favicon": null
             }
         ],
-        "campaigns/Anthology/260201.md": [
+        "systems/procedural-worldbuilding.md": [
             {
-                "text": "Fort Duhrin",
-                "url": "directory/Kaldhur/FortDuhrin.md",
+                "text": "Just-bears-etc",
+                "url": "systems/Just-bears-etc.html",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            },
+            }
+        ],
+        "systems/Just-bears-etc.html": [
             {
-                "text": "Gauntlet",
-                "url": "directory/Kaldhur/Gauntlet.md",
+                "text": "Just-bears-etc",
+                "url": "systems/procedural-worldbuilding.md",
                 "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
+                "direction": "inbound"
             }
         ]
     }

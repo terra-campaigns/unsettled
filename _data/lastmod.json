@@ -1,4 +1,6 @@
 {
+    "campaigns/Anthology/260201.md": "2026-W07",
+    "systems/procedural-worldbuilding.md": "2026-W07",
     "index.md": "2026-W06",
     "_includes/header_chapter.md": "2026-W06",
     "_includes/header_chapter_sinners.md": "2026-W06",
@@ -8,10 +10,10 @@
     "directory/OrderSaintOta/JonasWildner.md": "2026-W06",
     "directory/OrderSaintOta/index.md": "2026-W06",
     "directory/Wyrmbark/ElderWay.md": "2026-W06",
+    "_site/systems/procedural-worldbuilding.md": "2026-W06",
     "campaigns/Sinners/index.md": "2026-W06",
     "campaigns/Sinners/ep_001.md": "2026-W06",
     "campaigns/Book_01/inklings.md": "2026-W06",
-    "campaigns/Anthology/260201.md": "2026-W06",
     "campaigns/Book_01/ep_025.md": "2026-W05",
     "directory/DuskmeadowFringe/Tia.md": "2026-W04",
     "directory/Sigisfarne/Razvan.md": "2026-W04",
