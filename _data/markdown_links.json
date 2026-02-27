@@ -8128,6 +8128,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "first part",
+                "url": "campaigns/Book_01/ep_059.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Ambaret/PelaCroftman.md": [
@@ -8817,6 +8823,13 @@
             {
                 "text": "Handzies",
                 "url": "directory/FoldedBelow/GreenWitches.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "first part",
+                "url": "campaigns/Book_01/ep_058.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
