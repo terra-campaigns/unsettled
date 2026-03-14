@@ -430,6 +430,18 @@
                 "direction": "inbound"
             },
             {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Church of the Weeping Mother",
                 "url": "campaigns/Book_01/ep_001.md",
                 "is_internal": true,
@@ -521,6 +533,12 @@
             {
                 "text": "Middle Waters Minster",
                 "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Middle Waters Minster",
+                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -711,6 +729,18 @@
             },
             {
                 "text": "Mountain Court",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
                 "url": "campaigns/Book_01/ep_025.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -824,6 +854,12 @@
             {
                 "text": "Hendenburgh",
                 "url": "campaigns/Book_01/ep_018.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1145,6 +1181,18 @@
                 "direction": "inbound"
             },
             {
+                "text": "Hippareiones",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Hippareiones",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "insect centaurs",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
@@ -1186,6 +1234,12 @@
             {
                 "text": "Queensweald",
                 "url": "campaigns/Book_01/ep_058.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Queensweald",
+                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1712,6 +1766,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Rabbits Inn",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Rabbits' Inn",
                 "url": "campaigns/Book_01/ep_031.md",
                 "is_internal": true,
@@ -1909,6 +1969,18 @@
             },
             {
                 "text": "Sigisfarne",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
                 "url": "campaigns/Book_01/ep_015.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2081,6 +2153,12 @@
             {
                 "text": "molemen",
                 "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Piot Chants",
+                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2386,6 +2464,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Duskmeadow Fringe",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "index",
                 "url": "campaigns/Book_01/ep_054.md",
                 "is_internal": true,
@@ -2549,6 +2633,12 @@
             },
             {
                 "text": "Quarry",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Quarry",
                 "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2643,6 +2733,12 @@
             {
                 "text": "Warden-Stone",
                 "url": "campaigns/Book_01/ep_029.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Warden-Stone",
+                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3136,6 +3232,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Northern Spire",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Titan Spire",
                 "url": "campaigns/Book_01/ep_031.md",
                 "is_internal": true,
@@ -3589,6 +3691,12 @@
             },
             {
                 "text": "Deverain",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Deverain",
                 "url": "campaigns/Book_01/ep_054.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3690,6 +3798,12 @@
             {
                 "text": "wall",
                 "url": "campaigns/Book_01/ep_028.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "the Wall",
+                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3908,6 +4022,12 @@
             {
                 "text": "yellow smoke spa",
                 "url": "campaigns/Book_01/ep_059.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yellow Smoke",
+                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4146,6 +4266,18 @@
                 "direction": "inbound"
             },
             {
+                "text": "Underground Temple",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Underground Temple",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "underground temple",
                 "url": "campaigns/Book_01/ep_010.md",
                 "is_internal": true,
@@ -4271,6 +4403,12 @@
             {
                 "text": "Fort Duhrin",
                 "url": "campaigns/Book_01/ep_039.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Fort Duhrin",
+                "url": "campaigns/Book_01/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -5467,6 +5605,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Hackett",
+                "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Hackett",
@@ -9184,6 +9328,176 @@
                 "url": "campaigns/Book_01/ep_056_057.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/index.md": [
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hackett",
+                "url": "directory/Sigisfarne/Hackett.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Duskmeadow Fringe",
+                "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Quarry",
+                "url": "directory/DuskmeadowFringe/Quarry.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Underground Temple",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Weeping Mother",
+                "url": "directory/weepingMother/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hippareiones",
+                "url": "directory/FoldedBelow/Hippareiones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Piot Chants",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Queensweald",
+                "url": "directory/DuskmeadowFringe/Queensweald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rabbits Inn",
+                "url": "directory/DuskmeadowFringe/RabbitInn.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Middle Waters Minster",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Deverain",
+                "url": "directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hendenburgh",
+                "url": "directory/Kryptwood/Hendenburgh.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Underground Temple",
+                "url": "directory/FoldedBelow/UndergroundTemple.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yellow Smoke",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hippareiones",
+                "url": "directory/FoldedBelow/Hippareiones.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Northern Spire",
+                "url": "directory/DuskmeadowFringe/SkySpire.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Warden-Stone",
+                "url": "gazetteer/Warden-Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fort Duhrin",
+                "url": "directory/Kaldhur/FortDuhrin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "the Wall",
+                "url": "directory/Wall/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/DuskmeadowFringe/Filakh.md": [
