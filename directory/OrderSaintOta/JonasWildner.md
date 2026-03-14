@@ -1,7 +1,7 @@
 ---
 layout: default
 template: 0.4
-type: faction
+type: people
 nav_exclude: false
 has_children: true
 has_toc: false

@@ -17,19 +17,20 @@ People settle in villages and towns.
 They bring order to their lives and surroundings.  
 Strict hierarchy and rules apply.  
 This pleases the ***Law***.
-{: .text-right }
+
 Dark places spread and fold and coil unto themselves.  
 Like an ever-growing virus.  
 They make the impermanent.  
 This pleases ***Chaos***.
-{: .text-right }
+
 ***Law*** and ***Chaos*** hate each other destructively.  
 They can only act on their hate through their acolytes.
-{: .text-right }
+
 You led an everyday life.  
 Not anymore.  
 You are now ***unsettled***.
-{: .text-right }
+
+---
 
 {% include connected_to.html %}
 

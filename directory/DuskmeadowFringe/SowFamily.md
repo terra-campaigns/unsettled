@@ -1,7 +1,7 @@
 ---
 layout: default
 template: 0.4
-type: location
+type: folklore
 nav_exclude: false
 has_toc: true
 
