@@ -5,7 +5,7 @@ template: 0.4
 has_children: true
 nav_order: 6
 has_toc: FALSE
-nav_exclude: FALSE
+nav_exclude: true
 
 footer_content: 
 
