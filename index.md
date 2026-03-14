@@ -13,11 +13,6 @@ unsettled
 
 [![](https://i.imgur.com/U2TpsRv.png)](campaigns/Book_01/)
 
-## Brigandage
-
-[![](https://i.imgur.com/Uq5nQZ4.png)](campaigns/Brigandage/)
-
-
 People settle in villages and towns.  
 They bring order to their lives and surroundings.  
 Strict hierarchy and rules apply.  
