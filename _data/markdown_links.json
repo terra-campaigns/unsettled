@@ -83,13 +83,6 @@
                 "favicon": "https://i.imgur.com/favicon.ico"
             },
             {
-                "text": "![",
-                "url": "https://i.imgur.com/Uq5nQZ4.png",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://i.imgur.com/favicon.ico"
-            },
-            {
                 "text": "The Green Knight",
                 "url": "https://www.imdb.com/title/tt9243804/",
                 "is_internal": false,
@@ -3380,6 +3373,13 @@
                 "direction": "inbound"
             },
             {
+                "text": "Nilfenberg",
+                "url": "gazetteer/Nilfenberg.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Prof Dr Gary",
                 "url": "directory/Deverain/Gary.md",
                 "is_internal": true,
@@ -5563,6 +5563,13 @@
                 "favicon": null
             },
             {
+                "text": "Anachret",
+                "url": "campaigns/Book_01/260201.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Aelfwin's Estate",
                 "url": "directory/Kryptwood/Rook.md",
                 "is_internal": true,
@@ -5601,6 +5608,14 @@
             {
                 "text": "Aelfwin's estate",
                 "url": "campaigns/Book_01/ep_020.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Book_01/260201.md": [
+            {
+                "text": "Anachret",
+                "url": "directory/Kryptwood/AelfwinEstate.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -6050,6 +6065,14 @@
             {
                 "text": "realm",
                 "url": "campaigns/Book_01/ep_037.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "gazetteer/Nilfenberg.md": [
+            {
+                "text": "Nilfenberg",
+                "url": "directory/FeverSwamp/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

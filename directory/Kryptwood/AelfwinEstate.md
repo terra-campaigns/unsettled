@@ -11,7 +11,7 @@ title: Aelfwin's estate
 role: Hunting grounds
 status: 
 
-hooks: Letter, from a noble hunter, Mateo Jonas Niral, addressed to Lord Aelfwim, explaining he has finally found his great-great-great-grandfather's hunting manor inside the forest.
+hooks:
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250615103651.png
@@ -25,3 +25,6 @@ images:
 A large and once-impressive hunting lodge, now falling into disrepair. Major rodent problem in the basement.
 
 [Harald](Harald.md) has inherited the estate and its lodge.
+
+A letter from a noble hunter, Mateo Jonas Niral, addressed to Lord Aelfwim, explaining that he has finally found his great-great-great-grandfather's hunting manor inside the forest.
+The [Anachret](../../campaigns/Book_01/260201.md) has visited this manor.
