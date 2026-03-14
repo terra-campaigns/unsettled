@@ -7,7 +7,7 @@ has_children: true
 has_toc: true
 
 parent: Gazetteer
-title: Nilfenbergy
+title: Nilfenberg
 role: 
 status: 
 hooks:
