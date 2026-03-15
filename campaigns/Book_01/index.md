@@ -62,6 +62,7 @@ footer_content:
 - [TheChoir](../../directory/DuskmeadowFringe/TheChoir.md)
 - [TheHunger](../../directory/DuskmeadowFringe/TheHunger.md)
 - [WitchNevask](../../directory/Kaldhur/WitchNevask.md)
+- [Gravenmark](../../gazetteer/Gravenmark.md)
 
 {% endcomment %}
 
@@ -134,7 +135,6 @@ The molemen thread returns in blood with a disastrous extermination attempt that
 ## The north
 
 The road leads north toward [Fort Duhrin](../../directory/Kaldhur/FortDuhrin.md) and [the Wall](../../directory/Wall/index.md), where druids, river villages, uneasy witches, and the forest beyond promise that the tale is about to step into an even larger myth-country.
-
 
 **Music**
 {: .text-delta }

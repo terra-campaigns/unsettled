@@ -56,3 +56,49 @@ Sigisfarne sends a portion of the produce from the farms to [Deverain](../Devera
 ## Religion
 
 As with the rest of the Kingdom, all people from Sigisfarne are devoted to the [Church of the Weeping Mother](../weepingMother/index.md). The local priest is young and not confident 
+
+## Mid-winter crisis, 1026
+
+Sigisfarne is an old frontier village standing at the edge of the forest and the grasslands of northern [Gravenmark](../../gazetteer/Gravenmark.md).
+
+A hundred crooked houses lean against one another along muddy paths, their timbers groaning with age. The village is ancient even by local standards, built upon the ruins of an older civilisation, with strange stone structures and foundations whose builders are long forgotten. 
+
+For generations, the people of Sigisfarne lived by farming these lands. The fields were once renowned for their productivity, carefully engineered long ago to produce abundant harvests.
+
+But the last few years have been cruel.
+
+Crop failures have struck repeatedly, and the village has recently been placed under the authority of the [Mountain Court](../DuskmeadowFringe/MountainCourt.md), which still demands tribute despite the failing harvests. 
+
+**Now the land itself has turned against its farmers.**
+
+Much of the farmland has been claimed by [Piot Chant](../DuskmeadowFringe/PiotChant.md) nests, networks of tunnels dug beneath the soil by strange mole-like folk who prey upon crops that encroach too far toward the forest. 
+
+Fields collapse without warning. Livestock vanish into burrows. Reclaiming the land means war beneath the earth.
+
+Winter has now settled over the region.
+
+Food stores are dangerously low, while refugees from the northwest continue to arrive in ragged groups seeking shelter after violence and strange killings in their own villages. 
+
+Yet Sigisfarne still possesses one advantage: **its people**.
+
+The village holds farmers, hunters, woodcutters and labourers hardened by life on the frontier. If organised and led, they could reclaim land, forage the woods, defend the settlement, or attempt a desperate migration south.
+
+If they lose hope, the village will collapse before spring.
+
+### Goal
+
+Your goal is simple: **Survive the winter.**
+
+### Pressures
+  
+**The Piot Chant Nests**: Large areas of farmland are lost to underground colonies. Any attempt to reclaim fields will provoke conflict.
+
+**Famine and Refugees**: Food stores are nearly exhausted, while displaced families continue to arrive seeking shelter.
+
+**Lord Griffin’s Rule**: Sigisfarne now answers to the Mountain Court, which still expects tribute and obedience.
+
+### Secret Agenda
+
+**Keep Sigisfarne Alive**
+
+Survival alone is not enough. Your true objective is that **Sigisfarne must still exist as a village when winter ends**. If the people scatter, abandon the settlement, or fall under the control of another faction, you have failed.
