@@ -41,7 +41,7 @@ The Abbot has a letter from the Crown allowing him to buy out their vassalage fo
 
 ## Mid-winter crisis, 1026
 
-South of [Sigisfarne](../Sigisfarne/index.md) stands the Middle-Waters Minster, an old religious house raised where slow rivers braid through the lowlands.
+South of [Sigisfarne](../Sigisfarne/index.md) stands the **Middle-Waters Minster**, an old religious house raised where slow rivers braid through the lowlands.
 
 For generations, the monks have lived quietly here, tending orchards, fishing the waters, and copying sacred and scholarly texts in their scriptorium.
 
@@ -71,9 +71,13 @@ Your goals are therefore twofold: **Protect the library and survive the winter.*
 
 **The Famine**: Food stores have been shrinking for years. Without new supplies, the monks may not survive the winter.
 
-**Demands of the Mountain Court**: Lord Griffin expects illuminated manuscripts from the Minster. Refusing him could invite punishment or seizure.
+**Demands of the [Mountain Court](MountainCourt.md)**: Lord Griffin expects illuminated manuscripts from the Minster. Refusing him could invite punishment or seizure.
 
 **Isolation**: The Minster lacks labourers and defenders. Without help, it cannot easily gather food or protect itself from outside threats.
+
+**The [Piot Chants](PiotChant.md)**: The molefolk burrow beneath farmland across the region. If their tunnels spread beneath the monastery’s fields, the Minster’s last food sources may be lost.
+
+**The [Basajaun](../Wyrmbark/Basajaun.md)**: The giant of the hills claims that the knowledge of farming belongs to him and the land, not to human books. He may seek to destroy or reclaim any writings that preserve this knowledge.
 
 {% comment %}
 

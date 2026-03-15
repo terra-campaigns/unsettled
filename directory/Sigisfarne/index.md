@@ -59,7 +59,7 @@ As with the rest of the Kingdom, all people from Sigisfarne are devoted to the [
 
 ## Mid-winter crisis, 1026
 
-Sigisfarne is an old frontier village standing at the edge of the forest and the grasslands of northern [Gravenmark](../../gazetteer/Gravenmark.md).
+**Sigisfarne** is an old frontier village standing at the edge of the forest and the grasslands of northern [Gravenmark](../../gazetteer/Gravenmark.md).
 
 A hundred crooked houses lean against one another along muddy paths, their timbers groaning with age. The village is ancient even by local standards, built upon the ruins of an older civilisation, with strange stone structures and foundations whose builders are long forgotten. 
 
@@ -90,12 +90,16 @@ If they lose hope, the village will collapse before spring.
 Your goal is simple: **Survive the winter.**
 
 ### Pressures
-  
-**The Piot Chant Nests**: Large areas of farmland are lost to underground colonies. Any attempt to reclaim fields will provoke conflict.
 
-**Famine and Refugees**: Food stores are nearly exhausted, while displaced families continue to arrive seeking shelter.
+**The [Piot Chant](../DuskmeadowFringe/PiotChant.md) Nests**: Large areas of farmland are lost to underground colonies. Any attempt to reclaim fields will provoke conflict.
 
-**Lord Griffin’s Rule**: Sigisfarne now answers to the Mountain Court, which still expects tribute and obedience.
+**Famine and Refugees**: Food stores are nearly depleted, while displaced families continue to arrive in search of shelter.
+
+**[Lord Griffin](../DuskmeadowFringe/LordGriffin.md)’s Rule**: Sigisfarne now answers to the Mountain Court, which still expects tribute and obedience.
+
+**The Fae of [Queensweald](../DuskmeadowFringe/Queensweald.md)**: The fae see famine and refugees as an opportunity. Goblins and changelings spread through hardship, and many among the fae would welcome mixed bloodlines among the desperate people of Sigisfarne.
+
+**The [Basajaun](../Wyrmbark/Basajaun.md)**: The ancient giant of the hills seeks the descendants of his long-lost daughters, now scattered among human bloodlines. If he comes to claim them, the village may not be able to refuse.
 
 {% comment %}
 
