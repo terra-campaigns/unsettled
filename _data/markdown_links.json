@@ -8515,12 +8515,6 @@
             },
             {
                 "text": "Dick",
-                "url": "campaigns/Book_01/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Dick",
                 "url": "campaigns/Book_01/ep_054.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -10304,13 +10298,6 @@
             {
                 "text": "index",
                 "url": "directory/DuskmeadowFringe/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Dick",
-                "url": "directory/Wyrmbark/Dick.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null

@@ -44,7 +44,6 @@ footer_content:
 - [index](../../directory/Kryptwood/index.md)
 - [index](../../directory/KormoransWheel/index.md)
 - [index](../../directory/DuskmeadowFringe/index.md)
-- [Dick](../../directory/Wyrmbark/Dick.md)
 - [Basajaun](../../directory/Wyrmbark/Basajaun.md)
 - [BlueMen](../../directory/Wall/BlueMen.md)
 - [Bugbears](../../directory/FoldedBelow/Bugbears.md)
@@ -87,14 +86,14 @@ They find a cave leading to an [Underground Temple](../../directory/FoldedBelow/
 
 That temple holds secrets, some of which unfold in the following months: defaced noble statues, a grotesque fat idol, reptiloids, insect-centaurs called [Hippareiones](../../directory/FoldedBelow/Hippareiones.md), false walls, traps, treasure, and doors that lead deeper into something even less human.
 
-When Sigisfarne’s fields fail, the villagers discover the burrows of the [Piot Chants](../../directory/DuskmeadowFringe/PiotChant.md), mole-like folk who claim the humans have taken too much forest and upset the balance.
+When Sigisfarne’s fields fail, the villagers discover the burrows of the [Piot Chants](../../directory/DuskmeadowFringe/PiotChant.md), mole-like folk who claim that humans have taken too much of the forest and upset the balance.
 
 A fight and negotiation turn into a curse: a vendetta falls upon the village, and the only cure is to seek favour with a faerie monarch.
 
 That sends the adventurers down the Fairy Trail into [Queensweald](../../directory/DuskmeadowFringe/Queensweald.md), where hospitality is beautiful and dangerous, where mortals are measured as curiosities, and where bargains always leave hooks in the flesh.
 Cai loses her voice for a time, Razzy owes service to the Queen, and both return marked by fae power. 
 
-The [Rabbits Inn](../../directory/DuskmeadowFringe/RabbitInn.md) turns out to be a horror-nest where human prisoners have been transformed into rabbits by a bark-skinned predator wearing a man’s life like a coat.
+The [Rabbits Inn](../../directory/DuskmeadowFringe/RabbitInn.md) turns out to be a horror nest where human prisoners have been transformed into rabbits by a bark-skinned predator wearing a man’s life like a coat.
 
 Travellers reach the [Middle Waters Minster](../../directory/DuskmeadowFringe/MiddleWatersMinster.md), already half-starved by taxation, then the [Mountain Court](../../directory/DuskmeadowFringe/MountainCourt.md), where noble power is lush, beast-haunted, and cruel.
 
@@ -102,7 +101,7 @@ Travellers reach the [Middle Waters Minster](../../directory/DuskmeadowFringe/Mi
 
 The road descends to [Deverain](../../directory/Deverain/index.md), a richer southern town of deltas, trade, rats, political rumours, and opportunity, where the world begins to feel larger than village folklore and more like a realm sliding toward fracture. 
 
-North and east lies [Hendenburgh](../../directory/Kryptwood/Hendenburgh.md), where the tale becomes a proper marsh-witch lament.
+North and east lie [Hendenburgh](../../directory/Kryptwood/Hendenburgh.md), where the tale becomes a proper marsh-witch lament.
 
 The village is half-abandoned and stalked by supernatural hounds. The hounds are ultimately bound to the tomb rather than loosed upon the land, which feels less like victory and more like hammering shut a cursed reliquary. 
 
