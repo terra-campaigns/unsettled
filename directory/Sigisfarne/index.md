@@ -97,8 +97,12 @@ Your goal is simple: **Survive the winter.**
 
 **Lord Griffin’s Rule**: Sigisfarne now answers to the Mountain Court, which still expects tribute and obedience.
 
+{% comment %}
+
 ### Secret Agenda
 
-**Keep Sigisfarne Alive**
+**Keep Sigisfarne Alive**.
 
 Survival alone is not enough. Your true objective is that **Sigisfarne must still exist as a village when winter ends**. If the people scatter, abandon the settlement, or fall under the control of another faction, you have failed.
+
+{% endcomment %}

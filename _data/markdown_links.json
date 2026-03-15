@@ -513,6 +513,13 @@
                 "favicon": null
             },
             {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Middle Waters Minster",
                 "url": "directory/DuskmeadowFringe/Irgith.md",
                 "is_internal": true,
@@ -1878,6 +1885,12 @@
             {
                 "text": "Sigisfarne",
                 "url": "directory/DuskmeadowFringe/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/DuskmeadowFringe/MiddleWatersMinster.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3409,6 +3422,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Titan Spire",
+                "url": "campaigns/Book_01/ep_060.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Spire",
                 "url": "campaigns/Book_01/ep_005.md",
                 "is_internal": true,
@@ -3849,7 +3868,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "index",
+                "text": "Deverain",
                 "url": "campaigns/Book_01/ep_047.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3999,6 +4018,12 @@
             {
                 "text": "the Wall",
                 "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Wall",
+                "url": "campaigns/Book_01/ep_060.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4235,6 +4260,12 @@
             {
                 "text": "Yellow Smoke",
                 "url": "campaigns/Book_01/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yellow Smoke",
+                "url": "campaigns/Book_01/ep_060.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -5194,6 +5225,12 @@
             {
                 "text": "Stone",
                 "url": "campaigns/Book_01/ep_049.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Stone",
+                "url": "campaigns/Book_01/ep_060.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -7893,7 +7930,7 @@
                 "favicon": null
             },
             {
-                "text": "index",
+                "text": "Deverain",
                 "url": "directory/Deverain/index.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -8453,6 +8490,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "yellow powder",
+                "url": "campaigns/Book_01/ep_060.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_012.md": [
@@ -9063,6 +9106,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "same vision he had before",
+                "url": "campaigns/Book_01/ep_060.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/Book_01/ep_038.md": [
@@ -10358,6 +10407,48 @@
             {
                 "text": "Yellow Smoke",
                 "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "yellow powder",
+                "url": "campaigns/Book_01/ep_026.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yellow Smoke",
+                "url": "directory/FoldedBelow/YellowSmoke.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Wall",
+                "url": "directory/Wall/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Titan Spire",
+                "url": "directory/DuskmeadowFringe/SkySpire.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Stone",
+                "url": "directory/Sigisfarne/Stone.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "same vision he had before",
+                "url": "campaigns/Book_01/ep_029.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
