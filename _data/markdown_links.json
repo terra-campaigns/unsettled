@@ -283,6 +283,12 @@
                 "url": "campaigns/Book_01/ep_030.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Ambaret",
+                "url": "campaigns/Book_01/ep_061.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/DuskmeadowFringe/Lazlo.md": [
@@ -848,6 +854,12 @@
             {
                 "text": "Mountain Court",
                 "url": "campaigns/Book_01/ep_030.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mountain Court",
+                "url": "campaigns/Book_01/ep_061.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2754,7 +2766,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "Piot Chants",
+                "text": "Piot Chant",
                 "url": "campaigns/Book_01/ep_061.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4379,6 +4391,12 @@
             {
                 "text": "Deverain",
                 "url": "campaigns/Book_01/ep_054.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Deverain",
+                "url": "campaigns/Book_01/ep_061.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -11669,8 +11687,8 @@
                 "favicon": null
             },
             {
-                "text": "Sigisfarne",
-                "url": "directory/Sigisfarne/index.md",
+                "text": "Ambaret",
+                "url": "directory/Ambaret/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -11683,8 +11701,15 @@
                 "favicon": null
             },
             {
-                "text": "Piot Chants",
-                "url": "directory/DuskmeadowFringe/PiotChant.md",
+                "text": "Deverain",
+                "url": "directory/Deverain/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sigisfarne",
+                "url": "directory/Sigisfarne/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -11692,6 +11717,20 @@
             {
                 "text": "Queensweald",
                 "url": "directory/DuskmeadowFringe/Queensweald.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mountain Court",
+                "url": "directory/DuskmeadowFringe/MountainCourt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Piot Chant",
+                "url": "directory/DuskmeadowFringe/PiotChant.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
